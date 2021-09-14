@@ -1,0 +1,22 @@
+site_name: Bhreia
+copyright: Copyright &copy; 2021 Eddy Luten
+repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: squidfunk/mkdocs-material
+plugins:
+  - git-revision-date
+  - search:
+      lang: en
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/book-search-outline
+  palette:
+    scheme: default
+    primary: blue grey
+    accent: orange
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
