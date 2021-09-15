@@ -5,11 +5,12 @@ The following are regions largely unpopulated by civilized societies. Most of th
 ## Wilderness
 
 * Northern Untamed Wilderness
-* Pale Barrens (The)
+* Pale Barrens
 * Southern Untamed Wilderness
+* The Untamed Wilds
 
 ## Deserts and Tundras
 
 * Cintiwero Desert
-* Passage (The)
-* Rotten Tundra (The)
+* The Passage
+* The Rotten Tundra

@@ -6,6 +6,8 @@ plugins:
   - git-revision-date
   - search:
       lang: en
+markdown_extensions:
+  - attr_list
 theme:
   name: material
   icon:
