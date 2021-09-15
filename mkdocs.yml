@@ -1,7 +1,7 @@
 site_name: Bhreia
 copyright: Copyright &copy; 2021 Eddy Luten
-repo_url: https://github.com/squidfunk/mkdocs-material
-repo_name: squidfunk/mkdocs-material
+repo_url: https://github.com/EddyLuten/bhreia.com
+repo_name: EddyLuten/bhreia.com
 plugins:
   - git-revision-date
   - search:
