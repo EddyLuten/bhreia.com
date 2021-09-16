@@ -3,22 +3,29 @@ copyright: Copyright &copy; 2021 Eddy Luten
 repo_url: https://github.com/EddyLuten/bhreia.com
 repo_name: EddyLuten/bhreia.com
 plugins:
+  - awesome-pages
   - git-revision-date
   - search:
       lang: en
 markdown_extensions:
+  - pymdownx.emoji
   - attr_list
+  - admonition
 theme:
   name: material
   icon:
     repo: fontawesome/brands/github
     logo: material/dice-d20
+    admonition:
+      info: octicons/info-16
   palette:
     scheme: default
     primary: blue grey
     accent: orange
   features:
+    - navigation.expand
     - navigation.sections
+    - navigation.indexes
     - navigation.top
     - toc.integrate
     - search.suggest
