@@ -12,7 +12,7 @@ theme:
   name: material
   icon:
     repo: fontawesome/brands/github
-    logo: material/book-search-outline
+    logo: material/dice-d20
   palette:
     scheme: default
     primary: blue grey
