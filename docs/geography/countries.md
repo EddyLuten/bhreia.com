@@ -14,7 +14,7 @@ Countries here define a distinct group of people sharing a territory, culture, a
 * Groff
 * High Maris
 * Ilminor
-* Korbantir
+* [Korbantir](countries/korbantir.md)
 * Low Maris
 * Marram
 * Mennitonough

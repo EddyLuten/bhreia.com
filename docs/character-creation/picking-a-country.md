@@ -68,7 +68,7 @@ Just because your race is not listed under a country entry, does not mean that y
 * Ilminor
     * Aasimar (Majority)
     * Tiefling (Minority, *Scourge*)
-* Korbantir
+* [Korbantir](../geography/countries/korbantir.md)
     * Human (Majority)
     * Elf (Minority)
     * Dwarf (Minority)
@@ -162,7 +162,7 @@ The races that are represented here are all those found in the Player's Handbook
 * Half-Orc
 * Halfling (Mirini, Zudrslan)
 * Hobgoblin
-* Human (Cuaña, Groff, High Maris, Korbantir, Low Maris, Netherwood, Parlina, Rivoni, Taïni)
+* Human (Cuaña, Groff, High Maris, [Korbantir](../geography/countries/korbantir.md), Low Maris, Netherwood, Parlina, Rivoni, Taïni)
 * Kenku
 * Kobold
 * Lizardfolk
