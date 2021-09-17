@@ -50,3 +50,7 @@ Important dates and holidays.
 | Raoium      | 1   | First day of autumn.                                              |
 | Nerullox    | 1   | First day of winter.                                              |
 | Nerullox    | 30  | *Waning of Nerullox*, year's end celebration.                     |
+
+## Year Notation
+
+Either 2915, or by Age, such as year 915 of the second age.
