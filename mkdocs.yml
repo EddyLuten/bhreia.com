@@ -3,6 +3,7 @@ copyright: Copyright &copy; 2021 Eddy Luten
 repo_url: https://github.com/EddyLuten/bhreia.com
 repo_name: EddyLuten/bhreia.com
 plugins:
+  - monorepo
   - awesome-pages
   - git-revision-date
   - search:
@@ -11,6 +12,10 @@ markdown_extensions:
   - pymdownx.emoji
   - attr_list
   - admonition
+  - toc:
+      permalink: true
+extra_css:
+  - stylesheets/bhreia.css
 theme:
   name: material
   icon:

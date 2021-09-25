@@ -1,0 +1,36 @@
+.infobox {
+    display: block;
+    margin: 5px;
+    width: 370px !important;
+    border-radius: .1rem;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 10px 0px, rgba(0, 0, 0, 0.05) 0px 0.5px 1px 0px;
+}
+
+.infobox h3 {
+    background-color: rgba(0,184,212,.1);
+    /* color: white; */
+    /* border-bottom: 1px solid rgba(0, 0, 0, 0.54); */
+    padding: 5px;
+    margin: 0 0 1em 0;
+}
+
+.infobox.right {
+    float: right;
+    margin-left: 1em;
+}
+
+.infobox.left {
+    float: left;
+    margin-right: 1em;
+}
+
+.infobox figcaption {
+    font-size: 0.75em;
+    margin: 0;
+    padding: 1em;
+}
+
+.infobox img {
+    margin: 0 auto;
+    border: 1px solid rgba(0, 0, 0, 0.54);
+}

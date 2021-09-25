@@ -53,4 +53,4 @@ Important dates and holidays.
 
 ## Year Notation
 
-Either 2915, or by Age, such as year 915 of the second age.
+Either 2915, or by Age, such as year 915 of the third age.
