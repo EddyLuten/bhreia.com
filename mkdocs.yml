@@ -3,11 +3,12 @@ copyright: Copyright &copy; 2021 Eddy Luten
 repo_url: https://github.com/EddyLuten/bhreia.com
 repo_name: EddyLuten/bhreia.com
 plugins:
-  - monorepo
   - awesome-pages
   - git-revision-date
   - search:
       lang: en
+  - snippet:
+        base_path: docs
 markdown_extensions:
   - pymdownx.emoji
   - attr_list
