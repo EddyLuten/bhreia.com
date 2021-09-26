@@ -9,6 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          submodules: 'true'
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
