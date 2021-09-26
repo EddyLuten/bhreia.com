@@ -13,4 +13,7 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material mkdocs-git-revision-date-plugin mkdocs-awesome-pages-plugin mkdocs-snippet-plugin
+      - uses: webfactory/ssh-agent@v0.5.3
+        with:
+            ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
       - run: mkdocs gh-deploy --force
