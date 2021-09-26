@@ -20,7 +20,7 @@ mkdocs serve
 
 ## Contributing
 
-Please **do** contribute if you're a player and want to see certain additions or changes to the world.
+Please **do** contribute if you're a player and want to see certain additions or changes to the world. However, note that contributing could potentially spoil parts of the campaign if you need to touch files outside of this repo, so consult first.
 
 Fork the repository and create a pull request once you have made the changes you wish to make.
 
