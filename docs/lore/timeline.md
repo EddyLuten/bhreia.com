@@ -5,13 +5,13 @@
 
 An over-simplification of the commonly known timeline and creation mythology of the world. These stories were verbally passed down through the generations until writing systems were developed. Every race has their own flavor of creation mythology, but this is distilled version of details agreed on by most.
 
-The passage of time is measured in intervals of 1000 years named Ages (or Aeons). See [calendar](../etcetera/calendar.md) for more information about time.
+The passage of time is measured in intervals of 1000 years named Ages (or Aeons). See [**calendar**](../etcetera/calendar.md) for more information about time.
 
 ## The First Age: Primordial Deities
 
 Years 1 through 1000.
 
-The primordial deity [**Bhreia**](../deities/bhreia.md) and her **twin brother** (whose name has been lost) are spontaneously born and give form to the earth and the sky, respectively. After some time of going through their daily cycles, both realize that they are very lonely, especially at night when they have to spend time away from each other. Feeling a mutual emptiness, they create a third deity, **Melora**, to keep them both company. But when Melora springs to life, she sees the barren world and is terrified its vast emptiness. Between the time it takes to inhale and exhale her first breath, she runs across Bhreia's surface and covers it in woodlands, plants, and a vast ocean surrounding the super-continent, named Melora's Grasp.
+The primordial deity [**Bhreia**](../deities/bhreia.md) and her **twin brother** (whose name has been lost) are spontaneously born and give form to the earth and the sky, respectively. After some time of going through their daily cycles, both realize that they are very lonely, especially at night when they have to spend time away from each other. Feeling a mutual emptiness, they create a third deity, [**Melora**](../deities/melora.md), to keep them both company. But when Melora springs to life, she sees the barren world and is terrified its vast emptiness. Between the time it takes to inhale and exhale her first breath, she runs across Bhreia's surface and covers it in woodlands, plants, and a vast ocean surrounding the super-continent, named Melora's Grasp.
 
 Bhreia is bursting with joy seeing so much life erupt upon her and becomes the closest of friends with Melora. It all fills her with so much joy that she and Melora create a fourth deity, **Primani** who fills the world with the life of beasts great and small, both land as well as water dwelling.
 
