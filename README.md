@@ -4,12 +4,24 @@ This repository contains the source code for the [Bhreia.com](https://bhreia.com
 
 The files that generate the wiki are located in the `docs` directory.
 
+To clone assets after cloning this repo:
+
+```
+git submodule update --init --recursive
+```
+
+To update assets:
+
+```
+git submodule update --remote --merge
+```
+
 ## Running Locally
 
 Install the latest version of Python 3 and ensure that the pip executable is [part of your PATH](https://docs.python.org/3/using/windows.html). Then run the following command to install dependencies:
 
 ```sh
-pip install mkdocs mkdocs-material mkdocs-git-revision-date-plugin mkdocs-awesome-pages-plugin
+pip install mkdocs-material mkdocs-git-revision-date-plugin mkdocs-awesome-pages-plugin mkdocs-snippet-plugin
 ```
 
 Once installed, `cd` into the root directory and run the following command to run the wiki locally:
