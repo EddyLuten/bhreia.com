@@ -14,6 +14,7 @@ Bhreia (bray-ah) is a setting designed for the 5th edition of Dungeons & Dragons
 
 ## Getting Started
 
+* [Setting Overview](setting-overview.md)
 * [Picking a country for your race](character-creation/picking-a-country.md).
 * [How the calendar works in this world](etcetera/calendar.md).
 * [Important historical events](lore/timeline.md).
