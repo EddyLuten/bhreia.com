@@ -4,4 +4,4 @@
 
 ## See Also
 
-* [Dauriel Aldarion](../people/dauriel-aldarion.md)
+* [Dauriel Aldarion](../npcs/dauriel-aldarion.md)
