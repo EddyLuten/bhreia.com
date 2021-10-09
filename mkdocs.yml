@@ -9,6 +9,10 @@ plugins:
       lang: en
   - snippet:
         base_path: docs
+extra:
+  analytics:
+    provider: google
+    property: G-4Y6GVT3ZWF
 markdown_extensions:
   - pymdownx.emoji
   - attr_list
