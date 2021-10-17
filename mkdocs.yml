@@ -17,6 +17,7 @@ markdown_extensions:
   - pymdownx.emoji
   - attr_list
   - admonition
+  - mdx_truly_sane_lists
   - toc:
       permalink: true
   - pymdownx.tasklist:
