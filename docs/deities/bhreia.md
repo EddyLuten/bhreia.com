@@ -8,4 +8,4 @@ This page is about the mythological deity named Bhreia, after whom the world was
 
 ## See Also
 
- * [Timeline](../lore/timeline.md)
+* [Timeline](../lore/timeline.md)
