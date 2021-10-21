@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material mkdocs-git-revision-date-plugin mkdocs-awesome-pages-plugin mkdocs-snippet-plugin mdx_truly_sane_lists
+      - run: pip install mkdocs-material mkdocs-git-revision-date-plugin mkdocs-awesome-pages-plugin mdx_truly_sane_lists https://github.com/EddyLuten/mkdocs-snippet-plugin/archive/refs/heads/master.zip
       - uses: webfactory/ssh-agent@v0.5.3
         with:
             ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}

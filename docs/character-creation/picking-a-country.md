@@ -177,6 +177,7 @@ A few from other sources:
 * Genasi (Cintiwero Desert, The Passage)
 * Goliath (Onoctux)
 * Leonin (Pirinão)
+* Minotaur
 * Satyr
 * [Tortle](https://i.4pcdn.org/tg/1507139371228.pdf)
 
