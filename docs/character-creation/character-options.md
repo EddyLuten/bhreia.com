@@ -53,7 +53,7 @@ Your skills in sending spirits to [Dhoutr's](../deities/dhoutr.md) realm have no
 **Champion of Carnage.** If Soul Harvester is activated two days in a row, your next long rest will require a DC 13 WIS saving throw or your soul will spend the entirety of the rest in Dhoutr's realm. Here you are celebrated as a champion of carnage for the duration of the rest, will not receive its benefits, and gain a level of Exhaustion.
 {:.stat}
 
-### Disciple of Life {:.stats}
+### Savior of Souls {:.stats}
 
 At some point in your past, your life was saved from certain death. [Primani](../deities/primani.md) wants to ensure that you no longer squander the soul they have graciously provided to you.
 {:.stat}
