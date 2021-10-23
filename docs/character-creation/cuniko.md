@@ -1,5 +1,15 @@
 # Cuniko
 
+<figure class="infobox right">
+  <h3>Cuniko</h3>
+  <a href="/assets/images/cuniko-full.png">
+    <img src="/assets/images/cuniko-tiny.png" />
+  </a>
+  <figcaption>
+    Portrait of Sir Borf the Fearless, an important and beloved historical figure to Cunikos. Shown here about a year before his untimely demise caused by being run over by a horse and cart while leaving the Rivoni healing springs.
+  </figcaption>
+</figure>
+
 Friendly to all and obvious about their feelings, Cunikos are a doglike humanoid race that can be found almost anywhere Humans settle. While found all over Bhreia, Cunikos are not a majority race in any country, though there are several smaller regions within countries that have a Cuniko majority. Lately, an infectious disease has plagued a small portion of the Cuniko population, slowly turning them insane and overly aggressive before killing them.
 
 ## Cuniko Traits {:.stats}
