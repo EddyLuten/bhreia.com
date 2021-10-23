@@ -27,6 +27,7 @@ Just because your race is not listed under a country entry, does not mean that y
   * Goblin (*Scourge*)
   * Human (Minority)
   * Satyr (Minority)
+  * [Cuniko](cuniko.md) (Minority)
 * Basha
   * Dragonborn (Majority)
   * Orc (Minority)
@@ -36,13 +37,16 @@ Just because your race is not listed under a country entry, does not mean that y
   * Lizardfolk (Minority, tribes)
   * Kobold (Minority, tribes)
   * Human (Minority, tribes)
+  * [Cuniko](cuniko.md) (Minority)
 * Cuaña
   * Human (Majority)
+  * [Cuniko](cuniko.md) (Minority)
   * Halfling (Minority)
   * Satyr (Minority)
 * Darvia
   * Elf (Majority), no Drow
   * Bugbear (*Scourge*)
+  * [Cuniko](cuniko.md) (Minority)
   * Firbolg (Minority)
   * Lizardfolk (Minority)
 * Dorr
@@ -51,6 +55,7 @@ Just because your race is not listed under a country entry, does not mean that y
   * Kobold (*Scourge*)
 * Finippicay
   * Dragonborn (Majority)
+  * [Cuniko](cuniko.md) (Minority)
   * Tabaxi (Minority)
   * Human (Minority)
   * Yuan-Ti (Minority)
@@ -59,25 +64,31 @@ Just because your race is not listed under a country entry, does not mean that y
   * *Indiscriminate*, but founded as a haven for those less aligned with the rule of law.
 * Garrenor
   * Gnome (Majority)
+  * [Cuniko](cuniko.md) (Minority)
   * Human (Minority, *Scourge*)
 * Groff
   * Human (Majority)
   * Orc (Minority)
+  * [Cuniko](cuniko.md) (Minority)
 * High Maris
   * Human (Majority)
+  * [Cuniko](cuniko.md) (Minority)
 * Ilminor
   * Aasimar (Majority)
   * Tiefling (Minority, *Scourge*)
 * [Korbantir](../geography/countries/korbantir.md)
   * Human (Majority)
+  * [Cuniko](cuniko.md) (Minority)
   * Elf (Minority)
   * Dwarf (Minority)
   * Aasimar (Minority)
   * Satyr (Minority)
 * Low Maris
   * Human (Majority)
+  * [Cuniko](cuniko.md) (Minority)
 * Marram
   * Human (Majority)
+  * [Cuniko](cuniko.md) (Minority)
   * Genasi (Minority)
   * Tabaxi (Minority)
 * Mennitonough
@@ -94,6 +105,7 @@ Just because your race is not listed under a country entry, does not mean that y
 * Netherwood
   * Human (Majority)
   * Elf (Minority)
+  * [Cuniko](cuniko.md) (Minority)
   * Firbolg (Minority)
   * Satyr (Minority)
 * Northern Untamed Wilderness
@@ -108,11 +120,13 @@ Just because your race is not listed under a country entry, does not mean that y
   * Human (Majority, shared)
   * Elf (Majority, shared)
   * Satyr (Minority)
+  * [Cuniko](cuniko.md) (Minority)
 * The Passage
   * Genasi (Majority)
   * Lizardfolk (Minority, tribes)
   * Kobold (Minority, tribes)
   * Human (Minority, tribes)
+  * [Cuniko](cuniko.md) (Minority)
 * Pirinão
   * Leonin (Majority)
   * Yuan-Ti (Minority)
@@ -120,6 +134,7 @@ Just because your race is not listed under a country entry, does not mean that y
 * Rivoni
   * Human (Majority)
   * Genasi (Minority)
+  * [Cuniko](cuniko.md) (Minority)
 * The Rotten Tundra
   * Unknown
 * Southern Untamed Wilderness
@@ -128,10 +143,12 @@ Just because your race is not listed under a country entry, does not mean that y
   * Human (Majority), but only around the Ganaroum-Bak oasis. See Cintiwero Desert and The Passage for more.
   * Lizardfolk (Minority)
   * Kenku (Minority, *Scourge*)
+  * [Cuniko](cuniko.md) (Minority)
 * The Untamed Wilds
   * Orcs (Majority)
   * Humans (Minority)
   * Lizardfolk (Minority)
+  * [Cuniko](cuniko.md) (Minority)
 * Vos'Amin
   * Solely Drow
 * Yersh
@@ -143,12 +160,17 @@ Just because your race is not listed under a country entry, does not mean that y
   * Halfling (Majority)
   * Human (Minority)
   * Orc (Minority)
+  * [Cuniko](cuniko.md) (Minority)
   * Bugbear (*Scourge*)
   * Goblin (*Scourge*)
 
 ## Represented Races
 
-The races that are represented here are all those found in the Player's Handbook as well as Volo's Guide to Monsters. The country names in parentheses are the countries where this race is a majority race:
+The following races are part of the Bhreia setting, the country names in parentheses are the countries where this race is a majority race:
+
+* [Cuniko](cuniko.md)
+
+The following races are all those found in the Player's Handbook as well as Volo's Guide to Monsters.
 
 * Aasimar
 * Bugbear
