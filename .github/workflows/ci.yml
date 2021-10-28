@@ -1,8 +1,10 @@
 name: ci 
 on:
   push:
-    branches: 
-      - master
+    branches:
+      - main
+  workflow_dispatch:
+    branches:
       - main
 jobs:
   deploy:
