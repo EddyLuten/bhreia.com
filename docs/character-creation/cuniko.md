@@ -32,6 +32,9 @@ Friendly to all and obvious about their feelings, Cunikos are a doglike humanoid
 **Super Schnoz.** You have advantage on Wisdom (Perception) checks that rely on hearing or smell and have proficiency in Perception.
 {:.ability}
 
+Additionally, you can use an action to pick up on the **scent** of a specific item or creature within 100 ft. of you. Once you pick up on the scent you will know the approximate distance of the item or creature (100 ft., 50 ft., 30 ft., or 10 ft.), but not its exact location. You will lose the scent if you break your **Concentration** (uses Spell Concentration rules). This may not be applicable to items or creatures that don't emit scent trails.
+{:.ability}
+
 **Nasty Nipper.** Your teeth are a natural weapon (watch out where you chomp those things!), which you can use to make unarmed strikes. If you hit, you deal *Piercing* damage equal to 1d6 + your Strength modifier.
 {:.ability}
 
