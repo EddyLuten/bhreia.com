@@ -4,3 +4,7 @@ If [Bhreia](bhreia.md)'s story is enigmatic, then the story of her brother is a 
 
 ??? danger "DM: Spoilers"
     This file is kept so that links in the DM wiki don't break. Bhreia's brother is, in fact, [Amalchi](amalchi.md).
+
+## See Also
+
+ * [Timeline](../lore/timeline.md)

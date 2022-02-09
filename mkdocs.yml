@@ -7,8 +7,6 @@ plugins:
   - git-revision-date
   - search:
       lang: en
-  - snippet:
-        base_path: docs
 extra:
   analytics:
     provider: google
@@ -19,12 +17,18 @@ markdown_extensions:
   - admonition
   - mdx_truly_sane_lists
   - pymdownx.details
+  - pymdownx.tilde
   - toc:
       permalink: true
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.snippets:
+      base_path: 'docs/assets/snippets'
+      check_paths: true
 extra_css:
   - assets/stylesheets/bhreia.css
+extra_javascript:
+  - assets/js/bhreia.js
 theme:
   name: material
   icon:

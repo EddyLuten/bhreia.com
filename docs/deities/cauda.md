@@ -1,3 +1,18 @@
 # Cauda
 
-{{ snippet('git@github.com:EddyLuten/dm.bhreia.com.git', 'docs/deities/cauda.md', '## Player Handout') }}
+His name is the Latin word for "tail" which is both a reference to him having a tail as well as the derived word "coda," meaning the last passage of a piece of music.
+
+**Domains:** music, poetry.
+
+Ephermeral and enigmatic, not much is known about Cauda and how he came to be. However, he has been around long enough to be mentioned in the earliest of oral traditions. Ascribed to be the god of music and poetry, he appears as a satyr to sing prophetic songs about - and to - those affected by these prophecies or fates. While his songs are beautiful and laced with meaning, many fear his appearances and see him as a harbinger of cataclysmic change.
+
+??? danger "DM: Supplemental Facts"
+    He is the son of Dhoutr and Primani and spends most of his time with his parents in the internal plane of darkness.
+
+    ## Children
+
+    None (yet).
+
+## See Also
+
+ * [Timeline](../lore/timeline.md)

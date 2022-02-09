@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: 3.x
       - run: |
-          pip install mkdocs-material mkdocs-git-revision-date-plugin mkdocs-awesome-pages-plugin mdx_truly_sane_lists https://github.com/EddyLuten/mkdocs-snippet-plugin/archive/refs/heads/master.zip markdown-word-count
+          pip install mkdocs-material mkdocs-git-revision-date-plugin mkdocs-awesome-pages-plugin mdx_truly_sane_lists markdown-word-count
           COUNT=$(shopt -s globstar; ls -d -- docs/**/*.md | xargs -L1 mwc | paste -sd+ - | bc);
           echo "TOTAL WORD COUNT: $COUNT";
       - uses: webfactory/ssh-agent@v0.5.3

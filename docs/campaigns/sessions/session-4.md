@@ -21,7 +21,7 @@ Tiran disguised himself as a Goblin, a tall one, and went to knock on the front 
 ??? danger "DM: Session Plan"
     Moreus is on his way to town to get stuff for the party, but hugs **Wolf** as he enters. Tells them that Dauriel is in the [**Conservatory**](../../adventures/dauriels-mansion/places/the-mansion.md).
 
-    Dauriel will tell him about his plans ([see business opportunity hook](../../adventures/dauriels-mansion/chapters/chapter-1/adventure-hooks.md)) to fund their adventures and hand them the keys to [his old place](../../adventures/dauriels-mansion/places/au-original-hq.md) outside of town.
+    Dauriel will tell him about his plans ([see business opportunity hook](../../adventures/dauriels-mansion/acts/act-1/adventure-hooks.md)) to fund their adventures and hand them the keys to [his old place](../../adventures/dauriels-mansion/places/au-original-hq.md) outside of town.
 
     They have another full day to explore before the party starts.
 

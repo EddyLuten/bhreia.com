@@ -12,14 +12,14 @@
   </figcaption>
 </figure>
 
-### Players
+### Players (a-z)
 
-- Anjelica - [Sah-Sauj Cho'Ixo](characters/sah-sauj-cho-ixo.md), Tortle Cleric
-- Eddy - DM
-- James - [Paxalon "Pasha" Yaraxil](characters/pasha.md), Dragonborn Sorcerer
-- Joel - [Tiran Medeid](characters/tiran-medeid.md), Human Artificer
-- Mike - [Gadot J'Dogeaux](characters/gadot-jdogeaux.md), Cuniko Rogue
-- Nate - [Wolf](characters/wolf.md), Hill Dwarf Ranger
+- Anjelica as [**Sah-Sauj** Cho'Ixo](characters/sah-sauj-cho-ixo.md), a Tortle Cleric
+- Eddy as DM
+- James as [Paxalon **"Pasha"** Yaraxil](characters/pasha.md), a Dragonborn Sorcerer
+- Joel as [**Tiran** Medeid](characters/tiran-medeid.md), a Human Artificer
+- Mike as [**Gadot** J'Dogeaux](characters/gadot-jdogeaux.md), a Cuniko Rogue
+- Nate as [**Wolf**](characters/wolf.md), a Hill Dwarf Ranger
 
 ### Sessions
 

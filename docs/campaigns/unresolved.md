@@ -1,5 +1,7 @@
 # 🔐 Unresolved Storylines
 
+--8<-- "spoiler.html"
+
 Storylines that have been opened up, but not yet resolved.
 
 ## Ironstone Forge

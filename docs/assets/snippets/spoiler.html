@@ -1,0 +1,27 @@
+<div id="page_spoiler" class="spoiler">
+    <div class="stop">🛑</div>
+    <div class="info">
+        <h2>Spoilers Ahead!</h2>
+        <p>
+            This entire page is meant as DM information. If you're not the DM, you should probably not be reading this!
+        </p>
+        <p style="text-align: center;">
+            <button
+                class="md-button md-button--primary"
+                onclick="window.dispatchEvent(new CustomEvent('ShowSpoiler'))"
+                type="button"
+            >
+                Okay, just this once.
+            </button>
+
+
+            <button
+                class="md-button md-button--secondary"
+                onclick="window.dispatchEvent(new CustomEvent('ShowSpoiler', { detail: 'remember' }))"
+                type="button"
+            >
+                Show, and don't ask again!
+            </button>
+        </p>
+    </div>
+</div>

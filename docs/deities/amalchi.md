@@ -1,5 +1,7 @@
 # 🔐 Amalchi
 
+--8<-- "spoiler.html"
+
 <figure class="infobox right">
   <h3>Amalchi</h3>
   <a href="/assets/images/amalchi-symbol-full.png">

@@ -17,6 +17,8 @@ Almost everything presented here is **common knowledge** to anyone living in thi
 ??? danger "DM: An example"
     Reading information in these sections will spoil your game.
 
+Some page titles are scrambled since they can potentially spoil the story. Above the navigation is a button that allows you to undo this.
+
 This wiki is also used to keep track of the [Braving Bhreia](campaigns/dauriels-mansion-roll20.md) campaign run by its author.
 
 ## Getting Started

@@ -1,1 +1,5 @@
 title: Dauriel's Mansion
+nav:
+  - Overview: index.md
+  - ...
+  - "Story Outline": story-outline.md

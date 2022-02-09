@@ -4,7 +4,8 @@ Dark Grungs are small froglike creatures related to the more common tropical col
 
 Juvenile Grungs are hunted for their weaker poisons that have euphoric effects. See [Grungine](../items/grungine.md) for details on the drug and its production.
 
-## Stats {: .stats }
+??? danger "DM: Stats"
+    ## Stats {: .stats }
 
-Exactly the same as any regular Grung (Volo's pg. 156), *but* when consumed (and it is young enough) it can (**DC 16 Constitution**) have the effects of [Lesser Grungine](../items/grungine.md).
-{: .stat }
+    Exactly the same as any regular Grung (Volo's pg. 156), *but* when consumed (and it is young enough) it can (**DC 16 Constitution**) have the effects of [Lesser Grungine](../items/grungine.md).
+    {: .stat }

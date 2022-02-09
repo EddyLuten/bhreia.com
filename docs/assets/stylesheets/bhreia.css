@@ -1,0 +1,218 @@
+.infobox {
+    background-color: var(--md-default-bg-color--light);
+    display: block;
+    margin: 5px;
+    width: 370px !important;
+    border-radius: .1rem;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 10px 0px, rgba(0, 0, 0, 0.05) 0px 0.5px 1px 0px;
+}
+
+.infobox h3 {
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+    padding: 5px;
+    margin: 0 0 1em 0;
+}
+
+.infobox.right {
+    float: right;
+    margin-left: 1em;
+}
+
+.infobox.left {
+    float: left;
+    margin-right: 1em;
+}
+
+.infobox figcaption {
+    font-size: 0.75em;
+    margin: 0;
+    padding: 1em;
+}
+
+.infobox img {
+    margin: 0 auto;
+    border: 1px solid rgba(0, 0, 0, 0.54);
+}
+
+/*******************************************************************************
+ *
+ * STATS BLOCK
+ *
+ ******************************************************************************/
+
+.stats {
+    font-variant: small-caps;
+    margin: 0 !important;
+    margin-top: 1em !important;
+    font-family: 'Libre Baskerville', 'Lora', 'Calisto MT', 'Bookman Old Style', Bookman, 'Goudy Old Style', Garamond, 'Hoefler Text', 'Bitstream Charter', Georgia, serif;
+    color: #922610;
+    border-top: 10px solid #E69A28;
+    padding: 0.2em 0.5em;
+    background: #FDF1DC;
+}
+
+.sub {
+    margin-top: 0 !important;
+    border-top: none;
+    padding-top: 1em;
+}
+
+.stats ~ p.stat, .stats ~p.ability {
+    color: black;
+    margin: 0;
+    padding: 0.2em 0.5em;
+    background: #FDF1DC;
+}
+
+.stat-list {
+    background: #FDF1DC;
+    margin: 0 !important;
+    padding: 0.5em !important;
+    list-style-position: inside;
+}
+
+.stat-list li {
+    margin: .5em 0 0 0 !important;
+    padding: .25em;
+}
+
+.stat-list li:nth-child(even) {
+    background-color: #e0e5c1;
+}
+
+.stat-list + p {
+    padding-top: 1em !important;
+}
+
+.stats ~p.alignment {
+    border-bottom: 2px solid #922610;
+}
+
+.stats ~p.ability > strong {
+    color: black;
+    font-style: italic;
+}
+
+.stats ~ p.stat > strong {
+    color: #922610;
+}
+
+.actions {
+    margin: 0 !important;
+    color: #922610;
+    border-top: 2px solid #922610;
+    padding: 0.5em;
+    background: #FDF1DC;
+}
+
+.actions ~ p.action {
+    color: black;
+    margin: 0;
+    padding: 0.5em;
+    background: #FDF1DC;
+}
+
+.actions ~p.action strong {
+    color: black;
+    font-style: italic;
+}
+
+/********* SCORE TABLE *********/
+
+.stats ~ p.stat + .md-typeset__scrollwrap {
+    margin: 0;
+}
+
+.stats ~ p.stat + .md-typeset__scrollwrap > .md-typeset__table {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.stats ~ p.stat + .md-typeset__scrollwrap > .md-typeset__table > table {
+    border-top: 2px solid #922610;
+    font-size: 1em;
+    text-align: center;
+    color: #922610;
+    width: 100% !important;
+    display: table;
+    table-layout: fixed;
+    background: #FDF1DC;
+}
+
+/*******************************************************************************
+ *
+ * SPOILER TAG
+ *
+ ******************************************************************************/
+
+ @keyframes fadeOut {
+    from {
+        transform: scaleY(1.0);
+        filter: grayscale(100%) opacity(100%);
+    }
+    to {
+        transform: scaleY(0.0);
+        filter: grayscale(100%) opacity(0%);
+    }
+}
+
+.spoiler {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    background-color: rgb(255, 214, 214);
+    align-items: center;
+    justify-items: center;
+    gap: 20px;
+    padding: 10px;
+    border: 2px solid #b40000;
+    margin-bottom: 40px;
+    position: sticky;
+    top: 100px;
+    z-index: 9999;
+}
+
+.removing {
+    animation: fadeOut 250ms;
+}
+
+.spoiler ~ *,
+.spoiled {
+    filter: blur(.3rem);
+}
+
+.spoiler > .stop {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 5em;
+    text-shadow: 1px 1px 5px #b40000;
+}
+
+.spoiler > .info {
+    grid-column: 2 / 6;
+}
+
+.spoiler > .info > h2 {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 1px 1px 5px #b40000;
+}
+
+.unscramble-button {
+    width: 100%;
+    text-align: right;
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid #fff;
+}
+
+.unscramble-button:hover {
+    background-color: rgb(255, 214, 214);
+    border: 1px solid #b40000;
+}
