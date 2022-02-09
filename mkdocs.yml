@@ -37,9 +37,9 @@ theme:
     primary: blue
     accent: orange
   features:
-    - navigation.expand
+    # - navigation.expand
     - navigation.sections
-    - navigation.indexes
+    # - navigation.indexes
     - navigation.top
-    - toc.integrate
+    # - toc.integrate
     - search.suggest

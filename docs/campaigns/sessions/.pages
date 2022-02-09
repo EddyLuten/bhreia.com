@@ -1,0 +1,14 @@
+title: Sessions
+nav:
+  # need to do this manually since 10 becomes 1
+  - "Session 0: Howdy Doodle": session-0.md
+  - "Session 1: Arrival": session-1.md
+  - "Session 2: Found a Tomb": session-2.md
+  - "Session 3: First Blood": session-3.md
+  - "Session 4: Meeting Dauriel": session-4.md
+  - "Session 5: The Goblins": session-5.md
+  - "Session 6: Cave Kids": session-6.md
+  - "Session 7: The Party": session-7.md
+  - "Session 8: A Giant Puzzle": session-8.md
+  - "Session 9: Where's Borlok?": session-9.md
+  - "Session 10: TBD": session-10.md
