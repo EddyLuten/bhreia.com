@@ -2,7 +2,9 @@
 
 --8<-- "spoiler.html"
 
-TODO
+TODO: import stats block
+
+Stats as VTT: [Download](/assets/json/ghost-eater.json)
 
 Base it on "Shadow" (Monster Manual pg. 269)?
 

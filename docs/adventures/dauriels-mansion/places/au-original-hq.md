@@ -93,7 +93,7 @@ About the size of a large cabin.
     * The hilt of a scimitar
   * The second
     * A pair of boots without soles and laces
-    * A map of Marram
+    * A map of [Marram](../../../geography/countries/marram.md)
   * The third, inscribed with the words "Tambo Rong"
     * The blade of a scimitar
     * The goblins' stash:

@@ -17,12 +17,14 @@ function killSpoiler(e) {
     spoiler.classList.add('removing');
     spoiler.addEventListener('animationend', () => {
         spoiler.parentElement.removeChild(spoiler);
-        toc.classList.remove('spoiled');
+        if (toc)
+            toc.classList.remove('spoiled');
         pageTitle.classList.remove('spoiled');
         for (let nav of footerNavs) {
             nav.classList.remove('spoiled');
         }
-        headerTopic.classList.remove('spoiled');
+        if (headerTopic)
+            headerTopic.classList.remove('spoiled');
     });
 }
 
@@ -76,16 +78,21 @@ function scrollToMenuItem() {
     const searchText = String(pageTitle.childNodes[0].nodeValue).trim();
     if (scrollwrap.length > 0) {
         scrollwrap = scrollwrap[0];
-        let items = scrollwrap.getElementsByClassName('md-nav__item');
-        for (let item of items) {
+        const items = scrollwrap.getElementsByClassName('md-nav__item');
+        for (const item of items) {
+            if (item.classList.contains('md-nav__item--section') ||
+                item.classList.contains('md-nav__item--nested'))
+                continue;
             if (item.outerHTML.includes(searchText)) {
-                console.log('found it');
-                item.scrollIntoView({
-                    block:    'nearest',
-                    behavior: 'smooth',
-                    inline:   'nearest'
-                });
-                return;
+                const rect = item.getBoundingClientRect();
+                if (rect.width > 0 && rect.height > 0) {
+                    item.scrollIntoView({
+                        block:    'nearest',
+                        behavior: 'smooth',
+                        inline:   'nearest'
+                    });
+                    return;
+                }
             }
         }
     }
@@ -103,6 +110,9 @@ window.addEventListener('DOMContentLoaded', () => {
     if (spoiler) {
         if (!hideSpoiler) {
             toc = document.querySelector("[data-md-type='toc']");
+            if (!toc) {
+                toc = document.querySelector("[data-md-component='toc']");
+            }
             if (toc) {
                 toc.classList.add('spoiled');
             }
@@ -112,7 +122,6 @@ window.addEventListener('DOMContentLoaded', () => {
             footerNavs = document.getElementsByClassName('md-footer__title')
             if (footerNavs.length > 0) {
                 for (let nav of footerNavs) {
-                    console.log(nav.outerHTML);
                     if (nav.outerHTML.includes('🔐'))
                         nav.classList.add('spoiled');
                 }

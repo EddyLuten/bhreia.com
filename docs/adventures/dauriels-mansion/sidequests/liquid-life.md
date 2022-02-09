@@ -29,3 +29,6 @@ When hearing that the adventurers are looking for work, **Tino Block** (they/the
 ## The Wagon
 
 TODO details on the guards and the cargo.
+
+??? danger "DM: Tino's Stats as VTT JSON"
+    [Download](/assets/json/tino-block.json)

@@ -25,3 +25,6 @@ Jonah Feldspar Jr. (b. 3028) runs [Jonah's Denn](../places/jonahs-denn.md) inn i
     ## Demonic Inheritance
 
     Junior has inherited [the demon statue from his father](jonahs-demon.md), although in this case, the demon hasn't taken over Junior's life. Instead, it waited for Junior to get married to Rhea Feldspar and possessed her instead. [Read her entry](rhea-feldspar.md) for horrible details...
+
+??? danger "DM: Stats"
+    Junior is a *Commoner*, his club is named "Junior Jr."

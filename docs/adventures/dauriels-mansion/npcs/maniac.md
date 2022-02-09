@@ -14,3 +14,6 @@ Occupation: Constable of [Cauldin's Point](../places/cauldins-point.md)
     Born into wealth and power, Maniac has never wanted for a thing in his life until his father died and left him with barely a thing in his will. Through his position as constable, he's ripping off "protection" taxes from merchants and vendors at the market in Cauldin's Point.
 
     Over the last few years, he's created a bit of a posse as well, his "deputies."
+
+??? danger "DM: Stats as VTT JSON"
+    [Download](/assets/json/maniac.json)

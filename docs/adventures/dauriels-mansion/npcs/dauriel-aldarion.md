@@ -25,3 +25,6 @@ This company, Aldarion Unlimited, still exists and Dauriel acts as an advisor an
 ??? danger "DM: TODO List"
     - Dauriel is a descendent of Korban, this is why he was chosen by Bhreia. He has no idea.
     - He wrote "Aldarion Unlimited: Adventurers or Colonizers?" as a way to voice his dissatisfaction with how his company is run. In his advisory role, he has lost his power to do anything about it.
+
+??? danger "DM: Stats as VTT JSON"
+    [Download](/assets/json/dauriel-aldarion.json)

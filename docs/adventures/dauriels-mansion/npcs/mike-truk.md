@@ -31,3 +31,14 @@ Mike Truk is a homeless boy of around 11 years of age, living in and around [Cau
     His mother died before he could form memories of her and he was raised by his older brother, Anthony, in the slums of [Cauldin's Point](../places/cauldins-point.md) where they had to steal to get by. His brother died last year and he's been surviving with his three friends since. **Oona**, a Half-Elf girl of 14, and **Hurq**, a 10 year old Half-Orc. They share a cave in the hills north of town and hang out by the northern slums, near the wooden walls.
 
     A chance encounter with Mike in town will immediately kick off [The Cave](../sidequests/the-cave.md).
+
+??? danger "DM: Stats"
+    Moreus is a *Commoner*, but carries a dagger instead of a club.
+
+    Inventory:
+
+    - A dirty captain's hat
+    - A single golden earring
+    - 8 cp
+    - 1 sp
+    - A handful of twine

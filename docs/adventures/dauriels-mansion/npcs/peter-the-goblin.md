@@ -11,3 +11,6 @@
     Peter the Goblin looking surprised to have been found out.
   </figcaption>
 </figure>
+
+??? danger "DM: Stats"
+    Peter is a basic *Goblin*.

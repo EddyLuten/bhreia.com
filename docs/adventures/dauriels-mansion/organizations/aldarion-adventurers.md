@@ -8,7 +8,7 @@ Aldadarion Adventurers was the first name for the group that eventually became t
     * [Dauriel Aldarion](../npcs/dauriel-aldarion.md), male Elf from Darvia, founder, leader, wizard.
     * Tambo Rong, male Half-Orc from Yersh, fighter, brute force and meat shield.
     * Amtiri Xi, female Human cleric from Taïni.
-    * Silver Twilight, female Tabaxi from Marram, paladin.
+    * Silver Twilight, female Tabaxi from [Marram](../../../geography/countries/marram.md), paladin.
     * Grinta, female Goblin rogue thief.
 
     Notable former members:

@@ -37,3 +37,6 @@ He's pretty much Aristotle, though less wise, and will argue everything.
 * Second Floor
   * Copper roof dome with some glass openings
   * Light grows indoor herbs used for spells
+
+??? danger "DM: Stats as VTT JSON"
+    [Download](/assets/json/phidippus.json)

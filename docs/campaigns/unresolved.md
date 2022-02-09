@@ -22,7 +22,7 @@ The Macoyii captured for Phidippus by the Goblins are used for something. One of
 
 ## Marram
 
-Marram is dangled in front of the group, though they will have to face the threat in Cauldin's Point first. How could they possibly help out with the genocide that's happening there? They have acquired a partial map of Marram.
+Marram is dangled in front of the group, though they will have to face the threat in Cauldin's Point first. How could they possibly help out with the genocide that's happening there? They have acquired a [partial map](handouts/marram-map.md) of Marram.
 
 ## Gadot's Dad
 

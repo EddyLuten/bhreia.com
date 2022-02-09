@@ -10,12 +10,7 @@ The following people are always present in the mansion.
 
 * [Dauriel Aldarion](../npcs/dauriel-aldarion.md)
 * [Moreus](../npcs/moreus.md)
-* Borlok Orsell
-  * Butler
-  * Orc male
-  * Neat and tidy individual
-  * British airs accent
-  * Borlok was raised in the wilderness and is not proud of his heritage. He doesn't want to talk about it. He's very proud of being the head butler at the mansion and extremely loyal to Dauriel and Moreus.
+* [Borlok Orsell](../npcs/borlok-orsel.md)
 * Labasque Pertre
   * Chef, a great one
   * Human male from Parlina
@@ -27,7 +22,7 @@ The following people are always present in the mansion.
     * Fakes his background. Now knows that Dauriel wouldn't have cared, but he's in too deep to drop the accent. Dauriel is no idiot and has figured this out years ago.
 * Chickadee (Chickadee Two Rivers)
   * Housekeeper
-  * Tabaxi female from Marram
+  * Tabaxi female from [Marram](../../../geography/countries/marram.md)
   * Silently hates [Aldarion Unlimited](../organizations/aldarion-unlimited.md)
   * Chickadee was hired before AU began hunting Tabaxi in her home country and knows that Dauriel wasn't involved. However, she hates that he isn't doing anything about it (that she knows of).
 

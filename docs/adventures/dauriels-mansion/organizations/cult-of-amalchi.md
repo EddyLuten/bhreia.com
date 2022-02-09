@@ -10,7 +10,7 @@ There are five members currently active in or around Cauldin's Point.
 
 **Leader (The Mother):** [Rhea Feldspar](../npcs/rhea-feldspar.md) - cursed, actions are performed without any input of her own. She's a vessel of [Dhoutr](../../../deities/dhoutr.md), creation/son of Amalchi.
 
-**Captain (The Believer):** [Borlok Orsell](../places/the-mansion.md) - loyal to Dauriel and Moreus, but only because he knows that Moreus is the vessel and wants to keep him safe until Amalchi reappears.
+**Captain (The Believer):** [Borlok Orsell](../npcs/borlok-orsel.md) - loyal to Dauriel and Moreus, but only because he knows that Moreus is the vessel and wants to keep him safe until Amalchi reappears.
 
 **Sage (The Dying):** [Phidippus](../npcs/phidippus.md) - gets pregnant Macoyii to sacrifice and handles any magic that needs to be performed.
 

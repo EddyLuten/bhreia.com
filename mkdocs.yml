@@ -1,5 +1,5 @@
 site_name: Bhreia
-copyright: Copyright &copy; 2021 Eddy Luten
+copyright: Copyright &copy; 2021 - 2022 Eddy Luten
 repo_url: https://github.com/EddyLuten/bhreia.com
 repo_name: EddyLuten/bhreia.com
 plugins:
@@ -45,5 +45,5 @@ theme:
     - navigation.sections
     # - navigation.indexes
     - navigation.top
-    # - toc.integrate
+    - toc.integrate
     - search.suggest
