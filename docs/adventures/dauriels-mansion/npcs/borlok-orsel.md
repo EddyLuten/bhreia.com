@@ -19,7 +19,7 @@ Borlok is Dauriel's butler, father of Hurq, and one of the five cult members of 
 - Campaign specific:
   - [Ironstone Forge Greataxe](../../../campaigns/handouts/ironstone-forge-greataxe.md)
   - A note: "Pasha Yaraxil. Dragonborn. Affected."
-    - Affected by the event in [Finippicay](../characters/pasha.md)
+    - Affected by the event in [Finippicay](../../../campaigns/characters/pasha.md)
     - His sacrifice would have had special significance
 
 ??? danger "DM: Stats as VTT JSON"

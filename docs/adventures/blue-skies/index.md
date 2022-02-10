@@ -1,4 +1,6 @@
-# 🔐 Overview
+# 🔐 Blue Skies
+
+--8<-- "spoiler.html"
 
 This adventure is a direct follow up to [Dauriel's Mansion](../dauriels-mansion/index.md).
 
