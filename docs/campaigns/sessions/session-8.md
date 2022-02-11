@@ -1,12 +1,10 @@
 # Session 8
 
-## Player Handout
-
 **Date:** 2022-01-10 @ 9:00 PM CT
 
 **Audio:** [MP3](https://drive.google.com/file/d/1VWIIZUFQ3XzRqSy_XmsdkC4YtQarsTqa/view?usp=sharing) (2h56m)
 
-### Synopsis
+## Synopsis
 
 Dauriel had a brief enough window of consciousness to give Sah-Sauj some information on what happened to Moreus. He told him that 35 years ago, deep in the tunnels below the town, Moreus was supposed to be a vessel for a powerful entity to corporealize into this world. However, Dauriel was able to lock the entity's energy into the orb and save Moreus' life, even though his memory was wiped empty. He believed that the entity had been calling to Moreus from the orb, and that's why he had crushed it, setting it free to continue its plans.
 

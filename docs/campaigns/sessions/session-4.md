@@ -1,12 +1,10 @@
 # Session 4
 
-## Player Handout
-
-**Date:** 2011-11-22 @ 9:00 PM CT
+**Date:** 2021-11-22 @ 9:00 PM CT
 
 **Audio:** [MP3](https://drive.google.com/file/d/1yT-xluCe4jXbhvOAnm1hO_7XElN2qV5Y/view?usp=sharing)
 
-### Synopsis
+## Synopsis
 
 After knocking on Dauriel's front door, you were invited inside where you met with the man himself. He explained that he needed you for more than being at the party and put together the invites with explicit purpose. He introduced you to Chickadee, his disgruntled housekeeper, whose people are being systematically murdered for their furs in Marram. Dauriel wants you to go there and meet up with Gadot's dad.
 

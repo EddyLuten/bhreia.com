@@ -1,12 +1,10 @@
 # Session 9
 
-## Player Handout
-
-**Date:** 2022-02-23 @ 9:00 PM CT
+**Date:** 2022-02-03 @ 9:00 PM CT
 
 **Audio:** [MP3](https://drive.google.com/file/d/18chMR_IEwWNSyKaIj0LH9p2qGzGFuWlM/view?usp=sharing) (2h40m)
 
-### Synopsis
+## Synopsis
 
 After finishing the puzzle room, Sah-Sauj was pulled aside by Borlok as you descended deeper down into the ever warming earth. He seemed to probe Sah-Sauj for details on his involvement with Amalchi, and once he deemed that Sah-Sauj was an impostor in his eyes, he blocked you all from going further. However, you easily subdued him and knocked him unconscious.
 

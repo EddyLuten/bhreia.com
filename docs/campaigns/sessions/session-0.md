@@ -1,7 +1,5 @@
 # Session 0
 
-## Player Handout
-
 **Date:** October 23, 2021 @ 21:00 CT
 
 **Audio:** [MP3](https://drive.google.com/file/d/1ZlTb9qU0ZlOuTTQoEIU055vfLq04BwkS/view?usp=sharing)
@@ -41,7 +39,7 @@
 * 1:02:34 - Proficiency skill check floor
 * 1:04:45 - Character bonds, 1-shot opportunities
 
-### Session Zero Topics
+## Session Zero Topics
 
 Topics for discussion so far.
 

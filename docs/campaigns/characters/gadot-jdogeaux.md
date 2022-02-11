@@ -8,7 +8,7 @@
   </figcaption>
 </figure>
 
-Campaign: [Braving Bhreia: Dauriel's Mansion](../dauriels-mansion-roll20.md)
+Campaign: [Braving Bhreia](../braving-bhreia.md)
 
 Played By: Mike
 

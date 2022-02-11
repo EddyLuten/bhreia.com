@@ -1,12 +1,10 @@
 # Session 2
 
-## Player Handout
-
 **Date:** November 8th, 2021 @ 21:00 CT
 
 **Audio:** [MP3](https://drive.google.com/file/d/1Ewe-nJ76LdjS_pC-H4gViffcbwZhA3nN/view?usp=sharing)
 
-### Synopsis
+## Synopsis
 
 After the storm, Pasha saunters into town and confronts a man who is confronting his daughter about some missing money. Pasha defuses the situation and arrives at Jonah's Denn.
 

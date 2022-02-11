@@ -1,12 +1,10 @@
 # Session 1
 
-## Player Handout
-
 **Date:** November 1st, 2021 @ 21:00 CT
 
 **Audio:** [MP3](https://drive.google.com/file/d/1LUe85OYEmYOIX4Oxu8oueW37PZFzJZ9M/view?usp=sharing)
 
-### Synopsis
+## Synopsis
 
 Wolf picked up Sah-Sauj on his way up to Cauldin's Point where they were waylaid by two highwaymen. They avoided a fight by relenting to their assailers who took two boxes of Wolf's cigars and went on their way.
 

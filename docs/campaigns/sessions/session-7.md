@@ -1,12 +1,10 @@
 # Session 7
 
-## Player Handout
-
 **Date:** 2011-12-17 @ 9:00 PM CT
 
 **Audio:** [MP3](https://drive.google.com/file/d/1Sg-RShM0HrHZXmsSOHYSQP2VlPC6ldJ8/view?usp=sharing)
 
-### Synopsis
+## Synopsis
 
 On deciding to spend the night in the woods, Wolf encountered a scarred woman, holding a child in her arms who wanted to warm around his campfire. He noticed her child was made of soil. She offered for him to hold it, but he didn't. Looking up into the sky, he noticed that all of the five moons were together in the sky simultaneously, which normally never happens, and moving closer together. As they coalesced into a single bright moon, night turned into day. The woman said "I believe he is here," and as Wolf looked down, she was gone, leaving nothing behind but a few crumbs of soil at the fire. And slowly, night returned.
 

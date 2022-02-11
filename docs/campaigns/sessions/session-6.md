@@ -1,12 +1,10 @@
 # Session 6
 
-## Player Handout
-
 **Date:** 2011-12-08 @ 9:00 PM CT
 
 **Audio:** [MP3](https://drive.google.com/file/d/1WmAc7SUaBO_6RF_pktnNY4jqVhgjNVlq/view?usp=sharing)
 
-### Synopsis
+## Synopsis
 
 Immediately after entering town, you visit Dauriel and tell him that you traded the deed for the map with the daughter of Grinta. You show him the map you found and a dead Macoyii. With some investigation, Wolf notices that the Macoyii had an old scar around its neck, and that it was pregnant. Wolf mentioned Phidippus' involvement with the Macoyii, but Dauriel didn't know why he'd want to capture them. He *did* mention that Phidippus bought up the Ironstone Forge, which he didn't think was accidental.
 

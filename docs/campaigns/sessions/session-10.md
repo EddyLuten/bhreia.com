@@ -1,18 +1,37 @@
 # Session 10
 
-## Player Handout
-
 **Date:** 2022-02-09 @ 9:00 PM CT
 
-**Audio:** None yet.
+**Audio:** [MP3](https://drive.google.com/file/d/1hz8HU70Re4q8CaWC9dSXNOC05BKsa3z1/view) (3h17m)
 
-### Synopsis
+## Synopsis
 
-Not yet.
+When asked where Borlok was, Gadot convinced Rhea that he simply couldn't make it and somehow she believed this. She invited Sah-Sauj to don the blue cult robes and the rest of you all to come up the spire to complete the ritual. Halfway up, you noticed four very lifelike statues made out of obsidian, strongly resembling Dauriel's old party members.
+
+Once the spire was climbed, you were greeted by the sight of Phidippus feeding the blood of a Macoyii puppy to Moreus who wasn't looking too great. Suspended from five glass tubes pumping blood into his body, his skin cracking, and eyes glowing, there sure did seem to be something wrong with Dauriel's husband. After trying to deceive Phidippus, a battle ensued. And for a moment, you seemed to be overtaking the old man, but once he cast invisibility on himself, no more blows were delivered. Pasha and Wolf both worked together to destroy one of the blood tubes, but Moreus situation only seemed to be getting worse. His body no longer resembling that of a human being, but rather something else simply wearing it. There didn't seem to be much time left for him.
+
+And... time *did* run out.
+
+Moreus tore open and hatching from within his body came a blue dragon with a large central eye, shining like the sun, framed by five smaller ones. It seemed to grow before you, and as its wings stretched out, hurtling towards you, it said one last thing in Draconic before you were enveloped by them.
+
+> I shall grant you the same courtesy that your kind has shown me.
+
+The next thing you knew you were floating in a blue void. You could see and each other, but you were simply floating and were out of reach. Sah-Sauj used his sling shot to move himself forward and eventually reached Gadot. Wolf determined through the use of a spell that you were very close to a planar portal, in fact they should be right on top of one. Tiran began making his was over to to Pasha by propelling himself through charging one of his pitons with a spell. Meanwhile, Gadot and Sah-Sauj impacted what seemed to be a wall and heard the cracking of glass. You felt nauseous, your sight turned to pinpricks, and the next thing you knew, you were somewhere else again.
+
+This time, you seemed to be observing a strange scene, but couldn't make out any of the fine details. However, you were able to overhear a conversation between a man and a woman, discussing things you couldn't make much sense of. They seemed to be disagreeing about something, and before you knew it you were back in the blue void.
+
+This time, the void was cracked all around you and you felt a slight draft coming from a larger crack. You all huddled up together, and with the same method as before, Tiran propelled you towards the crack, and for the last time, you were transported.
+
+You arrived together on a small isle in the middle of a lake. The lake was cluttered with the debris of buildings and the isle itself had a few surprises of its own. A strange female corpse, a device of unknown purpose, and a black metal construct, which seemed to be missing some parts. You found a rowboat and decided to take off when an older and taller Mike Truk called out to you and provided you with a little bit of information. About a year had passed, the dragon had destroyed Cauldin's Point and left it a hole in the ground, the very lake you were on. He brought you through the tunnel system to his cave where the half Orc boy Hurq was cooking up some turkey stew and smiled as he saw you enter the cave.
+
+And that's where we left off.
 
 ??? danger "DM: Session Beats"
     - Rhea runs, calls [Phidippus](../../adventures/dauriels-mansion/npcs/phidippus.md)
       - DEX checks to overtake her in the spire
+      - Phidippus will not come, he's busy
+      - Rhea is crying throughout the whole battle, but can't stop
+      - Her curse is making her fight
     - They make it up the spire
       - They find Dauriel's [old crew](../../adventures/dauriels-mansion/organizations/aldarion-adventurers.md)
       - petrified in obsidian stone

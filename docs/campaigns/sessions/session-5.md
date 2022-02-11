@@ -1,12 +1,10 @@
 # Session 5
 
-## Player Handout
-
 **Date:** 2011-11-29 @ 9:00 PM CT
 
 **Audio:** [MP3](https://drive.google.com/file/d/1kNKCo_lzdTrZYUoFHR7edD0A5V0zLDeC/view?usp=sharing)
 
-### Synopsis
+## Synopsis
 
 Tiran, while impersonating a goblin knocked on the cabin door and attempted to persuade the goblins to let them in or sell the map. They were unimpressed and wanted him to leave. Pasha tried to bribe the goblins with a toy, but they didn't care about that either. But when Sah-Sauj mentioned Dauriel, Grintani, the female goblin, recoiled. Wolf noticed a resemblance between the female goblin and the one in the portrait in Dauriel's office. He whispered to the group that trading the deed to the cabin for the map could be an option here.
 

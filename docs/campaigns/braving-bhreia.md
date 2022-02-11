@@ -1,18 +1,6 @@
-# Braving Bhreia: Dauriel's Mansion
+# Braving Bhreia
 
-## Player Handout
-
-<figure class="infobox right">
-  <h3>Current Roll20 Banner</h3>
-  <a href="/assets/images/dauriels-mansion-roll20-banner.jpg">
-    <img src="/assets/images/dauriels-mansion-roll20-banner.jpg" />
-  </a>
-  <figcaption>
-    The current banner used in Roll20, showing Dauriel's Mansion. <a href="https://www.artstation.com/artwork/W2nxZQ">Original, unmodified image</a>.
-  </figcaption>
-</figure>
-
-### Players (a-z)
+## Players (a-z)
 
 - Anjelica as [**Sah-Sauj** Cho'Ixo](characters/sah-sauj-cho-ixo.md), a Tortle Cleric
 - Eddy as DM
@@ -21,9 +9,19 @@
 - Mike as [**Gadot** J'Dogeaux](characters/gadot-jdogeaux.md), a Cuniko Rogue
 - Nate as [**Wolf**](characters/wolf.md), a Hill Dwarf Ranger
 
-### Sessions
+## Sessions
 
-#### Chapter 1: Cauldin's Point
+### Chapter 1: Dauriel's Mansion
+
+<figure class="infobox right">
+  <h3>Dauriel's Mansion Banner</h3>
+  <a href="/assets/images/dauriels-mansion-roll20-banner.jpg">
+    <img src="/assets/images/dauriels-mansion-roll20-banner.jpg" />
+  </a>
+  <figcaption>
+    The current banner used in Roll20 for the Dauriel's Mansion chapter, showing Dauriel's Mansion itself. <a href="https://www.artstation.com/artwork/W2nxZQ">Original, unmodified image</a>.
+  </figcaption>
+</figure>
 
 - 2021-10-23: [Session 0](sessions/session-0.md) - Howdy Doodle
 - 2021-11-01: [Session 1](sessions/session-1.md) - Arrival
@@ -35,23 +33,25 @@
 - 2021-12-17: [Session 7](sessions/session-7.md) - The Party
 - 2022-01-10: [Session 8](sessions/session-8.md) - A Giant Puzzle
 - 2022-02-03: [Session 9](sessions/session-9.md) - Where's Borlok?
-- 2022-02-09: [Session 10](sessions/session-10.md) - TBD
+- 2022-02-09: [Session 10](sessions/session-10.md) - Amalchi Rising
 
-### Homebrew
+### Chapter 2: Blue Skies
 
-#### Proficiency Skill Check Floor
+- TBD: [Session 11](sessions/session-11.md)
 
-Provisional.
+## Homebrew
+
+### Proficiency Skill Check Floor
 
 If a player is proficient in a skill, when doing a skill check and rolling lower than their passive ability score, they can use their passive score instead of the roll. If a player is not proficient, they take the result of the roll.
 
-#### Third Party
+### Third Party
 
-Trying the following third party rules unless there's an objection.
+Trying the following third party rules unless there's an objection. The documents can be found in the resources channel of the Discord server.
 
-- [Last Stand: A Worthy Death](https://drive.google.com/file/d/1ajDOy54cDt-Tbjb8XKK-EKvFs2oHJw-y/view)
-- [The Complete Crafter](https://drive.google.com/file/d/1uMJL0iH2jY4lpdPZajricPDQ_Yp1-91q/view?usp=sharing)
-- [Rest System Revised](https://drive.google.com/file/d/18KgKGDoDZ8Xt_KbEOquHEJXio_5kuDBu/view?usp=sharing)
+- Last Stand: A Worthy Death
+- The Complete Crafter
+- Rest System Revised
 
 ??? danger "DM: Links"
     Links:

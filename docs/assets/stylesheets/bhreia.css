@@ -216,3 +216,15 @@
     background-color: rgb(255, 214, 214);
     border: 1px solid #b40000;
 }
+
+.twitter-tweet {
+    float: right;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.md-content__inner > iframe {
+    float: right;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}

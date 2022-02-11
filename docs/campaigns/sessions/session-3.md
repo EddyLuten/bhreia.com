@@ -1,12 +1,10 @@
 # Session 3
 
-## Player Handout
-
 **Date:** November 17th, 2021 @ 21:00 CT
 
 **Audio:** [MP3](https://drive.google.com/file/d/1edtSdsgWsmBppjfyswoO-90GwV-Fj051/view?usp=sharing)
 
-### Synopsis
+## Synopsis
 
 (Recap for Session 4)
 
