@@ -12,7 +12,7 @@ Mea culpa!
     <img src="/assets/images/bhreia-first-sketch-tiny.jpg" />
   </a>
   <figcaption>
-    The first sketch of the map I made in a sketchbook on September 7, 2021.
+    The first map of Bhreia I made in a sketchbook on September 7, 2021.
   </figcaption>
 </figure>
 
@@ -20,21 +20,15 @@ Mea culpa!
 
 You can skip this section, but I'm a nostalgic at heart, even for recent events.
 
-To be honest, I hadn't been feeling like playing D&D for a few years and was holding a grudge against it. I already had created a world before named Ahrda, put a lot of time and effort into it, but each of the games I played in that setting had ended badly or abruptly.
-
-I stopped playing for years and wrote off TTRPGs.
+To be honest, I hadn't been feeling like playing D&D for a few years and was holding a grudge against it. I already had created a world before named [Ahrda](https://github.com/EddyLuten/ahrda/), put a lot of time and effort into it, but each of the games I played in that setting had ended badly or abruptly.
 
 So, when Joel invited me to his Alien game, I wasn't expecting much and wasn't really sure if I'd like it. Hey, at least I wouldn't have to DM the thing and get disappointed again, right?
 
-But, after playing the Alien one shot and Nate's Cabin by the Lake playtest with that group of great players, I got infected with the D&D bug. I began drawing a map of a new world that I thought would be interesting to play in on September 7th of 2021 and shot Joel a message that night asking if - hypothetically - I were to run a game if he'd be interested.
+But, after playing the Alien one shot and Nate's Cabin by the Lake playtest with that group of great players, I got infected with the D&D bug again. I began drawing a map of a new world that I thought would be interesting to play in on September 7th of 2021 and shot Joel a message that night asking if - hypothetically - I were to run a game if he'd be interested.
 
 Thankfully, you *all* were.
 
 After I polled interest, I took a two week vacation and wrote up the story outline, art, music, and created the wiki of what would end up being this campaign. I ended up spending most of late September and October working on getting the game ready.
-
-![My GitHub contributions during my vacation](../../assets/images/github-contrib.png)
-
-After [Session 0](session-0.md) on October 23, the stage was set and the players were in place.
 
 Before I continue: **THANK YOU** for indulging me by playing this game with me. I can't imagine a better group than you lot and the amount of engagement you show every time means a lot to me.
 
@@ -86,13 +80,13 @@ There was also a hidden entrance in the marketplace itself leading directly down
 
 Fighting the stirges was intended for the four initial players and I forgot to adjust it after Pasha joined. I also think that even with more stirges, the battle was still too easy.
 
-In intially had planned for a hidden passageway into the caves where you'd eventually meet Amalchi in Session 10, but figured that entering it from here would force the game to go too fast and things would make even less sense.
+I initially had planned for a hidden passageway into the caves where you'd eventually meet Amalchi in Session 10, but figured that entering it from here would force the game to go too fast and things would make even less sense.
 
 The rare gold coins that you left behind in the chest could have sold for A LOT of money.
 
-Cauldin's corpse could not have been preserved if the tomb was opened, it was fucked regardless. Though, certain... *effects* were worsened due to the rough and disrespectful handling of the sarcophagus. This effect is still secret, but it was changed to what it is now only moments before this session.
+Cauldin's corpse could not have been preserved if the tomb was opened, it was fucked regardless. Though, certain... *effects* were worsened due to the rough and disrespectful handling of the sarcophagus. This effect is still secret to most of you, but it was changed to what it is now only moments before this session.
 
-Covering your tracks and fixing up the tomb on your way out didn't work. The same spell you encounter in a later session (a type of modified Alarm spell) alerted someone that the tomb was breached.
+Covering your tracks and fixing up the tomb on your way out didn't work. The same spell you encounter in a later session (a type of modified Alarm spell) alerted someone that the tomb was breached since Sah-Sauj just walked through the area for the first time.
 
 The next morning, when you met Borlok, he was talking to Rhea. They were both members of the cult and quietly discussing the breach to the tomb the night before.
 
@@ -121,6 +115,8 @@ Dauriel's whole idea of selecting you as a group stems from what you put in your
 - In Pasha's case, the event you observed and what it caused
 
 As for Sah-Sauj, he was curious about how things would work out, but remained suspicious of him. Especially after seeing his holy symbol and talking about Brother. He never divulged more information than he felt comfortable with, especially about his past.
+
+In general, and as you intuited a few times, Dauriel was hiding a lot more information that he was parting with. He could have been pressured or persuaded to surrender more of it.
 
 Dauriel pulling in his female Tabaxi servant named Chickadee was also meant to be an awkward moment displaying a dissonance of the dynamic between the servant and her master. While not a slave as asked during the session, obviously she can't speak her mind fully in fear of repercussions that could leave her and her family abroad penniless.
 
@@ -260,7 +256,7 @@ This lava pool and the blood tubes are directly underneath the tomb as you guess
 
 This single room was initially planned to be the center of a giant underground complex where generations of Amalchi's cultists would have lived, preparing for his eventual ascension. However, I cut this way down to keep the pacing going and the sense of urgency high without dangling too many carrots.
 
-The obsidian bridge is another reference to obsidian or black stone mentioned so far in connection to Amalchi.
+The obsidian bridge is another reference to obsidian or black stone mentioned so far in connection to Amalchi. The stuffed owlbear in Dauriel's library encrusted with it, various described decorations, the black chunks of obsidian that Dauriel coughs up.
 
 ## Session 10
 
@@ -274,6 +270,30 @@ The cult of Amalchi at any point consists of five members, symbolic of the five 
 - The Believer
 - The Dying
 
-I'll let you fill in the blanks here. The cult is disbanded, but Amalchi is out and about, so I don't want to give too many themes away.
+I'll let you fill in the blanks here. The cult is disbanded, but Amalchi is out and about, so I don't want to give too many things away.
 
-On to the topic of Moreus. Poor guy seems to have the same fate befall him twice. As Dauriel mentioned, he was being used as a vessel 35 years ago, but Dauriel was able to stop the process that time. But by doing so, Moreus lost his memory and eventually fell in love with Dauriel, who nursed him back to health. It does seem however, that the process of stopping this first ascension involved sacrificing his adventuring party, who you found petrified in the spire.
+Moreus. Poor guy seems to have the same fate befall him twice. As Dauriel mentioned, he was being used as a vessel 35 years ago, but Dauriel was able to stop the process that time. But by doing so, Moreus lost his memory and eventually fell in love with Dauriel, who nursed him back to health. It does seem however, that the process of stopping this first ascension involved sacrificing his adventuring party, who you found petrified in the spire.
+
+There's much from this session that's still at play and sets up things for the next chapters and overall continued story. Cutting it off here.
+
+## The Postmortem Bit
+
+This is just a bit of self critique.
+
+### Information Availability
+
+Number 1, first and foremost is that if I need you to know something, I need to make it easier to find this information and likely in multiple places or from multiple sources. If, for example, I need you to find a book, the environment description should probably include a book case and a musty old tome on a side table.
+
+I also realized that even though you found details often, you generally didn't remember them throughout the game. A D&D campaign is not a mystery novel and sessions are far apart enough that forgetting details isn't just easy, but likely. Hearing "I don't know what's going on" from one of you is not something I strive for. Though some things are purposely kept vague.
+
+This wiki is great and all, but I can't expect anyone to read it and know it like I do. If information needs to be known, it needs to be made available during the game in a fairly obvious manner. I am not a big fan of exposition and information dumps, but I think it may just be part of the medium of D&D to have to do so.
+
+### Over-Preparation
+
+[Prep less, improv more.](https://discord.com/channels/885548778155831407/885548779095351391/926876172627902484)
+
+About halfway through this chapter, most of what was happening wasn't planned and instead I had to rely on things prepped right before a session and improv based on what was going on. For the next chapter, I will prepare the main beats as they must happen, but everything else will be done on the fly.
+
+FIN.
+
+I probably forgot something, let me know on Discord.
