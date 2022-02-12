@@ -1,6 +1,6 @@
 # Aldarion Adventurers
 
-Aldadarion Adventurers was the first name for the group that eventually became the company [Aldarion Unlimited](aldarion-unlimited.md). They were [headquartered](../places/au-original-hq.md) an hour west of Cauldin's Point. 
+Aldarion Adventurers was the first name for the group that eventually became the company [Aldarion Unlimited](aldarion-unlimited.md). They were [headquartered](../places/au-original-hq.md) an hour west of Cauldin's Point.
 
 ??? danger "DM: Supplemental Facts"
     Its final composition was:

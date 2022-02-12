@@ -22,7 +22,6 @@ Not much is known about Bhreia outside of the broad strokes lined out in the cre
     * [Melora](melora.md) with Amalchi.
     * [Primani](primani.md) with Melora.
 
-
 ## See Also
 
 * [Timeline](../lore/timeline.md)

@@ -4,6 +4,8 @@
 
 **Audio:** None yet.
 
+This session signifies the start of Chapter 2 in this campaign.
+
 ## Synopsis
 
 None yet.

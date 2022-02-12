@@ -9,7 +9,7 @@ Once completed, it opens up [Cauldin's Tomb](../places/cauldins-tomb.md).
 ## Entry Points
 
 * By moving a large boulder off a hole in the basement of [Jonah's Denn](../places/jonahs-denn.md). If they flip the stone over, they can see the five-pointed star of the demon in the statue at Jonah's Denn.
-* By following a natural cave system into a handcarved tunnel and stairs from a cave mouth north of town. This is the cave that [Mike Truk](../npcs/mike-truk.md) and his gang inhabit.
+* By following a natural cave system into a hand-carved tunnel and stairs from a cave mouth north of town. This is the cave that [Mike Truk](../npcs/mike-truk.md) and his gang inhabit.
 
 After a long walk through pitch black darkness, they all lead to the same place, a wide stone door.
 

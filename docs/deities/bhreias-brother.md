@@ -7,4 +7,4 @@ If [Bhreia](bhreia.md)'s story is enigmatic, then the story of her brother is a 
 
 ## See Also
 
- * [Timeline](../lore/timeline.md)
+- [Timeline](../lore/timeline.md)

@@ -36,7 +36,6 @@ The gang gave Dauriel the artifacts they found (drawings + journal) and Dauriel 
 
 Wolf's robbers ([Captain Freeney](../adventures/dauriels-mansion/npcs/captain-freeney.md)) have not yet been confronted. They did sell his cigars in town to people, including [Maniac](../adventures/dauriels-mansion/npcs/maniac.md). Kolwyn, the stable boy, did mention that Freeney occasionally came to drink at the inn.
 
-
 ## Jonah's Demon Statue
 
 Wolf saw the statue, and mentioned it to the others, but no action has yet been taken to try and figure out what it is. It's tucked in between some bottles in a cabinet behind Jonah's bar.

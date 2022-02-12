@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "davidanson.vscode-markdownlint",
+        "ban.spellright",
+        "ms-vscode.wordcount",
+        "pascalsenn.keyboard-quickfix"
+    ]
+}

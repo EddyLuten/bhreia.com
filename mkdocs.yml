@@ -29,6 +29,7 @@ extra_css:
   - assets/stylesheets/bhreia.css
 extra_javascript:
   - assets/js/bhreia.js
+  - assets/js/infobox.js
 theme:
   name: material
   icon:

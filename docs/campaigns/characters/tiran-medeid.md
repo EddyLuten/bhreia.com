@@ -14,7 +14,6 @@ Played By: Joel
 
 [Backstory Google Doc.](https://docs.google.com/document/d/1gFEeedUrekFP90V_GUpg_b1LV3TYmAbh_TvL6B-fkfQ/edit?usp=sharing)
 
-
 ??? danger "DM: Family Info"
     Tiran lives in Basford with his mom and dad, who both have a history with Aldarion Unlimited.
 

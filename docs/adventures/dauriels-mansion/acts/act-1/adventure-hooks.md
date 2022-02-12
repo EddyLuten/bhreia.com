@@ -14,7 +14,7 @@ The adventurers [receive invitations](../../handouts/dauriels-invitation.md) to 
 
 ### Outside of Town
 
-**Intro Blurb**
+Intro Blurb:
 
 > Somewhere in this fractured world where the rain doesn't seem to stop.  
 > On some dirt road hollowed by endless cartwheels and dragging feet.  
@@ -74,7 +74,7 @@ Dauriel calls the adventurers into his office the afternoon before the party and
 The adventure cue that he gives them:
 
 !!! info "Dauriel's Cue"
-    Atrocities against the Tabaxi in [Marram](../../../../geography/countries/marram.md) must be investigated and uncovered. Evidence must be collected, presented, and subsequently Aldarion Unlimited must be stopped from continuing as an entity. I emplore you to set sail from Korban's Landing to Rivoni Springs. From there, travel through The Passage along the East Coast of Taini all the way north to Marram. My informant tells me of an Aldarion Unlimited outpost west of Beteb where the hunts are being staged. After my birthday party, I will provide you with the funding and connections required to make this work.
+    Atrocities against the Tabaxi in [Marram](../../../../geography/countries/marram.md) must be investigated and uncovered. Evidence must be collected, presented, and subsequently Aldarion Unlimited must be stopped from continuing as an entity. I implore you to set sail from Korban's Landing to Rivoni Springs. From there, travel through The Passage along the East Coast of Taini all the way north to Marram. My informant tells me of an Aldarion Unlimited outpost west of Beteb where the hunts are being staged. After my birthday party, I will provide you with the funding and connections required to make this work.
 
 If accepted, the party can spend an hour traveling west to [Dauriel's original adventuring headquarters](../../places/au-original-hq.md), now abandoned, which they can take over. Here they can find a map of Marram, left there by Dauriel ages ago. Here they can stay indefinitely and outside of Cauldin's Point.
 
@@ -85,4 +85,4 @@ If not accepted, the party can spend the day in town to get some supplies, estab
 !!! info
     Use this if your characters are simply staying the night at [Jonah's Denn](../../places/jonahs-denn.md) while passing through the region.
 
-Staying at Jonah's Denn triggers the [Ghosts Eat Ghosts](../../sidequests/ghosts-eat-ghosts.md) sidequest, which upon completion may draw the attention of Dauriel Aldarion. He will then present them with invitations, which would trigger the default hook. Staying at the inn may also present hints of Amalchi, which could lead in a roundabout way to Dauriel Aldarion.
+Staying at Jonah's Denn triggers the [Ghosts Eat Ghosts](../../sidequests/ghosts-eat-ghosts.md) side-quest, which upon completion may draw the attention of Dauriel Aldarion. He will then present them with invitations, which would trigger the default hook. Staying at the inn may also present hints of Amalchi, which could lead in a roundabout way to Dauriel Aldarion.

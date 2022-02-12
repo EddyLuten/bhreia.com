@@ -260,6 +260,8 @@ The obsidian bridge is another reference to obsidian or black stone mentioned so
 
 ## Session 10
 
+[Played February 9, 2022](session-10.md)
+
 You likely couldn't have found this out in any easy way, but backstory wise, Rhea has been sacrificing her unborn children to Amalchi for years. Ever since Jonah Sr. died and passed on his curse to her via the statue. She and Jonah keep trying for a child, but fail because the demon that possesses her will fail the pregnancy and force her to sacrifice it. This is pretty dark stuff, unlikely to have been surfaced, and not important, but still possible.
 
 The cult of Amalchi at any point consists of five members, symbolic of the five simultaneous sacrifices that they make:

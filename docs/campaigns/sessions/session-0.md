@@ -58,7 +58,7 @@ Topics for discussion so far.
   * [x] What do you want to see in the game?
     * A theme or subject explored?
     * An environment?
-  * [x] Three pillars; which one sticks out? Exploration, combat, or roleplay? 
+  * [x] Three pillars; which one sticks out? Exploration, combat, or roleplay?
   * [x] Maturity rating level (R/M, also boundaries above).
   * [x] How much humor? Wacky game, serious game, or in between?
   * [x] How do you feel about puzzles, riddles, clues, memorization?
@@ -90,7 +90,7 @@ Topics for discussion so far.
   * [x] Permanent disfigurement or other special damage okay for roleplaying.
   * [x] Possibility of death - no cheap death, but death is possible?
   * [x] Passive skill = skill check floor? So, an active roll check lower than passive skill = passive skill?
-  * [x] No crits outside of combat?
+  * [x] No critical failures outside of combat?
 * [x] **Character Kickoff**
   * [x] Inter-character relationships or bonds?
   * [x] Anyone have ideas yet for their build?

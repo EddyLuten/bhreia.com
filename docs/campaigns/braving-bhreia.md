@@ -34,6 +34,7 @@
 - 2022-01-10: [Session 8](sessions/session-8.md) - A Giant Puzzle
 - 2022-02-03: [Session 9](sessions/session-9.md) - Where's Borlok?
 - 2022-02-09: [Session 10](sessions/session-10.md) - Amalchi Rising
+- [Session 10½](sessions/session-10.5.md) - Chapter 1 Postmortem
 
 ### Chapter 2: Blue Skies
 

@@ -1,3 +1,33 @@
+/*******************************************************************************
+ *
+ * Animations
+ *
+ ******************************************************************************/
+ @keyframes fadeOut {
+    from {
+        filter: opacity(100%);
+    }
+    to {
+        filter: opacity(0%);
+    }
+}
+
+@keyframes pinch {
+    from {
+        scale: 100%;
+    }
+    to {
+        scale: 0%;
+    }
+}
+
+
+/*******************************************************************************
+ *
+ * Info Box
+ *
+ ******************************************************************************/
+
 .infobox {
     background-color: var(--md-default-bg-color--light);
     display: block;
@@ -33,6 +63,26 @@
 .infobox img {
     margin: 0 auto;
     border: 1px solid rgba(0, 0, 0, 0.54);
+}
+
+.infobox_preview {
+    cursor: pointer;
+    z-index: 999999999999;
+    background-color: rgba(0, 0, 0, 0.75);
+    left: 0;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding: 100px;
+}
+
+.infobox_image {
+    position: relative;
+    margin: 0 auto;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 /*******************************************************************************
@@ -150,17 +200,6 @@
  *
  ******************************************************************************/
 
- @keyframes fadeOut {
-    from {
-        transform: scaleY(1.0);
-        filter: grayscale(100%) opacity(100%);
-    }
-    to {
-        transform: scaleY(0.0);
-        filter: grayscale(100%) opacity(0%);
-    }
-}
-
 .spoiler {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -177,7 +216,7 @@
 }
 
 .removing {
-    animation: fadeOut 250ms;
+    animation: pinch 500ms;
 }
 
 .spoiler ~ *,

@@ -2,15 +2,15 @@
 
 The [world map](../assets/images/world-map-full.png) was created with distribution of various races in mind. Below follows a matching of major races present on Bhreia with their respective countries or regions as well as a list of races matched to the countries where they hold a majority. Go to the country's page for common background details that your character would likely know.
 
-### Scourges
+## Scourges
 
 If a race is marked as *Scourge*, it means that these creatures are seen as a nuisance, enemy, or pest to the majority population of this country. Players choosing this race are likely to get attacked without question while residing in these places.
 
-### Mixed Races
+## Mixed Races
 
 Any mixed race, like half-elves, can be found in places where these races could potentially overlap. They do not have their own countries with a majority rule due to the rare nature of their composition.
 
-### What About X?
+## What About X?
 
 Some other races, like Goblins, may also not have a majority country to call their own due to their inability to organize, being persecuted, their wildness, or other factors.
 
@@ -86,7 +86,7 @@ Just because your race is not listed under a country entry, does not mean that y
 * Low Maris
   * Human (Majority)
   * [Cuniko](cuniko.md) (Minority)
-* Marram
+* [Marram](../geography/countries/marram.md)
   * Human (Majority)
   * [Cuniko](cuniko.md) (Minority)
   * Genasi (Minority)
@@ -192,7 +192,7 @@ The following races are all those found in the Player's Handbook as well as Volo
 * Tabaxi
 * Tiefling
 * Triton
-* Yuan-ti Pureblood (Yungxi)
+* Yuan-Ti Pureblood (Yungxi)
 
 A few from other sources:
 
