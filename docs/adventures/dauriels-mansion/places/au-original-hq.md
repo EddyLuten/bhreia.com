@@ -12,7 +12,7 @@
   </figcaption>
 </figure>
 
-The original Headquarters for [Aldarion Unlimited](../organizations/aldarion-unlimited.md), back when it was just five people trying to eke out a living doing local adventures, named "[The Aldarion Adventurers](../organizations/aldarion-adventurers.md)." It's located an hour West of [Cauldin's Point](cauldins-point.md), still owned by [Dauriel Aldarion](../npcs/dauriel-aldarion.md), but has been abandoned and neglected for 35 years. Currently, the place, which isn't much more than a large cabin, is being squatted by a group of Goblins.
+The original Headquarters for [Aldarion Unlimited](../organizations/aldarion-unlimited.md), back when it was just five people trying to eke out a living doing local adventures, named "[The Aldarion Adventurers](../organizations/aldarion-adventurers.md)." It's located an hour West of [Cauldin's Point](../../../geography/settlements/cauldins-point.md), still owned by [Dauriel Aldarion](../npcs/dauriel-aldarion.md), but has been abandoned and neglected for 35 years. Currently, the place, which isn't much more than a large cabin, is being squatted by a group of Goblins.
 
 The Goblins really don't want to leave. They were born and bred here; this is their home. However, [Dauriel Aldarion](../npcs/dauriel-aldarion.md) will offer it to the players in an optional [adventure hook](../acts/act-1/adventure-hooks.md).
 

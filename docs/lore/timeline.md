@@ -72,7 +72,7 @@ TODO
       * Korban
       * Cauldin of Leikon
       * Donitar of Leikon
-    * 1847: Cauldin of Leikon dies at the age of 73, entombed at [Cauldin's Point](../adventures/dauriels-mansion/places/cauldins-point.md)
+    * 1847: Cauldin of Leikon dies at the age of 73, entombed at [Cauldin's Point](../geography/settlements/cauldins-point.md)
     * 1863: Donitar of Leikon disappears at age 87
 
     ## Third Age
@@ -95,3 +95,5 @@ TODO
     * 3068: [Jonah Feldspar Sr.](../adventures/dauriels-mansion/places/jonahs-denn.md) dies
     * 3086: Dauriel Aldarion officially retires, [Kvint Bernon](../adventures/dauriels-mansion/npcs/kvint-bernon.md) becomes CEO of AU
     * 3079, Lirrai 6th: [Dauriel's 462nd Birthday Party](../adventures/dauriels-mansion/handouts/dauriels-invitation.md) (35 years after Amalchi confrontation)
+    * 3079, Lirrai 7th: Rise of Amalchi
+    * 3080, Lirrai 7th: Start of [Blue Skies](../adventures/blue-skies/index.md)

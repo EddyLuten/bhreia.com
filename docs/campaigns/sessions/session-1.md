@@ -36,7 +36,7 @@ It is here that the game ends, right before they set off for bed. Wolf and Sah-S
     How long until another action yields inevitable consequences?
 
 ??? danger "DM: Wolf & Sah-Sauj"
-    Scene 1, focus on [Wolf](../characters/wolf.md), meeting [Sah-Sauj](../characters/sah-sauj-cho-ixo.md). Traveling westward to Cauldin's Point from Korban's Ruin with a wagon full of cigars for Dauriel, Wolf is on his way to deliver his cargo and attend the party himself.
+    Scene 1, focus on [[wolf]], meeting [[sah-sauj]]. Traveling westward to Cauldin's Point from Korban's Ruin with a wagon full of cigars for Dauriel, Wolf is on his way to deliver his cargo and attend the party himself.
 
     !!! quote "Wolf Intro"
         Somewhere in this pristine country, emerging from the remnants of a primeval forest.  
@@ -69,7 +69,7 @@ It is here that the game ends, right before they set off for bed. Wolf and Sah-S
     - After the encounter, they continue traveling towards Cauldin's Point.
 
 ??? danger "DM: Tiran & Gadot"
-    The storm is in full effect as [Tiran](../characters/tiran-medeid.md) is introduced.
+    The storm is in full effect as [[tiran]] is introduced.
 
     !!! quote "Tiran & Gadot Intro"
         The road had its fill of rain, but the sky is relentless.  

@@ -2,7 +2,7 @@
 
 --8<-- "spoiler.html"
 
-The adventure is set in [Cauldin's Point](places/cauldins-point.md), a town in the country of Korbantir.
+The adventure is set in [Cauldin's Point](../../geography/settlements/cauldins-point.md), a town in the country of Korbantir.
 
 ## Acts
 

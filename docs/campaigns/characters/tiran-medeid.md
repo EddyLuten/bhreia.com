@@ -1,3 +1,8 @@
+---
+alias:
+    name: tiran
+    text: Tiran
+---
 # Tiran Medeid
 
 <figure class="infobox right">

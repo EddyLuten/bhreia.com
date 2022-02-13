@@ -1,6 +1,6 @@
 # Branch With 10 Leaves
 
-**Owner:** [Sah-Sauj](../characters/sah-sauj-cho-ixo.md)
+**Owner:** [[sah-sauj]]
 
 Bhreia turned your holy symbol into a branch with ten oak leaves.
 

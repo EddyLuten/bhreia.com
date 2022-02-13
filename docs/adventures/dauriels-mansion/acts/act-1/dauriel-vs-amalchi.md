@@ -2,7 +2,7 @@
 
 --8<-- "spoiler.html"
 
-Thirty-five years before his birthday party, [Dauriel](../../npcs/dauriel-aldarion.md) was traveling through the town of [Cauldin's Point](../../places/cauldins-point.md) to his nearby adventuring guild west of town when he was approached by a woman who asked him for his help. Slung around her neck and supported in her arms seemed to be a child, closely cradled to her chest. She explained that she followed her **husband** down a cave, which lead into an underground complex. There, she saw him and four others perform a blood sacrifice around the naked body of a man.
+Thirty-five years before his birthday party, [Dauriel](../../npcs/dauriel-aldarion.md) was traveling through the town of [Cauldin's Point](../../../../geography/settlements/cauldins-point.md) to his nearby adventuring guild west of town when he was approached by a woman who asked him for his help. Slung around her neck and supported in her arms seemed to be a child, closely cradled to her chest. She explained that she followed her **husband** down a cave, which lead into an underground complex. There, she saw him and four others perform a blood sacrifice around the naked body of a man.
 
 Dauriel followed the woman to where she entered the cave, but before he entered, he could already feel a dark and evil energy coming from within. He turned around and told the woman that he'd be back soon and went off to gather his party. Once he and his party returned, the woman was gone, but the cave was still there and radiating energy.
 

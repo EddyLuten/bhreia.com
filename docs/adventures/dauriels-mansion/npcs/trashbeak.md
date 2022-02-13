@@ -10,7 +10,7 @@
   </figcaption>
 </figure>
 
-A Kenku inhabitant of [Cauldin's Point](../places/cauldins-point.md) who is responsible for (or at least has started to on his own) *collecting* trash in town.
+A Kenku inhabitant of [Cauldin's Point](../../../geography/settlements/cauldins-point.md) who is responsible for (or at least has started to on his own) *collecting* trash in town.
 
 ??? danger "DM: Supplemental Facts"
     ## Lexicon

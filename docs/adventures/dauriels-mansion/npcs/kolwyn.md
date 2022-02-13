@@ -4,4 +4,4 @@ Human male, around 11-13. Stableboy at [Jonah's Denn](../places/jonahs-denn.md).
 
 ## Campaign Specific
 
-Calls [Wolf](../../../campaigns/characters/wolf.md) "Mr. Wolf."
+Calls [[wolf]] "Mr. Wolf."

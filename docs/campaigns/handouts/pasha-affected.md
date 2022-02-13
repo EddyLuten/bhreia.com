@@ -2,7 +2,7 @@
 
 --8<-- "spoiler.html"
 
-Owner: [Tiran](../characters/tiran-medeid.md)
+Owner: [[tiran]]
 
 Held by [Borlok](../../adventures/dauriels-mansion/npcs/borlok-orsel.md) in his bag of holding.
 

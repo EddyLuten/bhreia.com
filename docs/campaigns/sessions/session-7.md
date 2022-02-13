@@ -16,7 +16,7 @@ Pasha had an uninterrupted night, but was greeted in the morning by a knocking o
 
 After some shenanigans, everyone headed back up to the boys' cave and found Mike close to death. Sah-Sauj stabilizes him with a spell, but he doesn't wake up. Through the use of some magic, Wolf is able to detect that Mike has been poisoned. Everyone except Tiran and the kids go to town to try and find an herbalist to try and cure this poisoning.
 
-In town, everyone goes their separate way and asks around for the herbalist or someone who knows how to handle a Grunge overdose. Everyone is lead to the temple of Primani, and specifically Londrina, a Dragonborn priestess. While reluctant to help out at first, upon hearing a child is in danger of dying, she gives Sah-Sauj the antidote.
+In town, everyone goes their separate way and asks around for the herbalist or someone who knows how to handle a Grunge overdose. Everyone is lead to the temple of Primani, and specifically [[londrina]], a Dragonborn priestess. While reluctant to help out at first, upon hearing a child is in danger of dying, she gives Sah-Sauj the antidote.
 
 Arriving back at the cave, Sah-Sauj immediately administers the antidote and Mike seems to slowly stabilize, but remains unconscious. Knowing that Mike will recover, and that they have nobody to take care of them, you set out to go find a home for them.
 

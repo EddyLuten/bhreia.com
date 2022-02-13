@@ -1,3 +1,8 @@
+---
+alias:
+    name: pasha
+    text: Pasha
+---
 # Paxalon "Pasha" Yaraxil
 
 <figure class="infobox right">

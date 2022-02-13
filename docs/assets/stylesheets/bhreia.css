@@ -65,6 +65,11 @@
     border: 1px solid rgba(0, 0, 0, 0.54);
 }
 
+.infobox .open_link{
+    display: block;
+    font-size: 1em;
+}
+
 .infobox_preview {
     cursor: pointer;
     z-index: 999999999999;

@@ -74,28 +74,13 @@ function setupScrambling() {
 }
 
 function scrollToMenuItem() {
-    var scrollwrap = document.getElementsByClassName('md-sidebar__scrollwrap');
-    const searchText = String(pageTitle.childNodes[0].nodeValue).trim();
-    if (scrollwrap.length > 0) {
-        scrollwrap = scrollwrap[0];
-        const items = scrollwrap.getElementsByClassName('md-nav__item');
-        for (const item of items) {
-            if (item.classList.contains('md-nav__item--section') ||
-                item.classList.contains('md-nav__item--nested'))
-                continue;
-            if (item.outerHTML.includes(searchText)) {
-                const rect = item.getBoundingClientRect();
-                if (rect.width > 0 && rect.height > 0) {
-                    item.scrollIntoView({
-                        block:    'nearest',
-                        behavior: 'smooth',
-                        inline:   'nearest'
-                    });
-                    return;
-                }
-            }
-        }
-    }
+    const item = document.querySelector('a.md-nav__link--active');
+    if (!item) return;
+    item.scrollIntoView({
+        behavior: 'smooth',
+        block:    'nearest',
+        inline:   'nearest',
+    });
 }
 
 window.addEventListener('DOMContentLoaded', () => {
@@ -159,6 +144,5 @@ window.addEventListener('DOMContentLoaded', () => {
 
     window.setTimeout(() => scrollToMenuItem(), 250);
     window.addEventListener('resize', scrollToMenuItem);
-
     window.addEventListener('ShowSpoiler', killSpoiler);
 });

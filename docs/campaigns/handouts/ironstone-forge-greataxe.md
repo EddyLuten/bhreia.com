@@ -1,6 +1,6 @@
 # Ironstone Forge Greataxe
 
-**Owner:** [Tiran](../characters/tiran-medeid.md)
+**Owner:** [[tiran]]
 
 Forged in the fires of the Ironstone Forge near Cauldin's Point, this Greataxe is made from the most refined steel that can be found in Korbantir. When you hold it up to the light, it shimmers slightly blue.
 

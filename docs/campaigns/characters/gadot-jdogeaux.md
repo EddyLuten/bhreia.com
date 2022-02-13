@@ -1,3 +1,8 @@
+---
+alias:
+    name: gadot
+    text: Gadot
+---
 # Gadot J'Dogeaux
 
 <figure class="infobox right">

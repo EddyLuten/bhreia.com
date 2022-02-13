@@ -4,7 +4,7 @@ Name: Toddwynn "Maniac" Marshall
 
 Age: 34
 
-Occupation: Constable of [Cauldin's Point](../places/cauldins-point.md)
+Occupation: Constable of [Cauldin's Point](../../../geography/settlements/cauldins-point.md)
 
 ??? danger "DM: Supplemental Facts"
     Based On: [Maniac from Wing Commander 3, 4](https://wingcommander.fandom.com/wiki/Todd_Marshall)

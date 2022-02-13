@@ -19,7 +19,7 @@ Moreus is the husband of [Dauriel Aldarion](dauriel-aldarion.md).
 
     *See also: [Amalchi](../../../deities/amalchi.md).*
 
-    Born in 3009, Moreus was a worshipper in the Cult of Amalchi and chosen to become the vessel in which the deity could gestate and take a corporeal form. In 3044, this happened in the catacombs beneath [Cauldin's Point](../places/cauldins-point.md) and Moreus' identity was erased and replaced with that of Amalchi.
+    Born in 3009, Moreus was a worshipper in the Cult of Amalchi and chosen to become the vessel in which the deity could gestate and take a corporeal form. In 3044, this happened in the catacombs beneath [Cauldin's Point](../../../geography/settlements/cauldins-point.md) and Moreus' identity was erased and replaced with that of Amalchi.
 
     See [Act 1: Dauriel vs Amalchi](../acts/act-1/dauriel-vs-amalchi.md) for the continuation.
 

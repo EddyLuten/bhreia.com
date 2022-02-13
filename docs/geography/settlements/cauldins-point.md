@@ -1,3 +1,8 @@
+---
+alias:
+  name: cauldins-point
+  text: Cauldin's Point
+---
 # Cauldin's Point
 
 <figure class="infobox right">
@@ -10,7 +15,7 @@
   </figcaption>
 </figure>
 
-Cauldin's Point is a town in [Korbantir](https://bhreia.com/geography/countries/korbantir/), with a population of around 1,250 people, including those from surrounding unincorporated areas. Its claim to fame is that it's the final resting place of Cauldin of Leikon, one of the first human tribal leaders. It is surrounded by farmland and a large ancient forest to the west.
+Cauldin's Point is a town in [[korbantir]], with a population of around 1,250 people, including those from surrounding unincorporated areas. Its claim to fame is that it's the final resting place of Cauldin of Leikon, one of the first human tribal leaders. It is surrounded by farmland and a large ancient forest to the west.
 
 Its economy is largely dependent on trade, facilitated by the fact that it's situated on a crossroads between three major roadways. It is the logical stopping point for anyone traveling from Korban's Landing westward since there are no other major towns on the way. Even though much money flows through the town, its citizens are mostly impoverished. This is because of corruption within the local government and extortion of its populace.
 
@@ -37,7 +42,7 @@ The stream running through town is called **The Wrinkle**.
 - Blacksmith
 - Butcher
 - General Store
-- Inn ([Jonah's Denn](jonahs-denn.md))
+- Inn ([Jonah's Denn](../../adventures/dauriels-mansion/places/jonahs-denn.md))
 - Open air market
 - Stables
 - Statue of Cauldin
@@ -55,17 +60,20 @@ The stream running through town is called **The Wrinkle**.
     - Butcher
       - Run by Wendolyn Brightlock
       - Female Half-Elf, 36 years old
-    - [Dauriel's Mansion](the-mansion.md)
+    - [Dauriel's Mansion](../../adventures/dauriels-mansion/places/the-mansion.md)
     - General Store
       - Run by Grottle
       - Male Gnome, 294 years old
-    - Inn ([Jonah's Denn](jonahs-denn.md))
+    - Inn ([Jonah's Denn](../../adventures/dauriels-mansion/places/jonahs-denn.md))
     - Open air market
     - Stables
       - Run by Wynn Gaelan
       - Non-binary Elf, 115 years old
     - Statue of Cauldin
     - Temple of Melora
+      - Run by priestess [[londrina]]
+      - Purple scales
+      - Female Dragonborn, unknown age
     - Town Hall
       - Run by Bobson Dugnutt
       - Male Human, 33 years old
@@ -105,7 +113,7 @@ The stream running through town is called **The Wrinkle**.
       - Run by Balthazar Talintir
       - Elf male, 313 years old
     - Farm
-      - Run by [Grandpa Lenny](../npcs/grandpa-lenny.md)
+      - Run by [Grandpa Lenny](../../adventures/dauriels-mansion/npcs/grandpa-lenny.md)
     - Windmill
       - Run by Leonard Timmons, Jr., son of Grandpa Lenny.
       - Human male, 53 years old

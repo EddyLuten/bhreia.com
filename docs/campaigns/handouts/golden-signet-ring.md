@@ -1,6 +1,6 @@
 # Golden Signet Ring
 
-**Owner:** [Wolf](../characters/wolf.md)
+**Owner:** [[wolf]]
 
 A golden ring found on the skeletal hand gripping a lever in the caves below Cauldin's Point.
 

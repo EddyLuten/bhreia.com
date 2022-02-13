@@ -2,7 +2,7 @@
 
 --8<-- "spoiler.html"
 
-On the road, outside of [Cauldin's Point](../places/cauldins-point.md), the adventurers can rest at [Grandpa Lenny](../npcs/grandpa-lenny.md)'s place. When they see him for the first time, he's tending a field with his [little grandson named Peter](../npcs/peter-the-goblin.md), who is obviously a goblin. Grandpa Lenny thinks that this goblin is his grandson, his eyesight isn't very good, you see?
+On the road, outside of [Cauldin's Point](../../../geography/settlements/cauldins-point.md), the adventurers can rest at [Grandpa Lenny](../npcs/grandpa-lenny.md)'s place. When they see him for the first time, he's tending a field with his [little grandson named Peter](../npcs/peter-the-goblin.md), who is obviously a goblin. Grandpa Lenny thinks that this goblin is his grandson, his eyesight isn't very good, you see?
 
 * If confronted, he denies that it's true.
 * If the goblin is killed, he (roll d20):

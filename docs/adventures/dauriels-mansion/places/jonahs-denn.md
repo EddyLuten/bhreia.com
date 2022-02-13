@@ -8,7 +8,7 @@
   </figcaption>
 </figure>
 
-An Inn in [Cauldin's Point](cauldins-point.md). Run by:
+An Inn in [Cauldin's Point](../../../geography/settlements/cauldins-point.md). Run by:
 
 - [Junior Feldspar](../npcs/junior-feldspar.md)
 - [Rhea Feldspar](../npcs/rhea-feldspar.md)

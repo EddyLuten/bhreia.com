@@ -33,7 +33,7 @@ And that's where we left off.
     - On his body, his loincloth conceals a bag of holding:
       - Ironstone Forged Greataxe (**+1 Greataxe**)
       - A note: "Pasha Yaraxil. Dragonborn. Affected."
-        - Affected by the event in [Finippicay](../characters/pasha.md)
+        - Affected by the event in [[pasha|Finippicay]]
         - His sacrifice would have had special significance
       - A light blue robe
       - A golden dagger (the same stuff that was in the tomb)

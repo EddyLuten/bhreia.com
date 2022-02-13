@@ -2,7 +2,7 @@
 
 --8<-- "spoiler.html"
 
-A cult that occasionally convenes in [Cauldin's Point](../places/cauldins-point.md) to perform a ritual sacrifice in order to worship and reincarnate [Amalchi](../../../deities/amalchi.md).
+A cult that occasionally convenes in [Cauldin's Point](../../../geography/settlements/cauldins-point.md) to perform a ritual sacrifice in order to worship and reincarnate [Amalchi](../../../deities/amalchi.md).
 
 ## Members
 

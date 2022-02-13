@@ -27,7 +27,7 @@ Intro Blurb:
 > Here you are **PLAYER**. In the rain, on this muddy road.  
 > What are you doing?
 
-Ahead, through the pouring rain, they can make out the outline of the wooden walls surrounding [Cauldin's Point](../../places/cauldins-point.md) and the light and chimney smoke from an inn on the left side of the road, right outside of town.
+Ahead, through the pouring rain, they can make out the outline of the wooden walls surrounding [Cauldin's Point](../../../../geography/settlements/cauldins-point.md) and the light and chimney smoke from an inn on the left side of the road, right outside of town.
 
 ### Arriving at the Inn
 

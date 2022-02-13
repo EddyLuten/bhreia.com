@@ -10,18 +10,22 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: "Check out the repo"
+        uses: actions/checkout@v2
+      - name: "Setup a Python Environment"
+        uses: actions/setup-python@v2
         with:
-          submodules: 'true'
-          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
-      - uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
-      - run: |
-          pip install mkdocs-material mkdocs-git-revision-date-plugin mkdocs-awesome-pages-plugin mdx_truly_sane_lists markdown-word-count
+          python-version: '3.9'
+      - name: "Install Dependencies"
+        run: |
+          pip install mkdocs-material mkdocs-alias-plugin mkdocs-git-revision-date-plugin mkdocs-awesome-pages-plugin mdx_truly_sane_lists markdown-word-count
+      - name: "Calculate Word Count"
+        run: |
           COUNT=$(shopt -s globstar; ls -d -- docs/**/*.md | xargs -L1 mwc | paste -sd+ - | bc);
           echo "TOTAL WORD COUNT: $COUNT";
-      - uses: webfactory/ssh-agent@v0.5.3
+      - name: "Set up the SSH Agent"
+        uses: webfactory/ssh-agent@v0.5.3
         with:
             ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-      - run: mkdocs gh-deploy --force
+      - name: "Deploy to bhreia.com"
+        run: mkdocs gh-deploy --force

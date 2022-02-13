@@ -4,7 +4,7 @@
 
 AKA: Kids See Ghosts :ghost:
 
-On their first night in [Cauldin's Point](../places/cauldins-point.md), one of the party members experiences the [ghostly apparition of a child](../npcs/ghost-child.md) visiting them at night in [Jonah's Denn](../places/jonahs-denn.md). They tell the party member to keep quiet because the eater is hunting them.
+On their first night in [Cauldin's Point](../../../geography/settlements/cauldins-point.md), one of the party members experiences the [ghostly apparition of a child](../npcs/ghost-child.md) visiting them at night in [Jonah's Denn](../places/jonahs-denn.md). They tell the party member to keep quiet because the eater is hunting them.
 
 * The child was killed in a sacrifice
 * The child doesn't know why, but it was sacrificed at [Cauldin's Tomb](../places/cauldins-tomb.md) by the [Cult of Amalchi](../organizations/cult-of-amalchi.md)

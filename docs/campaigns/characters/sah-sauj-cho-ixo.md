@@ -1,3 +1,8 @@
+---
+alias:
+    name: sah-sauj
+    text: Sah-Sauj
+---
 # Sah-Sauj Cho'Ixo
 
 <figure class="infobox right">

@@ -10,7 +10,7 @@
   </figcaption>
 </figure>
 
-Jonah Feldspar Jr. (b. 3028) runs [Jonah's Denn](../places/jonahs-denn.md) inn in [Cauldin's Point](../places/cauldins-point.md). He is married to [Rhea Feldspar](rhea-feldspar.md).
+Jonah Feldspar Jr. (b. 3028) runs [Jonah's Denn](../places/jonahs-denn.md) inn in [Cauldin's Point](../../../geography/settlements/cauldins-point.md). He is married to [Rhea Feldspar](rhea-feldspar.md).
 
 ## Appearance
 

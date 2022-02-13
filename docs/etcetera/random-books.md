@@ -7,7 +7,7 @@
 * Into the Wild: Korban's Collected Journals
   * By Korban
 * Truth or Fiction? The Many Days of Night
-  * By Londrina Falanti
+  * By Wichiqin Falanti
 * Learning Witchcraft The Hard Way
   * By Nasabri Pellsman
 * My Life as a Teenage Tabaxi

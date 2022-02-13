@@ -6,7 +6,7 @@
 
 Name comes from [Phidippus](https://en.wikipedia.org/wiki/Phidippus), the genus of jumping spiders.
 
-He's a wizard who lives in a tower east of [Cauldin's Point](../places/cauldins-point.md), deep in the wilderness.
+He's a wizard who lives in a tower east of [Cauldin's Point](../../../geography/settlements/cauldins-point.md), deep in the wilderness.
 
 He's an old acquaintance of [Dauriel](dauriel-aldarion.md), going back decades. He was also [invited](../handouts/dauriels-invitation.md) to Dauriel's party, but his invitation was stolen. He's heard of the party and is quite peeved that he wasn't invited.
 

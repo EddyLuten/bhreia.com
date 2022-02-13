@@ -1,6 +1,6 @@
 # Cauldin's Sword
 
-**Owner:** [Tiran](../characters/tiran-medeid.md)
+**Owner:** [[tiran]]
 
 You have a +1 bonus to attack and damage rolls made with this weapon.
 

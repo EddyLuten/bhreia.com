@@ -1,3 +1,8 @@
+---
+alias:
+    name: korbantir
+    text: Korbantir
+---
 # Korbantir
 
 <figure class="infobox right">
@@ -62,7 +67,7 @@ Notable settlements only; there are numerous smaller villages not listed.
 * **Mendunon**, a city build on top of a mountain, near healing hot springs.
 * Almaris, a border town thriving on import and export
 * Basford, a port town bordering the Wesfirth Wilds.
-* Cauldin's Point, a town that serves as an agricultural hub, named after Cauldin of Leikon.
+* [[cauldins-point]], a town that serves as an agricultural hub, named after Cauldin of Leikon.
 * Crabpot, prime exporter of Korbantirian Crab.
 * Forisden, known for its intense hunting expeditions and high quality game, south of the Lagermend Forest.
 * Hindramon, the largest northernmost town, known for its scenic rivers and untouched wilderness.

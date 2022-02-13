@@ -2,7 +2,7 @@
 
 --8<-- "spoiler.html"
 
-Located about half a mile north-east of [Cauldin's Point](cauldins-point.md).
+Located about half a mile north-east of [Cauldin's Point](../../../geography/settlements/cauldins-point.md).
 
 ## People
 

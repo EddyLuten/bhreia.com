@@ -10,7 +10,7 @@
   </figcaption>
 </figure>
 
-Mike Truk is a homeless boy of around 11 years of age, living in and around [Cauldin's Point](../places/cauldins-point.md).
+Mike Truk is a homeless boy of around 11 years of age, living in and around [Cauldin's Point](../../../geography/settlements/cauldins-point.md).
 
 ## Appearance
 
@@ -28,7 +28,7 @@ Mike Truk is a homeless boy of around 11 years of age, living in and around [Cau
 
     ## History
 
-    His mother died before he could form memories of her and he was raised by his older brother, Anthony, in the slums of [Cauldin's Point](../places/cauldins-point.md) where they had to steal to get by. His brother died last year and he's been surviving with his three friends since. **Oona**, a Half-Elf girl of 14, and **Hurq**, a 10 year old Half-Orc. They share a cave in the hills north of town and hang out by the northern slums, near the wooden walls.
+    His mother died before he could form memories of her and he was raised by his older brother, Anthony, in the slums of [Cauldin's Point](../../../geography/settlements/cauldins-point.md) where they had to steal to get by. His brother died last year and he's been surviving with his three friends since. **Oona**, a Half-Elf girl of 14, and **Hurq**, a 10 year old Half-Orc. They share a cave in the hills north of town and hang out by the northern slums, near the wooden walls.
 
     A chance encounter with Mike in town will immediately kick off [The Cave](../sidequests/the-cave.md).
 
