@@ -1,3 +1,8 @@
+---
+alias:
+    name: au
+    text: Aldarion Unlimited
+---
 # Aldarion Unlimited
 
 Adventuring company founded by [Dauriel Aldarion](../npcs/dauriel-aldarion.md).

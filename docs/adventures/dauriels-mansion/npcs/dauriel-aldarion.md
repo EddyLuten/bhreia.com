@@ -1,3 +1,8 @@
+---
+alias:
+    name: dauriel
+    text: Dauriel Aldarion
+---
 # Dauriel Aldarion
 
 <figure class="infobox right">

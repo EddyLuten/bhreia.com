@@ -1,3 +1,8 @@
+---
+alias:
+    name: marram
+    text: Marram
+---
 # Marram
 
 <figure class="infobox right">
@@ -15,7 +20,8 @@
 
 ## Places
 
-- ⭐️ **Beteb**, capital
+- ⭐️ **Teffet**, capital, largest city
+- **Beteb**, a large southern city
 - Conoc
 - Jorroj
 - Ini

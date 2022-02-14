@@ -1,3 +1,8 @@
+---
+alias:
+    name: jonahs-denn
+    text: Jonah's Denn
+---
 # Jonah's Denn
 
 <figure class="infobox right">
@@ -8,7 +13,7 @@
   </figcaption>
 </figure>
 
-An Inn in [Cauldin's Point](../../../geography/settlements/cauldins-point.md). Run by:
+An Inn in [[cauldins-point]]. Run by:
 
 - [Junior Feldspar](../npcs/junior-feldspar.md)
 - [Rhea Feldspar](../npcs/rhea-feldspar.md)

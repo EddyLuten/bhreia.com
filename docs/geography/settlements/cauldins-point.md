@@ -23,10 +23,10 @@ Its economy is largely dependent on trade, facilitated by the fact that it's sit
 
 Population estimates:
 
-- In town: 300
-- Vagrants: 200
+- Within town limits: 300
+- Transitory: 200
 - Surrounding region: 750
-- Total: 1250
+- **Total**: 1250
 
 ## Areas
 
@@ -42,7 +42,7 @@ The stream running through town is called **The Wrinkle**.
 - Blacksmith
 - Butcher
 - General Store
-- Inn ([Jonah's Denn](../../adventures/dauriels-mansion/places/jonahs-denn.md))
+- Inn ([[jonahs-denn]])
 - Open air market
 - Stables
 - Statue of Cauldin
@@ -64,7 +64,7 @@ The stream running through town is called **The Wrinkle**.
     - General Store
       - Run by Grottle
       - Male Gnome, 294 years old
-    - Inn ([Jonah's Denn](../../adventures/dauriels-mansion/places/jonahs-denn.md))
+    - Inn, [[jonahs-denn]]
     - Open air market
     - Stables
       - Run by Wynn Gaelan

@@ -20,10 +20,10 @@ The following people are always present in the mansion.
     * Larry Pert
     * Human male from Donitar
     * Fakes his background. Now knows that Dauriel wouldn't have cared, but he's in too deep to drop the accent. Dauriel is no idiot and has figured this out years ago.
-* Chickadee (Chickadee Two Rivers)
+* Chickadee (Chickadee of the Two Rivers)
   * Housekeeper
-  * Tabaxi female from [Marram](../../../geography/countries/marram.md)
-  * Silently hates [Aldarion Unlimited](../organizations/aldarion-unlimited.md)
+  * Tabaxi female from [[marram]]
+  * Silently hates [[au]]
   * Chickadee was hired before AU began hunting Tabaxi in her home country and knows that Dauriel wasn't involved. However, she hates that he isn't doing anything about it (that she knows of).
 
 ## Exterior

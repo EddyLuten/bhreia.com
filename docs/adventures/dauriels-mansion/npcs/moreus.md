@@ -1,7 +1,12 @@
+---
+alias:
+    name: moreus
+    text: Moreus Aldarion
+---
 # Moreus
 
 <figure class="infobox right">
-  <h3>Moreus</h3>
+  <h3>Moreus Aldarion</h3>
   <a href="/assets/images/moreus-full.png">
     <img src="/assets/images/moreus-tiny.png" />
   </a>

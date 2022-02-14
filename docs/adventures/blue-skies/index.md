@@ -8,6 +8,12 @@ This adventure is a direct follow up to [Dauriel's Mansion](../dauriels-mansion/
 
 - Update the Korbantir map.
 - Create a 3080 copy of the Cauldin's Point map with the lake.
+- Portraits:
+  - [[weslan]]
+  - [[londrina]]
+  - [[phillipe]]
+- What does [[londrina]] have to offer the group?
+- What does [[weslan]] have to offer the group?
 
 ## Act I
 
@@ -19,12 +25,15 @@ Conditions:
 - People have mostly lost track of time.
 - Amalchi has turned into a dragon and flown away.
 - In response to the dragon's violence, Korbantirians have become mistrustful of dragonborn.
-- There's a large [[survivors-camp]] run by Aldarion Unlimited outside [[cauldins-point]].
+- There's a large [[survivors-camp]] run by [[au]] outside [[cauldins-point]].
+- [[tiran]]'s dad and [[chickadee]] went to Marram to look for [[phillipe]].
 
 ## Act II
 
+- Travelling to Marram.
 - Finding the dragon in Marram.
 
 ## Act III
 
 - Killing the dragon.
+- Return home or another adventure.
