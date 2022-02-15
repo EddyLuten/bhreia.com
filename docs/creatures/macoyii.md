@@ -1,3 +1,8 @@
+---
+alias:
+    name: macoyii
+    text: Macoyii
+---
 # Macoyii
 
 <figure class="infobox right">

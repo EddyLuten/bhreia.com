@@ -1,14 +1,6 @@
 # Braving Bhreia
 
-## Players (a-z)
-
-- Anjelica as **[[sah-sauj]]**, a Tortle Cleric
-- James as **[[pasha]]**, a Dragonborn Sorcerer
-- Joel as **[[tiran]]**, a Human Artificer
-- Mike as **[[gadot]]**, a Cuniko Rogue
-- Nate as **[[wolf]]**, a Hill Dwarf Ranger
-
-Eddy as the DM.
+Braving Bhreia is an ongoing campaign that started on November 1st, 2021, played on Roll20 and Discord.
 
 ## Sessions
 
@@ -20,7 +12,7 @@ Eddy as the DM.
     <img src="/assets/images/dauriels-mansion-roll20-banner.jpg" />
   </a>
   <figcaption>
-    The current banner used in Roll20 for the Dauriel's Mansion chapter, showing Dauriel's Mansion itself. <a href="https://www.artstation.com/artwork/W2nxZQ">Original, unmodified image</a>.
+    The banner used in Roll20 for the Dauriel's Mansion chapter, showing Dauriel's Mansion itself. <a href="https://www.artstation.com/artwork/W2nxZQ">Original, unmodified image</a>.
   </figcaption>
 </figure>
 
@@ -39,7 +31,27 @@ Eddy as the DM.
 
 ### Chapter 2: Blue Skies
 
+<figure class="infobox right">
+  <h3>Blue Skies Banner</h3>
+  <a href="/assets/images/blue-skies-banner-full.png">
+    <img src="/assets/images/blue-skies-banner-tiny.png" />
+  </a>
+  <figcaption>
+    The current banner used in Roll20 for the Blue Skies chapter, showing Amalchi in flight before the sun. This is an original piece.
+  </figcaption>
+</figure>
+
 - TBD: [Session 11](sessions/session-11.md)
+
+## Players (a-z)
+
+- Anjelica as **[[sah-sauj]]**, a Tortle Cleric
+- James as **[[pasha]]**, a Dragonborn Sorcerer
+- Joel as **[[tiran]]**, a Human Artificer
+- Mike as **[[gadot]]**, a Cuniko Rogue
+- Nate as **[[wolf]]**, a Hill Dwarf Ranger
+
+Eddy as the DM.
 
 ## Homebrew
 

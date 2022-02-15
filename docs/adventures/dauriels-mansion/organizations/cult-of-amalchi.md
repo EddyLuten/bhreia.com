@@ -1,3 +1,8 @@
+---
+alias:
+    name: amalchi-cult
+    text: Cult of Amalchi
+---
 # 🔐 Cult of Amalchi
 
 --8<-- "spoiler.html"

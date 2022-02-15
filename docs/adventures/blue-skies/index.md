@@ -2,22 +2,29 @@
 
 --8<-- "spoiler.html"
 
+<figure class="infobox right">
+  <h3>Blue Skies Banner</h3>
+  <a href="/assets/images/blue-skies-banner-full.png">
+    <img src="/assets/images/blue-skies-banner-tiny.png" />
+  </a>
+  <figcaption>
+    The current banner used in Roll20 for the Blue Skies chapter, showing Amalchi in flight before the sun. This is an original piece.
+  </figcaption>
+</figure>
+
 This adventure is a direct follow up to [Dauriel's Mansion](../dauriels-mansion/index.md). The adventure starts at [[crater]] and concludes in [[marram]].
 
 ## TODO List
 
-- New Roll20 banner
 - Portraits:
-  - [[weslan]]
-  - [[londrina]]
-  - [[phillipe]]
-- What does [[londrina]] have to offer the group?
-- What does [[weslan]] have to offer the group?
-- Update the Korbantir map.
-
-### Done
-
-- ~~Create a 3080 copy of the Cauldin's Point map with the lake.~~ [[crater]]
+  - [ ] [[weslan]]
+  - [ ] [[londrina]]
+  - [ ] [[phillipe]]
+- [ ] What does [[londrina]] have to offer the group?
+- [ ] What does [[weslan]] have to offer the group?
+- [ ] Update the Korbantir map.
+- [x] Create a 3080 copy of the Cauldin's Point map with the lake. [[crater]]
+- [x] New Roll20 banner
 
 ## Act I
 
@@ -31,6 +38,7 @@ Conditions:
 - [[cauldins-point]] was destroyed during Amalchi's ascension and is now [[crater]].
 - In response to the dragon's violence, Korbantirians have become mistrustful of dragonborn.
 - There's a large [[survivors-camp]] run by [[au]] outside [[crater]].
+- [[phillipe]] should have been back by now, but he's missing.
 - [[tiran]]'s dad and [[chickadee]] went to Marram to look for [[phillipe]].
 
 ## Act II

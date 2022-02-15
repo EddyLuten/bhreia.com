@@ -2,6 +2,16 @@
 
 --8<-- "spoiler.html"
 
+<figure class="infobox right">
+  <h3>Dauriel's Mansion Banner</h3>
+  <a href="/assets/images/dauriels-mansion-roll20-banner.jpg">
+    <img src="/assets/images/dauriels-mansion-roll20-banner.jpg" />
+  </a>
+  <figcaption>
+    The banner used in Roll20 for the Dauriel's Mansion chapter, showing Dauriel's Mansion itself. <a href="https://www.artstation.com/artwork/W2nxZQ">Original, unmodified image</a>.
+  </figcaption>
+</figure>
+
 The adventure is set in [Cauldin's Point](../../geography/settlements/cauldins-point.md), a town in the country of Korbantir.
 
 ## Acts
