@@ -1,3 +1,8 @@
+---
+alias:
+    name: amalchi
+    text: Amalchi
+---
 # 🔐 Amalchi
 
 --8<-- "spoiler.html"
