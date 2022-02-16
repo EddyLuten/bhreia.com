@@ -7,6 +7,10 @@ alias:
 
 Malachi is the husband of [[sophia]] and father of [[tiran]]. He's also a high level wizard.
 
+## Biography
+
+Born in Taïni, but eventually moved to Korbantir where he met and married [[sophia]].
+
 ## Situational Background
 
 After learning about the disaster in Cauldin's Point, knowing that their son was there, they immediately left home to go look for him and [[gadot]]. Much like the others, they also found that Tiran and Gadot were missing, presumed dead.

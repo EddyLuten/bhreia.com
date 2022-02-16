@@ -14,7 +14,7 @@ There's a camp set up south west of town, hundreds of tents set up in neat rows 
 ## Approaching the Camp
 
 !!! cite "Flavor"
-    Against the treeline of the south-western forest, hundreds of tents are arranged in neat columns. The putrid smell of too many people cramped up together coats your senses as your approach. A silent crowd of people gathers around the missing persons board posted at the entrance. They desperately search for updates here, which remain elusive. A thousand notes carrying the names of those lost hang from it, bleaching in light of the unsetting sun.
+    Against the treeline of the south-western forest, hundreds of tents are arranged in neat columns. The putrid smell of too many people cramped up together coats your senses as your approach. A silent crowd of people stands gatheredd around the missing persons board posted at the entrance. They desperately search for updates here, which remain elusive. A thousand notes carrying the names of those lost hang from it, bleaching in light of the unsetting sun.
 
 ## Missing Persons Board
 
@@ -32,7 +32,7 @@ There's a board with the names of those still missing, names scratched off are c
 On the pole holding the board:
 
 !!! cite "Notice"
-    Any information about the origins of the events of the 7th of Lirrai last year will be greatly rewarded by the Aldarion Unlimited company. Speak to Commander [[weslan]] in the camp for details.
+    Any information about the origins of the events of the 7th of Lirrai last year will be greatly rewarded by the Aldarion Unlimited company. Speak to Captain [[weslan]] in the camp for details.
 
 More than a thousand souls in total are dead or missing.
 

@@ -70,7 +70,6 @@ Trying the following third party rules unless there's an objection. The document
 ??? danger "DM: Links"
     Links:
 
-    - [Syrinscape](https://syrinscape.com/online/cp/follow-invite/212471-86592a7b-0d68-43fe-8a7f-33f817a6cc81/)
     - [Roll20](https://app.roll20.net/campaigns/details/11549640)
 
     Notes:

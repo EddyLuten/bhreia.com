@@ -17,7 +17,6 @@ This adventure is a direct follow up to [Dauriel's Mansion](../dauriels-mansion/
 ## TODO List
 
 - Portraits:
-  - [ ] [[weslan]]
   - [ ] [[londrina]]
   - [ ] [[phillipe]]
 - [ ] What does [[londrina]] have to offer the group?
@@ -25,6 +24,8 @@ This adventure is a direct follow up to [Dauriel's Mansion](../dauriels-mansion/
 - [ ] Update the Korbantir map.
 - [x] Create a 3080 copy of the Cauldin's Point map with the lake. [[crater]]
 - [x] New Roll20 banner
+- Portraits
+  - [x] [[weslan]]
 
 ## Act I
 

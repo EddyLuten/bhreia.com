@@ -2,8 +2,8 @@
 
 <figure class="infobox right">
   <h3>Cuniko</h3>
-  <a href="/assets/images/cuniko-full.png">
-    <img src="/assets/images/cuniko-tiny.png" />
+  <a href="/assets/images/sir-borf-full.png">
+    <img src="/assets/images/sir-borf-tiny.png" />
   </a>
   <figcaption>
     Portrait of Sir Borf the Fearless, an important and beloved historical figure to Cunikos. Shown here about a year before his untimely demise caused by being run over by a horse and cart while leaving the Rivoni healing springs.

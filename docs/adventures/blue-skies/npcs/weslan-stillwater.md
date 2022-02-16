@@ -5,11 +5,21 @@ alias:
 ---
 # 🔐 Weslan Stillwater
 
-Rank: Commander
+<figure class="infobox right">
+  <h3>Weslan Stillwater</h3>
+  <a href="/assets/images/weslan-full.png">
+    <img src="/assets/images/weslan-tiny.png" />
+  </a>
+  <figcaption>
+    Sketch of Weslan Stillwater, captain in Aldarion Unlimited.
+  </figcaption>
+</figure>
+
+Rank: Captain
 
 Company: [[au]]
 
-Weslan is a commander in the ranks of the Aldarion Unlimited adventuring company. He currently is in charge of running the [[survivors-camp]] at [[cauldins-point]] and he's tired of being there.
+Weslan is a Captain in the ranks of the Aldarion Unlimited adventuring company. He currently is in charge of running the [[survivors-camp]] at [[cauldins-point]] and he's tired of being there.
 
 He's not a bad guy, but just wants to hurry up the rebuilding efforts already. Politics seem to be getting in the way of progress. He just wants to go back to exploring.
 
