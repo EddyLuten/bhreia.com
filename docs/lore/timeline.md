@@ -81,12 +81,14 @@ TODO
     * 2617, Lirrai 6th: [Dauriel Aldarion](../adventures/dauriels-mansion/npcs/dauriel-aldarion.md) is born
     * 2674: Dauriel Aldarion arrives in Korbantir
     * 2691: [Aldarion Unlimited](../adventures/dauriels-mansion/organizations/aldarion-unlimited.md) is founded
+    * 2934: Founding of the [[ironstone-forge]] by the first Hanlar
     * 2987: [Jonah Feldspar Sr.](../adventures/dauriels-mansion/places/jonahs-denn.md) is born
     * 2994: [Grandpa Lenny](../adventures/dauriels-mansion/npcs/grandpa-lenny.md) is born
 
     ## Fourth Age
 
     * 3009: 🔥 [Moreus](../adventures/dauriels-mansion/npcs/moreus.md) is born
+    * 3012: [[hanlar]] is born
     * 3021: [Jonah's Denn](../adventures/dauriels-mansion/places/jonahs-denn.md) opens
     * 3028: [Junior Feldspar](../adventures/dauriels-mansion/npcs/junior-feldspar.md) is born
     * 3037: [Rhea Feldspar](../adventures/dauriels-mansion/npcs/rhea-feldspar.md) is born
@@ -94,6 +96,7 @@ TODO
     * 3044: Dauriel Aldarion soft-retires
     * 3068: [Jonah Feldspar Sr.](../adventures/dauriels-mansion/places/jonahs-denn.md) dies
     * 3086: Dauriel Aldarion officially retires, [Kvint Bernon](../adventures/dauriels-mansion/npcs/kvint-bernon.md) becomes CEO of AU
+    * 3078: [[hanlar]] dies at age 66
     * 3079, Lirrai 6th: [Dauriel's 462nd Birthday Party](../adventures/dauriels-mansion/handouts/dauriels-invitation.md) (35 years after Amalchi confrontation)
     * 3079, Lirrai 7th: Rise of Amalchi
     * 3080, Lirrai 7th: Start of [Blue Skies](../adventures/blue-skies/index.md)

@@ -17,6 +17,8 @@ Campaign: [Braving Bhreia](../braving-bhreia.md)
 
 Played By: Joel
 
+Parents: [[malachi]] and [[sophia]]
+
 ## Bio
 
 (Pulled from Google Docs)

@@ -17,15 +17,23 @@ This adventure is a direct follow up to [Dauriel's Mansion](../dauriels-mansion/
 ## TODO List
 
 - Portraits:
-  - [ ] [[londrina]]
-  - [ ] [[phillipe]]
-- [ ] What does [[londrina]] have to offer the group?
-- [ ] What does [[weslan]] have to offer the group?
 - [ ] Update the Korbantir map.
+- Roll20:
+  - [ ] Organize items by chapter
+  - [ ] Upload new handouts etc.
+  - [ ] Upload new maps
+  - [ ] Upload new audio and music
 - [x] Create a 3080 copy of the Cauldin's Point map with the lake. [[crater]]
 - [x] New Roll20 banner
 - Portraits
   - [x] [[weslan]]
+  - [x] [[londrina]]
+  - [x] [[phillipe]]
+- [x] What does [[londrina]] have to offer the group?
+  - She can ratchet up the tension between [[weslan]] and the group if she recognizes Sah-Sauj.
+- [x] What does [[weslan]] have to offer the group?
+  - Update on Sophia being at the [[ironstone-forge]]
+  - Update on [[phillipe]] not having returned
 
 ## Act I
 

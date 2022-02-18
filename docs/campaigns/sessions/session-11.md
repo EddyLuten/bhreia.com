@@ -20,7 +20,7 @@ None yet.
 ??? cite "DM Flavor"
     Adapted from [[crater]].
 
-    Piles of rubble emerge from the calm surface of the water that fills the crater before you. One of the oldest and most historically significant places in Korbantir now lies broken at the bottom of a hole, overgrowing with plantlife which thrives in this age of perpetual sunshine.
+    Piles of rubble emerge from the calm surface of the water that fills the crater before you. One of the oldest and most historically significant places in Korbantir now lies broken at the bottom of a water filled hole, overgrowing with plantlife which thrives in this age of perpetual sunshine.
 
     You can clearly tell that during his ascension through the bowels of the town, Amalchi made a point of making an example of those who dared to exist in his path. The level of destruction didn't nearly have to be *this* extensive. Innocent or guilty, old or young, nobody was spared the wrathful fury of this deity.
 

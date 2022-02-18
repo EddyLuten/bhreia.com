@@ -26,7 +26,7 @@ In the south-west along the edge of the ancient forest, a [[survivors-camp]] has
 When approaching the crater for the first time.
 
 !!! cite "Flavor"
-    Piles of rubble emerge from the calm surface of the water that fills the crater before you. One of the oldest and most historically significant places of this country now lies broken at the bottom of a hole, overgrowing with plantlife which thrives in this age of perpetual sunshine.
+    Piles of rubble emerge from the calm surface of the water that fills the crater before you. One of the oldest and most historically significant places of this country now lies broken at the bottom of water filled hole, overgrowing with plantlife which thrives in this age of perpetual sunshine.
 
     During his ascension through the bowels of the town, Amalchi made a point of making an example of those who dared to exist in his path. Innocent or guilty, old or young, more than a thousands souls were lost here on that day one year ago.
 

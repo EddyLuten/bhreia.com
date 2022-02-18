@@ -5,7 +5,11 @@ alias:
 ---
 # 🔐 Malachi Medeid
 
+--8<-- "spoiler.html"
+
 Malachi is the husband of [[sophia]] and father of [[tiran]]. He's also a high level wizard.
+
+He speaks with a different accent than Tiran and Sophia.
 
 ## Biography
 

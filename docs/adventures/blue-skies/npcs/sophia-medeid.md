@@ -5,7 +5,15 @@ alias:
 ---
 # 🔐 Sophia Medeid
 
-Sophia is the wife of [[malachi]] and mother of [[tiran]].
+--8<-- "spoiler.html"
+
+Sophia Medeid (nee Ironstone) is the wife of [[malachi]] and mother of [[tiran]].
+
+She speaks with a normal accent since she was raised in [[cauldins-point]].
+
+## Bio
+
+Sophia grew up around the [[ironstone-forge]] near Cauldin's Point, and was in line to succeed Hanlar Ironstone, her father upon his passing. However, she fell in love with [[malachi]] and was ostracized from her family when her father found out. They moved to Kleftmon in the north of [[korbantir]] where they had Tiran.
 
 ## Situational Background
 

@@ -5,4 +5,6 @@ alias:
 ---
 # 🔐 Chickadee of the Two Rivers
 
+--8<-- "spoiler.html"
+
 TODO
