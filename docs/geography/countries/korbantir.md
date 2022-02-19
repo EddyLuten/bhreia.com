@@ -7,11 +7,11 @@ alias:
 
 <figure class="infobox right">
   <h3>Korbantir</h3>
-  <a href="/assets/images/korbantir-map-full.png">
-    <img src="/assets/images/korbantir-map-tiny.png" />
+  <a href="/assets/images/korbantir-map-full-2022.png">
+    <img src="/assets/images/korbantir-map-tiny-2022.png" />
   </a>
   <figcaption>
-    The map of Korbantir, click to download the full sized version.
+    The map of Korbantir, updated for Chapter 2. Click the image to download the full sized version.
   </figcaption>
 </figure>
 
@@ -76,3 +76,24 @@ Notable settlements only; there are numerous smaller villages not listed.
 * Leecham, the largest supplier of fresh water fish in the country.
 * Leikon, a lake town that's supposedly one of the first Human settlements.
 * Salwen, build atop a high cliff face and producer of salt.
+* Dimeola, the sole town on an island in the Sea of Korban.
+
+### Public Places
+
+* The Lost Port: A port town that sunk into the Blessed Pass after a large earthquake hit the town during the Second Age.
+* Giant Steps: Enormous footsteps in the side of a hill, thought to have been placed there by giants long ago.
+* Royal Gardens: built by the Korbantirian royal family hundreds of years ago for the populous to enjoy. Houses many plants from around the world in a covered facility.
+* Memorial at Korban's Ruin: A clearing in the forest where a marker stands memorializing the assassination of Korban on that very spot.
+* Dual Sound Bluff: A natural rock formation that when struck by strong winds seems to emit the sound of two eerie singing voices.
+
+### Other
+
+<figure class="infobox">
+  <h3>Korbantir</h3>
+  <a href="/assets/images/korbantir-map-full.png">
+    <img src="/assets/images/korbantir-map-tiny.png" />
+  </a>
+  <figcaption>
+    The previous map of Korbantir, used during chapter 1.
+  </figcaption>
+</figure>

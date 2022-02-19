@@ -77,9 +77,21 @@ This is a time keeping device combining minor magic with mechanical operation, w
 
 ## Encountering Londrina
 
-Walking on crutches and missing a leg is [[londrina]], the priestess of Melora. The other camp members don't particularly like her since she's Dragonborn, but still accept her healing abilities when needed. More recently, she hasn't been healing as much, but right after the disaster, she brought back many from the brink of death.She will recognize [[sah-sauj]] from the day of the disaster, but not the others.
+Walking on crutches and missing a leg is [[londrina]], the priestess of Melora. The other camp members don't particularly like her since she's Dragonborn, but still accept her healing abilities when needed. More recently, she hasn't been healing as much, but right after the disaster, she brought back many from the brink of death.
 
-TODO: what does she have to offer?
+She will recognize [[sah-sauj]] from the day of the disaster, but not the others. However, she will also remember that he was a "cleric of brother." She understands that brother is [[amalchi]] and will tell Weslan about this.
+
+## Talking to Weslan
+
+Welan can update the group with information about:
+
+- [[gadot]]'s dad [[phillipe]] never having returned from [[marram]]
+- [[tiran]]'s mom [[sophia]] waiting for new on him at the [[ironstone-forge]]
+
+If he trusts them and the gang can convince him that [[londrina]]'s misgivings about [[sah-sauj]] are unfounded, he will offer them:
+
+- A job for gold: [Dr. Malchi, I Presume?](../sidequests/dr-malchi-i-presume.md)
+- An full map of [[marram]]
 
 ## Leaving the Camp
 

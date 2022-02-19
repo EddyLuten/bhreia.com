@@ -29,8 +29,10 @@ function handleInfoBoxImageClick(e) {
     };
 
     document.onkeydown = (e) => {
-        if (preview_box && e.key.toLocaleLowerCase().startsWith('esc'))
+        if (preview_box && e.key.toLocaleLowerCase().startsWith('esc')) {
+            e.preventDefault();
             kill();
+        }
     };
 
     preview_box.onclick = () => kill();
