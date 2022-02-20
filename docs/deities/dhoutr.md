@@ -1,3 +1,8 @@
+---
+alias:
+    name: dhoutr
+    text: Dhoutr
+---
 # Dhoutr
 
 God of death, constructed by Amalchi from his own body. Ruler of the internal plane of darkness.

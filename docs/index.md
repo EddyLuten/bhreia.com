@@ -12,14 +12,9 @@
 
 Bhreia (bray-ah) is a setting designed for the 5th edition of Dungeons & Dragons. If you were guided here by your DM, know that this documentation is provided as a supplemental resource to the official documentation and is **not required** reading. Instead, it's a resource empowering you to create a character more deeply integrated with the setting by providing details for you to riff off.
 
-Almost everything presented here is **common knowledge** to anyone living in this setting unless explicitly marked with: a **DM** prefix, a lock icon 🔐, or a collapsible section, like so:
-
-??? danger "DM: An example"
-    Reading information in these sections will spoil your game.
-
-Some page titles are scrambled since they can potentially spoil the story. Above the navigation is a button that allows you to undo this.
-
 This wiki is also used to keep track of the [Braving Bhreia](campaigns/braving-bhreia.md) campaign run by its author.
+
+Almost everything presented here is **common knowledge** to anyone living in this setting.
 
 ## Getting Started
 
@@ -30,7 +25,17 @@ This wiki is also used to keep track of the [Braving Bhreia](campaigns/braving-b
 
 ## World Map
 
-To get a copy of the full world map, [**click here**](assets/images/world-map-full.png). Please note that this map is a work in progress and will likely change over time. For maps of individual regions or countries, see their respective pages.
+To get a copy of the full world map, [**click here**](assets/images/world-map-full.png). Please note that this map is a continual work in progress and will change over time. For maps of individual regions or countries, see their respective pages.
+
+## DM Specific Content
+
+Beware of content explicitly marked with: a **DM** prefix, a lock icon 🔐, a blurred out page, or a collapsible section.
+Some page titles are also scrambled since they can potentially spoil the story. Above the navigation is a button that allows you to undo this.
+
+??? danger "DM: An example"
+    Reading information in these sections will 100% spoil your game.
+
+These pages are meant for the DM only and intended for them to reveal at their discretion.
 
 ## Contributing
 

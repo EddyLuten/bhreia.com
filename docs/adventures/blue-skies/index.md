@@ -14,32 +14,13 @@
 
 This adventure is a direct follow up to [Dauriel's Mansion](../dauriels-mansion/index.md). The adventure starts at [[crater]] and concludes in [[marram]].
 
-## TODO List
+## Acts
 
-- Portraits:
-- [ ] Update the Korbantir map.
-- Roll20:
-  - [ ] Organize items by chapter
-  - [ ] Upload new handouts etc.
-  - [ ] Upload new maps
-  - [ ] Upload new audio and music
-- [x] Create a 3080 copy of the Cauldin's Point map with the lake. [[crater]]
-- [x] New Roll20 banner
-- Portraits
-  - [x] [[weslan]]
-  - [x] [[londrina]]
-  - [x] [[phillipe]]
-- [x] What does [[londrina]] have to offer the group?
-  - She can ratchet up the tension between [[weslan]] and the group if she recognizes Sah-Sauj.
-- [x] What does [[weslan]] have to offer the group?
-  - Update on Sophia being at the [[ironstone-forge]]
-  - Update on [[phillipe]] not having returned
+As per usual, the story breaks down into three distinct acts, with the second one taking the majority of the adventurers' time.
 
-## Act I
+### Act I
 
 The adventurers return from their pocket dimension/inside the orb on the [7th of Lirrai, 3080](../../lore/timeline.md), exactly a year after the events that lead to Amalchi's ascension.
-
-Conditions:
 
 - The sun is no longer moving in the sky; permanent noon.
 - People have mostly lost track of time.
@@ -49,13 +30,58 @@ Conditions:
 - There's a large [[survivors-camp]] run by [[au]] outside [[crater]].
 - [[phillipe]] should have been back by now, but he's missing.
 - [[tiran]]'s dad and [[chickadee]] went to Marram to look for [[phillipe]].
+- Arrival in [[korbans-landing]] + adventures there
 
-## Act II
+### Act II
 
-- Travelling to Marram.
+The adventurers set off onto the open sea towards Rivoni Springs and leave Korbantir behind.
+
+- Traveling to Rivoni Springs + adventures there
+- Traveling to Taïni + adventures there
+- Traveling to [[marram]].
+- Finding [[phillipe]]
+
+### Act III
+
+The adventurers arrive in Marram and set off to find Philippe and/or Amalchi.
+
 - Finding the dragon in Marram.
-
-## Act III
-
 - Killing the dragon.
 - Return home or another adventure.
+
+## TODO List
+
+- Portraits:
+  - [ ] [[sophia]]
+  - [ ] [[anton]]
+  - [ ] [[chickadee]]
+  - [ ] [[malachi]]
+- Stats for
+  - [ ] [[londrina]]
+  - [ ] Update [[phidippus]]
+- Maps:
+  - [x] Korban's Landing
+  - [ ] Rivoni Springs
+  - [ ] Taïni
+  - [ ] [[marram]]
+- Roll20:
+  - [x] Organize items by chapter
+  - [ ] Upload new handouts etc.
+  - [ ] Upload new maps
+  - [ ] Upload new audio and music
+- Wiki pages for:
+  - [x] [[korbans-landing]]
+  - [ ] Rivoni and Rivoni Springs
+  - [ ] Taïni
+- [x] Create a 3080 copy of the Cauldin's Point map with the lake. [[crater]]
+- [x] New Roll20 banner
+- Portraits:
+  - [x] [[weslan]]
+  - [x] [[londrina]]
+  - [x] [[phillipe]]
+- [x] What does [[londrina]] have to offer the group?
+  - She can ratchet up the tension between [[weslan]] and the group if she recognizes Sah-Sauj.
+- [x] What does [[weslan]] have to offer the group?
+  - Update on Sophia being at the [[ironstone-forge]]
+  - Update on [[phillipe]] not having returned
+- [x] Update the Korbantir map.

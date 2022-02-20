@@ -13,15 +13,15 @@ alias:
     <img src="/assets/images/londrina-tiny.png" />
   </a>
   <figcaption>
-    Londrina, priestess of Melora.
+    Londrina, priestess of Primani.
   </figcaption>
 </figure>
 
-Londrina is a purple Dragonborn priestess of Melora who is present at the [[survivors-camp]] after the destruction of [[cauldins-point]].
+Londrina is a purple Dragonborn priestess of Primani who is present at the [[survivors-camp]] after the destruction of [[cauldins-point]].
 
-Before that, she ran the temple of Melora in downtown Cauldin's Point.
+Before that, she ran the temple of Primani in downtown Cauldin's Point.
 
-During [[amalchi]]'s rise from below Cauldin's Point, she was direclty struck by the dragon and therefore is encrusted with permanent obsidian crystals embedded within her skin.
+During [[amalchi]]'s rise from below Cauldin's Point, she was directly struck by the dragon and therefore is encrusted with permanent obsidian crystals embedded within her skin.
 
 ## Connections
 

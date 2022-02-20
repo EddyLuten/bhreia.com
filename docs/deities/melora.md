@@ -1,3 +1,8 @@
+---
+alias:
+    name: melora
+    text: Melora
+---
 # Melora
 
 Melora is the primordial goddess of nature, the wilderness, and the oceans.
@@ -12,7 +17,7 @@ Melora is the first deity to accept worship and rewards those who do (during the
 
 ## Children
 
-- [Primani](primani.md), with Melora.
+- [Primani](primani.md), with Bhreia.
 
 ## Parents
 

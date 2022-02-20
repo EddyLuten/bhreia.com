@@ -17,7 +17,7 @@ alias:
 
 Cauldin's Point is a town in [[korbantir]], with a population of around 1,250 people, including those from surrounding unincorporated areas. Its claim to fame is that it's the final resting place of Cauldin of Leikon, one of the first human tribal leaders. It is surrounded by farmland and a large ancient forest to the west.
 
-Its economy is largely dependent on trade, facilitated by the fact that it's situated on a crossroads between three major roadways. It is the logical stopping point for anyone traveling from Korban's Landing westward since there are no other major towns on the way. Even though much money flows through the town, its citizens are mostly impoverished. This is because of corruption within the local government and extortion of its populace.
+Its economy is largely dependent on trade, facilitated by the fact that it's situated on a crossroads between three major roadways. It is the logical stopping point for anyone traveling from [[korbans-landing]] westward since there are no other major towns on the way. Even though much money flows through the town, its citizens are mostly impoverished. This is because of corruption within the local government and extortion of its populace.
 
 ## Demographics
 
@@ -28,13 +28,15 @@ Population estimates:
 - Surrounding region: 750
 - **Total**: 1250
 
-## Areas
+## Geographical Features
+
+The stream running through town is called **The Wrinkle**.
+
+## Artificial Features
 
 The road crossing the town from west to east is called **Korban's Way**.
 
 The road entering and terminating in town from the south is called **Old Mendunon Trail**.
-
-The stream running through town is called **The Wrinkle**.
 
 ## Available in Town
 
@@ -46,7 +48,7 @@ The stream running through town is called **The Wrinkle**.
 - Open air market
 - Stables
 - Statue of Cauldin
-- Temple of Melora
+- Temple of Primani
 - Town Hall
 
 ??? danger "DM: Town Details"
@@ -70,7 +72,7 @@ The stream running through town is called **The Wrinkle**.
       - Run by Wynn Gaelan
       - Non-binary Elf, 115 years old
     - Statue of Cauldin
-    - Temple of Melora
+    - Temple of Primani
       - Run by priestess [[londrina]]
       - Purple scales
       - Female Dragonborn, unknown age
@@ -117,3 +119,6 @@ The stream running through town is called **The Wrinkle**.
     - Windmill
       - Run by Leonard Timmons, Jr., son of Grandpa Lenny.
       - Human male, 53 years old
+
+??? danger "DM: After 3079"
+    See the page for [[crater]] instead.

@@ -28,7 +28,10 @@ Enumerated on this page are the various bodies of water present on the surface o
 
 ## Rivers
 
-* none yet
+* The Wrinkle in [[cauldins-point]]
+* Palinotra River in [[korbans-landing]]
+* Korban's Tears in [[korbans-landing]]
+* Ravenwood Stream in [[korbans-landing]]
 
 ## Bays
 

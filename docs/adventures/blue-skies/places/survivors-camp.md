@@ -14,7 +14,7 @@ There's a camp set up south west of town, hundreds of tents set up in neat rows 
 ## Approaching the Camp
 
 !!! cite "Flavor"
-    Against the treeline of the south-western forest, hundreds of tents are arranged in neat columns. The putrid smell of too many people cramped up together coats your senses as your approach. A silent crowd of people stands gatheredd around the missing persons board posted at the entrance. They desperately search for updates here, which remain elusive. A thousand notes carrying the names of those lost hang from it, bleaching in light of the unsetting sun.
+    Against the tree line of the south-western forest, hundreds of tents are arranged in neat columns. The putrid smell of too many people cramped up together coats your senses as your approach. A silent crowd of people stands gathered around the missing persons board posted at the entrance. They desperately search for updates here, which remain elusive. A thousand notes carrying the names of those lost hang from it, bleaching in light of the unsetting sun.
 
 ## Missing Persons Board
 
@@ -77,21 +77,34 @@ This is a time keeping device combining minor magic with mechanical operation, w
 
 ## Encountering Londrina
 
-Walking on crutches and missing a leg is [[londrina]], the priestess of Melora. The other camp members don't particularly like her since she's Dragonborn, but still accept her healing abilities when needed. More recently, she hasn't been healing as much, but right after the disaster, she brought back many from the brink of death.
+Walking on crutches and missing a leg is [[londrina]], the priestess of Primani. The other camp members don't particularly like her since she's Dragonborn, but still accept her healing abilities when needed. More recently, she hasn't been healing as much, but right after the disaster, she brought back many from the brink of death.
 
 She will recognize [[sah-sauj]] from the day of the disaster, but not the others. However, she will also remember that he was a "cleric of brother." She understands that brother is [[amalchi]] and will tell Weslan about this.
 
 ## Talking to Weslan
 
-Welan can update the group with information about:
+[[weslan]] can update the group with information about:
 
 - [[gadot]]'s dad [[phillipe]] never having returned from [[marram]]
 - [[tiran]]'s mom [[sophia]] waiting for new on him at the [[ironstone-forge]]
+- Details about the travel to Marram since he's done it so often.
+  - The amount of time it would take, not including traveling to Korban's Landing, around a month:
+    - 6 full days of straight seafaring to Rivoni Springs.
+    - 15 days of desert crossing.
+    - 5 days trekking through jungle paths to Beteb.
+    - **Total:** 26 days, non-stop travel
+  - The amount of money needed to travel to Marram, around 3000 gp:
+    - Boarding a passenger ship: 1000 gp = (200 gp x 5)
+    - Hiring a guide to cross The Passage desert in Taïni: 1500 gp = (100 gp x 15 days)
+    - Buying pack animals: 250 gp (50 gp x 5 adventurers + 1 guide)
+    - Supplies, food, water etc.: 45 gp (5 sp x 15 days x 6 people) food + 200 gp equipment
+    - **Total:** 2900 gp
+  - Alternatively, he says they could sail there directly through Mirini Bay, but they'd have to charter a ship, likely around 5000 gp or so, he's not sure. It would be much more expensive, more dangerous, take longer, but bypass the desert entirely.
 
 If he trusts them and the gang can convince him that [[londrina]]'s misgivings about [[sah-sauj]] are unfounded, he will offer them:
 
 - A job for gold: [Dr. Malchi, I Presume?](../sidequests/dr-malchi-i-presume.md)
-- An full map of [[marram]]
+- A complete map of [[marram]] created by [[au]]
 
 ## Leaving the Camp
 

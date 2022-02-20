@@ -74,7 +74,7 @@ Dauriel calls the adventurers into his office the afternoon before the party and
 The adventure cue that he gives them:
 
 !!! info "Dauriel's Cue"
-    Atrocities against the Tabaxi in [Marram](../../../../geography/countries/marram.md) must be investigated and uncovered. Evidence must be collected, presented, and subsequently Aldarion Unlimited must be stopped from continuing as an entity. I implore you to set sail from Korban's Landing to Rivoni Springs. From there, travel through The Passage along the East Coast of Taini all the way north to Marram. My informant tells me of an Aldarion Unlimited outpost west of Beteb where the hunts are being staged. After my birthday party, I will provide you with the funding and connections required to make this work.
+    Atrocities against the Tabaxi in [Marram](../../../../geography/countries/marram.md) must be investigated and uncovered. Evidence must be collected, presented, and subsequently Aldarion Unlimited must be stopped from continuing as an entity. I implore you to set sail from [[korbans-landing]] to Rivoni Springs. From there, travel through The Passage along the East Coast of Taini all the way north to Marram. My informant tells me of an Aldarion Unlimited outpost west of Beteb where the hunts are being staged. After my birthday party, I will provide you with the funding and connections required to make this work.
 
 If accepted, the party can spend an hour traveling west to [Dauriel's original adventuring headquarters](../../places/au-original-hq.md), now abandoned, which they can take over. Here they can find a map of Marram, left there by Dauriel ages ago. Here they can stay indefinitely and outside of Cauldin's Point.
 

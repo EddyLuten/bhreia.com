@@ -18,9 +18,9 @@ When hearing that the adventurers are looking for work, **Tino Block** (they/the
 
 **What:** Tino suffers from a disease called The Wasting, which is similar to cancer, if not the equivalent of cancer on Bhreia. If they don't take a potion every day, their symptoms get worse and they can die in a matter of **1d8 days** as of the day they met the adventurers.
 
-**Why:** Tino is not yet ready to die. They have not seen anything of the world outside of Cauldin's Point and Tino is desperate to make something of the time that they have left. With enough potions, they will leave Cauldin's Point and set out for a trip to Korban's Landing where they will board a ship to Rivoni Springs and hope for a chance to enter the famous healing springs.
+**Why:** Tino is not yet ready to die. They have not seen anything of the world outside of Cauldin's Point and Tino is desperate to make something of the time that they have left. With enough potions, they will leave Cauldin's Point and set out for a trip to [[korbans-landing]] where they will board a ship to Rivoni Springs and hope for a chance to enter the famous healing springs.
 
-**Where:** A shipment of Potions of Healing is coming from Korban's Landing and is headed to [Aldarion Unlimited's](../organizations/aldarion-unlimited.md) headquarters in Donitar. As per usual, the wagon transporting the goods is protected by two guards on horseback and a single driver. The group will stop at [Jonah's Denn](../places/jonahs-denn.md) and rotate their watch over the cargo as each of the group rests for the night.
+**Where:** A shipment of Potions of Healing is coming from [[korbans-landing]] and is headed to [Aldarion Unlimited's](../organizations/aldarion-unlimited.md) headquarters in Donitar. As per usual, the wagon transporting the goods is protected by two guards on horseback and a single driver. The group will stop at [Jonah's Denn](../places/jonahs-denn.md) and rotate their watch over the cargo as each of the group rests for the night.
 
 **When:** The wagon will roll into the town tonight. Tino is desperate for this final chance at a stab at life; it has to happen now.
 
