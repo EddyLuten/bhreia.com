@@ -17,9 +17,11 @@ alias:
   </figcaption>
 </figure>
 
-Pronunciation: Ah-mel-khai
-
 Amalchi is the male god of the sky and represents duality and instability, expressed in the day and night cycle. Whereas his counterpart [Bhreia](bhreia.md) is at least partially remembered by the inhabitants of the world, his name has been completely forgotten except by his cult followers who understand and know his true nature.
+
+**Pronunciation:** Ah-mel-khai
+
+**Plane of Existence:** Air
 
 **Domains:** Air, sky, daylight, darkness of night. Duality vs Bhreia's stability.
 

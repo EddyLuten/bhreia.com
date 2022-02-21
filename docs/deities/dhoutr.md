@@ -5,9 +5,11 @@ alias:
 ---
 # Dhoutr
 
-Pronunciation: dow-ter
+God of death, constructed by [[brother]] from his own body. Ruler of the internal plane of darkness.
 
-God of death, constructed by Amalchi from his own body. Ruler of the internal plane of darkness.
+**Pronunciation:** dow-ter
+
+**Plane of Existence:** Internal Plane of Darkness
 
 **Domains:** Death, corruption, disease, anxiety.
 
