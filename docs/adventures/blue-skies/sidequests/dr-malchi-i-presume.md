@@ -18,7 +18,7 @@ The group can easily pick up on footprints and drag marks all throughout the for
 
 Upon entering the cave, they can see a hoard of stolen items, and some contraptions created out of wood, metal, and items they don't recognize. The music gets louder and seems to be emitting from a small box (a cassette player). These are things that came along with him during the opening of the dimensional rift. Items include:
 
-- A board with drawings, some depicting two spheres and a funnel between them. One of the spheres is broken.
+- A board with drawings pinned to it, some depicting two spheres and a funnel between them. One of the spheres is broken.
 - A crude crafted doll, resembling a female wearing a lab coat. He carries the doll around with him and talks to it, calling it Bhreia.
 - A small box emanating music. A cassette player for which Malchi has devised a way to power using a crude water turbine. It's playing a slow version of Blue Skies by Irving Berlin.
 - Many wires leading through a hole in the ceiling outside somewhere. Following these leads to the water turbine, in a nearby creek.

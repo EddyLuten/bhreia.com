@@ -33,6 +33,7 @@ TODO, expound.
 - He's pretending to be someone else and works at the forge to create time keeping devices
 - He's getting *real* close to Sophia now that everyone else close to her is gone
 - He's using the name [Agorius](https://en.wikipedia.org/wiki/Agorius) now.
+- He's using [Disguise Self](https://roll20.net/compendium/dnd5e/Disguise%20Self) to change his face. He's never around for more than an hour since that's how long the spell lasts. He will burn up his spell slots trying to maintain his disguise.
 
 ## Personality
 
@@ -40,23 +41,24 @@ He's pretty much Aristotle, though less wise, and will argue everything. He's al
 
 ## Tower
 
-* Total height: 120 ft.
-* A single cylinder shape made of sandstone capped by a copper dome
-* A large shaft runs all the way through the center to the top of the building, providing the bottom floor with light.
-* Outside walls are entirely smooth, no protrusions or windows until the very top
-* Ground floor is an empty cylindrical shape with featureless walls.
-  * The floor is made of black and white marble, in the shape of a compass
-  * At the center of the compass is a 3 ft. tall protrusion used by Phiddipus to jump
-  * There's a single small platform dead center of the compass that Phidippus jumps on to with a mighty leap.
-  * Spider webs funnel along the walls, culminating around the hole in the ceiling
-    * DC 18 perception will reveal 12 (2d8) spiders
-* First Floor
-  * 60 ft. to the entrance from the ground floor.
-  * Hole in the floor from which Phiddipus jumps in and out
-  * Main living area and study
-* Second Floor
-  * Copper roof dome with some glass openings
-  * Light grows indoor herbs used for spells
+- Total height: 120 ft.
+- A single cylinder shape made of sandstone capped by a copper dome
+- A large shaft runs all the way through the center to the top of the building, providing the bottom floor with light.
+- Outside walls are entirely smooth, no protrusions or windows until the very top
+- Ground floor is an empty cylindrical shape with featureless walls.
+  - The floor is made of black and white marble, in the shape of a compass
+  - At the center of the compass is a 3 ft. tall protrusion used by Phiddipus to jump
+  - There's a single small platform dead center of the compass that Phidippus jumps on to with a mighty leap.
+  - Spider webs funnel along the walls, culminating around the hole in the ceiling
+    - DC 18 perception will reveal 12 (2d8) spiders
+- First Floor
+  - 60 ft. to the entrance from the ground floor.
+  - Hole in the floor from which Phiddipus jumps in and out
+  - Main living area and study
+  - Leaning against a wall and Hanlar's face disfigured, is the missing portait from the [[ironstone-forge]]
+- Second Floor
+  - Copper roof dome with some glass openings
+  - Light grows indoor herbs used for spells
 
 ??? danger "DM: Stats as VTT JSON"
     [Download](/assets/json/phidippus.json)

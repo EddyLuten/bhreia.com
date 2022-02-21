@@ -56,6 +56,7 @@ The adventurers arrive in Marram and set off to find Philippe and/or Amalchi.
   - [ ] [[anton]]
   - [ ] [[chickadee]]
   - [ ] [[malachi]]
+  - [ ] [[phidippus]] as Agorius
 - Stats for
   - [ ] [[londrina]]
   - [ ] Update [[phidippus]]
