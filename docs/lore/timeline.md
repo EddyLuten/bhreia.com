@@ -1,3 +1,8 @@
+---
+alias:
+    name: timeline
+    text: Timeline
+---
 # Timeline
 
 !!! info

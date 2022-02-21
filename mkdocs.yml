@@ -29,8 +29,10 @@ markdown_extensions:
 extra_css:
   - assets/stylesheets/bhreia.css
 extra_javascript:
+  - assets/js/helpers.js
   - assets/js/bhreia.js
   - assets/js/infobox.js
+  - assets/js/name-gen.js
 theme:
   name: material
   icon:

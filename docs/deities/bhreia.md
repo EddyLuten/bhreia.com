@@ -1,5 +1,7 @@
 # Bhreia
 
+Pronunciation: bray-ah
+
 This page is about the mythological deity named Bhreia, after whom the world was named.
 
 **Domains:** Earth, soil. Stability vs Amalchi's duality.
@@ -7,6 +9,11 @@ This page is about the mythological deity named Bhreia, after whom the world was
 **Effects:** When Bhreia is interrupted from her duties as the world, the world destabilizes and natural disasters happen. Most sightings of her are accompanied by earthquakes, sinking lands, and erupting volcanos.
 
 Not much is known about Bhreia outside of the broad strokes lined out in the creation mythology. She and [her brother](bhreias-brother.md) were the first two primordial deities and are responsible for the creation of life. The name of the her brother has been lost to the dusty depths of the ages. It is supposed that these two deities are the personifications of the world (the stable earth, Bhreia) and the heavens (the two-faced sky, the unnamed deity), whose origins are attributed to natural processes by some or different deities by others.
+
+## Children
+
+* [Melora](melora.md) with [[brother]].
+* [Primani](primani.md) with Melora.
 
 ??? danger "DM: Supplemental Facts"
     Bhreia is a real deity who is alive and well. She is the female goddess of the earth, much like Gaia was to the ancient Greeks. Her counterpart - the unnamed deity - is [Amalchi](amalchi.md), the male god of the heavens.
@@ -17,10 +24,9 @@ Not much is known about Bhreia outside of the broad strokes lined out in the cre
 
     She represents the earth, order, stability, being grounded, and rationality.
 
-    ## Children
+## Etymology (Meta)
 
-    * [Melora](melora.md) with Amalchi.
-    * [Primani](primani.md) with Melora.
+From PIE root bʰreg-, meaning *broken*.
 
 ## See Also
 

@@ -28,10 +28,6 @@ function killSpoiler(e) {
     });
 }
 
-function randArr(arr) {
-    return arr[Math.floor(Math.random()*arr.length)];
-}
-
 function scrambleString(s) {
     const
         lower = 'abcdefghijklmnopqrstuvwxyz'.split(''),

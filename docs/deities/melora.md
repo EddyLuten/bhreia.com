@@ -24,6 +24,10 @@ Melora is the first deity to accept worship and rewards those who do (during the
 - [Bhreia](bhreia.md), mother.
 - [Bhreia's Brother](bhreias-brother.md), father.
 
+## Meta
+
+Melora has been adapted from [4e DnD](https://dnd4.fandom.com/wiki/Melora) to fit this setting. Only her domain and general features have been used.
+
 ## See Also
 
 - [Timeline](../lore/timeline.md)

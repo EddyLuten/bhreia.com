@@ -117,7 +117,7 @@ This is a long term quest that can't be solved on the premises.
 - OR find the key in Hanlar's office
 - Contains:
   - A small pouch filled with gold. 1500gp in total
-  - [Old letters from Dauriel Aldarion to Hanlar](../handouts/dauriel-letter.md)
+  - [Old letters from Dauriel Aldarion to Hanlar](../handouts/dauriels-letter.md)
   - In the very bottom [an unsent letter to Sophia](../handouts/hanlars-letter.md)
 
 ### Cafeteria Building

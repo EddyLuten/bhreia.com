@@ -17,6 +17,8 @@ alias:
   </figcaption>
 </figure>
 
+Pronunciation: Ah-mel-khai
+
 Amalchi is the male god of the sky and represents duality and instability, expressed in the day and night cycle. Whereas his counterpart [Bhreia](bhreia.md) is at least partially remembered by the inhabitants of the world, his name has been completely forgotten except by his cult followers who understand and know his true nature.
 
 **Domains:** Air, sky, daylight, darkness of night. Duality vs Bhreia's stability.
@@ -54,6 +56,10 @@ Enough of Amalchi exists in the elemental plane of air to keep the day and night
 ## Followers
 
 The followers of Amalchi are known as the [Cult of Amalchi](../adventures/dauriels-mansion/organizations/cult-of-amalchi.md) and operate clandestinely. They are trying to bring about balance to a world that they perceive to be unbalanced. See their page for details.
+
+## Etymology (Meta)
+
+From Latin malus, meaning *bad*, evil, wicked, etc.
 
 ## Children
 

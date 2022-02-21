@@ -1,17 +1,17 @@
 # Cauda
 
-His name is the Latin word for "tail" which is both a reference to him having a tail as well as the derived word "coda," meaning the last passage of a piece of music.
+Pronunciation: Cow-dah
 
 **Domains:** music, poetry.
 
 Ephemeral and enigmatic, not much is known about Cauda and how he came to be. However, he has been around long enough to be mentioned in the earliest of oral traditions. Ascribed to be the god of music and poetry, he appears as a satyr to sing prophetic songs about - and to - those affected by these prophecies or fates. While his songs are beautiful and laced with meaning, many fear his appearances and see him as a harbinger of cataclysmic change.
 
 ??? danger "DM: Supplemental Facts"
-    He is the son of Dhoutr and Primani and spends most of his time with his parents in the internal plane of darkness.
+    He is the son of Dhoutr and Primani and spends most of his time in the feywild (or Bhreia's equivalent thereof), which is his domain. He occasionlly comes to Bhreia when his prophetic services are required there.
 
-    ## Children
+## Etymology (Meta)
 
-    None (yet).
+His name is the Latin word for "tail" which is both a reference to him having a tail as well as the derived word "coda," meaning the last passage of a piece of music.
 
 ## See Also
 
