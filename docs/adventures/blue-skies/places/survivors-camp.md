@@ -70,6 +70,16 @@ He climbs down the podium and walks towards a big tent bearing the [[au]] logo, 
 
 ## The Time Device
 
+<figure class="infobox right">
+  <h3>Tiemkeeping Device</h3>
+  <a href="/assets/images/timekeeping-device-full.png">
+    <img src="/assets/images/timekeeping-device-tiny.png" />
+  </a>
+  <figcaption>
+    A rough sketch of the device.
+  </figcaption>
+</figure>
+
 !!! cite "Flavor"
   Not far from the podium stands a strange looking mechanical device. Water runs from a reservoir at a constant rate through bent glass tubes into a vessel. Once the vessel is full, the water pumps back into the reservoir and a dial with numbers moves one tick forward. As you watch for a while, this seems to happen at regular intervals. The dial currently reads 335|23|50.
 
@@ -111,6 +121,6 @@ If he trusts them and the gang can convince him that [[londrina]]'s misgivings a
 Upon leaving the camp for the first time, the adventurers see a wagon pulled by  a giant goat carrying about 20 people while a plump Halfling male speaks loudly:
 
 !!! cite "The Tourists"
-    And on your left you can see the Cauldin's Point survivors camp, and, um..., close your noses as we pass it's kind of a strong smell. Yeah, just pinch real hard. Anyway, not only survivors live in these tents, but those poor people waiting for any kind of news. But you know, honestly, at this point, who can expect any good news? Just being truthful here, right folks? A very sad and desperate group of people. Okay, let's continue to the lake for some real views of the dragon's *destruction*.
+    And on your left you can see the Cauldin's Point survivors camp, and, um..., pinch your noses as we pass it's kind of a strong smell. Anyway, not only survivors live in these tents, but those poor people waiting for any kind of news. But you know, honestly, at this point, who can expect any good news? Just being truthful here, right folks? A sad and desperate group of people. Okay, let's continue to the lake for some real views of the dragon's *destruction*.
 
 He tugs the reigns of the giant goat. A DC 5 check will show that it's Ramona, [[wolf]]'s goat. A 1d2 check will determine if Ramona notices him and walks over.

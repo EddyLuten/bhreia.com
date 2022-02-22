@@ -65,5 +65,5 @@ From Latin malus, meaning *bad*, evil, wicked, etc.
 
 ## Children
 
-* [Melora](melora.md) with Bhreia.
-* [Dhoutr](dhoutr.md) out of his own body.
+* [[melora]] with Bhreia.
+* [[dhoutr]] out of his own body.

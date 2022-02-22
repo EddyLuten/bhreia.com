@@ -71,6 +71,7 @@ It's a two bedroom house, with two stories. There's a small vegetable garden out
   - A pile of technical drawings of the time keeping device
   - Dresser with china and silverware
   - A fireplace
+    - A piece of heavy glass tubing sits on the mantle 3️⃣
     - They can see a discolored spot on the wall where a picture was removed 1️⃣
 - Kitchen
   - Cupboards filled with kitchen tools etc.
@@ -83,6 +84,7 @@ It's a two bedroom house, with two stories. There's a small vegetable garden out
   - A box of old cigars, two bottles of wine
     - One of the cigars is a metal tube containing the key to the chest
   - A giant wooden chest, locked and secured with thick iron straps 2️⃣
+  - [A framed newspaper clipping](../handouts/hanlar-phidippus-incident.md)
 - Pantry
   - Stocked with food
 - Washing area (located under the lean-to)
@@ -117,8 +119,12 @@ This is a long term quest that can't be solved on the premises.
 - OR find the key in Hanlar's office
 - Contains:
   - A small pouch filled with gold. 1500gp in total
-  - [Old letters from Dauriel Aldarion to Hanlar](../handouts/dauriels-letter.md)
+  - [Old letters from Dauriel Aldarion to Hanlar](../handouts/dauriels-letters.md)
   - In the very bottom [an unsent letter to Sophia](../handouts/hanlars-letter.md)
+
+#### 3️⃣ Glass tubing
+
+When Sophia inspected the property after buying it back, much of it was in a bad state of disrepair. However, she noticed that one of the forge buildings had been converted to produce glass. She found pieces of bent glass tube, glass blowing equipment, and a large machine with rollers and a bellows on one end. An inspection will lead them to show that this is the same glass tubing that they saw during Amalchi's rise, leading into [[moreus]]' body.
 
 ### Cafeteria Building
 

@@ -45,8 +45,12 @@ In 3078, at the age of only 66, Hanlar was found dead in his forge. Medical inve
 - 3034: ✝ Death of Hanlar II, age 74 (forge equipment failure)
 - 3037: ★ Birth of Sophia Ironstone, Hanlar IV age 25
 - 3049: ✝ Suicide of Ingrid Ironstone
+- 3058: ◇ Sophia leaves with Malachi
+- 3061: ★ Birth of Tiran Medeid
 - 3078: ✝ Death of Hanlar IV, age 66 (see "Death" above)
 - 3079: ◇ The forge falls out of Ironstone control.
 
 ??? danger "DM Only: Death"
+    See: [[hanlar-phidippus]]
+
     The magic user that Hanlar picked a fight with was none other than [[phidippus]], who for the first time in a long time tried to socialize in town at [[jonahs-denn]]. After being humiliated by Hanlar, he set out on a personal path of vengeance, and killed Hanlar one night at his forge. Though Hanlar was drunk, Phidippus cast a spell that engorged his vital organs until they could no longer function.

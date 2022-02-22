@@ -7,6 +7,17 @@ alias:
 
 --8<-- "spoiler.html"
 
+<figure class="infobox right">
+  <h3>Sophia Medeid</h3>
+  <a href="/assets/images/sophia-ironstone-full.png">
+    <img src="/assets/images/sophia-ironstone-tiny.png" />
+  </a>
+  <figcaption>
+    Portrait of Sophia Medeid.
+  </figcaption>
+</figure>
+
+
 Sophia Medeid (nee Ironstone) is the wife of [[malachi]] and mother of [[tiran]].
 
 She speaks with a normal accent since she was raised in [[cauldins-point]].

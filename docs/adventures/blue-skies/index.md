@@ -51,20 +51,18 @@ The adventurers arrive in Marram and set off to find Philippe and/or Amalchi.
 
 ## TODO List
 
-- Portraits:
-  - [ ] [[sophia]]
+- Portraits/drawings:
   - [ ] [[anton]]
   - [ ] [[chickadee]]
   - [ ] [[malachi]]
-  - [ ] [[phidippus]] as Agorius
 - Stats for
   - [ ] [[londrina]]
-  - [ ] Update [[phidippus]]
+  - [x] Update [[phidippus]]
 - Maps:
   - [x] Korban's Landing
+  - [ ] [[marram]]
   - [ ] Rivoni Springs
   - [ ] Taïni
-  - [ ] [[marram]]
 - Roll20:
   - [x] Organize items by chapter
   - [ ] Upload new handouts etc.
@@ -72,17 +70,22 @@ The adventurers arrive in Marram and set off to find Philippe and/or Amalchi.
   - [ ] Upload new audio and music
 - Wiki pages for:
   - [x] [[korbans-landing]]
+  - [ ] [Dauriel's letters to Hanlar](handouts/dauriels-letters.md)
   - [ ] Rivoni and Rivoni Springs
   - [ ] Taïni
 - [x] Create a 3080 copy of the Cauldin's Point map with the lake. [[crater]]
 - [x] New Roll20 banner
-- Portraits:
+- Portraits / drawings:
+  - [x] Time keeping device
   - [x] [[weslan]]
   - [x] [[londrina]]
   - [x] [[phillipe]]
+  - [x] [[sophia]]
+  - [x] [[phidippus]] as Agorius
 - [x] What does [[londrina]] have to offer the group?
   - She can ratchet up the tension between [[weslan]] and the group if she recognizes Sah-Sauj.
 - [x] What does [[weslan]] have to offer the group?
   - Update on Sophia being at the [[ironstone-forge]]
   - Update on [[phillipe]] not having returned
 - [x] Update the Korbantir map.
+- [x] ~~Improve [[phidippus]]' motivations to destroy the Ironstones~~ see [[hanlar-phidippus]]

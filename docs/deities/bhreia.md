@@ -21,6 +21,7 @@ Not much is known about Bhreia outside of the broad strokes lined out in the cre
 
 * [[melora]] with [[brother]].
 * [[primani]] with Melora.
+* [[zoanovin]], alone.
 
 ??? danger "DM: Supplemental Facts"
     Bhreia is a real deity who is alive and well. She is the female goddess of the earth, much like Gaia was to the ancient Greeks. Her counterpart - the unnamed deity - is [[amalchi]], the male god of the heavens.

@@ -11,9 +11,9 @@ This session signifies the start of Chapter 2 in this campaign.
 None yet.
 
 ??? cite "DM Intro"
-    For the last hour or so you've been enjoying Hurq's turkey stew in the boys' cave and it honestly tastes pretty good. Though, you're not entirely sure if the chunks of meat are actually turkey.
+    For the last hour or so you've been enjoying Hurq's turkey stew in the boys' cave and it honestly tastes pretty good. Though, you're not entirely sure if the chunks of meat are actually turkey, as he claims.
 
-    While you ate, the boys told you what happened during the time you were away. The blue dragon rose from the center of town, and destroyed it entirely on its way out. It seemed to take a special interest in obliterating Dauriel's mansion. A thousand people are dead or missing and a camp has been set up south-west of town that houses both survivors as well as family members waiting to hear anything about their loved ones. Every day, bodies have been pulled from the crater where Cauldin's Point used to be, though fewer lately ([[crater]]).
+    While you ate, the boys caught you up on what happened during the time you were away. The blue dragon rose from the center of town, and destroyed it entirely on its way out. It seemed to take a special interest in obliterating Dauriel's mansion. A thousand people are dead or missing and a camp has been set up south-west of town that houses both survivors as well as family members waiting to hear anything about their loved ones. Every day, bodies have been pulled from the crater where Cauldin's Point used to be, though fewer lately ([[crater]]).
 
     Hurq tells you that when you're ready, he'll take you to a spot where you can properly see what happened.
 
