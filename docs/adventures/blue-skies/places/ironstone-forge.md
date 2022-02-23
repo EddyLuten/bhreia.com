@@ -17,6 +17,8 @@ alias:
   </figcaption>
 </figure>
 
+On the way there for the first time, [[forlorn-freeney]] will trigger.
+
 ## Layout
 
 The forge spans a six acre plot, comprising of twelve buildings in total:

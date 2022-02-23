@@ -6,17 +6,17 @@
 
 ## Synopsis
 
-When asked where Borlok was, Gadot convinced Rhea that he simply couldn't make it and somehow she believed this. She invited Sah-Sauj to don the blue cult robes and the rest of you all to come up the spire to complete the ritual. Halfway up, you noticed four very lifelike statues made out of obsidian, strongly resembling Dauriel's old party members.
+When asked where Borlok was, Gadot convinced Rhea that he simply "couldn't make it" and somehow she believed this. She invited Sah-Sauj to don the blue cult robes and the rest of you all to come up the spire to complete the ritual. Halfway up, you noticed four very lifelike statues made out of black obsidian, strongly resembling Dauriel's old party members.
 
-Once the spire was climbed, you were greeted by the sight of Phidippus feeding the blood of a Macoyii puppy to Moreus who wasn't looking too great. Suspended from five glass tubes pumping blood into his body, his skin cracking, and eyes glowing, there sure did seem to be something wrong with Dauriel's husband. After trying to deceive Phidippus, a battle ensued. And for a moment, you seemed to be overtaking the old man, but once he cast invisibility on himself, no more blows were delivered. Pasha and Wolf both worked together to destroy one of the blood tubes, but Moreus situation only seemed to be getting worse. His body no longer resembling that of a human being, but rather something else simply wearing it. There didn't seem to be much time left for him.
+Once the spire was climbed, you were greeted by the sight of Phidippus feeding the blood of a Macoyii puppy to Moreus who wasn't looking too great. Suspended from five glass tubes pumping blood into his body, his skin cracking, and eyes glowing, there sure did seem to be something wrong with Dauriel's husband. After trying to deceive Phidippus, a battle ensued. And for a moment, you seemed to be overtaking the old man, but once he cast invisibility on himself, no more blows were delivered. Pasha and Wolf both worked together to destroy one of the blood tubes, but Moreus' situation only seemed to be getting worse. His body no longer resembled that of a human being, but rather something else simply wearing it. Gestating in it. There didn't seem to be much time left for him.
 
 And... time *did* run out.
 
-Moreus tore open and hatching from within his body came a blue dragon with a large central eye, shining like the sun, framed by five smaller ones. It seemed to grow before you, and as its wings stretched out, hurtling towards you, it said one last thing in Draconic before you were enveloped by them.
+Moreus split open and hatching from within his body came a blue dragon with a large central eye, shining like the sun, framed by five smaller ones. It seemed to grow before you, and as its wings stretched out, hurtling towards you, it said one last thing in Draconic before you were enveloped by their embrace.
 
 > I shall grant you the same courtesy that your kind has shown me.
 
-The next thing you knew you were floating in a blue void. You could see and each other, but you were simply floating and were out of reach. Sah-Sauj used his sling shot to move himself forward and eventually reached Gadot. Wolf determined through the use of a spell that you were very close to a planar portal, in fact they should be right on top of one. Tiran began making his was over to to Pasha by propelling himself through charging one of his pitons with a spell. Meanwhile, Gadot and Sah-Sauj impacted what seemed to be a wall and heard the cracking of glass. You felt nauseous, your sight turned to pinpricks, and the next thing you knew, you were somewhere else again.
+The next thing you knew you were floating in a blue void. You could distantly see and each other, but you were simply floating and were out of reach. Sah-Sauj used his sling shot to move himself forward and eventually reached Gadot. Wolf determined through the use of a spell that you were very close to a planar portal, in fact you should have been right on top of one. Tiran began making his was over to to Pasha by propelling himself through charging one of his pitons with a spell. Meanwhile, Gadot and Sah-Sauj impacted what seemed to be a wall and heard the cracking of glass. You felt nauseous, your sight turned to pinpricks, and the next thing you knew, you were somewhere else again.
 
 This time, you seemed to be observing a strange scene, but couldn't make out any of the fine details. However, you were able to overhear a conversation between a man and a woman, discussing things you couldn't make much sense of. They seemed to be disagreeing about something, and before you knew it you were back in the blue void.
 
@@ -75,7 +75,7 @@ And that's where we left off.
     - Transported back to Bhreia, at the bottom of the pit
 
 ??? cite "DM: Amalchi Rising"
-    Before you, Moreus' body streaks with coarse veins of electric energy until it can take no more. Like a reptile shedding its skin, a blazing column of blue energy emerges from his mouth. What remains of Moreus crumples to the floor, empty and flacid, like a pile discarded clothes.
+    Before you, Moreus' body streaks with coarse veins of electric energy until it can take no more. Like a reptile shedding its skin, a blazing column of blue energy emerges from his mouth. What remains of Moreus crumples to the floor, empty and flaccid, like a pile discarded clothes.
 
     Rising in its place, ascending, and growing with each passing moment, you see a blue dragon rise above you. As its wings unfold, it takes out a chunk of the chamber's rock wall, which seems to disappear completely when touched. No rubble litters the room, but the structure quakes and groans as the creature expands.
 
@@ -108,7 +108,7 @@ And that's where we left off.
 
 
     !!! cite
-        You hear a crackling noise, like a glass pane cracking. *play sound* A sick feeling of nausea and faintness overwhelms you out of nowhere. You feel like you're drifting as your vision turns to pin pricks and the world disappears. *play transport fx*
+        You hear a crackling noise, like a glass pane cracking. *play sound* A sick feeling of nausea and faintness overwhelms you out of nowhere. You feel like you're drifting as your vision turns to pin pricks and the world disappears. *play transport SFX*
 
 ??? danger "DM: Overhear"
     It's difficult to see here, for some reason, not much light is reaching you, but you can make out some basic shapes. You hear voices in the background and see the vague outlines two figures standing over some kind of beige glowing object. To your surprise, the outlines begin to speak.

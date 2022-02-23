@@ -4,7 +4,7 @@
 
 The dimensional rift that briefly flung the adventurers into a strange dimension was  caused by both [[amalchi]] and Dr. Amalchi on Earth, 1994. This same rift brought Dr. Malchi and the the corpse of the female with the Bhreia nametag into this world.
 
-Ever since arriving, [[anton]] has been trying to find a way back to Earth. He's extremely uncomfortable here and doesn't want to stay. He's been stealing supplies from the [[survivors-camp]], such as food, weapons, and other various items to survive and perform his experiments.
+Ever since arriving, [[anton]] has been trying to find a way back to Earth. He's extremely uncomfortable here and doesn't want to stay. He's been stealing supplies from the [[survivors-camp]], such as food, weapons, and other various items to survive and perform his experiments. The machine he's building is also very loud and wakes people up who are trying to sleep.
 
 [[weslan]] tasks the adventurers with making him stop doing so.
 

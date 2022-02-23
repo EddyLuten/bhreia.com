@@ -1,3 +1,8 @@
+---
+alias:
+    name: freeney
+    text: Captain Freeney
+---
 # 🔐 Captain Freeney
 
 --8<-- "spoiler.html"

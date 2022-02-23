@@ -1,3 +1,8 @@
+---
+alias:
+    name: borlok
+    text: Borlok Orsel
+---
 # 🔐 Borlok Orsel
 
 --8<-- "spoiler.html"

@@ -24,7 +24,11 @@ None yet.
 
     You can clearly tell that during his ascension through the bowels of the town, Amalchi made a point of making an example of those who dared to exist in his path. The level of destruction didn't nearly have to be *this* extensive. Innocent or guilty, old or young, nobody was spared the wrathful fury of this deity.
 
-    But, signs of life remain. In the south-west, against the edge of the ancient forest you see plumes of smoke trail into the bright sky from what you assume to be the survivors camp that the boys had mentioned.
+    To the west, you see a group of people pull something from the water onto a shallow beach. "They found another one," says Mike. "I wonder if any of us knew them."
+
+    So much destruction. So much death. But, signs of life remain. In the south-west, against the edge of the ancient forest you see plumes of smoke trail into the bright sky from what you assume to be the survivors camp that the boys had mentioned.
+
+    "Do you want to go back?" Asks Hurq.
 
 ??? danger DM Links
     - [[survivors-camp]]

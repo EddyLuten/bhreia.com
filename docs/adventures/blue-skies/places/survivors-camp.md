@@ -27,7 +27,9 @@ There's a board with the names of those still missing, names scratched off are c
 - ~~Grottle~~
 - [Toddwyn Marshall](../../dauriels-mansion/npcs/maniac.md)
 - Rufus Hardy III. Contact: Anna Hardy
-- *[[tiran|Tiran Medeid]]*. Contact: Sophia Ironstone at the [[ironstone-forge]]
+- ~~Seamus Freeney~~ Contact: Cpt. James Freeney
+- [[borlok]]
+- *[[tiran|Tiran Medeid]]*. Contact: Sophia Ironstone
 
 On the pole holding the board:
 
@@ -64,7 +66,7 @@ As they enter the camp, [[weslan]] is getting ready to calm down some pissed off
 
     *The crowd boos and is angry.*
 
-    If you have any further questions, don't hesistate to reach out to me. Thank you.
+    If you have any further questions, don't hesistate to come to me. My tent is always open. Thank you.
 
 He climbs down the podium and walks towards a big tent bearing the [[au]] logo, then disappears inside.
 
