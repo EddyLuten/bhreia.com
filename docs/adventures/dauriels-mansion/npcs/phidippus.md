@@ -1,9 +1,11 @@
 ---
-alias:
-    name: phidippus
-    text: Phidippus
+alias: phidippus
+categories:
+    - Dauriel's Mansion
+    - Blue Skies
+    - NPCs
 ---
-# 🔐 Phidippus, the Wizard
+# 🔐 Phidippus
 
 --8<-- "spoiler.html"
 

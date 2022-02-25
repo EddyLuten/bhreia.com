@@ -1,3 +1,8 @@
+---
+alias: skitterbug
+categories:
+    - Creatures
+---
 # Skitterbug
 
 ## Player Handout

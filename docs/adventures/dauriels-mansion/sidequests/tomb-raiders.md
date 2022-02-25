@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Dauriel's Mansion
+    - Sidequests
+---
 # 🔐 Tomb Raiders
 
 --8<-- "spoiler.html"

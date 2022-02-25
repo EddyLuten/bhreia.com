@@ -1,7 +1,9 @@
 ---
-alias:
-  name: cauldins-point
-  text: Cauldin's Point
+alias: cauldins-point
+categories:
+    - Lore
+    - Settlements
+    - Geography
 ---
 # Cauldin's Point
 

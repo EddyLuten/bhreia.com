@@ -1,3 +1,8 @@
+---
+categories:
+    - Adventures
+    - Dauriel's Mansion
+---
 # Dauriel's Mansion
 
 --8<-- "spoiler.html"

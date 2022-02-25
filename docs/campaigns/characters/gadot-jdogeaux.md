@@ -1,7 +1,8 @@
 ---
-alias:
-    name: gadot
-    text: Gadot
+alias: gadot
+categories:
+    - Braving Bhreia
+    - Characters
 ---
 # Gadot J'Dogeaux
 

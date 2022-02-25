@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Dauriel's Mansion
+    - Sidequests
+---
 # 🔐 Liquid Life
 
 --8<-- "spoiler.html"

@@ -1,7 +1,8 @@
 ---
-alias:
-    name: malachi
-    text: Malachi Medeid
+alias: malachi
+categories:
+    - Blue Skies
+    - NPCs
 ---
 # 🔐 Malachi Medeid
 

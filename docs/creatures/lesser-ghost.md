@@ -1,3 +1,7 @@
+---
+categories:
+    - Creatures
+---
 # 🔐 Lesser Ghost
 
 --8<-- "spoiler.html"

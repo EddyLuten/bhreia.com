@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Story
+    - Dauriel's Mansion
+---
 # Connections
 
 --8<-- "spoiler.html"

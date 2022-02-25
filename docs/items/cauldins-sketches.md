@@ -1,3 +1,9 @@
+---
+alias: cauldins-sketches
+categories:
+    - Handouts
+    - Items
+---
 # 🔐 Cauldin's Sketches
 
 --8<-- "spoiler.html"

@@ -1,3 +1,9 @@
+---
+categories:
+    - Braving Bhreia
+    - Handouts
+    - Items
+---
 # Marram Map
 
 <figure class="infobox right">

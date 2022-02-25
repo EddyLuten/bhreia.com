@@ -1,7 +1,9 @@
 ---
-alias:
-    name: korbans-landing
-    text: Korban's Landing
+alias: korbans-landing
+categories:
+    - Lore
+    - Settlements
+    - Geography
 ---
 
 # Korban's Landing

@@ -1,7 +1,8 @@
 ---
-alias:
-    name: tiran
-    text: Tiran
+alias: tiran
+categories:
+    - Braving Bhreia
+    - Characters
 ---
 # Tiran Medeid
 

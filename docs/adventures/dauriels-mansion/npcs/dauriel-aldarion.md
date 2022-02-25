@@ -1,7 +1,9 @@
 ---
-alias:
-    name: dauriel
-    text: Dauriel Aldarion
+alias: dauriel
+categories:
+    - Dauriel's Mansion
+    - NPCs
+    - Aldarion Unlimited
 ---
 # Dauriel Aldarion
 

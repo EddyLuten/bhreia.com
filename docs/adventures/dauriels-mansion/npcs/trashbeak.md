@@ -1,3 +1,9 @@
+---
+alias: trashbeak
+categories:
+    - Dauriel's Mansion
+    - NPCs
+---
 # Trashbeak
 
 <figure class="infobox right">

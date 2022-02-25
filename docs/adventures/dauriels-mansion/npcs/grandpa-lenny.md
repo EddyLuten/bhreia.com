@@ -1,3 +1,9 @@
+---
+alias: grandpa-lenny
+categories:
+    - Dauriel's Mansion
+    - NPCs
+---
 # Grandpa Lenny
 
 <figure class="infobox right">

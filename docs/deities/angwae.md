@@ -1,7 +1,7 @@
 ---
-alias:
-    name: angwae
-    text: Angwae
+alias: angwae
+categories:
+    - Deities
 ---
 # Angwae
 

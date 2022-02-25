@@ -1,3 +1,9 @@
+---
+categories:
+    - Braving Bhreia
+    - Handouts
+    - Items
+---
 # Golden Signet Ring
 
 **Owner:** [[wolf]]

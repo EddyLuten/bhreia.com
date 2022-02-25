@@ -1,3 +1,9 @@
+---
+alias: cauldins-sword
+categories:
+    - Handouts
+    - Items
+---
 # 🔐 Cauldin's Sword
 
 --8<-- "spoiler.html"

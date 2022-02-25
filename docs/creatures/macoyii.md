@@ -1,7 +1,7 @@
 ---
-alias:
-    name: macoyii
-    text: Macoyii
+alias: macoyii
+categories:
+    - Creatures
 ---
 # Macoyii
 

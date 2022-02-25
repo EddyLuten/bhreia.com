@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Story
+    - Dauriel's Mansion
+---
 # Act 3: The Complex
 
 --8<-- "spoiler.html"

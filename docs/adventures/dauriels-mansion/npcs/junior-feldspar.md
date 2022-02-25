@@ -1,3 +1,9 @@
+---
+alias: junior
+categories:
+    - Dauriel's Mansion
+    - NPCs
+---
 # Junior Feldspar
 
 <figure class="infobox right">

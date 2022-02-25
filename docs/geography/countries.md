@@ -1,3 +1,9 @@
+---
+alias: countries
+categories:
+    - Countries
+    - Geography
+---
 # Countries
 
 Countries here define a distinct group of people sharing a territory, culture, and government. Any of these countries can have their own sets of states, provices, or other types of internal regions.

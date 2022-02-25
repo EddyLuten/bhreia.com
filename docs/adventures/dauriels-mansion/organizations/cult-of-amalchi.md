@@ -1,7 +1,9 @@
 ---
-alias:
-    name: amalchi-cult
-    text: Cult of Amalchi
+alias: amalchi-cult
+categories:
+    - Dauriel's Mansion
+    - Organizations
+    - Cults
 ---
 # 🔐 Cult of Amalchi
 

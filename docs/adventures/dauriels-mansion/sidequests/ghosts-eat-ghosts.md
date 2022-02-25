@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Dauriel's Mansion
+    - Sidequests
+---
 # 🔐 Ghosts Eat Ghosts
 
 --8<-- "spoiler.html"

@@ -1,7 +1,7 @@
 ---
-alias:
-    name: urlac
-    text: Urlac
+alias: urlac
+categories:
+    - Deities
 ---
 # Urlac
 

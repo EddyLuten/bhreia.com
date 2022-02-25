@@ -5,7 +5,8 @@ repo_name: EddyLuten/bhreia.com
 plugins:
   - alias
   - awesome-pages
-  - git-revision-date
+  - categories:
+      no_nav: true
   - search:
       lang: en
 extra:

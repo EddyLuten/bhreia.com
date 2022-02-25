@@ -1,7 +1,8 @@
 ---
-alias:
-    name: weslan
-    text: Weslan Stillwater
+alias: weslan
+categories:
+    - Blue Skies
+    - NPCs
 ---
 # 🔐 Weslan Stillwater
 

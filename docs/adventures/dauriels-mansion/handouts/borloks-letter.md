@@ -1,3 +1,10 @@
+---
+alias: borloks-letter
+categories:
+    - Handouts
+    - Items
+    - Dauriel's Mansion
+---
 # 🔐 Borlok's Letter
 
 Held in [Borlok's](../npcs/borlok-orsel.md) inventory.

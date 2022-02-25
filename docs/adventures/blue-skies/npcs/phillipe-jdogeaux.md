@@ -1,7 +1,8 @@
 ---
-alias:
-    name: phillipe
-    text: Phillipe J'Dogeaux
+alias: phillipe
+categories:
+    - Blue Skies
+    - NPCs
 ---
 # 🔐 Phillipe J'Dogeaux
 

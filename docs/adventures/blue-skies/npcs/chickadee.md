@@ -1,7 +1,9 @@
 ---
-alias:
-    name: chickadee
-    text: Chickadee of the Two Rivers
+alias: chickadee
+categories:
+    - Blue Skies
+    - Dauriel's Mansion
+    - NPCs
 ---
 # 🔐 Chickadee of the Two Rivers
 

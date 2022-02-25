@@ -1,3 +1,9 @@
+---
+categories:
+    - Braving Bhreia
+    - Handouts
+    - Items
+---
 # Cauldin's Sword
 
 **Owner:** [[tiran]]

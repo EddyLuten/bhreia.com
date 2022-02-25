@@ -1,7 +1,8 @@
 ---
-alias:
-    name: sophia
-    text: Sophia Medeid
+alias: sophia
+categories:
+    - Blue Skies
+    - NPCs
 ---
 # 🔐 Sophia Medeid
 

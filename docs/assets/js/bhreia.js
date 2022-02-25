@@ -59,7 +59,7 @@ function scrambleLockedTitle(elem) {
 function setupScrambling() {
     // Set up scrambling
     if (scrambleMenu) {
-        for(let elem of document.getElementsByClassName('md-nav__link')) {
+        for(let elem of document.getElementsByTagName('a')) {
             if (String(elem.innerText).trim().startsWith('🔐')) {
                 const orig = String(elem.innerText);
                 elem.setAttribute('unscrambled', orig);

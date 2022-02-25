@@ -1,7 +1,7 @@
 ---
-alias:
-    name: brother
-    text: Breia's Brother
+alias: brother
+categories:
+    - Deities
 ---
 # Bhreia's Brother
 

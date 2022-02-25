@@ -1,4 +1,9 @@
-
+---
+categories:
+    - DM Only
+    - Story
+    - Dauriel's Mansion
+---
 # Adventure Hooks
 
 --8<-- "spoiler.html"

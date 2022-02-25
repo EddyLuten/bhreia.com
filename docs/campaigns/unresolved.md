@@ -1,3 +1,9 @@
+---
+alias: unresolved
+categories:
+    - Braving Bhreia
+    - DM Only
+---
 # 🔐 Unresolved Storylines
 
 --8<-- "spoiler.html"

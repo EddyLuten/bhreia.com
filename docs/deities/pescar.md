@@ -1,7 +1,7 @@
 ---
-alias:
-    name: pescar
-    text: Pescar
+alias: pescar
+categories:
+    - Deities
 ---
 # Pescar
 

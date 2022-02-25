@@ -2,6 +2,10 @@
 alias:
     name: au
     text: Aldarion Unlimited
+categories:
+    - Dauriel's Mansion
+    - Aldarion Unlimited
+    - Organizations
 ---
 # Aldarion Unlimited
 

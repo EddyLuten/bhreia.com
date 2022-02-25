@@ -1,3 +1,9 @@
+---
+alias: random-places
+categories:
+    - Random Tables
+    - DM Tools
+---
 # Random Places
 
 ## Towns

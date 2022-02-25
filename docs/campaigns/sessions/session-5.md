@@ -1,3 +1,8 @@
+---
+categories:
+    - Braving Bhreia
+    - Sessions
+---
 # Session 5
 
 **Date:** 2011-11-29 @ 9:00 PM CT

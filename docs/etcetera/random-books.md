@@ -1,3 +1,9 @@
+---
+alias: random-books
+categories:
+    - Random Tables
+    - DM Tools
+---
 # Random Books
 
 * Aldarion Unlimited: Adventurers or Colonizers?

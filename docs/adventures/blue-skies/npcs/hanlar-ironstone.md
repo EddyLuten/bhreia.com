@@ -1,7 +1,8 @@
 ---
-alias:
-    name: hanlar
-    text: Hanlar Ironstone
+alias: hanlar
+categories:
+    - Blue Skies
+    - NPCs
 ---
 
 # Hanlar Ironstone

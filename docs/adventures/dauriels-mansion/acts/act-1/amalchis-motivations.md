@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Story
+    - Dauriel's Mansion
+---
 # Amalchi's Motivations
 
 --8<-- "spoiler.html"

@@ -1,3 +1,9 @@
+---
+alias: random-vendors
+categories:
+    - Random Tables
+    - DM Tools
+---
 # Random Vendors
 
 Found in marketplaces, stores, etc.

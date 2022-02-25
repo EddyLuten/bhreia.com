@@ -1,3 +1,8 @@
+---
+categories:
+    - Character Creation
+    - Meta
+---
 # Picking a Country
 
 The [world map](../assets/images/world-map-full.png) was created with distribution of various races in mind. Below follows a matching of major races present on Bhreia with their respective countries or regions as well as a list of races matched to the countries where they hold a majority. Go to the country's page for common background details that your character would likely know.

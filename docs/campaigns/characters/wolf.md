@@ -1,7 +1,8 @@
 ---
-alias:
-    name: wolf
-    text: Wolf
+alias: wolf
+categories:
+    - Braving Bhreia
+    - Characters
 ---
 # Wolf
 

@@ -1,7 +1,8 @@
 ---
-alias:
-    name: anton
-    text: Dr. Anton Malchi
+alias: anton
+categories:
+    - Blue Skies
+    - NPCs
 ---
 # 🔐 Dr. Anton Malchi
 

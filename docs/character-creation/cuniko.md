@@ -1,3 +1,9 @@
+---
+alias: cuniko
+categories:
+    - Races
+    - Character Creation
+---
 # Cuniko
 
 <figure class="infobox right">

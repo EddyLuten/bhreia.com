@@ -1,3 +1,8 @@
+---
+categories:
+    - Braving Bhreia
+    - Sessions
+---
 # Session 2
 
 **Date:** November 8th, 2021 @ 21:00 CT

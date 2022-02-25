@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Dauriel's Mansion
+    - Places
+---
 # 🔐 The Mansion
 
 --8<-- "spoiler.html"

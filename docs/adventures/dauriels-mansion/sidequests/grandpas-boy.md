@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Dauriel's Mansion
+    - Sidequests
+---
 # 🔐 Grandpa's Boy
 
 --8<-- "spoiler.html"

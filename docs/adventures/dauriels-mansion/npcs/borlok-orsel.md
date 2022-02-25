@@ -1,7 +1,9 @@
 ---
-alias:
-    name: borlok
-    text: Borlok Orsel
+alias: borlok
+categories:
+    - Dauriel's Mansion
+    - Blue Skies
+    - NPCs
 ---
 # 🔐 Borlok Orsel
 
@@ -21,7 +23,7 @@ Borlok is Dauriel's butler, father of Hurq, and one of the five cult members of 
 - A light blue robe
 - A golden dagger ([the same as in the tomb](../places/cauldins-tomb.md))
 - An [old letter](../handouts/borloks-letter.md)
-- Campaign specific:
+- Braving Bhreia:
   - [Ironstone Forge Greataxe](../../../campaigns/handouts/ironstone-forge-greataxe.md)
   - A note: "Pasha Yaraxil. Dragonborn. Affected."
     - Affected by the event in [[pasha|Finippicay]]

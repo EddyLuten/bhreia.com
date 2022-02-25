@@ -1,7 +1,9 @@
 ---
-alias:
-    name: korbantir
-    text: Korbantir
+alias: korbantir
+categories:
+    - Lore
+    - Countries
+    - Geography
 ---
 # Korbantir
 

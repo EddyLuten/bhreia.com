@@ -1,3 +1,8 @@
+---
+categories:
+    - Braving Bhreia
+    - Sessions
+---
 # Session 7
 
 **Date:** 2011-12-17 @ 9:00 PM CT

@@ -1,7 +1,7 @@
 ---
-alias:
-    name: melora
-    text: Melora
+alias: melora
+categories:
+    - Deities
 ---
 # Melora
 

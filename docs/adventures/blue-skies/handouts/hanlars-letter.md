@@ -1,3 +1,9 @@
+---
+categories:
+    - Handouts
+    - Items
+    - Blue Skies
+---
 # 🔐 Hanlar's Letter to Sophia
 
 --8<-- "spoiler.html"

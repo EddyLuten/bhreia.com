@@ -1,3 +1,8 @@
+---
+categories:
+    - Meta
+    - Character Creation
+---
 # Welcome to Bhreia
 
 <figure class="infobox right">

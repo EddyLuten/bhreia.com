@@ -1,7 +1,8 @@
 ---
-alias:
-    name: pasha
-    text: Pasha
+alias: pasha
+categories:
+    - Braving Bhreia
+    - Characters
 ---
 # Paxalon "Pasha" Yaraxil
 

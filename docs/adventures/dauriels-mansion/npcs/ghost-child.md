@@ -1,3 +1,9 @@
+---
+alias: ghost-child
+categories:
+    - Dauriel's Mansion
+    - NPCs
+---
 # 🔐 Ghost Child
 
 --8<-- "spoiler.html"

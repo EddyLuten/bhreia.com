@@ -1,7 +1,9 @@
 ---
-alias:
-    name: londrina
-    text: Londrina
+alias: londrina
+categories:
+    - Blue Skies
+    - Dauriel's Mansion
+    - NPCs
 ---
 # 🔐 Londrina
 

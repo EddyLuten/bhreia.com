@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Dauriel's Mansion
+    - Places
+---
 # 🔐 AU's Original HQ
 
 --8<-- "spoiler.html"

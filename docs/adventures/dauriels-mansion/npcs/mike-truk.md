@@ -1,3 +1,10 @@
+---
+alias: mike-truk
+categories:
+    - Dauriel's Mansion
+    - Blue Skies
+    - NPCs
+---
 # Mike Truk
 
 <figure class="infobox right">
@@ -10,7 +17,7 @@
   </figcaption>
 </figure>
 
-Mike Truk is a homeless boy of around 11 years of age, living in and around [Cauldin's Point](../../../geography/settlements/cauldins-point.md).
+Mike Truk is a homeless boy of around 11 years of age, living in and around [[cauldins-point]].
 
 ## Appearance
 

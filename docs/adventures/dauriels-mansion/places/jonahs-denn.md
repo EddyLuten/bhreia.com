@@ -1,7 +1,9 @@
 ---
-alias:
-    name: jonahs-denn
-    text: Jonah's Denn
+alias: jonahs-denn
+categories:
+    - DM Only
+    - Dauriel's Mansion
+    - Places
 ---
 # Jonah's Denn
 

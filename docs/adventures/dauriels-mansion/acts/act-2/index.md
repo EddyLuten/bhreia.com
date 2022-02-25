@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Story
+    - Dauriel's Mansion
+---
 # Act 2: The Party
 
 --8<-- "spoiler.html"

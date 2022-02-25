@@ -18,7 +18,7 @@ jobs:
           python-version: '3.9'
       - name: "Install Dependencies"
         run: |
-          pip install mkdocs-material mkdocs-alias-plugin mkdocs-git-revision-date-plugin mkdocs-awesome-pages-plugin mdx_truly_sane_lists markdown-word-count
+          pip install mkdocs-material mkdocs-alias-plugin mkdocs-categories-plugin mkdocs-git-revision-date-plugin mkdocs-awesome-pages-plugin mdx_truly_sane_lists markdown-word-count
       - name: "Calculate Word Count"
         run: |
           COUNT=$(shopt -s globstar; ls -d -- docs/**/*.md | xargs -L1 mwc | paste -sd+ - | bc);

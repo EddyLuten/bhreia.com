@@ -1,7 +1,9 @@
 ---
-alias:
-    name: ironstone-forge
-    text: Ironstone Forge
+alias: ironstone-forge
+categories:
+    - DM Only
+    - Places
+    - Blue Skies
 ---
 # 🔐 Ironstone Forge
 

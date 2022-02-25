@@ -1,3 +1,8 @@
+---
+alias: braving-bhreia
+categories:
+    - Braving Bhreia
+---
 # Braving Bhreia
 
 Braving Bhreia is an ongoing campaign that started on November 1st, 2021, played on Roll20 and Discord.
@@ -41,7 +46,8 @@ Braving Bhreia is an ongoing campaign that started on November 1st, 2021, played
   </figcaption>
 </figure>
 
-- TBD: [Session 11](sessions/session-11.md)
+- 2022-02-22: [Session 11](sessions/session-11.md) - Tiran's Mom
+- 2022-03-02: [Session 12](sessions/session-12.md)
 
 ## Players (a-z)
 

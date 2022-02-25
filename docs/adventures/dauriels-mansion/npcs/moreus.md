@@ -1,7 +1,8 @@
 ---
-alias:
-    name: moreus
-    text: Moreus Aldarion
+alias: moreus
+categories:
+    - Dauriel's Mansion
+    - NPCs
 ---
 # Moreus
 

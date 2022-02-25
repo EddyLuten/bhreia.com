@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Dauriel's Mansion
+    - Sidequests
+---
 # 🔐 The Cave
 
 --8<-- "spoiler.html"

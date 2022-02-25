@@ -1,3 +1,9 @@
+---
+categories:
+    - Handouts
+    - Effects
+    - Dauriel's Mansion
+---
 # 🔐 Bhreia's Embrace
 
 --8<-- "spoiler.html"

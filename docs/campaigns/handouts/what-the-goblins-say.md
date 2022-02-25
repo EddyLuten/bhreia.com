@@ -1,3 +1,8 @@
+---
+categories:
+    - Braving Bhreia
+    - Handouts
+---
 # 🔐 What the Goblins Say
 
 --8<-- "spoiler.html"

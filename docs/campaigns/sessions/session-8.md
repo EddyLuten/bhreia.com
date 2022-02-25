@@ -1,3 +1,8 @@
+---
+categories:
+    - Braving Bhreia
+    - Sessions
+---
 # Session 8
 
 **Date:** 2022-01-10 @ 9:00 PM CT

@@ -1,3 +1,8 @@
+---
+alias: bodies-of-water
+categories:
+    - Geography
+---
 # Bodies of Water
 
 Enumerated on this page are the various bodies of water present on the surface of Bhreia. Click on any of them for more information.

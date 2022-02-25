@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Story
+    - Dauriel's Mansion
+---
 # Act 1: Cauldin's Point
 
 --8<-- "spoiler.html"

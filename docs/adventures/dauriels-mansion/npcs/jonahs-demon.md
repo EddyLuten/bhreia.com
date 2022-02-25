@@ -1,3 +1,10 @@
+---
+alias: jonahs-demon
+categories:
+    - Dauriel's Mansion
+    - Items
+    - NPCs
+---
 # 🔐 Jonah's Demon
 
 --8<-- "spoiler.html"

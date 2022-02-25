@@ -1,3 +1,9 @@
+---
+alias: rhea-feldspar
+categories:
+    - Dauriel's Mansion
+    - NPCs
+---
 # Rhea Feldspar
 
 <figure class="infobox right">

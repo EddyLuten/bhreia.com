@@ -1,3 +1,9 @@
+---
+alias: game-notes
+categories:
+    - Braving Bhreia
+    - DM Only
+---
 # 🔐 Game Notes
 
 --8<-- "spoiler.html"

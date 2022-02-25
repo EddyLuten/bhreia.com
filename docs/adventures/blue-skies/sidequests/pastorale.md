@@ -1,3 +1,10 @@
+---
+alias: pastorale
+categories:
+    - DM Only
+    - Sidequests
+    - Blue Skies
+---
 # 🔐 Pastorale
 
 WIP: Random encounter along the road with Cauda's traveling musical shadow puppet show.

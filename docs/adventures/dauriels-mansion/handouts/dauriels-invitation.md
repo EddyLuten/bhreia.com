@@ -1,3 +1,10 @@
+---
+alias: dauriels-invitation
+categories:
+    - Handouts
+    - Items
+    - Dauriel's Mansion
+---
 # Dauriel's Invitation
 
 A letter, folded and secured by a large red wax seal bearing the capital letter "A" and a ring of words in Elvish surrounding it. On the reverse is your name written in an elegant script. When you break the seal and unfold the letter, you can read the following words:

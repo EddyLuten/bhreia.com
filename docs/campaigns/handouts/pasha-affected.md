@@ -1,3 +1,9 @@
+---
+categories:
+    - Braving Bhreia
+    - Handouts
+    - Items
+---
 # 🔐 Pasha "Affected" Note
 
 --8<-- "spoiler.html"

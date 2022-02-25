@@ -1,3 +1,10 @@
+---
+alias: jonahs-journal
+categories:
+    - Handouts
+    - Items
+    - Lore
+---
 # 🔐 Jonah's Journal
 
 --8<-- "spoiler.html"

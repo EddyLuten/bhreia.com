@@ -1,3 +1,9 @@
+---
+alias: maniac
+categories:
+    - Dauriel's Mansion
+    - NPCs
+---
 # Maniac
 
 Name: Toddwynn "Maniac" Marshall

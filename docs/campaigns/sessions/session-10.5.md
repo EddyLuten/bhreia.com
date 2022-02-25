@@ -1,3 +1,8 @@
+---
+categories:
+    - Braving Bhreia
+    - Sessions
+---
 # Session 10½: Chapter 1 Postmortem
 
 A write-up of how this was put together and things that could have happened if things had just turned out slightly different.

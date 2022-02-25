@@ -1,3 +1,10 @@
+---
+alias: grungine
+categories:
+    - Handouts
+    - Items
+    - Lore
+---
 # Grungine
 
 <figure class="infobox right">

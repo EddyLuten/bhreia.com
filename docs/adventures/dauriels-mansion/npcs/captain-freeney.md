@@ -1,7 +1,8 @@
 ---
-alias:
-    name: freeney
-    text: Captain Freeney
+alias: freeney
+categories:
+    - Dauriel's Mansion
+    - NPCs
 ---
 # 🔐 Captain Freeney
 

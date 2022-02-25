@@ -1,7 +1,7 @@
 ---
-alias:
-    name: amalchi
-    text: Amalchi
+alias: amalchi
+categories:
+    - Deities
 ---
 # 🔐 Amalchi
 

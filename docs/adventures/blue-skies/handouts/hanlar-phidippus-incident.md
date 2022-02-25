@@ -1,7 +1,9 @@
 ---
-alias:
-    name: hanlar-phidippus
-    text: The Hanlar and Phidippus Incident
+alias: hanlar-phidippus
+categories:
+    - Handouts
+    - Items
+    - Blue Skies
 ---
 # 🔐 The Hanlar and Phidippus Incident
 

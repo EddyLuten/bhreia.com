@@ -1,3 +1,9 @@
+---
+categories:
+    - Braving Bhreia
+    - Handouts
+    - Items
+---
 # Branch With 10 Leaves
 
 **Owner:** [[sah-sauj]]

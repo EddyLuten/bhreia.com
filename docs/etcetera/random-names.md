@@ -1,3 +1,9 @@
+---
+alias: random-names
+categories:
+    - Random Tables
+    - DM Tools
+---
 # Random Names
 
 The random name generator is generally pretty bad, but you can get some gems by curating the results carefully.

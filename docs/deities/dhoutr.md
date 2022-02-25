@@ -1,7 +1,7 @@
 ---
-alias:
-    name: dhoutr
-    text: Dhoutr
+alias: dhoutr
+categories:
+    - Deities
 ---
 # Dhoutr
 

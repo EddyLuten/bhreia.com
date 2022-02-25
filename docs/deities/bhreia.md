@@ -1,7 +1,7 @@
 ---
-alias:
-    name: bhreia
-    text: Bhreia
+alias: bhreia
+categories:
+    - Deities
 ---
 # Bhreia
 

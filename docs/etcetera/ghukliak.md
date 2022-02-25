@@ -1,3 +1,9 @@
+---
+alias: ghukliak
+categories:
+    - Meta
+    - Languages
+---
 # Ghukliak
 
 A glossary of words.

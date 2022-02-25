@@ -1,7 +1,5 @@
 ---
-alias:
-    name: primani
-    text: Primani
+alias: primani
 ---
 # Primani
 

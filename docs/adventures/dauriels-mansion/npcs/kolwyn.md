@@ -1,7 +1,8 @@
 ---
-alias:
-    name: kolwyn
-    text: Kolwyn
+alias: kolwyn
+categories:
+    - Dauriel's Mansion
+    - NPCs
 ---
 # Kolwyn
 

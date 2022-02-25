@@ -1,7 +1,7 @@
 ---
-alias:
-    name: zoanovin
-    text: Zoanovin
+alias: zoanovin
+categories:
+    - Deities
 ---
 # Zoanovin
 

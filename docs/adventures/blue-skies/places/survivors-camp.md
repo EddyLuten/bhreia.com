@@ -2,6 +2,11 @@
 alias:
     name: survivors-camp
     text: Survivors Camp
+categories:
+    - DM Only
+    - Places
+    - Settlements
+    - Blue Skies
 ---
 # 🔐 Survivors' Camp at Cauldin's Point
 

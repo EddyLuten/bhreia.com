@@ -1,3 +1,8 @@
+---
+categories:
+    - DM Only
+    - Dauriel's Mansion
+---
 # Story Outline (Draft)
 
 --8<-- "spoiler.html"

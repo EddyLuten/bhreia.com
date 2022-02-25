@@ -1,3 +1,9 @@
+---
+categories:
+    - Dauriel's Mansion
+    - Aldarion Unlimited
+    - Organizations
+---
 # Aldarion Adventurers
 
 Aldarion Adventurers was the first name for the group that eventually became the company [Aldarion Unlimited](aldarion-unlimited.md). They were [headquartered](../places/au-original-hq.md) an hour west of Cauldin's Point.

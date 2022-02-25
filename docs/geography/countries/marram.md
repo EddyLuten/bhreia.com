@@ -1,7 +1,9 @@
 ---
-alias:
-    name: marram
-    text: Marram
+alias: marram
+categories:
+    - Lore
+    - Countries
+    - Geography
 ---
 # Marram
 

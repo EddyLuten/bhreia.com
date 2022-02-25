@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Story
+    - Dauriel's Mansion
+---
 # Dauriel Versus Amalchi (History)
 
 --8<-- "spoiler.html"

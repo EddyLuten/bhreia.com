@@ -1,3 +1,7 @@
+---
+categories:
+    - Meta
+---
 # Setting Overview
 
 The Third Age of Bhreia was defined by a thousand years of bloodshed caused by fracturing alliances and enraged gods. The world's Peoples fought off Monsters, gods contested each other for their domains, and the lands of the world fractured under it all as Bhreia tried to maintain a balance. This terrible Age will forever be remembered as a time of great suffering for all.

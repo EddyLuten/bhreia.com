@@ -1,7 +1,8 @@
 ---
-alias:
-    name: sah-sauj
-    text: Sah-Sauj
+alias: sah-sauj
+categories:
+    - Braving Bhreia
+    - Characters
 ---
 # Sah-Sauj Cho'Ixo
 

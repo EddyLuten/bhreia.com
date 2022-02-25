@@ -1,3 +1,7 @@
+---
+categories:
+    - Creatures
+---
 # Dark Grung
 
 Dark Grungs are small froglike creatures related to the more common tropical colorful Grungs, though only found in the forests of temperate and cold regions. While the tropical variant has bright colorations, the Dark Grung, as its name suggest, is similar in color to common toads, ranging from olive green to a deep forest green.

@@ -1,3 +1,9 @@
+---
+categories:
+    - Handouts
+    - Items
+    - Blue Skies
+---
 # 🔐 Dauriel's Letters to Hanlar
 
 --8<-- "spoiler.html"

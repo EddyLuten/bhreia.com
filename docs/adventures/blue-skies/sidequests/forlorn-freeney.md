@@ -1,7 +1,9 @@
 ---
-alias:
-    name: forlorn-freeney
-    text: Forlorn Freeney
+alias: forlorn-freeney
+categories:
+    - DM Only
+    - Sidequests
+    - Blue Skies
 ---
 # 🔐 Forlorn Freeney
 

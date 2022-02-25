@@ -1,3 +1,9 @@
+---
+alias: regions
+categories:
+    - Regions
+    - Geography
+---
 # Regions
 
 The following are regions largely unpopulated by civilized societies. Most of these regions remain unexplored due to the severely dangerous creatures inhabiting them.

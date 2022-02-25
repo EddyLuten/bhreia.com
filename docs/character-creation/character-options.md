@@ -1,3 +1,8 @@
+---
+categories:
+    - Character Creation
+    - Meta
+---
 # Character Options
 
 !!! info

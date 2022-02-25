@@ -1,7 +1,11 @@
 ---
-alias:
-    name: crater
-    text: Cauldin's Point Crater
+alias: crater
+categories:
+    - DM Only
+    - Places
+    - Settlements
+    - Geography
+    - Blue Skies
 ---
 # 🔐 Cauldin's Point Crater
 

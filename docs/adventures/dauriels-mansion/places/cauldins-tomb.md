@@ -1,3 +1,9 @@
+---
+categories:
+    - DM Only
+    - Dauriel's Mansion
+    - Places
+---
 # 🔐 Cauldin's Tomb
 
 --8<-- "spoiler.html"

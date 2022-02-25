@@ -1,3 +1,9 @@
+---
+alias: peter-goblin
+categories:
+    - Dauriel's Mansion
+    - NPCs
+---
 # 🔐 Peter the Goblin
 
 --8<-- "spoiler.html"

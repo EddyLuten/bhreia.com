@@ -1,3 +1,9 @@
+---
+alias: old-common
+categories:
+    - Meta
+    - Languages
+---
 # Old Common
 
 A precursor language to the common tongue (or, Modern Common), which used a slighly modified alphabet and was in use from the Second Age and eventually transformed into Modern Common in the first few centuries of the Third Age.

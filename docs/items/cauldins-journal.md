@@ -1,3 +1,10 @@
+---
+alias: cauldins-journal
+categories:
+    - Handouts
+    - Items
+    - Lore
+---
 # 🔐 Cauldin's Journal
 
 --8<-- "spoiler.html"

@@ -1,3 +1,10 @@
+---
+alias: dr-malchi
+categories:
+    - DM Only
+    - Sidequests
+    - Blue Skies
+---
 # 🔐 Dr. Malchi, I Presume?
 
 --8<-- "spoiler.html"

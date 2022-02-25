@@ -1,7 +1,8 @@
 ---
-alias:
-    name: timeline
-    text: Timeline
+alias: timeline
+categories:
+    - Lore
+    - Meta
 ---
 # Timeline
 

@@ -1,3 +1,8 @@
+---
+alias: calendar
+categories:
+    - Meta
+---
 # Calendar
 
 Bhreia uses a basic calendar to simplify date math. For example, there are no leap years in the calendar.

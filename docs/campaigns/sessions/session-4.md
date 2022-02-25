@@ -1,3 +1,8 @@
+---
+categories:
+    - Braving Bhreia
+    - Sessions
+---
 # Session 4
 
 **Date:** 2021-11-22 @ 9:00 PM CT
