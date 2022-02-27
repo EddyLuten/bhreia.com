@@ -1,3 +1,9 @@
+---
+alias: blue-skies
+categories:
+    - Adventures
+    - Blue Skies
+---
 # 🔐 Blue Skies
 
 --8<-- "spoiler.html"

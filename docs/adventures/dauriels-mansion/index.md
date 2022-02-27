@@ -1,4 +1,5 @@
 ---
+alias: dauriels-mansion
 categories:
     - Adventures
     - Dauriel's Mansion

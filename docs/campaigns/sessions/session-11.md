@@ -7,7 +7,7 @@ categories:
 
 **Date:** Tuesday, February 22, 2022 @ 9:00 PM CT
 
-**Audio:** None yet.
+**Audio:** [MP3](https://drive.google.com/file/d/1trBESfKQkzDJXyuT0n1Emn_x8Hf4WDQG/view?usp=sharing) (2h41m)
 
 This session signifies the start of Chapter 2 in this campaign.
 

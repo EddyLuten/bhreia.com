@@ -9,7 +9,7 @@ The files that generate the wiki are located in the `docs` directory.
 Install the latest version of Python 3 and ensure that the pip executable is [part of your PATH](https://docs.python.org/3/using/windows.html). Then run the following command to install dependencies:
 
 ```zsh
-pip install mkdocs-material mkdocs-alias-plugin mkdocs-git-revision-date-plugin mkdocs-awesome-pages-plugin mdx_truly_sane_lists markdown-word-count
+pip install mkdocs-material mkdocs-alias-plugin mkdocs-categories-plugin mkdocs-awesome-pages-plugin mdx_truly_sane_lists markdown-word-count
 ```
 
 Once installed, `cd` into the root directory and run the following command to run the wiki locally:
