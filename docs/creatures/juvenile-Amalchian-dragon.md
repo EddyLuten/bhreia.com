@@ -1,3 +1,8 @@
+---
+alias: juvenile-dragon
+categories:
+    - Creatures
+---
 # 🔐 Juvenile Amalchian Dragon
 
 --8<-- "spoiler.html"

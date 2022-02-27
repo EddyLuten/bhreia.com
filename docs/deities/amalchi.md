@@ -59,11 +59,55 @@ Enough of Amalchi exists in the elemental plane of air to keep the day and night
 
 The followers of Amalchi are known as the [Cult of Amalchi](../adventures/dauriels-mansion/organizations/cult-of-amalchi.md) and operate clandestinely. They are trying to bring about balance to a world that they perceive to be unbalanced. See their page for details.
 
+## Children
+
+After the events of [[dauriels-mansion]], Amalchi will reproduce asexually and lay five eggs. During the course of the year, the eggs will hatch and yield the following five dragons.
+
+### Dagaz
+
+Personification of **Day**. The fiery one, young and angry, burning.
+
+Hot headed and driven by passion, Dagaz holds a grudge against anyone who ever stood in his way or in that of his father. He's easily pushed over the edge and should be the first child of Amalchi that the adventurers encounter.
+
+At this point, Dagaz will be a [[juvenile-dragon]].
+
+#### Totem
+
+Upon his death, Dagaz will leave behind his single blazing eye.
+
+It radiates light in a radius of 25 ft.
+
+Any creature holding the eye up to their own will be able to see any magical effect within 100 ft., without the barrier limitations of spells such as [detect magic](https://roll20.net/compendium/dnd5e/Detect%20Magic).
+
+However, due to its divine powers, after use, the creature will go blind for ten minutes.
+
+### Noktus
+
+Personification of **Night**. The mysterious one, calculating.
+
+### Sunuz
+
+Personification of the **Sun**. The fruitful one, gives birth to many more.
+
+### Menoz
+
+Personification of the **Moon**. The judge, tests, measures, judges with a cold eye.
+
+### Eeroz
+
+Personification of **Air** and the East. The dawn, a new start, rejects their father and helps instead of obstructing the adventurers. They should be encountered last and before Amalchi himself.
+
 ## Etymology (Meta)
 
 From Latin malus, meaning *bad*, evil, wicked, etc.
 
 ## Children
 
-* [[melora]] with Bhreia.
-* [[dhoutr]] out of his own body.
+- [[melora]] with Bhreia.
+- [[dhoutr]] out of his own body.
+- Dragons, during [[blue-skies]]:
+  - Dagaz
+  - Noktus
+  - Sunuz
+  - Menoz
+  - Eeroz

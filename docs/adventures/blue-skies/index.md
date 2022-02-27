@@ -36,6 +36,7 @@ The adventurers return from their pocket dimension/inside the orb on the [7th of
 - There's a large [[survivors-camp]] run by [[au]] outside [[crater]].
 - [[phillipe]] should have been back by now, but he's missing.
 - [[tiran]]'s dad and [[chickadee]] went to Marram to look for [[phillipe]].
+- One of [[amalchi]]'s children reveals themselves; Dagaz, the fiery one.
 - Arrival in [[korbans-landing]] + adventures there
 
 ### Act II
