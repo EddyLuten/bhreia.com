@@ -11,6 +11,35 @@ categories:
 ## Player Cues
 
 - Tiran wants to build a raft to get the robot off the island
+- The halfling that they assaulted will come back to haunt them
+
+## Assaulted Halfling
+
+!!! info "Burron Piquette"
+    The plump male Halfling who Wolf assaulted is named **Burron Piquette**.
+
+!!! info "Magistrate"
+    The magistrate overseeing the camp's legal issues is named **The Honorable Fynnwick of Herrenfort**.
+
+Halfling will have Weslan Stillwater with him and a few AU bruisers. Weslan seems disappointed when the Halfling points them out.
+
+He will ask the group to come with him peacefully and they will go to court in front of the provincial magistrate who will hear the halfling's complaint.
+
+The magistate has a permanent setup in a large tent near Weslan's tent. He's seated behind a large desk and surrounded by books and a strong looking Leonin guard wearing an [[au]] uniform.
+
+The charges:
+
+- Assault: The cigar extinguished upon the halfling's forehead
+- Robbery: The giant goat
+- Vandalism: The destruction of the halter and bridles
+
+Weslan will go to bat for them, saying he knows Phillipe and Malachi, but Londrina won't and be a character witness against them.
+
+Witnesses: TODO
+
+They will need to be very convincing.
+
+Sentences: TODO
 
 ## Amalchi's Messenger
 

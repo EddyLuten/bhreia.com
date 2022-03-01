@@ -1,4 +1,5 @@
 ---
+alias: dragons
 categories:
     - Creatures
     - Meta

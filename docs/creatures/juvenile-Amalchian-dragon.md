@@ -7,11 +7,11 @@ categories:
 
 --8<-- "spoiler.html"
 
-A juvenile dragon, child of [[amalchi]]. In terms of traditional D&D dragon stages, the juvenile sits between a Young dragon and a Wyrmling, representing a stage of growth in between. The creature is large, like a Young dragon, but paired down to represent less of a challenge. These should only be encountered at the start of [[blue-skies]].
+A juvenile Dragon, child of [[amalchi]]. In terms of traditional D&D Dragon stages, the juvenile sits between a Young Dragon and a Wyrmling, representing a stage of growth in between. See [[dragons]] for more information on Dragons and their stages in this setting. The creature is large, like a Young Dragon, but paired down to represent less of a challenge. These should only be encountered at the start of [[blue-skies]].
 
 ## Juvenile Amalchian Dragon {:.stats}
 
-Large dragon, lawful evil
+Large Dragon, lawful evil
 {:.stat .alignment}
 
 **Armor Class:** 17, natural armor
@@ -30,7 +30,7 @@ Large dragon, lawful evil
 **Damage Immunities:** lightning
 {:.ability}
 
-**Senses:** blindsight 29 ft., darkvision 120 ft., Passive Perception 16
+**Senses:** blindsight 20 ft., darkvision 120 ft., Passive Perception 16
 {:.ability}
 
 **Languages:** Draconic
@@ -41,7 +41,7 @@ Large dragon, lawful evil
 
 ### Actions {: .actions }
 
-**Multiattack.** The dragon makes two attacks: one with its bite and one with its claws.
+**Multiattack.** The Dragon makes two attacks: one with its bite and one with its claws.
 {:.action}
 
 **Bite.** *Melee Weapon Attack*: +7 to hit, reach 10 ft., one target. *Hit*: 10 (1d10 + 5) piercing damage plus 4 (1d8) lightning damage.
@@ -50,5 +50,5 @@ Large dragon, lawful evil
 **Claw.** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one target. *Hit*: 8 (1d6 + 5) slashing damage.
 {:.action}
 
-**Lightning Breath (Recharge 5-6):** The dragon exhales lightning in a 45-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 33 (6d10) lightning damage on a failed save, or half as much damage on a successful one.
+**Lightning Breath (Recharge 5-6):** The Dragon exhales lightning in a 45-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 33 (5d10) lightning damage on a failed save, or half as much damage on a successful one.
 {:.action}

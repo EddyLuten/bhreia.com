@@ -15,7 +15,7 @@ This page is about the mythological deity named Bhreia, after whom the world was
 
 **Effects:** When Bhreia is interrupted from her duties as the world, the world destabilizes and natural disasters happen. Most sightings of her are accompanied by earthquakes, sinking lands, and erupting volcanos.
 
-Not much is known about Bhreia outside of the broad strokes lined out in the creation mythology. She and [brother|her brother] were the first two primordial deities and are responsible for the creation of life. The name of the her brother has been lost to the dusty depths of the ages. It is supposed that these two deities are the personifications of the world (the stable earth, Bhreia) and the heavens (the two-faced sky, the unnamed deity), whose origins are attributed to natural processes by some or different deities by others.
+Not much is known about Bhreia outside of the broad strokes lined out in the creation mythology. She and [[brother|her brother]] were the first two primordial deities and are responsible for the creation of life. The name of the her brother has been lost to the dusty depths of the ages. It is supposed that these two deities are the personifications of the world (the stable earth, Bhreia) and the heavens (the two-faced sky, the unnamed deity), whose origins are attributed to natural processes by some or different deities by others.
 
 ## Children
 

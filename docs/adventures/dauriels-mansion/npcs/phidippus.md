@@ -10,12 +10,12 @@ categories:
 --8<-- "spoiler.html"
 
 <figure class="infobox right">
-  <h3>Phidippus as Agorius</h3>
-  <a href="/assets/images/agorius-full.png">
-    <img src="/assets/images/agorius-tiny.png" />
+  <h3>Phidippus</h3>
+  <a href="/assets/images/phidippus-full.png">
+    <img src="/assets/images/phidippus-tiny.png" />
   </a>
   <figcaption>
-    Portrait of Phidippus disguised as Agorius.
+    Portrait of Phidippus summoning Amalchi.
   </figcaption>
 </figure>
 
@@ -38,6 +38,16 @@ He often bosses the goblins who [live nearby](../places/au-original-hq.md) to do
 Phidippus uses the Macoyii during a sacrifice ritual in order to raise [[amalchi]]. He's a member of the [[amalchi-cult]] and becomes the main antagonist at the end of the adventure.
 
 ## During "Blue Skies"
+
+<figure class="infobox right">
+  <h3>Phidippus as Agorius</h3>
+  <a href="/assets/images/agorius-full.png">
+    <img src="/assets/images/agorius-tiny.png" />
+  </a>
+  <figcaption>
+    Portrait of Phidippus disguised as Agorius.
+  </figcaption>
+</figure>
 
 Amalchi has split from him, and left him severely scarred. Mentally, as well as physically. He's covered in obsidian. Phidippus feels abandoned by his deity and has lost contact. Though he's resentful, he still worships him, especially now that he's seen Amalchi's power firsthand.
 

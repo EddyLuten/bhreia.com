@@ -65,6 +65,16 @@ After the events of [[dauriels-mansion]], Amalchi will reproduce asexually and l
 
 ### Dagaz
 
+<figure class="infobox right">
+  <h3>Dagaz</h3>
+  <a href="/assets/images/dagaz-full.png">
+    <img src="/assets/images/dagaz-tiny.png" />
+  </a>
+  <figcaption>
+    Dagaz, a sketch.
+  </figcaption>
+</figure>
+
 Personification of **Day**. The fiery one, young and angry, burning.
 
 Hot headed and driven by passion, Dagaz holds a grudge against anyone who ever stood in his way or in that of his father. He's easily pushed over the edge and should be the first child of Amalchi that the adventurers encounter.
@@ -91,7 +101,9 @@ Personification of the **Sun**. The fruitful one, gives birth to many more.
 
 ### Menoz
 
-Personification of the **Moon**. The judge, tests, measures, judges with a cold eye.
+Personification of the **Moon**. The judge, tests, measures, judges with a dead eye.
+
+TODO: Is blind.
 
 ### Eeroz
 
