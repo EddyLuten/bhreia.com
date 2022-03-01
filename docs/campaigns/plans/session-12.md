@@ -16,30 +16,61 @@ categories:
 ## Assaulted Halfling
 
 !!! info "Burron Piquette"
-    The plump male Halfling who Wolf assaulted is named **Burron Piquette**.
+    The plump male Halfling who Wolf assaulted is named **Burron Piquette** (boo-ron pee-ket).
 
-!!! info "Magistrate"
-    The magistrate overseeing the camp's legal issues is named **The Honorable Fynnwick of Herrenfort**.
+    Turns out:
+
+    - The paperwork for Ramona that he present is forged
+      - They can inspect it
+      - They can get Wolf's real papers from his house
+    - He's using a fake name, his real name is **Jerry Wicket**
+    - He's wanted for embezzlement in Kleftmon
+      - He has a small camp set up East of Cauldin's Point
+      - His ex business partner is there, looking for him
+        - Jim Copperfinger, businessman
+        - Jerry Wicket was his bookkeeper who stole all his money, bankrupting him
+      - He will agree to become a witness, hates Jerry
 
 Halfling will have Weslan Stillwater with him and a few AU bruisers. Weslan seems disappointed when the Halfling points them out.
 
 He will ask the group to come with him peacefully and they will go to court in front of the provincial magistrate who will hear the halfling's complaint.
 
-The magistate has a permanent setup in a large tent near Weslan's tent. He's seated behind a large desk and surrounded by books and a strong looking Leonin guard wearing an [[au]] uniform.
+### The Charges
 
-The charges:
+Against Wolf:
 
-- Assault: The cigar extinguished upon the halfling's forehead
-- Robbery: The giant goat
-- Vandalism: The destruction of the halter and bridles
+- **Assault and Battery**: The cigar extinguished upon the halfling's forehead. The halfling will push for aggravated battery and says he's permanently disfigured.
+- **Robbery**: The giant goat
+- **Vandalism**: The destruction of the halter and bridles
+
+### Witnesses
+
+- Filpon Gymon: Male gnome, visiting from Garrenor. Soft spoken like Milton Waddams, easily intimidated.
+- Lisbeth Liszt: Female human, visiting from Donitar. She's higher class and is appalled by what she saw.
+
+### Sentencing
+
+- Burron Piquette will accept a settlement of no less than 800 gp, which he says covers the gold and the ongoing medical treatment he needs.
+- The magistate will also accept 500 gp in damages and community service.
+- If they don't have the cash, Wolf will go to prison.
+
+### The Trial
+
+The magistate has a permanent setup in a large tent near Weslan's tent. Upon entering, they can see him seated behind a large desk and surrounded by books. His name is The Honorable **Fynnwick of Herrenfort**.
+
+Behind him stands a strong looking Leonin guard named **Kirenka** wearing a partial [[au]] uniform and carrying an enormous greataxe. He doesn't speak, but the magistrate will tell them it's his helper.. and also executioner.
+
+He will inform them of the charges laid against Wolf and that they will receive the opportunity to prove their innocence to him (this is not a democracy). They will be able to call witnesses and present evidence. One of them needs to be the defense counsel and present their defense, but everyone can help and jump in.
+
+Hey says the process is fairly informal given the circumstances.
+
+They will get half a day to prepare their defense, but Wolf has to stay in the camp due to the severity of the charges.
+
+PREP TIME - Free roam
 
 Weslan will go to bat for them, saying he knows Phillipe and Malachi, but Londrina won't and be a character witness against them.
 
-Witnesses: TODO
-
-They will need to be very convincing.
-
-Sentences: TODO
+They will need to be very convincing if they want to get away with any of this unscathed.
 
 ## Amalchi's Messenger
 
