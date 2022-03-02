@@ -15,15 +15,15 @@ This session signifies the start of Chapter 2 in this campaign.
 
 After taking a short rest and eating Hurq's stew in the boys' cave, you went outside and saw the crater that used to be Cauldin's Point for the first time. Distantly, you noticed two figures pulling a body from the water and take it to the survivors camp south-west of the crater.
 
-After Hurq and Mike fetched their stew, and loaded it into a cart, you all went over to the survivors' camp where you saw a bulletin board with the names of the missing and the dead. Amongst them, you found the name of Tiran Medeid, his mother was looking for him.
+After Hurq and Mike fetched their stew, and loaded it into a cart, you all went over to the survivors' camp where you saw a bulletin board with the names of the missing and the dead. Amongst them, Tiran, with a note that his mother was looking for him.
 
 Heading into the camp, a man wearing an Aldarion Unlimited uniform standing on a small podium was trying to calm down a crowd of rowdy people. He told them that there wasn't much he could do since the local government decided that they should now focus on rebuilding the town instead of finding survivors.
 
 After the speech concluded and the crowd dispersed, you noticed a strange time keeping device near the podium. It resembled a clock, but it also had a timer, seemingly counting days, minutes, and hours since an event. You later found out that this was counting the time since the sun had stopped moving in the sky, the exact moment when Amalchi ascended.
 
-Approaching you on crutches and encrusted with black obsidian crystals, you saw Londrina who recognized Sah-Sauj as a cleric of Brother and connected him showing up with the unleashing of the deity a year before. She immediately went over to the Captain Weslan Stillwater, who is in charge of the camp.
+Approaching you on crutches and encrusted with black obsidian crystals, you saw Londrina who recognized Sah-Sauj as a cleric of Brother and connected him showing up with the unleashing of the deity a year before. She immediately went over to Captain Weslan Stillwater, who is in charge of the camp, the same man who spoke to the crowd earlier.
 
-After introductions, some convincing, and explanation, Weslan was persuaded that you all weren't a threat and Wolf told Londrina to get lost. He mentioned that Tiran's mom, Sophia, was waiting for him at the Ironstone Forge, which she was able to reacquire. Also, he said that he met Phillipe in Marram. Though, he should have been back in Korbantir by now.
+After introductions, some convincing, and explanation, Weslan was persuaded that you weren't a threat and Wolf told Londrina to get lost. He mentioned that Tiran's mom, Sophia, was waiting for him at the Ironstone Forge, which she was able to reacquire. Also, he said that he met Phillipe in Marram. Though, he should have been back in Korbantir by now.
 
 Weslan also asked about the events surrounding Dauriel's party and you told him everything. He bought the dagger and cloak you got off Borlok's body for 50 gold, and said he was going to look into more details about this stuff. He also mentioned that if you needed more money, he had a gig for you involving eviction.
 
