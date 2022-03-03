@@ -31,6 +31,7 @@ Upon entering the cave, they can see a hoard of stolen items, and some contrapti
 - Many wires leading through a hole in the ceiling outside somewhere. Following these leads to the water turbine, in a nearby creek.
 - Lots of [[au]] supplies including food and dismantled weaponry. He seems to be using the metals of the supplies for whatever he's doing.
 - A large contraption standing on a wooden cart. It's covered in copper wire coils, a large gyroscope atop it, and a wooden chair in the center of it all (see device below).
+- The activation sequence for the [[mlsd]].
 
 Malchi will be there, busy, not paying too much attention until he's addressed. Depending on how the adventurers handle the situation, Malchi will try to defend himself or attempt to communicate what he's doing in broken common.
 

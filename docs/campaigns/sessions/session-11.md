@@ -37,7 +37,7 @@ You met Sophia, Tiran's mother, as well as a man named Agorius who was helping h
 
 On the mantle in the living room, you noticed a piece of a glass tube, the same kind that fed blood into Moreus. Sophia told you that one of the forge buildings was converted into a glass furnace, which is where she found pieces of this tubing. A portrait of her, her mother, and father was also missing from the wall, likely disposed of while Phidippus owned the forge. Though, she said nothing else like that was missing from the house.
 
-Currently, you're getting ready to go to bed even though the sun is shining outside, which seems to be the new norm. Wolf and Sah-Sauj plan to sleep outside, Wolf and Gadot will share the guest bed, and Pasha is taking the couch in Hanlar Ironstone's old office.
+Currently, you're getting ready to go to bed even though the sun is shining outside, which seems to be the new norm. Wolf and Sah-Sauj plan to sleep outside, Tiran and Gadot will share the guest bed, and Pasha is taking the couch in Hanlar Ironstone's old office.
 
 This is where we left off.
 

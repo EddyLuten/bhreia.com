@@ -10,12 +10,18 @@ categories:
 
 ## Player Cues
 
+- Everybody is going to sleep
+  - Wolf and Sah-Sauj plan to sleep outside
+  - Tiran and Gadot will share the guest bed
+  - Pasha is taking the couch in Hanlar Ironstone's old office
 - Tiran wants to build a raft to get the robot off the island
   - [x] Create some art for it
   - [x] Create some soundboard SFX for it
 - Pasha is being looked at funny by people bc he's a Dragonborn
   - Londrina can tell him that ever since the disaster, people have been looking at Dragonborn in a distrustful way
 - The halfling that they assaulted will come back to haunt them
+  - Wolf will get served at some point
+  - Needs to show up tomorrow at the camp
 
 ## Assaulted Halfling
 

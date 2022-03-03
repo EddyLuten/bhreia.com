@@ -21,3 +21,5 @@ Before every session.
 - Sah-Sauj pranked people with fake poop in her cloister
 - Wolf's real name is not "Wolf"
 - Pasha's favorite color is blue
+- Gadot's father was a master thief
+- Tiran

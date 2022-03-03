@@ -38,6 +38,7 @@ The adventurers return from their pocket dimension/inside the orb on the [7th of
 - [[tiran]]'s dad and [[chickadee]] went to Marram to look for [[phillipe]].
 - One of [[amalchi]]'s children reveals themselves; Dagaz, the fiery one.
 - Arrival in [[korbans-landing]] + adventures there
+- Meet Captain J.L. Pickert, old employer of [[pasha]], he will offer them a ride for free labor
 
 ### Act II
 
@@ -70,14 +71,10 @@ The adventurers arrive in Marram and set off to find Philippe and/or Amalchi.
   - [ ] [[marram]]
   - [ ] Rivoni Springs
   - [ ] Taïni
-- Roll20:
-  - [x] Organize items by chapter
-  - [ ] Upload new handouts etc.
-  - [ ] Upload new maps
-  - [ ] Upload new audio and music
 - Wiki pages for:
   - [x] [[korbans-landing]]
-  - [ ] [Dauriel's letters to Hanlar](handouts/dauriels-letters.md)
+  - [x] [Dauriel's letters to Hanlar](handouts/dauriels-letters.md)
+  - [ ] Captain J.L. Pickert, who will give them a ride to Rivoni
   - [ ] Rivoni and Rivoni Springs
   - [ ] Taïni
 - [x] Create a 3080 copy of the Cauldin's Point map with the lake. [[crater]]
