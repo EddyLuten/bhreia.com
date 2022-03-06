@@ -136,10 +136,11 @@ Just because your race is not listed under a country entry, does not mean that y
   * Leonin (Majority)
   * Yuan-Ti (Minority)
   * Dragonborn (Minority)
-* Rivoni
+* [[rivoni]]
   * Human (Majority)
   * Genasi (Minority)
   * [Cuniko](cuniko.md) (Minority)
+  * Leonin (Minority *Scourges*)
 * The Rotten Tundra
   * Unknown
 * Southern Untamed Wilderness
@@ -189,7 +190,7 @@ The following races are all those found in the Player's Handbook as well as Volo
 * Half-Orc
 * Halfling (Mirini, Zudrslan)
 * Hobgoblin
-* Human (Cuaña, Groff, High Maris, [Korbantir](../geography/countries/korbantir.md), Low Maris, Netherwood, Parlina, Rivoni, Taïni)
+* Human (Cuaña, Groff, High Maris, [[korbantir]], Low Maris, Netherwood, Parlina, [[rivoni]], Taïni)
 * Kenku
 * Kobold
 * Lizardfolk

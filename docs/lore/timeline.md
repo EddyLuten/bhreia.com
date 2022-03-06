@@ -43,7 +43,8 @@ The monsters grow countless in their numbers and Bhreia's brother smiles at this
 
 Important Dates:
 
-* 1821: Humans and Elves first meet in what is now [Korbantir](../geography/countries/korbantir.md).
+* 1642: Humans land in [[rivoni]] and begin the takeover of the region
+* 1821: Humans and Elves first meet in what is now [[korbantir]]
 
 ## The Third Age: Perpetual Conflict
 

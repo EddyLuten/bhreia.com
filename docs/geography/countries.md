@@ -20,9 +20,9 @@ Countries here define a distinct group of people sharing a territory, culture, a
 * Groff
 * High Maris
 * Ilminor
-* [Korbantir](countries/korbantir.md)
+* [[korbantir]]
 * Low Maris
-* [Marram](countries/marram.md)
+* [[marram]]
 * Mennitonough
 * Mirini
 * Mornovor
@@ -31,7 +31,7 @@ Countries here define a distinct group of people sharing a territory, culture, a
 * Onoctux
 * Parlina
 * Pirinão
-* Rivoni
+* [[rivoni]]
 * Taïni
 * Vos'Amin
 * Yersh
