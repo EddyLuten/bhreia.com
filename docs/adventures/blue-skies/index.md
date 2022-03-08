@@ -59,6 +59,7 @@ The adventurers arrive in Marram and set off to find Philippe and/or Amalchi.
 
 ## TODO List
 
+- [ ] adapt the swamp witch story to be an encounter during travel to Korban's Landing
 - Portraits/drawings:
   - [ ] [[anton]]
   - [ ] [[chickadee]]

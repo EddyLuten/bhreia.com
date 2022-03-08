@@ -22,6 +22,54 @@ Cost of entry: A promise.
 
 TODO.
 
+!!! cite "Amalchi and Bhreia"
+    **Amalchi**  
+    I burn in heavens blue, my blaze,  
+    my golden light, and savage rays.  
+    Galaxies, moons, the planets, and stars,  
+    all revolve 'round me.  
+    And through the clouds, the air, the waves,  
+    under the waters, I permeate  
+    my passion, my love, into the earth...
+
+    Along the shore my Sister I see,  
+    And all the shells she finds for me - they glisten when I smile.
+
+    **Bhreia**  
+    Your warmth on my face is a delight,  
+    I so love your radiant sight  
+    I offer water from my hands  
+    And shells found in my salted sands  
+    I hold you dear, so dear
+
+    **Amalchi**  
+    I crumble mountains with my beams,  
+    raise your lakes, replenish all streams  
+    and stormy skies erupt from me,  
+    and my rains crash down.  
+    For now hide your eyes in my embrace,  
+    my mere sight may set them ablaze,  
+    my fire, my passion, my golden eyes...
+
+    It's better if you just hold tight,  
+    For soon enough comes the night - and glows my coolest moon.
+
+    **Bhreia**  
+    Your night is too cold, your moon too gray,  
+    Brother, stay with me, don't go away.  
+    Why do I find myself alone without love  
+    while you glow in heavens above?  
+    I hold you dear, so dear.
+
+    **Amalchi**  
+    You and I have our parts to play,  
+    I turn night back into the day  
+    while you exist to witness for me  
+    my shear majesty.  
+    -- todo --
+
+## Original Translation
+
 !!! cite "[Pastorale](https://www.youtube.com/watch?v=XAGgTcXtQLU)"
     My heaven blue with golden arc  
     My towering clouds and crystals of ice  
@@ -79,15 +127,3 @@ TODO.
     I hold you dear, so dear  
     I hold you dear, so dear  
     I hold you dear, so dear
-
-!!! cite "?"
-    I burn in heavens blue, my blaze,  
-    my golden light and savage rays.  
-    Galaxies, moons, planets, and stars,  
-    all revolve 'round me.  
-    And through the clouds, the air, the waves,  
-    under the waters, I permeate  
-    my passion, my love, into the earth...
-
-    And along the shore a child I see,  
-    And all the shells they find for me - they gleam upon my smile.
