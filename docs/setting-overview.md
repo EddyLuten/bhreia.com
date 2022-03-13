@@ -28,4 +28,4 @@ During Session Zero, among other things, we'll discuss what the tone of the game
 
 ## Subject Matter
 
-While the tone of the game can go either way, the topics explored may occasionally be heavy in nature. If you don't feel comfortable discussing your boundaries ahead of time with the DM, there will be Safety Tools available during play in Roll20 that will allow you to perform anonymous signals. Read up on the [safety card addon](https://marketplace.roll20.net/browse/gameaddon/11562/burn-bryte-safety-card-addon) that will be included in the game for more information on this topic.
+While the tone of the game can go either way, the topics explored may occasionally be heavy in nature. If you don't feel comfortable discussing your boundaries ahead of time with the DM, there will be Safety Tools available during play in Foundry that will allow you to perform anonymous signals.

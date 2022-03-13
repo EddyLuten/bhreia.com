@@ -10,7 +10,7 @@ categories:
   <h3>Sah-Sauj Cho'Ixo</h3>
   <img src="/assets/images/sah-sauj.png" />
   <figcaption>
-    Sah-Sauj's token in Roll20.
+    Sah-Sauj's token in Foundry.
   </figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ Played By: Anjelica
 
 ## Player Handout
 
-(Bio pulled from Roll20)
+(Bio written by Anjelica)
 
 Sah-sauj comes from _________. He is a Tortle and is 223 years old. Many years ago he lived a not so good life and did many things that he regrets. One day, his bad behavior catches up to him and he's thrown into prison for stealing a chamber pot from a neighbor and licking their infant son's feet. You see, Sah-sauj has a thing for babies and feet… get your mind out of the gutter! He eats baby toes! Because of this interesting crime, he gets thrown into the town jail. During his trial he's given the choice to either go to prison for several years or be rehabilitated by attending a cleric school and becoming a cleric in service of Melora. He decides he'd rather spend his days not rotting away in prison and attends the cleric school.
 

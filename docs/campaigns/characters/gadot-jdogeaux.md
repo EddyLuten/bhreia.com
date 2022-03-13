@@ -10,7 +10,7 @@ categories:
   <h3>Gadot J'Dogeaux</h3>
   <img src="/assets/images/gadot.png" />
   <figcaption>
-    Gadot's token in Roll20.
+    Gadot's token in Foundry.
   </figcaption>
 </figure>
 

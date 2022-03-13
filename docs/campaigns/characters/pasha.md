@@ -10,7 +10,7 @@ categories:
   <h3>Paxalon "Pasha" Yaraxil</h3>
   <img src="/assets/images/pasha.png" />
   <figcaption>
-    Pasha's token in Roll20.
+    Pasha's token in Foundry.
   </figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ Campaign: [Braving Bhreia](../braving-bhreia.md)
 
 Played By: James
 
-**Bio by James pulled from Roll20.**
+**Bio written by James.**
 
 Bronze Dragonborn Storm Sorcerer from Western Finippicay.
 

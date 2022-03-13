@@ -42,13 +42,14 @@ Braving Bhreia is an ongoing campaign that started on November 1st, 2021, played
     <img src="/assets/images/blue-skies-banner-tiny.png" />
   </a>
   <figcaption>
-    The current banner used in Roll20 for the Blue Skies chapter, showing Amalchi in flight before the sun. This is an original piece.
+    The current banner used in Foundry for the Blue Skies chapter, showing Amalchi in flight before the sun. This is an original piece.
   </figcaption>
 </figure>
 
 - 2022-02-22: [Session 11](sessions/session-11.md) - Tiran's Mom
 - 2022-03-02: [Session 12](sessions/session-12.md) - You Got Served!
 - 2022-03-08: [Session 13](sessions/session-13.md)
+- 2022-03-16: [Session 14](sessions/session-14.md)
 
 ## Players (a-z)
 
@@ -61,6 +62,14 @@ Braving Bhreia is an ongoing campaign that started on November 1st, 2021, played
 Eddy as the DM.
 
 ## Homebrew
+
+### Rounding Down
+
+We're rounding *down* any fractional throws. So, taking half of 13 damage would be 6, not 7.
+
+### Flanking Advantage
+
+We're using the variant rule on flanking whereby if at least one ally is on the opposite side of the creature, the enemy is considered flanked and the attacker gets advantage.
 
 ### Proficiency Skill Check Floor
 
@@ -75,10 +84,6 @@ Trying the following third party rules unless there's an objection. The document
 - Rest System Revised
 
 ??? danger "DM: Links"
-    Links:
-
-    - [Roll20](https://app.roll20.net/campaigns/details/11549640)
-
     Notes:
 
     - [Game Notes](game-notes.md)

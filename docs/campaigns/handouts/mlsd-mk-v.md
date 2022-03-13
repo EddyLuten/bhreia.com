@@ -20,6 +20,6 @@ categories:
 
 **Owner:** [[tiran]], used as his Artificer's Steel Defender.
 
-The MLSD (MonoLithic Security Defender) Mark V, is a device created in an alternate 1996 by the corporation GD Systems (Global Defense Systems).
+The MLSD (**M**echatronic **L**iaison, **S**entinel, and **D**efender) Mark V, is a device created in an alternate 1996 by the corporation GD Systems (Global Defense Systems).
 
-This device was transported during the disaster at Cauldin's Point, which pierced two dimensions. See also [[dr-malchi]].
+This particular device was transported during the disaster at Cauldin's Point, which pierced two dimensions. See also [[dr-malchi]].

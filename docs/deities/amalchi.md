@@ -33,11 +33,15 @@ The sky is ever changing from day to night, two opposites present in a single en
 
 The sun is the day-eye. The moons are the night eyes.
 
-## True Form
+## Motivation
 
-While Amalchi can inhabit a willing host, this is only done for a certain period of gestation. After he has amassed enough power into the host body, it undergoes a process of transformation whereby the original host body is discarded like an empty molt from which the fully formed Amalchi sprouts.
+Amalchi wants to recombine the earth and the sky so that both he and his sister [[bhreia]] can recreate the material plane and do things right this time around. However, he knows that this will destroy both of them, and everything within the material plane itself, but he doesn't care. He reasons that through the destruction of the current state of things, they can create something new and more beneficial for both of them.
 
-Its final shape is that of a **Sky Blue Dragon**, vacillating between the day sky and the night sky. It has six eyes, laid out like five smaller white eyes surrounding a large eye that radiates pure sunlight. Amalchi's symbol is a fairly close approximation of these eyes. They represent the sun and the five moons, which Amalchi controls. Amalchi is extremely large and when his wings envelop a person or persons, they are transported to the plane of air.
+In the end, he doesn't hate Bhreia. He's not against her, but he feels like out of both of them, being equal siblings and all, he got the short end of the stick and is tired of the situation.
+
+To accomplish the destruction of the material plane, he must first incarnate onto the material plane, then transform himself into a living god (the form of a dragon), and birth his children as well. At this point, he will have emptied the sky onto the earth and is ready to put into action the final stages of his plan.
+
+Through powerful magic, he can collide the elemental plane of air with the material plane, colliding them until they both shatter, their broken pieces mixing together into something new.
 
 ## Attempts at Incarnation
 
@@ -51,9 +55,17 @@ His first attempt was during the Third Age, in 2208 when Amalchi left his duties
 
 His followers, of course, reassembled and concocted a plan to get Amalchi back onto the surface of the world. This time, they met in total clandestine conditions, separated from society in secret catacombs they built underneath their human settlement near the town that's now named Cauldin's Point. The place was built as both a focus for the power of Amalchi, being at the dead center of the world, and a safe haven for his followers. It wasn't until 800 years after Korban's assassination, during the early years of the Fourth Age that they once again succeeded.
 
-One of his followers, a man named [Moreus](../adventures/dauriels-mansion/npcs/moreus.md), offered his body as the receptacle for Amalchi's life force, knowing that his own essence would be erased from existence, and so it was. Bhreia, once again sensing the imbalance that she so hated, came to Dauriel Aldarion (he doesn't know, but he's a descendent of Korban) in a vision and told him to stop the process while it was not yet completed. In the end, he partially succeeded, without direct help from the goddess, and was able to store a part of Amalchi's spirit in an orb built from his party's life forces as well as most of his own.
+One of his followers, a man named [[moreus]], offered his body as the receptacle for Amalchi's life force, knowing that his own essence would be erased from existence, and so it was. Bhreia, once again sensing the imbalance that she so hated, came to [[dauriel]] (he doesn't know, but he's a descendent of Korban) in a vision and told him to stop the process while it was not yet completed. In the end, he partially succeeded, without direct help from the goddess, and was able to store a part of Amalchi's spirit in an orb built from his party's life forces as well as most of his own.
 
 Enough of Amalchi exists in the elemental plane of air to keep the day and night cycle going, but this fractured existence is an unstable situation -- and Dauriel knows it.
+
+## Final Draconic Form
+
+While Amalchi can inhabit a willing host, this is only done for a fairly short period of gestation, no more than a few hours. After he has amassed enough power into the host body, and consumed enough blood to grow the body of a dragon, it undergoes a process of transformation whereby the original host body is discarded like an empty molt from which the fully formed Amalchi sprouts.
+
+Its final shape is that of a **Sky Blue Dragon**, vacillating between the day sky and the night sky. It has six eyes, laid out like five smaller white eyes surrounding a large eye that radiates pure sunlight. Amalchi's symbol is a fairly close approximation of these eyes. They represent the sun and the five moons, which Amalchi controls. Amalchi is extremely large and when his wings envelop a person or persons, they are transported to the plane of air.
+
+Now, being in a material form, Amalchi can bring forth his children, who are represented by the five moons and listed below. Once the sky is empty, he can continue with his plans to bring it down.
 
 ## Followers
 
@@ -79,13 +91,13 @@ Personification of **Day**. The fiery one, young and angry, burning.
 
 Hot headed and driven by passion, Dagaz holds a grudge against anyone who ever stood in his way or in that of his father. He's easily pushed over the edge and should be the first child of Amalchi that the adventurers encounter.
 
-At this point, Dagaz will be a [[juvenile-dragon]].
+At this point, Dagaz will be a [[juvenile-dragon]]. If he lives, he will grow up to be a Young Dragon before the adventurers will face him once again.
 
 Upon his death, Dagaz will leave behind his single blazing eye, see [[dagaz-eye]].
 
 ### Noktus
 
-Personification of **Night**. The mysterious one, calculating.
+Personification of **Night**. The mysterious one, calculating, trickster.
 
 ### Sunuz
 

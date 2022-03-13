@@ -31,7 +31,8 @@ Upon entering the cave, they can see a hoard of stolen items, and some contrapti
 - Many wires leading through a hole in the ceiling outside somewhere. Following these leads to the water turbine, in a nearby creek.
 - Lots of [[au]] supplies including food and dismantled weaponry. He seems to be using the metals of the supplies for whatever he's doing.
 - A large contraption standing on a wooden cart. It's covered in copper wire coils, a large gyroscope atop it, and a wooden chair in the center of it all (see device below).
-- The activation sequence for the [[mlsd]].
+- A codex for translating Common to English (see section below).
+- The OS disk and activation sequence for the [[mlsd]]. The adventurers will need to use the codex to enter the sequence into the MLSD.
 
 Malchi will be there, busy, not paying too much attention until he's addressed. Depending on how the adventurers handle the situation, Malchi will try to defend himself or attempt to communicate what he's doing in broken common.
 
@@ -46,6 +47,10 @@ Dr. Malchi has figured out that his brand of science just doesn't work here. On 
 ### Information
 
 Through the use of broken Common, Malchi can give away some information on where he came from, but he knows it will fall on deaf ears. He might feed the adventurers misinformation about the event to silence their questions.
+
+### Glossary
+
+He has created a basic codex for translating common into English and vice versa.
 
 ### Device
 

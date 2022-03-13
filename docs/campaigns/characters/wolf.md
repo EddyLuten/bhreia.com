@@ -10,7 +10,7 @@ categories:
   <h3>Baern "Wolf" Mountbrew</h3>
   <img src="/assets/images/wolf.png" />
   <figcaption>
-    Wolf's token in Roll20.
+    Wolf's token in Foundry.
   </figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ Played By: Nate
 
 ## Bio
 
-(Pulled from Roll20)
+(Written by Nate)
 
 Wolf was born to the Mountainbrew clan and given the name Baern Mountbrew. The surname Mountbrew is given to unwed clansmen only to be titled Mountainbrew upon marriage. The clan is famous for their dwarven spirits, the most famous being their namesake Mountainbrew; lovingly called Mt. Brew by those outside the clan.
 

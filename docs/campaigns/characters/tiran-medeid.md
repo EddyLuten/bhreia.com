@@ -10,7 +10,7 @@ categories:
   <h3>Tiran Medeid</h3>
   <img src="/assets/images/tiran.png" />
   <figcaption>
-    Tiran's token in Roll20.
+    Tiran's token in Foundry.
   </figcaption>
 </figure>
 
