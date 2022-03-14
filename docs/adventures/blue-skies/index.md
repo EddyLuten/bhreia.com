@@ -38,6 +38,8 @@ The adventurers return from their pocket dimension/inside the orb on the [7th of
 - [[malachi]] and [[chickadee]] went to Marram to look for [[phillipe]].
 - 🐉 One of [[amalchi]]'s children reveals themselves; Dagaz, the fiery one.
 - They find out that the clocks that [[sophia]] has been building with [[phidippus]] aren't what she thinks they are.
+- Travel to [[korbans-landing]]
+  - Meeting with [[bhreia]] again, see [[hatching]].
 - Arrival in [[korbans-landing]] + adventures there
   - 🐉 Second confrontation with Dagaz in the city, this time he is stronger and the fight is more intense.
 - Meet Captain J.L. Pickert, old employer of [[pasha]], he will offer them a ride for free labor

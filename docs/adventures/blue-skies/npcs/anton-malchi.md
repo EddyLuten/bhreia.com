@@ -8,6 +8,16 @@ categories:
 
 --8<-- "spoiler.html"
 
+<figure class="infobox right">
+  <h3>Dr. Anton Malchi</h3>
+  <a href="/assets/images/anton-malchi-full.png">
+    <img src="/assets/images/anton-malchi-tiny.png" />
+  </a>
+  <figcaption>
+    A portrait of Dr. Anton Malchi.
+  </figcaption>
+</figure>
+
 See also: [Dr. Malchi, I Presume?](../sidequests/dr-malchi-i-presume.md)
 
 Dr. Anton Malchi was born in Antwerp, Belgium, in 1952. He was the project lead on the Fermilab [Tevatron particle accelerator](https://en.wikipedia.org/wiki/Tevatron) until his disappearance in 1994.
