@@ -97,7 +97,7 @@ Upon his death, Dagaz will leave behind his single blazing eye, see [[dagaz-eye]
 
 ### Noktus
 
-Personification of **Night**. The mysterious one, calculating, trickster.
+Personification of **Night**. The mysterious one, calculating, trickster. Poisonous damage.
 
 ### Sunuz
 

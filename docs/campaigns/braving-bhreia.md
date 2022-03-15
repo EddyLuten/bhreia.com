@@ -48,7 +48,7 @@ Braving Bhreia is an ongoing campaign that started on November 1st, 2021, played
 
 - 2022-02-22: [Session 11](sessions/session-11.md) - Tiran's Mom
 - 2022-03-02: [Session 12](sessions/session-12.md) - You Got Served!
-- 2022-03-08: [Session 13](sessions/session-13.md)
+- 2022-03-08: [Session 13](sessions/session-13.md) - A Dragon Appears
 - 2022-03-16: [Session 14](sessions/session-14.md)
 
 ## Players (a-z)
