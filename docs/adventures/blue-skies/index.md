@@ -47,17 +47,22 @@ The adventurers return from their pocket dimension/inside the orb on the [7th of
 The adventurers set off onto the open sea towards [[rivoni-springs]] and leave Korbantir behind.
 
 - Traveling to [[rivoni-springs]] + adventures there
-  - They witness a Leonin freedom fighter attack in the harbor
+  - The day and night cycle recently continued in Rivoni Springs, but restricted to a local radius of a few miles around the city.
+  - As they arrive, they can see the city in darkness of night, and once within the radius, see the stars in the sky and pure darkness of night.
+  - 🦁 They witness a Leonin freedom fighter attack in the harbor
+  - 🦁 They witness a Leonin being captured and on the spot executed, and skinned in the street to the enjoyment of many
+  - There are rumors of a large dark shape moving inside the healing springs
+  - Noktus has been growing in the healing springs.
+  - 🐉 Confrontation with Noktus, the night, and trickster in the city or by the springs.
 - Traveling to Taïni + adventures there
-  - While still in [[rivoni]], they are ambushed by Leonin freedom fighters in the jungles
-  - 🐉 Confontation with Noktus, the night, and trickster. Who, while the adventurers travel through the desert, will cause them to lose their way.
-- Traveling to, and through [[marram]].
-  - 🐉 Confrontation with Sunuz, the sun, and fruitful one, who gives birth to many.
+  - 🦁 While still in [[rivoni]], they are ambushed by Leonin freedom fighters in the jungles
+  - 🐉 Confrontation with Sunuz, the sun, and fruitful one, who gives birth to many. Her ability to cause mirages and generate much heat will cause them to lose their way and become lost in the desert.
 
 ### Act III
 
 The adventurers arrive in Marram and set off to find Philippe and/or Amalchi.
 
+- Arriving in and traveling through [[marram]].
 - 🐉 Confrontation with Menoz, the moon, and judge.
 - Finding the dragon in Marram.
 - Finding [[phillipe]] and [[dauriel]]
@@ -67,7 +72,6 @@ The adventurers arrive in Marram and set off to find Philippe and/or Amalchi.
 
 ## TODO List
 
-- [ ] Work out how to create portals with a [[clock-crystal]]
 - [ ] Adapt the swamp witch story to be an encounter during travel to Korban's Landing
 - Portraits/drawings:
   - [ ] [[anton]]
