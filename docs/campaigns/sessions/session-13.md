@@ -11,9 +11,11 @@ categories:
 
 ## Synopsis
 
+The game began with a battle.
+
 Before the juvenile blue dragon could attack, Pasha cast a spell on it, blinding the creature. Gadot and Wolf both missed their first shots. Sah-Sauj cast Shield on Pasha, Wolf, and themselves, preparing for damage. The dragon opened its maw and blasted Pasha with pure blue lightning, but he shrugged most of it off, being resistant to that type of damage. Tiran pulled out his gun and critically shot the dragon with a powerful shot. Meanwhile, Pasha made his way to Agorius, who lay unconscious by the side of the road. His eyes were closed, but Pasha couldn't quite make out what was wrong with him. However, when he touched Agorius, his skin didn't quite feel the way it should have.
 
-Gadot missed another one of his shortbow shots, but Wolf was able to hit the dragon with a crossbow bolt. The creature looked surprised at the amount of resistance it received, especially when Sah-Sauj cast Bane on it right afterwards. It seemed frustrated, and when Sah-Sauj taunted it out loud, it attacked them, but missed both of his attacks. Pasha and Gadot both miss their attacks, but Wolf once more was able to connect his shot, sendign a fountain of blood gushing from the creature's neck. Sah-Sauj attempted to stab it with their spear, but missed, and cowered behind their shield.
+Gadot missed another one of his short-bow shots, but Wolf was able to hit the dragon with a crossbow bolt. The creature looked surprised at the amount of resistance it received, especially when Sah-Sauj cast Bane on it right afterwards. It seemed frustrated, and when Sah-Sauj taunted it out loud, it attacked them, but missed both of his attacks. Pasha and Gadot both miss their attacks, but Wolf once more was able to connect his shot, sending a fountain of blood gushing from the creature's neck. Sah-Sauj attempted to stab it with their spear, but missed, and cowered behind their shield.
 
 The dragon shook off its blindness and noticed that it had barely made a dent. Sensing its immediate demise, it took one final look at Agorius and Pasha, sprung up into the air, dodged your attacks, and flew away, raining blood over the entire area.
 
@@ -33,13 +35,13 @@ Inside, the others heard the sonic boom and ran outside towards Pasha who explai
 
 Sah-Sauj used a spell to detect magic, but didn't notice anything magical outside. However, inside the forge building, they noticed a strong magical aura around the box part of the clock. Sah-Sauj asked Sophia about the obsidian they found in Phidippus' bag and Sophia told them that the stone is common in the bodies of survivors who came in contact with Amalchi.
 
-Tiran decided to open the box on the clock in order to take a look at what was inside. However, all he managed to do was bang a couple of dents into it. Thankfully, Sophia was available to open it up fairly easily, knowing the ins and outs of the thing she built herself. Inside of it you saw a metal spiderweb-like construction converging at an obsidian stone, glowing blue and vibrating at a high frequency. Sophia immediately noticed that this was't what the crystal normally looks like when they put the clocks together; it's supposed to be white, like a quartz stone.
+Tiran decided to open the box on the clock in order to take a look at what was inside. However, all he managed to do was bang a couple of dents into it. Thankfully, Sophia was available to open it up fairly easily, knowing the ins and outs of the thing she built herself. Inside of it you saw a metal spiderweb-like construction converging at an obsidian stone, glowing blue and vibrating at a high frequency. Sophia immediately noticed that this wasn't what the crystal normally looks like when they put the clocks together; it's supposed to be white, like a quartz stone.
 
 Tiran pulled the stone out and felt it vibrating in his hand, and it hurt quite a bit. But it felt familiar, similar to how the energy felt inside of the blue void that you were trapped in.
 
 Pasha asked for the stone, and the moment he touched it, had a sensation of being elsewhere, flying through the sky above a cloud covered jungle. Without being in control, he slowly descended through the jungle canopy until he found himself flying above the jungle floor and eventually following a path through this seemingly ancient jungle. Eventually, he came across a cliff bisecting the jungle, following the path along it. Until he came across Amalchi, standing on the cliff edge who told him he wasn't supposed to be there and tossed him off the cliff. Once he pierced the fog below, he found himself flying again.
 
-Everyone else simply saw Pasha stand in the middle of the room, slack-jawed, wide-eyed, and unresponsive. Tiran grabbed the stone from Pasha's hand and immediatly got hurt again, but Pasha seemed to be back, at least. Pasha relayed the dream to everyone and Gadot told him that he had a similar dream recently. Gadot, hoping to retrigger the dream, grabbed the stone from Tiran, but to him, the stone just hurt.
+Everyone else simply saw Pasha stand in the middle of the room, slack-jawed, wide-eyed, and unresponsive. Tiran grabbed the stone from Pasha's hand and immediately got hurt again, but Pasha seemed to be back, at least. Pasha relayed the dream to everyone and Gadot told him that he had a similar dream recently. Gadot, hoping to retrigger the dream, grabbed the stone from Tiran, but to him, the stone just hurt.
 
 Pasha concluded that Phidippus must still have some answers to his questions and believed him to still be around the forge somewhere. However, everybody was quite messed up from the battle and from touching the stone, and you all decided to rest for a while.
 
