@@ -74,17 +74,17 @@ The adventurers arrive in Marram and set off to find Philippe and/or Amalchi.
 
 ## TODO List
 
-- [ ] Adapt the swamp witch story to be an encounter during travel to Korban's Landing
+- Work out how to create portals with a [[clock-crystal]]
+- Adapt the swamp witch story to be an encounter during travel
 - Portraits/drawings:
-  - [ ] [[anton]]
-  - [ ] [[chickadee]]
-  - [ ] [[malachi]]
+  - [[chickadee]]
+  - [[malachi]]
 - Stats for
-  - [ ] [[londrina]]
+  - [[londrina]]
 - Maps:
-  - [ ] [[marram]]
-  - [ ] Rivoni Springs
-  - [ ] Taïni
+  - [[marram]]
+  - Rivoni Springs
+  - Taïni
 - Wiki pages for:
   - [ ] Captain Thomas Wake, who will give them a ride to Rivoni
   - [ ] Rivoni and Rivoni Springs
