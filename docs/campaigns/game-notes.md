@@ -23,3 +23,4 @@ Before every session.
 - Pasha's favorite color is blue
 - Gadot's father was a master thief
 - Tiran is shy around girls who he's attracted to, unlike Gadot. His most recent crush was with Greta Thunderberg, a climate activist.
+- Sah-Sauj's brother's names is Spinoach, her uncle's name is Pete Moss
