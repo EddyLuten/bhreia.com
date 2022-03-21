@@ -33,7 +33,7 @@ The survivors camp was quiet since, though the sun was still out, it was late in
 
 When Tiran asked them about the "system disk," they didn't know what he was talking about. Sah-Sauj, looking for a way to turn Ramona into a turtle, asked the boys about any witches who could help. They didn't know of any, but did know a weird guy living in the woods who asked them to bring him anything they found near the lake. Mike agreed to take you to him.
 
-Meanwhile, Gadot told Wolf about his plans to turn one of Hanlar's old horse deeds into a deed for Ramona to show the magistrate the next day. After taking some time to create it, Gadot was able to create an okay forgery. However, after Wolf told him some more personal details, including his real name, he was able to create a much more convinving copy.
+Meanwhile, Gadot told Wolf about his plans to turn one of Hanlar's old horse deeds into a deed for Ramona to show the magistrate the next day. After taking some time to create it, Gadot was able to create an okay forgery. However, after Wolf told him some more personal details, including his real name, he was able to create a much more convincing copy.
 
 In the ancient forest near Cauldin's Point, the other group approached the mouth of the cave from which they could hear distant music emanating. Mike decided to stay outside and wait while the rest of you ventured in. Within, you saw a strange contraption mounted atop a wooden cart. Coils of metal in the cart, and a chair nestled between everything else. Sitting at a table, muttering quietly to a doll, you saw a man in a white coat.
 

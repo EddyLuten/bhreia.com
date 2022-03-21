@@ -41,6 +41,7 @@ The random name generator is generally pretty bad, but you can get some gems by 
 - Callum
 - Camolet
 - Capa
+- Daevyn / Davyn
 - Del
 - Ediq
 - Elavis
