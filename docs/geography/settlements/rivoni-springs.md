@@ -7,4 +7,4 @@ categories:
 ---
 # Rivoni Springs
 
-TODO
+See [[rivoni]] for now.

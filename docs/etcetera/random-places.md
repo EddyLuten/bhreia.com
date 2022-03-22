@@ -8,7 +8,7 @@ categories:
 
 ## Towns
 
-* Midway
+* ~~Midway~~
 * Rat's Hollow
 * Stallion Run
 

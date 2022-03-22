@@ -5,9 +5,20 @@ categories:
     - Countries
     - Geography
 ---
+
 # Rivoni
 
-Rivoni (ri-voh-nee) is a coastal sovereign country and a peninsula dividing  the Sea of Korban and Maris' Tears. It is mostly known for its capital city, **[[rivoni-springs]]**, home to the eponymous healing springs.
+<figure class="infobox right">
+  <h3>Rivoni</h3>
+  <a href="/assets/images/rivoni-flag-full.png">
+    <img src="/assets/images/rivoni-flag-tiny.png" />
+  </a>
+  <figcaption>
+    The flag of Rivoni; a black Leonin head impaled by a spear upon a yellow field.
+  </figcaption>
+</figure>
+
+Rivoni (ri-voh-nee) is a coastal sovereign city-state and a peninsula dividing  the Sea of Korban and Maris' Tears. It is mostly known for its capital city, **[[rivoni-springs]]**, home to the eponymous healing springs.
 
 ## History
 
@@ -27,7 +38,7 @@ The original extermination orders still stand and any Leonin may be killed on si
 
 ## Government
 
-Rivoni is a monarchy, and currently ruled by **Queen Baris** of the Rivoni Royal House. Their banner, and the flag of the country, is a yellow Leonin head impaled by a spear upon a red field. The Queen is advised by an assembly of local influential citizens, though the actual influence that this council has on the governing of the royal house is debated.
+Rivoni is a monarchy, and currently ruled by **Queen Baris** of the Rivoni Royal House. Their banner, and the flag of the country, is a black Leonin head impaled by a spear upon a yellow field. The Queen is advised by an assembly of local influential citizens, though the actual influence that this council has on the governing of the royal house is debated.
 
 ### Worldwide Criticism
 
@@ -45,6 +56,8 @@ While much of the world relies on the healing waters from Rivoni, some countries
     Gaulian Menix, Emperor of the glorious Abta Hatti Empire
 
 ## Geography
+
+For a radius of a few miles outside the city in any direction, it is surrounded by countryside. There are a few smaller towns along the main roads, but the majority of the population is located in Rivoni Springs.
 
 Most of Rivoni is composed of a vast primordial sub-tropical jungle, disparagingly named "The Rest," which goes mostly unexplored and uncharted. This stretches out from the west to the east where it eventually gives way to the foot of a desert in the East, bordering Taïni.
 
