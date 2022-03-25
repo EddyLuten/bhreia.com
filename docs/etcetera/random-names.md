@@ -47,7 +47,7 @@ The random name generator is generally pretty bad, but you can get some gems by 
 - Elavis
 - Elborn
 - Fayne
-- Garacan
+- ~~Garacan~~
 - Hida
 - Homi
 - Hudu
@@ -59,7 +59,7 @@ The random name generator is generally pretty bad, but you can get some gems by 
 - Keo
 - ~~Kolwyn~~
 - Kolux
-- Leca
+- ~~Leca~~
 - Lelina
 - Leon
 - ~~Londrina~~
@@ -123,4 +123,4 @@ The random name generator is generally pretty bad, but you can get some gems by 
 - Timms
 - Westbert
 - Wozov
-- Zan
+- ~~Zan~~

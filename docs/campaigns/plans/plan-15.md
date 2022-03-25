@@ -4,11 +4,13 @@ categories:
     - DM Only
 ---
 
-# 🔐 Session 15
+# 🔐 Plan: Session 15
 
 --8<-- "spoiler.html"
 
+- The roll for Gadot's forgery is **15**
 - It is late at night, they arrived at 10:30, it will be around 1:00 PM now!
+- Open with Tiran and Pasha arriving back at the cave, seeing Sah-Sauj standing over Anton's dead body.
 - **Tiran** will likely want to boot the construct first.
 - The clocks, more specifically the crystals, are focuses for [[amalchi]] to merge the material and elemental plane of air. See [[clock-crystal]].
 - Today is when [[assaulted-halfling]] trial is supposed to take place!

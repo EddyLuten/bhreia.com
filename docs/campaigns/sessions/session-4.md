@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 4
+# Session 4: Meeting Dauriel
 
 **Date:** 2021-11-22 @ 9:00 PM CT
 

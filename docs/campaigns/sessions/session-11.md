@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 11
+# Session 11: Tiran's Mom
 
 **Date:** Tuesday, February 22, 2022 @ 9:00 PM CT
 

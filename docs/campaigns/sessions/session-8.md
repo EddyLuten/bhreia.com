@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 8
+# Session 8: A Giant Puzzle
 
 **Date:** 2022-01-10 @ 9:00 PM CT
 

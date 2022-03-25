@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 14
+# Session 14: Forge Goat's Sake
 
 **Date:** Tuesday, March 16, 2022 @ 9:00 PM CT
 

@@ -4,7 +4,7 @@ categories:
     - DM Only
 ---
 
-# 🔐 Session 12
+# 🔐 Plan: Session 12
 
 --8<-- "spoiler.html"
 

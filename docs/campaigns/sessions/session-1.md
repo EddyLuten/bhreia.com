@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 1
+# Session 1: Arrival
 
 **Date:** November 1st, 2021 @ 21:00 CT
 

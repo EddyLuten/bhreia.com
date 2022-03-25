@@ -14,21 +14,18 @@ This sidequest is specific to the Braving Bhreia campaign and a consequence of R
 
 ## Assaulted Halfling
 
-!!! info "Burron Piquette"
-    The plump male Halfling who Wolf assaulted is named **Burron Piquette** (boo-ron pee-ket).
+The plump male Halfling who Wolf assaulted is named **Burron Piquette** (boo-ron pee-ket).
 
-    Turns out:
+However, it turns out that:
 
-    - The paperwork for Ramona that he present is forged
-      - They can inspect it
-      - They can get Wolf's real papers from his house
-    - He's using a fake name, his real name is **Jerry Wicket**
-    - He's wanted for embezzlement in Kleftmon
-      - He has a small camp set up East of Cauldin's Point
-      - His ex business partner is there, looking for him
-        - Jim Copperfinger, businessman
-        - Jerry Wicket was his bookkeeper who stole all his money, bankrupting him
-      - He will agree to become a witness, hates Jerry
+- The paperwork for Ramona that he present is forged
+  - The magistrate will inspect it, **DC 17**
+- He's using a fake name, his real name is **Jerry Wicket**
+- He's wanted for embezzlement in Kleftmon
+- He has a small camp (see **Burron's Camp** below) set up East of Cauldin's Point
+- His ex business partner is there, running his camp
+  - Jim Copperfinger, "businessman," former cheese salesman
+  - Jerry Wicket was his bookkeeper until he stole all of his money. He chased him down and impressed with his cunning, started various schemes to grift money from marks.
 
 Halfling will have Weslan Stillwater with him and a few AU bruisers. Weslan seems disappointed when the Halfling points them out.
 
@@ -43,6 +40,8 @@ Against Wolf:
 - **Vandalism**: The destruction of the halter and bridles
 
 ### Witnesses
+
+Both witnesses were part of the tour that Burron was giving when Wolf assaulted him.
 
 - Filpon Gymon: Male gnome, visiting from Garrenor. Soft spoken like Milton Waddams, easily intimidated.
 - Lisbeth Liszt: Female human, visiting from Donitar. She's higher class and is appalled by what she saw.
@@ -70,6 +69,22 @@ PREP TIME - Free roam
 Weslan will go to bat for them, saying he knows Phillipe and Malachi, but Londrina won't and be a character witness against them.
 
 They will need to be very convincing if they want to get away with any of this unscathed.
+
+## Burron's Camp
+
+Burron's camp is home to a total of 7 bandits, and Jim Copperfinger, the leader of the bunch.
+
+- A stash of 350 gp **DC 15 Investigation**
+- Random simple weapons
+- 2 horses and the **wagon** that Burron used for his tours
+
+### Freeney
+
+Among them is **[[freeney]]**, down on his luck, drunk, and depressed after having lost his son. He will recognize the group and refuse to fight them. If he's one of the only ones left, he will help kill his fellow camp members to save his own hide. Well, maybe for some drink.
+
+### Jim's Tent
+
+In Jim's tent is a **wanted poster**, showing the likenesses of him as well as Burron. They're wanted in Kleftmon for the murder of **Lady Willow Gillette**, an elderly socialite woman whom they extorted for years and killed when the well ran dry. They couldn't leave behind any loose ends. Both [[gadot]] and [[tiran]] will recognize the name as belonging to an influential family in Kleftmon.
 
 ## Outlawed
 

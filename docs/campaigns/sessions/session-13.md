@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 13
+# Session 13: A Dragon Appears
 
 **Date:** Tuesday, March 8, 2022 @ 9:00 PM CT
 

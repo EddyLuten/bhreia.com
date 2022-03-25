@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 3
+# Session 3: First Blood
 
 **Date:** November 17th, 2021 @ 21:00 CT
 

@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 10
+# Session 10: Amalchi Rising
 
 **Date:** 2022-02-09 @ 9:00 PM CT
 

@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 2
+# Session 2: Found a Tomb
 
 **Date:** November 8th, 2021 @ 21:00 CT
 

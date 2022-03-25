@@ -72,10 +72,27 @@ The adventurers arrive in Marram and set off to find Philippe and/or Amalchi.
 - Killing the dragon.
 - Return home or another adventure.
 
+## Travel Plan to Korban's Landing
+
+Nine days of travel, arrival on the tenth day at night:
+
+1. Wolf's House [[wolfs-house]]
+2. 🏕 [[liquid-life]] adaptation
+3. [[swamp-witch]]
+4. [[random-encounters]]
+5. [[random-encounters]]
+6. [[random-encounters]]
+7. 🏕 Near Korban's Memorial [[pastorale]]
+8. [[random-encounters]]
+9. [[random-encounters]]
+10. Arrival in [[korbans-landing]]
+
 ## TODO List
 
-- Work out how to create portals with a [[clock-crystal]]
-- Adapt the swamp witch story to be an encounter during travel
+- Create a list of [[random-encounters]]
+- Finish [[wolfs-house]]
+- Finish [[swamp-witch]]
+- Finish [[pastorale]]
 - Portraits/drawings:
   - [[chickadee]]
   - [[malachi]]
@@ -86,6 +103,5 @@ The adventurers arrive in Marram and set off to find Philippe and/or Amalchi.
   - Rivoni Springs
   - Taïni
 - Wiki pages for:
-  - [ ] Captain Thomas Wake, who will give them a ride to Rivoni
-  - [ ] Rivoni and Rivoni Springs
-  - [ ] Taïni
+  - Captain Thomas Wake, who will give them a ride to Rivoni
+  - Taïni

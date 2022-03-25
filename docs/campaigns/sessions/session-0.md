@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 0
+# Session 0: Howdy Doodle
 
 **Date:** October 23, 2021 @ 21:00 CT
 

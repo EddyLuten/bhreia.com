@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 9
+# Session 9: Where's Borlok?
 
 **Date:** 2022-02-03 @ 9:00 PM CT
 

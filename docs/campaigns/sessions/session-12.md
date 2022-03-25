@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 12
+# Session 12: You Got Served
 
 **Date:** Wednesday, March 2, 2022 @ 9:00 PM CT
 
