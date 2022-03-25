@@ -98,6 +98,8 @@ Nine days of travel, arrival on the tenth day at night:
   - [[malachi]]
 - Stats for
   - [[londrina]]
+  - A Tchuktuk page (see [[random-encounters]])
+  - A Puppeteer Worm page (see [[random-encounters]])
 - Maps:
   - [[marram]]
   - Rivoni Springs
