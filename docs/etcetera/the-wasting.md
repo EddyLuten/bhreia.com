@@ -15,4 +15,4 @@ The Wasting is a non-communicable disease caused by unknown factors. It seemingl
 3. Extreme Weight Loss: the patient loses weight at a rate too fast to regain
 4. Immobility: due to the patient not having enough muscle mass to move, they become immobile
 
-After the final stage, the patient soon perishes.
+After the final stage, the patient soon perishes since there is no known cure. However, it is possible to delay death through magical means, such as potions of healing.

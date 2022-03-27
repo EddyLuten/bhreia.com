@@ -100,6 +100,7 @@ Nine days of travel, arrival on the tenth day at night:
   - [[londrina]]
   - A Tchuktuk page (see [[random-encounters]])
   - A Puppeteer Worm page (see [[random-encounters]])
+  - A Snoozeshroom page (see [[random-encounters]])
 - Maps:
   - [[marram]]
   - Rivoni Springs

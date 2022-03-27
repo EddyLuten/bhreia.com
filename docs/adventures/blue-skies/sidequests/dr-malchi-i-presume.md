@@ -43,7 +43,7 @@ These are the items that can be taken from the cave.
 - Common to English codex
 - Cassette player and cassettes:
   - Blue skies (on repeat)
-  - Jaques Brel - Le dernier repas
+  - Jacques Brel - Le dernier repas
   - A tape labeled "testament" See below.
 - Skin of a Kenku (this is what remains of [[trashbeak]])
 - [[anton]]'s drawings depicting spheres and lines
