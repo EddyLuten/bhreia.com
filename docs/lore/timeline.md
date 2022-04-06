@@ -11,15 +11,15 @@ categories:
 
 An over-simplification of the commonly known timeline and creation mythology of the world. These stories were verbally passed down through the generations until writing systems were developed. Every race has their own flavor of creation mythology, but this is distilled version of details agreed on by most.
 
-The passage of time is measured in intervals of 1000 years named Ages (or Aeons). See [**calendar**](../etcetera/calendar.md) for more information about time.
+The passage of time is measured in intervals of 1000 years named Ages (or Aeons). See **[[calendar]]** for more information about time.
 
 ## The First Age: Primordial Deities
 
 Years 1 through 1000.
 
-The primordial deity [**Bhreia**](../deities/bhreia.md) and her [**twin brother**](../deities/bhreias-brother.md) (whose name has been lost) are spontaneously born and give form to the earth and the sky, respectively. After some time of going through their daily cycles, both realize that they are very lonely, especially at night when they have to spend time away from each other. Feeling a mutual emptiness, they create a third deity, [**Melora**](../deities/melora.md), to keep them both company. But when Melora springs to life, she sees the barren world and is terrified by its vast emptiness. Between the time it takes to inhale and exhale her first breath, she runs across Bhreia's surface and covers it in woodlands, plants, and a vast ocean (Melora's Grasp) surrounding the super-continent.
+The primordial deity **[[bhreia]]** and her **[[brother|twin brother]]** (whose name has been lost) are spontaneously born and give form to the earth and the sky, respectively. After some time of going through their daily cycles, both realize that they are very lonely, especially at night when they have to spend time away from each other. Feeling a mutual emptiness, they create a third deity, **[[melora]]**, to keep them both company. But when Melora springs to life, she sees the barren world and is terrified by its vast emptiness. Between the time it takes to inhale and exhale her first breath, she runs across Bhreia's surface and covers it in woodlands, plants, and a vast ocean (Melora's Grasp) surrounding the super-continent.
 
-Bhreia is bursting with joy seeing so much life erupt upon her and becomes the closest of friends with Melora. It all fills her with so much joy that she and Melora create a fourth deity, **Primani** who fills the world with the life of beasts great and small, both land as well as water dwelling.
+Bhreia is bursting with joy seeing so much life erupt upon her and becomes the closest of friends with Melora. It all fills her with so much joy that she and Melora create a fourth deity, **[[primani]]** who fills the world with the life of beasts great and small, both land as well as water dwelling.
 
 Meanwhile, Bhreia's twin brother is seething with jealousy as the vast majority of life doesn't come anywhere close to him and he can only watch it all from far away. Furthermore, neither Bhreia nor Melora are spending much time with him now that they're so preoccupied with their little creatures and plants. One sunset, he's fed up with them all and decides to stay away until they include him in their jubilation. Life begins to wither and die without the brother's light and Primani begs him to return. He tells Primani that he's still lonely and wants life of his own to keep him company. Primani promises to send the spirits of the animals that die to him. He accepts and returns in the morning.
 
@@ -27,7 +27,7 @@ The gods continue to create more deities for each of the newly created domains: 
 
 After a while, the brother realizes that his workload has increased tremendously. Not only is he responsible for the day and the night sky, but now he also has to manage all the spirits of the deceased beasts and grows resentful again. Soon he finds himself managing more spirits than there are living creatures upon Bhreia. Has he been tricked? He believes it with his entire being and can practically hear Primani's shrill laughter echo in his mind.
 
-On the eve of the Second Age, he approaches Primani and tells them to take back the souls from the beasts so he may rest. Primani refuses outright telling him that this is what he wanted; some company. The brother, in a fit of anger, hurriedly constructs a new deity out of the spirits of all the creatures that have died so far, destroying them and amalgamating the result into writhing mess of pain. Flawed and corrupted, **Dhoutr**'s ghastly shape slithers from the brother's nightly cloak and penetrates into Bhreia where he lays at her core in a protective shell of his own creation; a **dark plane** of existence entirely Dhoutr's domain. The brother immediately sends Dhoutr the newly deceased spirits and rests again, now content with being alone.
+On the eve of the Second Age, he approaches Primani and tells them to take back the souls from the beasts so he may rest. Primani refuses outright telling him that this is what he wanted; some company. The brother, in a fit of anger, hurriedly constructs a new deity out of the spirits of all the creatures that have died so far, destroying them and amalgamating the result into writhing mess of pain. Flawed and corrupted, **[[dhoutr]]**'s ghastly shape slithers from the brother's nightly cloak and penetrates into Bhreia where he lays at her core in a protective shell of his own creation; a **dark plane** of existence entirely Dhoutr's domain. The brother immediately sends Dhoutr the newly deceased spirits and rests again, now content with being alone.
 
 ## The Second Age: Imperfect Creatures
 
@@ -57,14 +57,19 @@ TODO
 
 Important Dates:
 
-* 2208: The Many Days of Night (see [Korbantir](../geography/countries/korbantir.md)).
+* 2208: The Many Days of Night (see [[korbantir]]).
 
 ## The Fourth Age: Balance Restored
 
 TODO
 
 * A fragile peace solidifies as each creature retreats into their own domain.
-* Mixing of Peoples and Monsters, appearance of half breeds.
+* Mixing of Peoples and Monsters
+
+Important Dates:
+
+* 3079: start of [[dauriels-mansion]]
+* 3080: start of [[blue-skies|Blue Skies]]
 
 ??? danger "DM: Hidden Timeline"
     ## First Age
@@ -79,31 +84,33 @@ TODO
       * Korban
       * Cauldin of Leikon
       * Donitar of Leikon
-    * 1847: Cauldin of Leikon dies at the age of 73, entombed at [Cauldin's Point](../geography/settlements/cauldins-point.md)
+    * 1847: Cauldin of Leikon dies at the age of 73, entombed at [[cauldins-point]]
     * 1863: Donitar of Leikon disappears at age 87
 
     ## Third Age
 
+    * 2052: Death of the final Leikon heir
+    * 2081: Korbantir and its monarchy established
     * 2208: 🔥 The Many Days of Night, death of Korban
-    * 2617, Lirrai 6th: [Dauriel Aldarion](../adventures/dauriels-mansion/npcs/dauriel-aldarion.md) is born
+    * 2617, Lirrai 6th: [[dauriel]] is born
     * 2674: Dauriel Aldarion arrives in Korbantir
-    * 2691: [Aldarion Unlimited](../adventures/dauriels-mansion/organizations/aldarion-unlimited.md) is founded
+    * 2691: [[au]] is founded
     * 2934: Founding of the [[ironstone-forge]] by the first Hanlar
     * 2987: [Jonah Feldspar Sr.](../adventures/dauriels-mansion/places/jonahs-denn.md) is born
     * 2994: [Grandpa Lenny](../adventures/dauriels-mansion/npcs/grandpa-lenny.md) is born
 
     ## Fourth Age
 
-    * 3009: 🔥 [Moreus](../adventures/dauriels-mansion/npcs/moreus.md) is born
+    * 3009: 🔥 [[moreus]] is born
     * 3012: [[hanlar]] is born
-    * 3021: [Jonah's Denn](../adventures/dauriels-mansion/places/jonahs-denn.md) opens
-    * 3028: [Junior Feldspar](../adventures/dauriels-mansion/npcs/junior-feldspar.md) is born
-    * 3037: [Rhea Feldspar](../adventures/dauriels-mansion/npcs/rhea-feldspar.md) is born
+    * 3021: [[jonahs-denn]] opens
+    * 3028: [[junior]] is born
+    * 3037: [[rhea-feldspar]] is born
     * 3044: 🔥 [Reincarnation of Amalchi](../adventures/dauriels-mansion/acts/act-1/dauriel-vs-amalchi.md) into Moreus and storing of Amalchi's essence into the orb by Dauriel Aldarion
     * 3044: Dauriel Aldarion soft-retires
     * 3068: [Jonah Feldspar Sr.](../adventures/dauriels-mansion/places/jonahs-denn.md) dies
-    * 3086: Dauriel Aldarion officially retires, [Kvint Bernon](../adventures/dauriels-mansion/npcs/kvint-bernon.md) becomes CEO of AU
+    * 3086: Dauriel Aldarion officially retires, [[kvint]] becomes CEO of AU
     * 3078: [[hanlar]] dies at age 66
-    * 3079, Lirrai 6th: [Dauriel's 462nd Birthday Party](../adventures/dauriels-mansion/handouts/dauriels-invitation.md) (35 years after Amalchi confrontation)
+    * 3079, Lirrai 6th: [[dauriels-mansion|Dauriel's 462nd Birthday Party]] (35 years after Amalchi confrontation)
     * 3079, Lirrai 7th: Rise of Amalchi
-    * 3080, Lirrai 7th: Start of [Blue Skies](../adventures/blue-skies/index.md)
+    * 3080, Lirrai 7th: Start of [[blue-skies]]

@@ -63,6 +63,9 @@ These labels correspond with the points of interest numbered points on the map.
 ??? danger "DM Only: Blue Streak"
     The blue streak on the map represents the path of destruction that [[amalchi]] caused while flying over the city. The temple and the houses are being rebuilt, but are still mostly in ruins.
 
+??? danger "DM Only: Lighthouse"
+    The lighthouse keeper is a wizard, and has a magic shop at the bottom of the tower in what's usually the keeper's house.
+
 ## Demographics
 
 Population estimates:
