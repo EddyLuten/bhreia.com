@@ -5,7 +5,7 @@ categories:
 ---
 # Session 16
 
-**Date:** Tuesday, March 29, 2022 @ 9:00 PM CT
+**Date:** Wednesday, April 13, 2022 @ 9:00 PM CT
 
 **Audio:** None yet.
 

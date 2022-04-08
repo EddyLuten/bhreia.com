@@ -42,9 +42,9 @@ theme:
     admonition:
       info: octicons/info-16
   palette:
-    scheme: default
-    primary: blue
-    accent: orange
+    scheme: slate
+    primary: deep orange
+    accent: light blue
   features:
     # - navigation.expand
     - navigation.sections

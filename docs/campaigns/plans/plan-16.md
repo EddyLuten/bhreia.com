@@ -8,7 +8,7 @@ categories:
 
 --8<-- "spoiler.html"
 
-- Tiran's cursed sword needs blood today.
+- Tiran's cursed sword **needs blood** today.
 - They will follow the brown-haired dirty human man to Burron's camp [[assaulted-halfling]]
   - They will need to pass **DC 17 Group Stealth** check for him not to notice them following
   - If he notices, he will raise an arm and whistle out loud at a particular point in the road near their camp and engage the attack.
