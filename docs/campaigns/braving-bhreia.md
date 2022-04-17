@@ -51,7 +51,8 @@ Braving Bhreia is an ongoing campaign that started on November 1st, 2021, played
 - 2022-03-08: [Session 13](sessions/session-13.md) - A Dragon Appears
 - 2022-03-16: [Session 14](sessions/session-14.md) - Forge goat's sake
 - 2022-03-22: [Session 15](sessions/session-15.md) - Booting a bot
-- 2022-04-13: [Session 16](sessions/session-16.md)
+- 2022-04-13: [Session 16](sessions/session-16.md) - The Diversion
+- TBD: [Session 17](sessions/session-17.md)
 
 ## Players (a-z)
 

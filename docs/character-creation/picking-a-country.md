@@ -23,190 +23,190 @@ Just because your race is not listed under a country entry, does not mean that y
 
 ## Distribution
 
-* Abta Hatti Empire
-  * *Indiscriminate*, expanding, and anyone is welcome as long as they can carry a weapon. Originally founded by Elves.
-  * Goblin (*Scourge*)
-* Amayelia
-  * Elf (Majority)
-  * Bugbear (*Scourge*)
-  * Goblin (*Scourge*)
-  * Human (Minority)
-  * Satyr (Minority)
-  * [Cuniko](cuniko.md) (Minority)
-* Basha
-  * Dragonborn (Majority)
-  * Orc (Minority)
-* Cintiwero Desert
-  * Genasi (Majority)
-  * Tabaxi (Minority, tribes)
-  * Lizardfolk (Minority, tribes)
-  * Kobold (Minority, tribes)
-  * Human (Minority, tribes)
-  * [Cuniko](cuniko.md) (Minority)
-* Cuaña
-  * Human (Majority)
-  * [Cuniko](cuniko.md) (Minority)
-  * Halfling (Minority)
-  * Satyr (Minority)
-* Darvia
-  * Elf (Majority), no Drow
-  * Bugbear (*Scourge*)
-  * [Cuniko](cuniko.md) (Minority)
-  * Firbolg (Minority)
-  * Lizardfolk (Minority)
-* Dorr
-  * Tiefling (Majority)
-  * Aasimar (Minority, *Scourge*)
-  * Kobold (*Scourge*)
-* Finippicay
-  * Dragonborn (Majority)
-  * [Cuniko](cuniko.md) (Minority)
-  * Tabaxi (Minority)
-  * Human (Minority)
-  * Yuan-Ti (Minority)
-  * Leonin (Minority)
-* Freeport
-  * *Indiscriminate*, but founded as a haven for those less aligned with the rule of law.
-* Garrenor
-  * Gnome (Majority)
-  * [Cuniko](cuniko.md) (Minority)
-  * Human (Minority, *Scourge*)
-* Groff
-  * Human (Majority)
-  * Orc (Minority)
-  * [Cuniko](cuniko.md) (Minority)
-* High Maris
-  * Human (Majority)
-  * [Cuniko](cuniko.md) (Minority)
-* Ilminor
-  * Aasimar (Majority)
-  * Tiefling (Minority, *Scourge*)
-* [Korbantir](../geography/countries/korbantir.md)
-  * Human (Majority)
-  * [Cuniko](cuniko.md) (Minority)
-  * Elf (Minority)
-  * Dwarf (Minority)
-  * Aasimar (Minority)
-  * Satyr (Minority)
-* Low Maris
-  * Human (Majority)
-  * [Cuniko](cuniko.md) (Minority)
-* [Marram](../geography/countries/marram.md)
-  * Human (Majority)
-  * [Cuniko](cuniko.md) (Minority)
-  * Genasi (Minority)
-  * Tabaxi (Minority)
-* Mennitonough
-  * Gnome (Majority)
-* Mirini
-  * Halfling (Majority)
-  * Human (Minority)
-  * Tabaxi (Minority)
-* Mornovor
-  * Dwarf (Majority)
-  * Bugbear (*Scourge*)
-  * Goblin (*Scourge*)
-  * Kobold (*Scourge*)
-* Netherwood
-  * Human (Majority)
-  * Elf (Minority)
-  * [Cuniko](cuniko.md) (Minority)
-  * Firbolg (Minority)
-  * Satyr (Minority)
-* Northern Untamed Wilderness
-  * Unknown
-* Ondål
-  * Dwarf (Majority)
-* Onoctux
-  * Goliath (Majority)
-* Pale Barrens
-  * Unknown
-* Parlina
-  * Human (Majority, shared)
-  * Elf (Majority, shared)
-  * Satyr (Minority)
-  * [Cuniko](cuniko.md) (Minority)
-* The Passage
-  * Genasi (Majority)
-  * Lizardfolk (Minority, tribes)
-  * Kobold (Minority, tribes)
-  * Human (Minority, tribes)
-  * [Cuniko](cuniko.md) (Minority)
-* Pirinão
-  * Leonin (Majority)
-  * Yuan-Ti (Minority)
-  * Dragonborn (Minority)
-* [[rivoni]]
-  * Human (Majority)
-  * Genasi (Minority)
-  * [Cuniko](cuniko.md) (Minority)
-  * Leonin (Minority *Scourges*)
-* The Rotten Tundra
-  * Unknown
-* Southern Untamed Wilderness
-  * Unknown
-* Taïni
-  * Human (Majority), but only around the Ganaroum-Bak oasis. See Cintiwero Desert and The Passage for more.
-  * Lizardfolk (Minority)
-  * Kenku (Minority, *Scourge*)
-  * [Cuniko](cuniko.md) (Minority)
-* The Untamed Wilds
-  * Orcs (Majority)
-  * Humans (Minority)
-  * Lizardfolk (Minority)
-  * [Cuniko](cuniko.md) (Minority)
-* Vos'Amin
-  * Solely Drow
-* Yersh
-  * Orc (Majority)
-* Yungxi
-  * Yuan-Ti (Majority)
-  * Dragonborn (Minority)
-* Zudrslan
-  * Halfling (Majority)
-  * Human (Minority)
-  * Orc (Minority)
-  * [Cuniko](cuniko.md) (Minority)
-  * Bugbear (*Scourge*)
-  * Goblin (*Scourge*)
+- Abta Hatti Empire
+  - *Indiscriminate*, expanding, and anyone is welcome as long as they can carry a weapon. Originally founded by Elves.
+  - Goblin (*Scourge*)
+- Amayelia
+  - Elf (Majority)
+  - Bugbear (*Scourge*)
+  - Goblin (*Scourge*)
+  - Human (Minority)
+  - Satyr (Minority)
+  - [Cuniko](cuniko.md) (Minority)
+- Basha
+  - Dragonborn (Majority)
+  - Orc (Minority)
+- Cintiwero Desert
+  - Genasi (Majority)
+  - Tabaxi (Minority, tribes)
+  - Lizardfolk (Minority, tribes)
+  - Kobold (Minority, tribes)
+  - Human (Minority, tribes)
+  - [Cuniko](cuniko.md) (Minority)
+- Cuaña
+  - Human (Majority)
+  - [Cuniko](cuniko.md) (Minority)
+  - Halfling (Minority)
+  - Satyr (Minority)
+- Darvia
+  - Elf (Majority), no Drow
+  - Bugbear (*Scourge*)
+  - [Cuniko](cuniko.md) (Minority)
+  - Firbolg (Minority)
+  - Lizardfolk (Minority)
+- Dorr
+  - Tiefling (Majority)
+  - Aasimar (Minority, *Scourge*)
+  - Kobold (*Scourge*)
+- Finippicay
+  - Dragonborn (Majority)
+  - [Cuniko](cuniko.md) (Minority)
+  - Tabaxi (Minority)
+  - Human (Minority)
+  - Yuan-Ti (Minority)
+  - Leonin (Minority)
+- Freeport
+  - *Indiscriminate*, but founded as a haven for those less aligned with the rule of law.
+- Garrenor
+  - Gnome (Majority)
+  - [Cuniko](cuniko.md) (Minority)
+  - Human (Minority, *Scourge*)
+- Groff
+  - Human (Majority)
+  - Orc (Minority)
+  - [Cuniko](cuniko.md) (Minority)
+- High Maris
+  - Human (Majority)
+  - [Cuniko](cuniko.md) (Minority)
+- Ilminor
+  - Aasimar (Majority)
+  - Tiefling (Minority, *Scourge*)
+- [Korbantir](../geography/countries/korbantir.md)
+  - Human (Majority)
+  - [Cuniko](cuniko.md) (Minority)
+  - Elf (Minority)
+  - Dwarf (Minority)
+  - Aasimar (Minority)
+  - Satyr (Minority)
+- Low Maris
+  - Human (Majority)
+  - [Cuniko](cuniko.md) (Minority)
+- [Marram](../geography/countries/marram.md)
+  - Human (Majority)
+  - [Cuniko](cuniko.md) (Minority)
+  - Genasi (Minority)
+  - Tabaxi (Minority)
+- Mennitonough
+  - Gnome (Majority)
+- Mirini
+  - Halfling (Majority)
+  - Human (Minority)
+  - Tabaxi (Minority)
+- Mornovor
+  - Dwarf (Majority)
+  - Bugbear (*Scourge*)
+  - Goblin (*Scourge*)
+  - Kobold (*Scourge*)
+- Netherwood
+  - Human (Majority)
+  - Elf (Minority)
+  - [Cuniko](cuniko.md) (Minority)
+  - Firbolg (Minority)
+  - Satyr (Minority)
+- Northern Untamed Wilderness
+  - Unknown
+- Ondål
+  - Dwarf (Majority)
+- Onoctux
+  - Goliath (Majority)
+- Pale Barrens
+  - Unknown
+- Parlina
+  - Human (Majority, shared)
+  - Elf (Majority, shared)
+  - Satyr (Minority)
+  - [Cuniko](cuniko.md) (Minority)
+- The Passage
+  - Genasi (Majority)
+  - Lizardfolk (Minority, tribes)
+  - Kobold (Minority, tribes)
+  - Human (Minority, tribes)
+  - [Cuniko](cuniko.md) (Minority)
+- Pirinão
+  - Leonin (Majority)
+  - Yuan-Ti (Minority)
+  - Dragonborn (Minority)
+- [[rivoni]]
+  - Human (Majority)
+  - Genasi (Minority)
+  - [Cuniko](cuniko.md) (Minority)
+  - Leonin (Minority *Scourges*)
+- The Rotten Tundra
+  - Unknown
+- Southern Untamed Wilderness
+  - Unknown
+- Taïni
+  - Human (Majority), but only around the Ganaroum-Bak oasis. See Cintiwero Desert and The Passage for more.
+  - Lizardfolk (Minority)
+  - Kenku (Minority, *Scourge*)
+  - [Cuniko](cuniko.md) (Minority)
+- The Untamed Wilds
+  - Orcs (Majority)
+  - Humans (Minority)
+  - Lizardfolk (Minority)
+  - [Cuniko](cuniko.md) (Minority)
+- Vos'Amin
+  - Solely Drow
+- Yersh
+  - Orc (Majority)
+- Yungxi
+  - Yuan-Ti (Majority)
+  - Dragonborn (Minority)
+- Zudrslan
+  - Halfling (Majority)
+  - Human (Minority)
+  - Orc (Minority)
+  - [Cuniko](cuniko.md) (Minority)
+  - Bugbear (*Scourge*)
+  - Goblin (*Scourge*)
 
 ## Represented Races
 
 The following races are part of the Bhreia setting, the country names in parentheses are the countries where this race is a majority race:
 
-* [Cuniko](cuniko.md)
+- [Cuniko](cuniko.md)
 
 The following races are all those found in the Player's Handbook as well as Volo's Guide to Monsters.
 
-* Aasimar
-* Bugbear
-* Dragonborn (Basha, Finippicay)
-* Dwarf (Ondål, Mornovor)
-* Elf (Amayelia, Darvia, Vos'Amin)
-* Firbolg
-* Gnome (Garrenor, Mennitonough)
-* Goblin
-* Half-Elf
-* Half-Orc
-* Halfling (Mirini, Zudrslan)
-* Hobgoblin
-* Human (Cuaña, Groff, High Maris, [[korbantir]], Low Maris, Netherwood, Parlina, [[rivoni]], Taïni)
-* Kenku
-* Kobold
-* Lizardfolk
-* Orc
-* Tabaxi
-* Tiefling
-* Triton
-* Yuan-Ti Pureblood (Yungxi)
+- Aasimar
+- Bugbear
+- Dragonborn (Basha, Finippicay)
+- Dwarf (Ondål, Mornovor)
+- Elf (Amayelia, Darvia, Vos'Amin)
+- Firbolg
+- Gnome (Garrenor, Mennitonough)
+- Goblin
+- Half-Elf
+- Half-Orc
+- Halfling (Mirini, Zudrslan)
+- Hobgoblin
+- Human (Cuaña, Groff, High Maris, [[korbantir]], Low Maris, Netherwood, Parlina, [[rivoni]], Taïni)
+- Kenku
+- Kobold
+- Lizardfolk
+- Orc
+- Tabaxi
+- Tiefling
+- Triton
+- Yuan-Ti Pureblood (Yungxi)
 
 A few from other sources:
 
-* Genasi (Cintiwero Desert, The Passage)
-* Goliath (Onoctux)
-* Leonin (Pirinão)
-* Minotaur
-* Satyr
-* [Tortle](https://i.4pcdn.org/tg/1507139371228.pdf)
+- Genasi (Cintiwero Desert, The Passage)
+- Goliath (Onoctux)
+- Leonin (Pirinão)
+- Minotaur
+- Satyr
+- [Tortle](https://i.4pcdn.org/tg/1507139371228.pdf)
 
 Talk your DM before picking a race outside of this list.

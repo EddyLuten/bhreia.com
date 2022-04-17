@@ -3,7 +3,6 @@ alias: parasol-of-opacity
 categories:
     - Handouts
     - Items
-    - Lore
 ---
 # 🔐 Parasol of Opacity
 

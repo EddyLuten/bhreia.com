@@ -84,7 +84,7 @@ Among them is **[[freeney]]**, down on his luck, drunk, and depressed after havi
 
 ### Jim's Tent
 
-In Jim's tent is a **wanted poster**, showing the likenesses of him as well as Burron. They're wanted in Kleftmon for the murder of **Lady Willow Gillette**, an elderly socialite woman whom they extorted for years and killed when the well ran dry. They couldn't leave behind any loose ends. Both [[gadot]] and [[tiran]] will recognize the name as belonging to an influential family in Kleftmon.
+In Jim's tent is a **wanted poster**, showing the likenesses of him as well as Burron. They're wanted (dead or alive, 500 gp each) in Kleftmon for the murder of **Lady Willow Gillette**, an elderly socialite woman whom they extorted for years and killed when the well ran dry. They couldn't leave behind any loose ends. Both [[gadot]] and [[tiran]] will recognize the name as belonging to an influential family in Kleftmon with a **DC 12 History** check
 
 ## Outlawed
 
@@ -106,7 +106,7 @@ On Inquisitor Ryssha they can find a copy of his orders to take out Wolf:
     Signed,  
     The Honorable Fynnwick of Herrenfort
 
-### Wanted Poster
+### Wanted Poster (Wolf)
 
 In the days and weeks after fleeing from the law, wanted posters will appear throughout the kingdom, listing his crimes and a reward of up to 2,500 gold pieces leading to the capture or death of Wolf.
 
