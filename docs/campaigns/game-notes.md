@@ -25,3 +25,4 @@ Before every session.
 - Tiran is shy around girls who he's attracted to, unlike Gadot. His most recent crush was with Greta Thunderberg, a climate activist.
 - Sah-Sauj's brother's names is Spinoach, her uncle's name is Pete Moss
 - Wolf has been kicked out of his clan for bucking traditions, especially during times of war
+- Pasha's dagger is a Karambit

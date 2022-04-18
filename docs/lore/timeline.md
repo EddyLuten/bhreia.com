@@ -80,7 +80,7 @@ Important Dates:
 
     * 1774: Cauldin of Leikon is born
     * 1776: Donitar of Leikon is born
-    * 1821: 🔥  First contact between Humans and Elves in Korbantir, major figures present:
+    * 1821: 🔥 First contact between Humans and Elves in Korbantir, major figures present:
       * Korban
       * Cauldin of Leikon
       * Donitar of Leikon
