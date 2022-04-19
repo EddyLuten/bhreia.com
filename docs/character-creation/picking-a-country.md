@@ -65,7 +65,7 @@ Just because your race is not listed under a country entry, does not mean that y
   - Human (Minority)
   - Yuan-Ti (Minority)
   - Leonin (Minority)
-- Freeport
+- [[freeport]]
   - *Indiscriminate*, but founded as a haven for those less aligned with the rule of law.
 - Garrenor
   - Gnome (Majority)

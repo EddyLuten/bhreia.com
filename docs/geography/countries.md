@@ -15,7 +15,7 @@ Countries here define a distinct group of people sharing a territory, culture, a
 * Darvia
 * Dorr
 * Finippicay
-* Freeport
+* [[freeport]]
 * Garrenor
 * Groff
 * High Maris

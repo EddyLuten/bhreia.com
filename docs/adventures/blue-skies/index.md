@@ -94,6 +94,7 @@ Nine days of travel, arrival on the tenth day at night:
 - Finish [[wolfs-house]]
 - Finish [[swamp-witch]]
 - Finish [[pastorale]]
+- More details for [[freeport]] in case they decide to stay during [[ejols]]
 - Portraits/drawings:
   - [[chickadee]]
   - [[malachi]]

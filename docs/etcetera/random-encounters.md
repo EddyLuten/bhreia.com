@@ -16,6 +16,17 @@ categories:
 4 | Baked Sand Castles
 5 | The Hoarding Host
 6 | The Runaway Prisoner
+7 | The Appearing Apprentice
+8 | The Bard's Cart
+9 | Buried Chest
+10 | Landslide
+11 | The Lonely Tree
+12 | The Nest
+13 | Promised Land
+14 | Scarlet Pass
+15 | Thorny Vines
+16 | Trapped Farmer
+17 | Yellow Dust
 
 ## The Con-Artist
 
@@ -90,3 +101,51 @@ A **DC 17 Investigation** check will reveal that the Cuniko's clothes are a bit 
 The "prisoner" can be found in the woods in the direction that the Cuniko pointed towards. He's laying face down in a dark patch of the forest, and many dust motes seem to dance in the air here. A **DC 15 Perception** check will reveal that they are spores, and nearby mushrooms between the roots of trees and in dark spots. If they approach, a **DC 14 Constitution** saving throw is needed to prevent getting infected and falling asleep. These mushrooms are commonly referred to as **Snoozeshrooms**, and infect creatures with their spores, which puts them to sleep. Unless helped, the creature won't wake up, die, and decompose into fertilizer for more Snoozeshrooms.
 
 The **true background** is that the Cuniko was the actual prisoner, and on his way to prison in [[korbans-landing]]. But, he managed to pick the lock and subdue the AU guard, placing them in the paddy instead. However, the guard was able to snag a key and unlock the paddy during transport. The Cuniko is afraid that the guard is heading back through the woods to alert his fellow company men. He also doesn't think his sentencing of 10 years in prison is fair for simply stealing a horse.
+
+## The Appearing Apprentice
+
+On the road ahead of them, a wizard's apprentice appears out of nowhere in a puff of green smoke. They ask the adventurers where they are and says they're thousands of miles away from where they started from. They ask if they can travel along with them to the nearest city, and regardless of the adventurers' answer, they will disappear a short moment after in a puff of green smoke.
+
+## The Bard's Cart
+
+WIP
+
+A halfling bard sits atop a broken-down mule-drawn cart, playing their lute to their mule. The bard isn't strong enough to lift the cart and fix its broken wheel. They will gift the adventurers something on success. Cart is filled with something heavy, high DC.
+
+## Buried Chest
+
+While traversing a bog along a wooden boardwalk, they come across a group of peat cutters. They mutter something among themselves and call out to the adventurers for assistance. While cutting peat, they bumped onto a chest buried deep in the bog, wrapped in chains. They think that they've found treasure and are willing to split it if the adventurers can help out. When they open the chest, inside is a slightly smaller chest. This chest is a mimic and will attack once it has been released.
+
+## Landslide
+
+On a steep hillside, a recent landslide has washed away a 20 ft. chunk of the road. There are trees nearby and some 100 ft. up the hill, they can see the continuation of the road above them as it snakes up the hill.
+
+## The Lonely Tree
+
+They find a nice quiet spot to set up camp in a clearing around a giant ancient tree. Unbeknownst to them, this is a Treant who will awaken if they are loud and tell them boring stories about being a tree there that will keep them awake all night unless they are able to convince it to stay quiet. If they are on good terms with it, it will protect them all night, which will pass uneventfully.
+
+## The Nest
+
+WIP
+
+After a long day of travel, the adventurers find a nice, cozy place, not too far from the road. It's cleared of brush, has thick bushy walls, and is almost shaped like a bowl, indented into the soil. A nature check reveals that this is the nest of an enormous bird. The bird returns and is angry to find its nest defiled.
+
+## Promised Land
+
+A camp with cultists who are on a mission from their god to start a new country. However, their promised land is already populated, but their god commands them to take it regardless.
+
+## Scarlet Pass
+
+They come across a sign on the side of the road that says: "SCARLET PASS 1 MILE. UPHOLD TRADITION OR TURN AROUND." Hanged from the trees by their roped-up clothes are hundreds of bodies in various stages of decay, all carrying a sign in red letters around their necks with the word: "INSOLENT." A DC 18 investigation check will reveal that none of the bodies wore clothing with the color red. The Scarlet Pass is a walled section of road guarded by two enormous stone golems. If they don't wear red, they will attack.
+
+## Thorny Vines
+
+The road is overgrown with a thicket of thorny vines. Through a hole in the thicket, they can see the other side of the road. If they start cutting through it, once surrounded, the vines will grow shut behind them, thorns piercing their skin.
+
+## Trapped Farmer
+
+They pass a farm field where a farmer is trapped beneath his horse-drawn plow. He's wounded and bleeding. The smell of his blood has attracted scavengers.
+
+## Yellow Dust
+
+A dust storm stirs up and blocks their vision. However, this is not a regular dust storm. The dust is bright yellow, tastes bad, makes them sneeze, and cakes their eyes. CON saving throw, or become blinded for the duration of the storm plus 1d4 hours after. Those whose checks were below a certain threshold become poisoned, since the dust is a type of harmful fungus.
