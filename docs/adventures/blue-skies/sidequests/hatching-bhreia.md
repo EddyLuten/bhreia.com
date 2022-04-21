@@ -14,7 +14,7 @@ categories:
 
 She will tell them that [[amalchi]] has always been jealous of her connection to the living creatures of the world. He feels scorned because until a year ago, people didn't even remember his name. Because of this, he is planning to merge the material plane and the elemental plane of air. This won't be a simple combination, but rather the destruction of both and a total restart. It will kill all living creatures everywhere.
 
-Bhreia offers two options to the adventurers.
+Bhreia offers two options to the adventurers, outlined below. She will also speak to [[pasha]] directly, see [[pashas-path]].
 
 ## Option 1: Restoring the Status Quo
 
