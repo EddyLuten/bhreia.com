@@ -4,7 +4,9 @@ categories:
     - Handouts
     - Items
 ---
-# Phidippus' Necklace
+# 🔐 Phidippus' Necklace
+
+--8<-- "spoiler.html"
 
 Found by Sophia Ironstone on the ground outside Phidippus' old quarters, a silver necklace with a pendant holding an obsidian stone.
 

@@ -1,4 +1,5 @@
 ---
+alias: character-options
 categories:
     - Character Creation
     - Meta

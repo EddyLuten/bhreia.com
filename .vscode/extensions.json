@@ -1,8 +1,8 @@
 {
     "recommendations": [
         "davidanson.vscode-markdownlint",
-        "ban.spellright",
         "ms-vscode.wordcount",
-        "pascalsenn.keyboard-quickfix"
+        "pascalsenn.keyboard-quickfix",
+        "znck.grammarly"
     ]
 }

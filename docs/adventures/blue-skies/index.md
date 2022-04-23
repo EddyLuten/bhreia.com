@@ -78,9 +78,9 @@ Nine days of travel, arrival on the tenth day at night:
 
 1. Wolf's House [[wolfs-house]]
 2. 🏕 [[liquid-life]] adaptation
-3. [[swamp-witch]]
+3. [[hatching]] and [[pashas-path]]
 4. [[random-encounters]]
-5. [[hatching]]
+5. [[swamp-witch]]
 6. [[random-encounters]]
 7. 🏕 Near Korban's Memorial [[pastorale]]
 8. [[random-encounters]]
@@ -89,8 +89,6 @@ Nine days of travel, arrival on the tenth day at night:
 
 ## TODO List
 
-- Encounter the Ghost Girl again on their way to Korban's Landing?
-- Create a list of [[random-encounters]]
 - Finish [[wolfs-house]]
 - Finish [[swamp-witch]]
 - Finish [[pastorale]]

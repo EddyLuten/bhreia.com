@@ -42,11 +42,11 @@ theme:
     admonition:
       info: octicons/info-16
   palette:
-    scheme: slate
-    primary: deep orange
-    accent: light blue
+    # scheme: slate
+    primary: blue
+    accent: orange
   features:
-    # - navigation.expand
+    - navigation.expand
     - navigation.sections
     # - navigation.indexes
     - navigation.top

@@ -58,6 +58,7 @@ TODO
 Important Dates:
 
 * 2208: The Many Days of Night (see [[korbantir]]).
+* 2867: start of [[sentinels]]
 
 ## The Fourth Age: Balance Restored
 

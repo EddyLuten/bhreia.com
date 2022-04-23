@@ -1,4 +1,5 @@
 ---
+alias: picking-country
 categories:
     - Character Creation
     - Meta
@@ -145,6 +146,11 @@ Just because your race is not listed under a country entry, does not mean that y
   - Unknown
 - Southern Untamed Wilderness
   - Unknown
+- [[silubria]]
+  - Most races, but mainly:
+  - Human and Elves, shared Majority
+  - [Cuniko](cuniko.md) (Minority)
+  - Genasi (Minority)
 - Taïni
   - Human (Majority), but only around the Ganaroum-Bak oasis. See Cintiwero Desert and The Passage for more.
   - Lizardfolk (Minority)
