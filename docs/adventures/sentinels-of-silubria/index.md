@@ -7,7 +7,7 @@ categories:
 # The Sentinels of Silubria
 
 !!! warning
-    Subject to change, art is placeholder.
+    Subject to change, art is a placeholder.
 
 This adventure begins in [[timeline|2867]], 212 years before the beginning of [[dauriels-mansion]], designed with a party of 4-5 third-level players in mind.
 

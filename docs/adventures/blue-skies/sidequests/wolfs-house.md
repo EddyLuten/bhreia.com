@@ -15,15 +15,15 @@ During the year that [[wolf]] wasn't present in his home, a young woman named **
 
 Scout, MM pg. 349.
 
-Leca is a 23 year old female half-elf. She has long curly reddish brown hair and is a hunter by trade. She has a dog, a knee-high blonde hunting dog named **Cricket.**
+Leca is a 23-year-old female half-elf. She has long curly reddish-brown hair and is a hunter by trade. She has a dog, a knee-high blonde hunting dog named **Cricket.**
 
-Leca is originally from High Maris where she grew up in high society. Wanting a different kind of life, one more close to nature, she left for Korbantir three years ago and became a hunter. It's been tough for her getting used to living on her own, but after finding Wolf's cabin, things got a bit easier.
+Leca is originally from High Maris where she grew up in high society. Wanting a different life, one closer to nature, she left for Korbantir three years ago and became a hunter. It's been tough for her to get used to living independently, but after finding Wolf's cabin, things got a bit easier.
 
-However, while she was in Crabpot, she was down on her luck and had to resort to stealing food. While trying to take some crabs for her and Cricket to eat, the fisherman took notice and chased her down, cornering her in a dead end alley. She handed him the crab back, apologizing, but he now had his eyes set on her. He forced himself onto her and she was subdued until Cricket came from behind and bit the man's throat. He stumbled backwards and collapsed onto the ground, blood spraying from his neck. Leca ran as fast as she could through a busy fish market, covered in the man's blood. Later, she learned that the man died there, and she's currently wanted for his murder. She isn't safe anywhere.
+However, while she was in Crabpot, she was down on her luck and had to resort to stealing food. While trying to take some crabs for her and Cricket to eat, the fisherman noticed and chased her down> He cornered her in a dead-end alley. She handed him the crab back, apologizing, but now he had his eyes on her. He forced himself onto her, subduing her until Cricket came from behind and bit the man's throat. He stumbled backward and collapsed onto the ground, blood spraying from his neck. Leca ran as fast as she could through a busy fish market, covered in the man's blood. Later, she learned that the man died there, and she's currently wanted for his murder. She isn't safe anywhere.
 
 ## Coming up on the Cabin
 
-Not too far from the cabin, the adventurers hear a song played on a fiddle. It's played badly and whoever is playing keeps trying to get it right.
+Not too far from the cabin, the adventurers hear a song played on a fiddle. It's poorly played and whoever is playing keeps trying to get it right.
 
 As they approach the cabin, they can see fresh rabbit skins drying on a tanning rack and the smell of rabbit stew permeates the air.
 
@@ -31,9 +31,9 @@ Before they can approach the fiddler, Cricket, the dog, will come running toward
 
 ## The Cabin
 
-The cabin is constructed out of bulky pine logs and is mostly overgrown with mosses and grasses. It is so camouflaged that if you were to look from the road, you would never know it was even there. It's purpose built for a single person, and features a single living area with a loft used for sleeping above it, which is accessible by a wooden ladder.
+The cabin is constructed out of bulky pine logs and is mostly overgrown with mosses and grasses. It is so camouflaged that if you were to look from the road, you would never know it was even there. It's purpose-built for a single person and features a single living area with a loft used for sleeping above it, accessible by a wooden ladder.
 
-Externally, there's a lean-to besides the building, meant for drying tobacco leaves as well as a small earthen oven used for baking.
+A lean-to stands beside the building meant for drying tobacco leaves and a small earthen oven for baking.
 
 Standing in front of the cabin, the fiddling is louder and they can hear Leca talk to Cricket, asking why she's so worked up. The garden is visible now, and looks maintained. New vegetables are growing and Wolf's tobacco plants are thriving.
 
@@ -41,15 +41,15 @@ Standing in front of the cabin, the fiddling is louder and they can hear Leca ta
 
 Leca is still trying to play the fiddle when they approach her. She's wearing green pants and a black tank top, her jacket tied around her waste.
 
-She immediately stops when she sees them and tells them that she doesn't want any kind of trouble.
+She immediately stops when she sees them and tells them that she doesn't want any trouble.
 
-She will offer to leave and take her stuff with her, but she doesn't want any trouble.
+She will offer to leave and take her stuff, but she doesn't want any trouble.
 
 ## Trouble
 
-Unbeknownst to the adventurers, they have been distantly followed by Aldarion Unlimited guards who are ensuring that they aren't causing any more trouble. They have stealthily followed them to Wolf's house where they now see the Leca, a wanted outlaw, and will attempt to attack.
+Unbeknownst to the adventurers, they have been distantly followed by [[au]] guards who are ensuring that they aren't causing any more trouble. They have stealthily followed them to Wolf's house where they now see the Leca, a wanted outlaw, and will attempt to intervene. They will attack if necessary.
 
-There are three guards (Aldarion Unlimited Company men), and they will dispatch one of them if the situation gets hairy. This final one will head back to the survivors camp in Cauldin's Point and warn [[weslan]]. Depending on how they've interacted with Weslan, he may tell the magistrate, who will put out a warrant for all of them and set Inquisitor Ryssha after them with Kirenka. See [[assaulted-halfling]].
+There are three guards (Aldarion Unlimited Company men), and they will dispatch one of them if the situation gets hairy. This final one will head back to the survivors camp in Cauldin's Point and warn [[weslan]]. Depending on how they've interacted with Weslan, he may tell the magistrate, who will put out a warrant for all of them and set **Inquisitor Ryssha** after them with **Kirenka**. See [[assaulted-halfling]].
 
 ## Nate's Chat
 
