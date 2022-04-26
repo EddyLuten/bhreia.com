@@ -9,6 +9,7 @@ categories:
 --8<-- "spoiler.html"
 
 - If they go to the camp, check [[assaulted-halfling]]
+- When passing Cauldin's Point, [[weslan]] joins them on horseback with a few of his men. They noticed the smoke plume.
 - If they go to the [[ironstone-forge]]:
   - A few miles out, they can see smoke on the horizon.
   - All of the forge buildings are on fire
@@ -32,8 +33,11 @@ categories:
       - Dies.
       - Inventory:
         - A copy of the wanted poster for Jim & Jerry
-        - A pouch containing 20 gp, 31 sp, one Ruby
+        - A pouch containing 13 gp, 12 sp
+        - A Ruby-inlaid necklace worth 1200 gp, the name "Willow" inscribed
         - A round piece of amber with a tiny egg inside of it
+- After the fire, [[weslan]] will offer them (mostly Gadot, due to Weslan's connection to Philippe) to come by his tent for something he wants to give them before they set off to Marram.
+  - He can also tell them about what the journey would cost them, see [[survivors-camp]].
 
 ## House on Fire
 
@@ -53,7 +57,7 @@ The front door is barred shut, but a **DC 18 Strength** check will open it.
 
 Once inside, Sophia stops calling for help.
 
-A **DC 15 Dexterity** check or take 1d6 damage from a falling support beam and become trapped. Must make a **DC 12 Stength** check to become untrapped.
+A **DC 15 Dexterity** check or take 1d6 damage from a falling support beam and become trapped. Must make a **DC 12 Strength** check to become untrapped.
 
 A **DC 15 Perception** check reveals a thin trail of blood on the stairs leading to the second floor.
 
@@ -61,4 +65,4 @@ A **DC 15 Constitution** check or take **1d6 Fire Damage** from smoke inhalation
 
 Both the doors to the guest bedroom and the master bedroom are open.
 
-Sophia is in the master bedroom, knocked out cold. She has a headwound and is barely breathing.
+Sophia is in the master bedroom, knocked out cold, holding a leather bag and a bloody ball peen hammer. She has a headwound and is barely breathing. A dead bandit lays on the floor next to her with a big chunk missing from his head.
