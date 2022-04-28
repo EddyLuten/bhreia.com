@@ -18,6 +18,8 @@ Sah-Sauj doesn't drink alcohol.
 
 Before every session.
 
+Order: Sah-Sauj ➡ Wolf ➡ Pasha ➡ Gadot ➡ Tiran
+
 - Sah-Sauj pranked people with fake poop in her cloister
 - Wolf's real name is not "Wolf"
 - Pasha's favorite color is blue
@@ -26,3 +28,4 @@ Before every session.
 - Sah-Sauj's brother's names is Spinoach, her uncle's name is Pete Moss
 - Wolf has been kicked out of his clan for bucking traditions, especially during times of war
 - Pasha's dagger is a Karambit
+- When Gadot was a child, he had a river raft that he named the SS Gadot
