@@ -7,7 +7,7 @@ categories:
 
 --8<-- "spoiler.html"
 
-In [Ghukliak](../../etcetera/ghukliak.md).
+In [[ghukliak]].
 
 - Grintani: Ta macoyii ong Phidippus?
 - Tunaka: Ee, vu deu ko kolohk.

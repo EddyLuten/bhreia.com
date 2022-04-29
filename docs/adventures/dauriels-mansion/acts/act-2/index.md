@@ -12,7 +12,7 @@ categories:
 
 ## Optional: The Night Before
 
-On the night before the party, if the party are awake, they can see the five moons of Bhreia lining up at midnight. Unbeknownst to them, this is the marker for the new [Age](../../../../lore/timeline.md) to begin.
+On the night before the party, if the party are awake, they can see the five moons of Bhreia lining up at midnight. Unbeknownst to them, this is the marker for the new [[timeline|Age]] to begin.
 
 ## Mansion Exterior
 

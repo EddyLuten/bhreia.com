@@ -1,4 +1,5 @@
 ---
+alias: dauriel-vs-amalchi
 categories:
     - DM Only
     - Story
@@ -8,11 +9,11 @@ categories:
 
 --8<-- "spoiler.html"
 
-Thirty-five years before his birthday party, [Dauriel](../../npcs/dauriel-aldarion.md) was traveling through the town of [Cauldin's Point](../../../../geography/settlements/cauldins-point.md) to his nearby adventuring guild west of town when he was approached by a woman who asked him for his help. Slung around her neck and supported in her arms seemed to be a child, closely cradled to her chest. She explained that she followed her **husband** down a cave, which lead into an underground complex. There, she saw him and four others perform a blood sacrifice around the naked body of a man.
+Thirty-five years before his birthday party, [[dauriel]] was traveling through the town of [[cauldins-point]] to his nearby adventuring guild west of town when he was approached by a woman who asked him for his help. Slung around her neck and supported in her arms seemed to be a child, closely cradled to her chest. She explained that she followed her **husband** down a cave, which lead into an underground complex. There, she saw him and four others perform a blood sacrifice around the naked body of a man.
 
 Dauriel followed the woman to where she entered the cave, but before he entered, he could already feel a dark and evil energy coming from within. He turned around and told the woman that he'd be back soon and went off to gather his party. Once he and his party returned, the woman was gone, but the cave was still there and radiating energy.
 
-Unbeknownst to him, the woman was the deity [Bhreia](../../../../deities/bhreia.md) in disguise as a human woman, trying to stop her brother [Amalchi](../../../../deities/amalchi.md) from doing what he was about to do.
+Unbeknownst to him, the woman was the deity [[bhreia]] in disguise as a human woman, trying to stop her brother [[amalchi]] from doing what he was about to do.
 
 The party entered the cave and after a few hours breached into an underground complex, just as the woman had explained. There were old structures, much like buildings, carved into the stone. At its center was a spire that lead upward towards the surface. The party concluded that they were somewhere right underneath Cauldin's Point.
 

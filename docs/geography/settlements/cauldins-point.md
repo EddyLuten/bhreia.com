@@ -64,7 +64,7 @@ The road entering and terminating in town from the south is called **Old Menduno
     - Butcher
       - Run by Wendolyn Brightlock
       - Female Half-Elf, 36 years old
-    - [Dauriel's Mansion](../../adventures/dauriels-mansion/places/the-mansion.md)
+    - [[the-mansion|Dauriel's Mansion]]
     - General Store
       - Run by Grottle
       - Male Gnome, 294 years old
@@ -117,7 +117,7 @@ The road entering and terminating in town from the south is called **Old Menduno
       - Run by Balthazar Talintir
       - Elf male, 313 years old
     - Farm
-      - Run by [Grandpa Lenny](../../adventures/dauriels-mansion/npcs/grandpa-lenny.md)
+      - Run by [[grandpa-lenny]]
     - Windmill
       - Run by Leonard Timmons, Jr., son of Grandpa Lenny.
       - Human male, 53 years old

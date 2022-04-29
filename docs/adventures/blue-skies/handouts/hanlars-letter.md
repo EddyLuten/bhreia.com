@@ -1,4 +1,5 @@
 ---
+alias: sophias-letter
 categories:
     - Handouts
     - Items

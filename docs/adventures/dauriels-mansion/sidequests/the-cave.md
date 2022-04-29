@@ -1,4 +1,5 @@
 ---
+alias: the-cave
 categories:
     - DM Only
     - Dauriel's Mansion
@@ -20,7 +21,7 @@ categories:
 
 When the adventurers go to the center of town, Mike will attempt to pickpocket one of the players while saying how brave they look etc. The player will notice that either they're getting pickpocketed or that they're lighter as Mike leaves. If the players follow Mike, he will lead them to the north of town, under the wooden wall through a hole, and into the hills. Mike sneaks out of sight, but with a low investigation or perception check, the adventurers can find the opening to a cave.
 
-In the cave, they can see two bed rolls, a small campfire, a bunch of small cages with some holding Dark Grungs captive. On the floor are a couple of mortars and pestles, a wisdom roll could reveal that someone is making [Grungine](../../../items/grungine.md) here. A high enough investigation check will reveal a continuation of the cave system that leads to the [Tomb Raiders](../sidequests/tomb-raiders.md) sidequest.
+In the cave, they can see two bed rolls, a small campfire, a bunch of small cages with some holding Dark Grungs captive. On the floor are a couple of mortars and pestles, a wisdom roll could reveal that someone is making [[grungine]] here. A high enough investigation check will reveal a continuation of the cave system that leads to the [[tomb-raiders]] sidequest.
 
 Mike, Hurq, and Oona are hiding when the adventurers show up at the cave and will jump out holding improvised weapons at an attempt at intimidation. They are easily dissuaded from attacking and will drop their weapons when confronted.
 

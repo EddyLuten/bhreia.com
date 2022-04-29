@@ -16,18 +16,18 @@ categories:
   </figcaption>
 </figure>
 
-Moreus is the husband of [Dauriel Aldarion](dauriel-aldarion.md).
+Moreus is the husband of [[dauriel]].
 
 ??? danger "DM: Supplemental Facts"
-    Moreus is the corporeal vessel to the primordial deity [Amalchi](../../../deities/amalchi.md) and the husband of [Dauriel Aldarion](dauriel-aldarion.md).
+    Moreus is the corporeal vessel to the primordial deity [[amalchi]] and the husband of [[dauriel]].
 
     ## Biography
 
-    *See also: [Amalchi](../../../deities/amalchi.md).*
+    *See also: [[amalchi]].*
 
-    Born in 3009, Moreus was a worshipper in the Cult of Amalchi and chosen to become the vessel in which the deity could gestate and take a corporeal form. In 3044, this happened in the catacombs beneath [Cauldin's Point](../../../geography/settlements/cauldins-point.md) and Moreus' identity was erased and replaced with that of Amalchi.
+    Born in 3009, Moreus was a worshipper in the Cult of Amalchi and chosen to become the vessel in which the deity could gestate and take a corporeal form. In 3044, this happened in the catacombs beneath [[cauldins-point]] and Moreus' identity was erased and replaced with that of Amalchi.
 
-    See [Act 1: Dauriel vs Amalchi](../acts/act-1/dauriel-vs-amalchi.md) for the continuation.
+    See [[dauriel-vs-amalchi|Act 1: Dauriel vs Amalchi]] for the continuation.
 
 ??? danger "DM: Stats"
     Moreus is a *Commoner*, he doesn't carry weapons.

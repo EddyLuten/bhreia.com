@@ -1,4 +1,5 @@
 ---
+alias: original-hq
 categories:
     - DM Only
     - Dauriel's Mansion
@@ -18,9 +19,9 @@ categories:
   </figcaption>
 </figure>
 
-The original Headquarters for [Aldarion Unlimited](../organizations/aldarion-unlimited.md), back when it was just five people trying to eke out a living doing local adventures, named "[The Aldarion Adventurers](../organizations/aldarion-adventurers.md)." It's located an hour West of [Cauldin's Point](../../../geography/settlements/cauldins-point.md), still owned by [Dauriel Aldarion](../npcs/dauriel-aldarion.md), but has been abandoned and neglected for 35 years. Currently, the place, which isn't much more than a large cabin, is being squatted by a group of Goblins.
+The original Headquarters for [[au]], back when it was just five people trying to eke out a living doing local adventures, named "The [[aldarion-adventurers]]." It's located an hour West of [[cauldins-point]], still owned by [[dauriel]], but has been abandoned and neglected for 35 years. Currently, the place, which isn't much more than a large cabin, is being squatted by a group of Goblins.
 
-The Goblins really don't want to leave. They were born and bred here; this is their home. However, [Dauriel Aldarion](../npcs/dauriel-aldarion.md) will offer it to the players in an optional [adventure hook](../acts/act-1/adventure-hooks.md).
+The Goblins really don't want to leave. They were born and bred here; this is their home. However, [[dauriel]] will offer it to the players in an optional [[mansion-hooks]].
 
 ## The Goblins
 
@@ -32,7 +33,7 @@ The goblins are descendants and family of **Grinta**, one of the Aldarion Advent
 * Jomi - Kabba's wife (never met), age 18
 * Eego - Son of Kabba and Jomi (never met), age 5
 
-[Phidippus](../npcs/phidippus.md), a wizard who lives nearby often pressures them to do dangerous tasks for little pay. He hasn't used violence against them, but he implies that he will use magic against them if they don't do his bidding. Currently, he has asked them to catch a  [macoyii](../../../creatures/macoyii.md), which is tied up behind the cabin. Or is it? 1d2 chance it has bitten through the rope it was tied up with by Tunaka. He has given them a potion that will put the creature to sleep, but not told them how to use it.
+[[phidippus]], a wizard who lives nearby often pressures them to do dangerous tasks for little pay. He hasn't used violence against them, but he implies that he will use magic against them if they don't do his bidding. Currently, he has asked them to catch a [[macoyii]], which is tied up behind the cabin. Or is it? 1d2 chance it has bitten through the rope it was tied up with by Tunaka. He has given them a potion that will put the creature to sleep, but not told them how to use it.
 
 Convince Phidippus to leave the goblins alone and they will leave without any issue. Otherwise, they won't give up the property.
 
@@ -41,7 +42,7 @@ Convince Phidippus to leave the goblins alone and they will leave without any is
 Upon approaching, the adventurers can hear some voices.
 
 !!!cite "Goblins Talking (English)"
-    Grintani: Did you get the [macoyii](../../../creatures/macoyii.md) for [Phidippus](../npcs/phidippus.md)?  
+    Grintani: Did you get the [[macoyii]] for [[phidippus]]?  
     Tunaka: Yes, I tied it up behind the house.  
     Grintani: Great! Hopefully we'll get that magic bastard to stop bothering us.  
     Tunaka: Honey, we can only hope.  
@@ -52,8 +53,8 @@ Upon approaching, the adventurers can hear some voices.
 
 They leave.
 
-!!!cite "Goblins Talking ([Ghukliak](../../../etcetera/ghukliak.md))"
-    Grintani: Ta [macoyii](../../../creatures/macoyii.md) ong [Phidippus](../npcs/phidippus.md)?  
+!!!cite "Goblins Talking ([[ghukliak]])"
+    Grintani: Ta [[macoyii]] ong [[phidippus]]?  
     Tunaka: Ee, vu deu ko kolohk.  
     Grintani: Han! Mis longat booyahg nah rakkt oons.  
     Tunaka: Skatti, oons tahan.  
@@ -99,7 +100,7 @@ About the size of a large cabin.
     * The hilt of a scimitar
   * The second
     * A pair of boots without soles and laces
-    * A map of [Marram](../../../geography/countries/marram.md)
+    * A map of [[marram]]
   * The third, inscribed with the words "Tambo Rong"
     * The blade of a scimitar
     * The goblins' stash:
@@ -139,5 +140,5 @@ About the size of a large cabin.
 * A leather tanning rack
 * A stack of uncut logs for firewood
 * An overgrown, but fenced in, vegetable patch
-* A [macoyii](../../../creatures/macoyii.md) tied up behind the building
+* A [[macoyii]] tied up behind the building
   * 50% chance it's gone, chewed through the rope

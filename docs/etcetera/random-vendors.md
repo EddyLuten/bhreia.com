@@ -60,7 +60,7 @@ Found in marketplaces, stores, etc.
 
 ## Names
 
-See [random names](random-names.md)
+See [[random-names]]
 
 Bedo Wetleg
 

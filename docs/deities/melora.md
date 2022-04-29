@@ -33,4 +33,4 @@ Melora has been adapted from [4e DnD](https://dnd4.fandom.com/wiki/Melora) to fi
 
 ## See Also
 
-- [Timeline](../lore/timeline.md)
+- [[timeline]]

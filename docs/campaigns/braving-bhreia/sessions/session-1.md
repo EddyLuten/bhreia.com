@@ -27,8 +27,8 @@ It is here that the game ends, right before they set off for bed. Wolf and Sah-S
 
 ??? danger "DM: Touch Points"
     - Tiran's maternal grandfather's smithy
-      - [A wizard now owns it](../../adventures/dauriels-mansion/npcs/phidippus.md), was sold by the state since there were no heirs
-    - The name on the invitation that Sah-Sauj stole is [Phidippus](../../adventures/dauriels-mansion/npcs/phidippus.md) (the same wizard)
+      - [[phidippus|A wizard now owns it]], was sold by the state since there were no heirs
+    - The name on the invitation that Sah-Sauj stole is [[phidippus]] (the same wizard)
 
 ??? danger "DM: Campaign Opening Blurb"
     Actions have consequences.  
@@ -62,7 +62,7 @@ It is here that the game ends, right before they set off for bed. Wolf and Sah-S
 
     - Not much further down the road, two highwaymen waylay Wolf.
       - The men:
-        - ["Captain" James Freeney](../../adventures/dauriels-mansion/npcs/captain-freeney.md)
+        - [[freeney]]
         - His young son, Seamus Freeney
       - They cut down a tree, blocking the road, see: [Barry Lyndon's robbery](https://youtu.be/woO1Cs6c-oo)
       - "How do you do?"
@@ -94,7 +94,7 @@ It is here that the game ends, right before they set off for bed. Wolf and Sah-S
     - DC 15 DEX saving throw to prevent sailing head-first into the mud.
     - The tree smolders before the rain snuffs it out.
     - The horse takes off. What to do with the cargo and cart?
-    - [Jonah's Denn](../../adventures/dauriels-mansion/places/jonahs-denn.md) can be reached by foot.
+    - [[jonahs-denn]] can be reached by foot.
     - The horse is there, hiding under the building's overhang.
     - Its leg is hurt, it's limping.
     - Maybe: from the direction of town, Wolf can be seen approaching.

@@ -17,16 +17,16 @@ categories:
 
 Bhreia (bray-ah) is a setting designed for the 5th edition of Dungeons & Dragons. If you were guided here by your DM, know that this documentation is provided as a supplemental resource to the official documentation and is **not required** reading. Instead, it's a resource empowering you to create a character more deeply integrated with the setting by providing details for you to riff off.
 
-This wiki is also used to keep track of the [Braving Bhreia](campaigns/braving-bhreia.md) campaign run by its author.
+This wiki is also used to keep track of the [[braving-bhreia]] campaign run by its author.
 
 Almost everything presented here is **common knowledge** to anyone living in this setting.
 
 ## Getting Started
 
-* [Setting Overview](setting-overview.md)
-* [Picking a country for your race](character-creation/picking-a-country.md).
-* [How the calendar works in this world](etcetera/calendar.md).
-* [Important historical events](lore/timeline.md).
+* [[setting-overview]]
+* [[picking-country|Picking a country for your race]].
+* [[calendar|How the calendar works in this world]].
+* [[timeline|Important historical events]].
 
 ## World Map
 

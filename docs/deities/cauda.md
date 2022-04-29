@@ -24,4 +24,4 @@ His name is the Latin word for "tail" which is both a reference to him having a 
 
 ## See Also
 
-- [Timeline](../lore/timeline.md)
+- [[timeline]]

@@ -29,11 +29,11 @@ See [[hanlar-phidippus]] for details.
 
 He has a real gripe against the Ironstone family and has caused [[hanlar]]'s death. One day at [[jonahs-denn]], they got into a fight about steel vs sworcery and Hanlar humiliated him in front of all of Cauldin's Point by cutting off his robes. He retreated to his tower in the woods and only visited town to sacrifice in the [[amalchi-cult]]. Besides raising [[amalchi]], he wants to see the Ironstone family name extinguished. All of it.
 
-He's an old acquaintance of [[dauriel]], going back decades. He was also [invited](../handouts/dauriels-invitation.md) to Dauriel's party, but his invitation was stolen. He's heard of the party and is quite peeved that he wasn't invited.
+He's an old acquaintance of [[dauriel]], going back decades. He was also [[dauriels-invitation|invited]] to Dauriel's party, but his invitation was stolen. He's heard of the party and is quite peeved that he wasn't invited.
 
 He owns an abandoned forge north of Cauldin's Point that originally belonged to the Ironstone family, the [[ironstone-forge]]. After he killed the heirless [[hanlar]], the business stopped and its assets were sold off by the state to the highest bidder. Here, Phidippus has constructed the glass tubes and machinations necessary to feed blood to Moreus from a collection system.
 
-He often bosses the goblins who [live nearby](../places/au-original-hq.md) to do dangerous tasks for little pay. He hasn't used violence against them, but he implies that he will use magic against them if they don't do his bidding. Currently, he has asked them to catch a [[macoyii]], which is tied up behind the cabin. He wants to have one so he can investigate how they can mimic any sound. He has given them a potion that will put the creature to sleep, but hasn't instructed them on how to administer it.
+He often bosses the goblins who [[original-hq|live nearby]] to do dangerous tasks for little pay. He hasn't used violence against them, but he implies that he will use magic against them if they don't do his bidding. Currently, he has asked them to catch a [[macoyii]], which is tied up behind the cabin. He wants to have one so he can investigate how they can mimic any sound. He has given them a potion that will put the creature to sleep, but hasn't instructed them on how to administer it.
 
 Phidippus uses the Macoyii during a sacrifice ritual in order to raise [[amalchi]]. He's a member of the [[amalchi-cult]] and becomes the main antagonist at the end of the adventure.
 

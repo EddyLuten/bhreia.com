@@ -15,7 +15,7 @@ categories:
   </figcaption>
 </figure>
 
-Grungine is an opioid used as a recreational drug, made from the poison present in the juvenile bodies of [**Dark Grungs**](../creatures/dark-grung.md), which are small froglike creatures related to the more common tropical colorful Grungs. Grungine can only be made from the bodies of juvenile Grungs since only their undeveloped and weaker poison has the desired effect. Grungine made from the bodies of mature Grungs can be fatal and often is.
+Grungine is an opioid used as a recreational drug, made from the poison present in the juvenile bodies of [[dark-grung]], which are small froglike creatures related to the more common tropical colorful Grungs. Grungine can only be made from the bodies of juvenile Grungs since only their undeveloped and weaker poison has the desired effect. Grungine made from the bodies of mature Grungs can be fatal and often is.
 
 Grungine's is known for causing deep euphoric trances, persistent lucid dreams, but most famously it's known for allowing **grung-vision**. Common side-effects include: addiction, lucid dreams, mental unraveling, and a crippling aversion to frogs.
 

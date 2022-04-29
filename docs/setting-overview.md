@@ -1,4 +1,5 @@
 ---
+alias: setting-overview
 categories:
     - Meta
 ---

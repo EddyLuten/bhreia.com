@@ -22,7 +22,7 @@ Created in a fit of jealous anger by Bhreia's nameless brother (see [[timeline]]
 
     Hidden Children:
 
-    * [Cauda](cauda.md), with Primani.
+    * [[cauda]], with [[primani]].
 
 ## Etymology (Meta)
 
@@ -30,4 +30,4 @@ From Proto-Germanic root dauþuz, meaning *to die*.
 
 ## See Also
 
-- [Timeline](../lore/timeline.md)
+- [[timeline]]

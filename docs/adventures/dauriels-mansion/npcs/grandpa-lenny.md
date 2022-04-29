@@ -22,4 +22,4 @@ Full name is Leonard Timmons (senior). Born 2994, age 85.
     - Almost entirely blind
     - 1 HP minion with unarmed attack only
     - Father of Leonard Timmons Jr., the millner
-    - Maybe knows that [Peter the Goblin](peter-the-goblin.md) took over for his grandson.
+    - Maybe knows that [[peter-goblin]] took over for his grandson.

@@ -21,10 +21,10 @@ Borlok is Dauriel's butler, father of Hurq, and one of the five cult members of 
 
 - A bag of holding
 - A light blue robe
-- A golden dagger ([the same as in the tomb](../places/cauldins-tomb.md))
-- An [old letter](../handouts/borloks-letter.md)
+- A golden dagger ([[cauldins-tomb|the same as in the tomb]])
+- An [[borloks-letter|old letter]]
 - Braving Bhreia:
-  - [Ironstone Forge Greataxe](../../../campaigns/handouts/ironstone-forge-greataxe.md)
+  - [[ironstone-greataxe]]
   - A note: "Pasha Yaraxil. Dragonborn. Affected."
     - Affected by the event in [[pasha|Finippicay]]
     - His sacrifice would have had special significance

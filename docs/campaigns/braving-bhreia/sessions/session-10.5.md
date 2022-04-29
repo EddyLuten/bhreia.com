@@ -61,7 +61,7 @@ The name on Sah-Sauj's invitation, Phidippus, is a [genus of jumping spiders](ht
 
 James joining the game presented another challenge where a scenario had to be made up that allowed him to have a moment of his own before joining the rest of the gang. It was written one day before the session and pulled in Oona, a character from a side quest, who suddenly needed to have a father.
 
-If one of the rooms you stayed in would have been inspected thoroughly, you could have found the [journal of Jonah Sr.](../../items/jonahs-journal.md), detailing his communications with a demon after having been possessed by it through a statue he had dug up while he was an archaeologist.
+If one of the rooms you stayed in would have been inspected thoroughly, you could have found the [[jonahs-journal|journal of Jonah Sr.]], detailing his communications with a demon after having been possessed by it through a statue he had dug up while he was an archaeologist.
 
 The demon instructed him to build the inn, and the old man reluctantly did so against his will. He named the place "Jonah's Demon," but as the sign was damaged, the bottom part of the last word was removed and the place became known as Jonah's Denn.
 
@@ -127,7 +127,7 @@ Dauriel pulling in his female Tabaxi servant named Chickadee was also meant to b
 
 This session is where I started going off my preplanned story more. For example, Gadot's father currently being personally employed by Dauriel as an infiltrator in Marram was established in the plan for this session.
 
-I tried to find more details on Ghukliak, but couldn't find any, so [expanded the language](../../etcetera/ghukliak.md) to fit my needs. This is what they said in English as you approached the cabin:
+I tried to find more details on Ghukliak, but couldn't find any, so [[ghukliak|expanded the language]] to fit my needs. This is what they said in English as you approached the cabin:
 
 !!! cite
     Grintani: Did you get the Macoyii for Phidippus?  
@@ -182,10 +182,10 @@ Wolf being approached by Bhreia personally was a response to a conversation we h
 
 The moons lining up in the sky and turning night into day signify two things:
 
-1. A preview of an event in chapter 2, which is the inverse of something that happened in [lore](../../lore/timeline.md).
+1. A preview of an event in chapter 2, which is the inverse of something that happened in [[timeline|lore]].
 2. The birth of a new Age and that of Amalchi; a herald of events to mark the new millennium.
 
-Bhreia's soil child is a symbol for her being the mother of the earth. Her scars symbolize her inability to hold her form during the [first day of the Second Age](../../lore/timeline.md). It is also why the map consists of so many islands and fractured lands.
+Bhreia's soil child is a symbol for her being the mother of the earth. Her scars symbolize her inability to hold her form during the [[timeline|first day of the Second Age]]. It is also why the map consists of so many islands and fractured lands.
 
 Originally, the moons would have lined up on the night of the party, but I needed it to happen sooner.
 

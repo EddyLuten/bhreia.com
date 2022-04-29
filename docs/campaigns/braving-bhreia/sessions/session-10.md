@@ -32,13 +32,13 @@ You arrived together on a small isle in the middle of a lake. The lake was clutt
 And that's where we left off.
 
 ??? danger "DM: Session Beats"
-    - Rhea runs, calls [Phidippus](../../adventures/dauriels-mansion/npcs/phidippus.md)
+    - Rhea runs, calls [[phidippus]]
       - DEX checks to overtake her in the spire
       - Phidippus will not come, he's busy
       - Rhea is crying throughout the whole battle, but can't stop
       - Her curse is making her fight
     - They make it up the spire
-      - They find Dauriel's [old crew](../../adventures/dauriels-mansion/organizations/aldarion-adventurers.md)
+      - They find Dauriel's [[aldarion-adventurers|old crew]]
       - petrified in obsidian stone
       - terrified looks
     - They enter the chamber atop the spire

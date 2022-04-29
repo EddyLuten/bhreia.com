@@ -17,7 +17,7 @@ But beware: choosing one of these Divine Manipulations will create an enternal b
 
 ### Child of Melora {:.stats}
 
-At your birth, [Melora](../deities/melora.md) imbued your spirit with a strong connection to the natural world.
+At your birth, [[melora]] imbued your spirit with a strong connection to the natural world.
 {:.stat}
 
 **Child of Nature.** You get a +1 to Nature (INT) skill checks and have Advantage on Nature skill checks while in the wilderness.
@@ -28,7 +28,7 @@ At your birth, [Melora](../deities/melora.md) imbued your spirit with a strong c
 
 ### Brother's Witness {:.stats}
 
-While he's a stranger to you, the [Brother](../deities/bhreias-brother.md)'s influence is strong while you're visible to him; and he's always watching.
+While he's a stranger to you, the [[brother]]'s influence is strong while you're visible to him; and he's always watching.
 {:.stat}
 
 **Watchful Eye.** (Darkvision) You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. *However*, you only have this ability while you retain visiblity to the sky. Once you can no longer see the sun or a moon, it takes five minutes for your darkvision to wear off.
@@ -39,7 +39,7 @@ While he's a stranger to you, the [Brother](../deities/bhreias-brother.md)'s inf
 
 ### Divine Harmony {:.stats}
 
-Some time during your life, you've produced a performance so beautiful that [Cauda](../deities/cauda.md) himself was moved to tears of joy. He decided to suffuse your soul into the divine harmony that binds him and his followers.
+Some time during your life, you've produced a performance so beautiful that [[cauda]] himself was moved to tears of joy. He decided to suffuse your soul into the divine harmony that binds him and his followers.
 {:.stat}
 
 **Harmonious Performance.** You get a +1 to Performance (CHA) skill checks and have Advantage on Performance skill checks in front of crowds of 10 or more people.
@@ -50,7 +50,7 @@ Some time during your life, you've produced a performance so beautiful that [Cau
 
 ### The Reaper {:.stats}
 
-Your skills in sending spirits to [Dhoutr's](../deities/dhoutr.md) realm have not gone unnoticed. The dark one's focus is upon you.
+Your skills in sending spirits to [[dhoutr]]'s realm have not gone unnoticed. The dark one's focus is upon you.
 {:.stat}
 
 **Soul Harvester.** After having given the final blows during combat to at least two creatures within a 24-hour period, Dhoutr encourages you to send him more souls by giving your a +1 bonus to Attack *and* Damage rolls for 12 hours.
@@ -61,7 +61,7 @@ Your skills in sending spirits to [Dhoutr's](../deities/dhoutr.md) realm have no
 
 ### Savior of Souls {:.stats}
 
-At some point in your past, your life was saved from certain death. [Primani](../deities/primani.md) wants to ensure that you no longer squander the soul they have graciously provided to you.
+At some point in your past, your life was saved from certain death. [[primani]] wants to ensure that you no longer squander the soul they have graciously provided to you.
 {:.stat}
 
 **Death Defier.** You have advantage on Death Saving throws.

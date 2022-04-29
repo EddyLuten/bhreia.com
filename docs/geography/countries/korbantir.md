@@ -28,7 +28,7 @@ Korban + PIE -*terə* (cross over, pass through, overcome). Meaning Korban's Cro
 
 ## History
 
-See also [Timeline](../../lore/timeline.md).
+See also [[timeline]].
 
 In the **First Age**, Korbantir was part of the Bhreia super-continent and primarily a home to a large variety of woodland creatures. Some of ancient forests still remain, but many have been cut down for timber over the years.
 

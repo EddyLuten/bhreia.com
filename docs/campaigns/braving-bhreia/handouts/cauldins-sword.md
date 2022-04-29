@@ -28,7 +28,7 @@ Upon handling this sword, you notice it seems to have been made for you. It woul
     The sword is clean and has absorbed all of the blood that was left on it.
 
 ??? danger "DM: Supplemental Facts"
-    - Version of the [Cauldin's Sword](../../items/cauldins-sword.md) item
+    - Version of the [[cauldins-sword]] item
     - Needs blood on a daily basis
     - It can be the player's blood
     - Player will take damage if the sword isn't fed

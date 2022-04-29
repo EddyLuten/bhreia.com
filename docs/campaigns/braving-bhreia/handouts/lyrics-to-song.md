@@ -5,7 +5,7 @@ categories:
 ---
 # Lyrics to the Song
 
-Sang on the first night by a Satyr in [Jonah's Denn](../../adventures/dauriels-mansion/places/jonahs-denn.md).
+Sang on the first night by a Satyr in [[jonahs-denn]].
 
 !!! cite
     The Age was young, but the evening grew long,  

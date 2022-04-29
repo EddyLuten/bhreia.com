@@ -14,7 +14,7 @@ categories:
   </figcaption>
 </figure>
 
-Campaign: [Braving Bhreia](../braving-bhreia.md)
+Campaign: [[braving-bhreia]]
 
 Played By: Joel
 

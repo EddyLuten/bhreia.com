@@ -24,4 +24,4 @@ With the treat eliminated, the goblins were asked about the Macoyii. They mentio
 Having taken some damage and in need of rest, you get back onto the road west, and head back to town.
 
 ??? danger "DM: Tiran Specific"
-    [Phidippus](../../adventures/dauriels-mansion/npcs/phidippus.md) owns the forge now, sold by the state. He lives nearby the old HQ.
+    [[phidippus]] owns the forge now, sold by the state. He lives nearby the old HQ.

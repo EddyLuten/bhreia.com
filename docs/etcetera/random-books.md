@@ -7,7 +7,7 @@ categories:
 # Random Books
 
 * Aldarion Unlimited: Adventurers or Colonizers?
-  * By Anonymous ([Dauriel Aldarion](../adventures/dauriels-mansion/npcs/dauriel-aldarion.md))
+  * By Anonymous ([[dauriel]])
 * The Founding of Korbantir
   * By Kolwyn Timms
 * Into the Wild: Korban's Collected Journals
@@ -25,7 +25,7 @@ categories:
 * Stray Love: The Cuniko Chronicles, Book III
   * By Tops Roverton
 * Exploring Korbantir's Wilderness
-  * By [Kvint Bernon](../adventures/dauriels-mansion/npcs/kvint-bernon.md)
+  * By [[kvint]]
 * Selling Furs for Fun and for Profit
   * By Ilsina Cutter
 * Bhreia's Worms: The Definitive Collection

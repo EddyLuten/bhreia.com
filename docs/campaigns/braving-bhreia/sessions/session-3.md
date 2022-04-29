@@ -36,6 +36,6 @@ After quick walk through town, they arrived at the front door where Borlok welco
 
     In the morning, **Borlok Orsell** appears at Jonah's Denn, talking with Rhea. He seems angry and upset. After **talking to Rhea**, he will go to the party and invite them all up to the mansion in the afternoon for a pre-party chat.
 
-    If Wolf wants to find the constable, he will find [Maniac](../../adventures/dauriels-mansion/npcs/maniac.md) in the market square **smoking one of his cigars**. Maniac will say he'll look into the highwaymen, but it's pretty obvious that he's in on at least part of the spoils.
+    If Wolf wants to find the constable, he will find [[maniac]] in the market square **smoking one of his cigars**. Maniac will say he'll look into the highwaymen, but it's pretty obvious that he's in on at least part of the spoils.
 
-    They can also get pickpocketed by [Mike Truk](../../adventures/dauriels-mansion/npcs/mike-truk.md) here and eventually meet Hurq.
+    They can also get pickpocketed by [[mike-truk]] here and eventually meet Hurq.

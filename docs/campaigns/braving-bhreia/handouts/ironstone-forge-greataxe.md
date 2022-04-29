@@ -1,4 +1,5 @@
 ---
+alias: ironstone-greataxe
 categories:
     - Braving Bhreia
     - Handouts
@@ -13,4 +14,4 @@ Forged in the fires of the [[ironstone-forge]] near Cauldin's Point, this Greata
 You have a +1 bonus to attack and damage rolls made with this weapon.
 
 ??? danger "DM: Supplemental Facts"
-    - Belonged to [Borlok](../../assets/json/borlok-orsel.json)
+    - Belonged to [Borlok](../../../assets/json/borlok-orsel.json)

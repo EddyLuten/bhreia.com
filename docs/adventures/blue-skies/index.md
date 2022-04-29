@@ -18,7 +18,7 @@ categories:
   </figcaption>
 </figure>
 
-This adventure is a direct follow up to [Dauriel's Mansion](../dauriels-mansion/index.md). The adventure starts at [[crater]], then shifts to [[rivoni]], crosses Taïni, and concludes in [[marram]].
+This adventure is a direct follow up to [[dauriels-mansion]]. The adventure starts at [[crater]], then shifts to [[rivoni]], crosses Taïni, and concludes in [[marram]].
 
 ## Acts
 
@@ -26,7 +26,7 @@ As per usual, the story breaks down into three distinct acts, with the second on
 
 ### Act I
 
-The adventurers return from their pocket dimension/inside the orb on the [7th of Lirrai, 3080](../../lore/timeline.md), exactly a year after the events that lead to Amalchi's ascension.
+The adventurers return from their pocket dimension/inside the orb on the [[timeline|7th of Lirrai, 3080]], exactly a year after the events that lead to Amalchi's ascension.
 
 - The sun is no longer moving in the sky; permanent noon.
 - People have mostly lost track of time.

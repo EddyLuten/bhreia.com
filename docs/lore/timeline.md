@@ -97,8 +97,8 @@ Important Dates:
     * 2674: Dauriel Aldarion arrives in Korbantir
     * 2691: [[au]] is founded
     * 2934: Founding of the [[ironstone-forge]] by the first Hanlar
-    * 2987: [Jonah Feldspar Sr.](../adventures/dauriels-mansion/places/jonahs-denn.md) is born
-    * 2994: [Grandpa Lenny](../adventures/dauriels-mansion/npcs/grandpa-lenny.md) is born
+    * 2987: [[jonahs-denn|Jonah Feldspar Sr.]] is born
+    * 2994: [[grandpa-lennt]] is born
 
     ## Fourth Age
 
@@ -107,9 +107,9 @@ Important Dates:
     * 3021: [[jonahs-denn]] opens
     * 3028: [[junior]] is born
     * 3037: [[rhea-feldspar]] is born
-    * 3044: 🔥 [Reincarnation of Amalchi](../adventures/dauriels-mansion/acts/act-1/dauriel-vs-amalchi.md) into Moreus and storing of Amalchi's essence into the orb by Dauriel Aldarion
+    * 3044: 🔥 [[dauriel-vs-amalchi|Reincarnation of Amalchi]] into Moreus and storing of Amalchi's essence into the orb by Dauriel Aldarion
     * 3044: Dauriel Aldarion soft-retires
-    * 3068: [Jonah Feldspar Sr.](../adventures/dauriels-mansion/places/jonahs-denn.md) dies
+    * 3068: [[jonahs-denn|Jonah Feldspar Sr.]] dies
     * 3086: Dauriel Aldarion officially retires, [[kvint]] becomes CEO of AU
     * 3078: [[hanlar]] dies at age 66
     * 3079, Lirrai 6th: [[dauriels-mansion|Dauriel's 462nd Birthday Party]] (35 years after Amalchi confrontation)

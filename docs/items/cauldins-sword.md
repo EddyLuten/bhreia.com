@@ -8,6 +8,6 @@ categories:
 
 --8<-- "spoiler.html"
 
-A cursed sword that can be found inside of [Cauldin's Tomb](../adventures/dauriels-mansion/places/cauldins-tomb.md).
+A cursed sword that can be found inside of [[cauldins-tomb]].
 
 TODO

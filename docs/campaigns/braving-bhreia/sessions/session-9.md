@@ -26,7 +26,7 @@ And that's where we left off.
 ??? danger "DM: Borlok & Sah-Sauj"
     Borlok will pull Sah-Sauj aside and tell him that:
 
-    - Says: He wouldn't have thought that someone like Sah-Sauj would be [_the fifth_](../../adventures/dauriels-mansion/organizations/cult-of-amalchi.md), but then again he doesn't get to chose who gets to remember His name
+    - Says: He wouldn't have thought that someone like Sah-Sauj would be [[amalchi-cult]], but then again he doesn't get to chose who gets to remember His name
     - Shows him his brand on the inside of his index finger, the dark eye of Amalchi
     - If Sah-Sauj doesn't spook him:
       - He will tell him that he thought and hoped Dauriel would have been the last

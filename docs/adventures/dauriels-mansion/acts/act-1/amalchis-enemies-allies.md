@@ -10,14 +10,16 @@ categories:
 
 ## Amalchi's Enemies
 
-* To an extent [Bhreia](../../../../deities/bhreia.md)
-* [Melora](../../../../deities/melora.md)
-* [Dauriel Aldarion](../../npcs/dauriel-aldarion.md)
+* To an extent [[bhreia]]
+* [[melora]]
+* [[dauriel]]
 * Eventually, the party
 
 ## Amalchi's Allies
 
 TODO
 
-* [Cult of Amalchi](../../organizations/cult-of-amalchi.md)
-  * [Rhea Feldspar](../../npcs/rhea-feldspar.md), Leader
+* [[amalchi-cult]]
+  * [[rhea-feldspar]], Leader
+  * [[borlok]]
+  * [[phidippus]]

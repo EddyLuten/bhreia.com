@@ -7,7 +7,7 @@ categories:
 ---
 # 🔐 Borlok's Letter
 
-Held in [Borlok's](../npcs/borlok-orsel.md) inventory.
+Held in [[borlok]]'s inventory.
 
 Folded and crumpled so many times that the ink has faded and the paper has turned soft.
 

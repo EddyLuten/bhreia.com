@@ -1,4 +1,5 @@
 ---
+alias: tomb-raiders
 categories:
     - DM Only
     - Dauriel's Mansion
@@ -10,12 +11,12 @@ categories:
 
 In a chamber below the statue of Cauldin of Leikon in the center of the town of Cauldin's Point lays the tomb of the man himself.
 
-Once completed, it opens up [Cauldin's Tomb](../places/cauldins-tomb.md).
+Once completed, it opens up [[cauldins-tomb]].
 
 ## Entry Points
 
-* By moving a large boulder off a hole in the basement of [Jonah's Denn](../places/jonahs-denn.md). If they flip the stone over, they can see the five-pointed star of the demon in the statue at Jonah's Denn.
-* By following a natural cave system into a hand-carved tunnel and stairs from a cave mouth north of town. This is the cave that [Mike Truk](../npcs/mike-truk.md) and his gang inhabit.
+* By moving a large boulder off a hole in the basement of [[jonahs-denn]]. If they flip the stone over, they can see the five-pointed star of the demon in the statue at Jonah's Denn.
+* By following a natural cave system into a hand-carved tunnel and stairs from a cave mouth north of town. This is the cave that [[mike-truk]] and his gang inhabit.
 
 After a long walk through pitch black darkness, they all lead to the same place, a wide stone door.
 
@@ -26,7 +27,7 @@ After a long walk through pitch black darkness, they all lead to the same place,
 
 **DC 13 Perception** reveals that this is the face of Cauldin of Leikon, the same face of that of the statue at the center of town.
 
-**DC 17 Perception** reveals that there are thin lines carved into a pentagram shape bisecting the face. At the center is an eye. This carving seems to have been made later and it's the symbol of [Amalchi](../../../deities/amalchi.md).
+**DC 17 Perception** reveals that there are thin lines carved into a pentagram shape bisecting the face. At the center is an eye. This carving seems to have been made later and it's the symbol of [[amalchi]].
 
 **DC 15 Arcana** reveals that the door has been infused with a spell that has locked this place with a password. It's [Arcane Lock](https://roll20.net/compendium/dnd5e/Arcane%20Lock) and follows its rules.
 
@@ -55,4 +56,4 @@ On the second error:
 
 On the final wrong attempt loud pops can be heard as the door and the tomb behind it crumble to the ground and have been completely and irrevocably destroyed. In the market square, the pedestal and raised platform on which the statue of Cauldin stand fall to the ground in what appears to be a sinkhole.
 
-On a success, the doors will open and reveal [Cauldin's Tomb](../places/cauldins-tomb.md).
+On a success, the doors will open and reveal [[cauldins-tomb]].

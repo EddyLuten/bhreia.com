@@ -12,13 +12,12 @@ categories:
 
 ## Required Reading
 
-* [Timeline](../../../../lore/timeline.md)
-* [Amalchi](../../../../deities/amalchi.md) / [Moreus](../../npcs/moreus.md)
-* [Dauriel Aldarion](../../npcs/dauriel-aldarion.md)
+* [[timeline]]
+* [[amalchi]] / [[moreus]]
+* [[dauriel]]
 
 ## Act Index
 
-* [Overview](index.md)
 * [Connections](connections.md)
 * [Dauriel vs. Amalchi](dauriel-vs-amalchi.md)
 * [Amalchi's Motivations](amalchis-motivations.md)
@@ -27,8 +26,8 @@ categories:
 
 ## Potential Sidequests
 
-* [Tomb Raiders](../../sidequests/tomb-raiders.md) - Opening the door to Cauldin's Tomb
-* [Grandpa's Boy](../../sidequests/grandpas-boy.md) - Grandpa Lenny's weird grandson
-* [Liquid Life](../../sidequests/liquid-life.md) - Saving a dying man
-* [The Cave](../../sidequests/the-cave.md) - Getting robbed by kids
-* [Ghosts Eat Ghosts](../../sidequests/ghosts-eat-ghosts.md) - Saving a ghost child
+* [[tomb-raiders]] - Opening the door to Cauldin's Tomb
+* [[grandpas-boy]] - Grandpa Lenny's weird grandson
+* [[liquid-life]] - Saving a dying woman
+* [[the-cave]] - Getting robbed by kids
+* [[ghosts-eat]] - Saving a ghost child

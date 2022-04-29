@@ -19,13 +19,13 @@ categories:
   </figcaption>
 </figure>
 
-A demonic spirit inhabiting a small onyx statue in Jonah's Denn. It is the spirit of [Dhoutr](../../../deities/dhoutr.md) who communicates with whoever is the owner of the statue of the time in a clandestine attempt to influence the world. It goal is to help its father/creator, [Amalchi](../../../deities/amalchi.md) reincarnate into the world and is the cause of the existence of [The Cult of Amalchi](../organizations/cult-of-amalchi.md).
+A demonic spirit inhabiting a small onyx statue in Jonah's Denn. It is the spirit of [[dhoutr]] who communicates with whoever is the owner of the statue of the time in a clandestine attempt to influence the world. It goal is to help its father/creator, [[amalchi]] reincarnate into the world and is the cause of the existence of [[amalchi-cult]].
 
 ## Appearance
 
 The statue is a small bust of a creature with nubby horns on its head, its race is not known. What is also unknown is whom this likeness was modeled after.
 
-It is placed on a wooden plinth, which seems to be a recent addition. A **DC 10 Investigation** check reveals the [five-pointed star of Amalchi](../../../deities/amalchi.md) inscribed on the bottom of the plinth.
+It is placed on a wooden plinth, which seems to be a recent addition. A **DC 10 Investigation** check reveals the [[amalchi|five-pointed star of Amalchi]] inscribed on the bottom of the plinth.
 
 TODO: expound and check into "Succubus" (maybe? or homebrew) in the Monster Manual.
 
@@ -35,7 +35,7 @@ On the eve of the Second Age when Dhoutr was born, he took his time to enter Bhr
 
 ## Jonah's Demon Statue {: .stats }
 
-**Possession:** [Rhea Feldspar](rhea-feldspar.md)
+**Possession:** [[rhea-feldspar]]
 {: .stat}
 
 **Age:** Created on the eve of the Second Age, so approximately 2,000 (**DC 18 History**) years old. Though a range of 1,500 - 2,000 years old could be provided for lower rolls.

@@ -38,4 +38,4 @@ From PIE root bʰreg-, meaning *broken*.
 
 ## See Also
 
-* [Timeline](../lore/timeline.md)
+* [[timeline]]

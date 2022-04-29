@@ -1,4 +1,5 @@
 ---
+alias: the-mansion
 categories:
     - DM Only
     - Dauriel's Mansion
@@ -8,15 +9,15 @@ categories:
 
 --8<-- "spoiler.html"
 
-Located about half a mile north-east of [Cauldin's Point](../../../geography/settlements/cauldins-point.md).
+Located about half a mile north-east of [[cauldins-point]].
 
 ## People
 
 The following people are always present in the mansion.
 
-* [Dauriel Aldarion](../npcs/dauriel-aldarion.md)
-* [Moreus](../npcs/moreus.md)
-* [Borlok Orsell](../npcs/borlok-orsel.md)
+* [[dauriel]]
+* [[moreus]]
+* [[borlok]]
 * Labasque Pertre
   * Chef, a great one
   * Human male from Parlina
@@ -87,7 +88,7 @@ Used for official business, close to the front-door and lobby.
 
 * A monstrously large wooden desk with a large executive type leather chair behind it
 * Two smaller leather chairs on the guest side of the desk
-* A large painting of the [Aldarion Adventurers](../organizations/aldarion-adventurers.md) hangs on the eastern wall
+* A large painting of the [[aldarion-adventurers]] hangs on the eastern wall
 * A body-sized mirror on the northern wall
   * If the players look in it, they see the ghost of a woman tidy their clothes and fix up their appearance. Though the ghost is not visible in the room, the effects of her behavior are real and they can feel her. The ghost is bound to the mirror. Not saying "thank you" will cause the ghost to scratch the player with her fingernails for 1 point of slashing damage.
 
@@ -143,7 +144,7 @@ A large two-story library bisected by a knee wall that also serves as a trophy r
 
 **Items:**
 
-* A massive amount of books (see: [random books](../../../etcetera/random-books.md))
+* A massive amount of books (see: [[random-books]])
 * A large painting displaying the initial formation of Aldarion Unlimited
 * Trophies
   * A stuffed owlbear on a pedestal, parts of it encrusted with obsidian.

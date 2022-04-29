@@ -88,7 +88,7 @@ It's a two bedroom house, with two stories. There's a small vegetable garden out
   - A box of old cigars, two bottles of wine
     - One of the cigars is a metal tube containing the key to the chest
   - A giant wooden chest, locked and secured with thick iron straps 2️⃣
-  - [A framed newspaper clipping](../handouts/hanlar-phidippus-incident.md)
+  - [[hanlar-phidippus|A framed newspaper clipping]]
 - Pantry
   - Stocked with food
 - Washing area (located under the lean-to)
@@ -123,8 +123,8 @@ This is a long term quest that can't be solved on the premises.
 - OR find the key in Hanlar's office
 - Contains:
   - A small pouch filled with gold. 1500gp in total
-  - [Old letters from Dauriel Aldarion to Hanlar](../handouts/dauriels-letters.md)
-  - In the very bottom [an unsent letter to Sophia](../handouts/hanlars-letter.md)
+  - [[dauriels-letters|Old letters from Dauriel Aldarion to Hanlar]]
+  - In the very bottom [[sophias-letter|an unsent letter to Sophia]]
 
 #### 3️⃣ Glass tubing
 

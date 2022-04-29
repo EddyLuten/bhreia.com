@@ -1,4 +1,5 @@
 ---
+alias: mansion-hooks
 categories:
     - DM Only
     - Story
@@ -15,7 +16,7 @@ It is possible to combine or even run all of these hooks simultaneously.
 !!! info
     Use this hook if the players agree to having known Dauriel Aldarion in some way, significant or in passing. They would have to incorporate into their bio a reason why Dauriel would be interested in them.
 
-The adventurers [receive invitations](../../handouts/dauriels-invitation.md) to Dauriel’s 462nd birthday party. Dauriel is a retired adventurer, an elf, grown rich off his very successful exploits and settled down to live out the remainder of his life with his husband in Cauldin’s Point.
+The adventurers [[dauriels-invitation|receive invitations]] to Dauriel’s 462nd birthday party. Dauriel is a retired adventurer, an elf, grown rich off his very successful exploits and settled down to live out the remainder of his life with his husband in Cauldin’s Point.
 
 ### Outside of Town
 
@@ -32,11 +33,11 @@ Intro Blurb:
 > Here you are **PLAYER**. In the rain, on this muddy road.  
 > What are you doing?
 
-Ahead, through the pouring rain, they can make out the outline of the wooden walls surrounding [Cauldin's Point](../../../../geography/settlements/cauldins-point.md) and the light and chimney smoke from an inn on the left side of the road, right outside of town.
+Ahead, through the pouring rain, they can make out the outline of the wooden walls surrounding [[cauldins-point]] and the light and chimney smoke from an inn on the left side of the road, right outside of town.
 
 ### Arriving at the Inn
 
-The adventurers arrive the evening before at [the inn](../../places/jonahs-denn.md) right outside the town of Cauldin’s Point, where Dauriel’s mansion is located. Upon showing the invitation, their host takes them to a backroom reserved by Dauriel Aldarion where they can all meet up.
+The adventurers arrive the evening before at [[jonahs-denn|the inn]] right outside the town of Cauldin’s Point, where Dauriel’s mansion is located. Upon showing the invitation, their host takes them to a backroom reserved by Dauriel Aldarion where they can all meet up.
 
 Once situated, a Satyr bard knocks on the door and enters. He says his name is **Aduac**, which is the reverse of Cauda. He offers them a song on his lyre, he says he's not much of a talker. If they agree to hear it, they hear the following tune:
 
@@ -79,15 +80,15 @@ Dauriel calls the adventurers into his office the afternoon before the party and
 The adventure cue that he gives them:
 
 !!! info "Dauriel's Cue"
-    Atrocities against the Tabaxi in [Marram](../../../../geography/countries/marram.md) must be investigated and uncovered. Evidence must be collected, presented, and subsequently Aldarion Unlimited must be stopped from continuing as an entity. I implore you to set sail from [[korbans-landing]] to Rivoni Springs. From there, travel through The Passage along the East Coast of Taini all the way north to Marram. My informant tells me of an Aldarion Unlimited outpost west of Beteb where the hunts are being staged. After my birthday party, I will provide you with the funding and connections required to make this work.
+    Atrocities against the Tabaxi in [[marram]] must be investigated and uncovered. Evidence must be collected, presented, and subsequently Aldarion Unlimited must be stopped from continuing as an entity. I implore you to set sail from [[korbans-landing]] to Rivoni Springs. From there, travel through The Passage along the East Coast of Taini all the way north to Marram. My informant tells me of an Aldarion Unlimited outpost west of Beteb where the hunts are being staged. After my birthday party, I will provide you with the funding and connections required to make this work.
 
-If accepted, the party can spend an hour traveling west to [Dauriel's original adventuring headquarters](../../places/au-original-hq.md), now abandoned, which they can take over. Here they can find a map of Marram, left there by Dauriel ages ago. Here they can stay indefinitely and outside of Cauldin's Point.
+If accepted, the party can spend an hour traveling west to [[original-hq|Dauriel's original adventuring headquarters]], now abandoned, which they can take over. Here they can find a map of Marram, left there by Dauriel ages ago. Here they can stay indefinitely and outside of Cauldin's Point.
 
 If not accepted, the party can spend the day in town to get some supplies, establish background, and RP — or skip straight to the birthday party.
 
 ## Busting Ghosts (Optional Hook)
 
 !!! info
-    Use this if your characters are simply staying the night at [Jonah's Denn](../../places/jonahs-denn.md) while passing through the region.
+    Use this if your characters are simply staying the night at [[jonahs-denn]] while passing through the region.
 
-Staying at Jonah's Denn triggers the [Ghosts Eat Ghosts](../../sidequests/ghosts-eat-ghosts.md) side-quest, which upon completion may draw the attention of Dauriel Aldarion. He will then present them with invitations, which would trigger the default hook. Staying at the inn may also present hints of Amalchi, which could lead in a roundabout way to Dauriel Aldarion.
+Staying at Jonah's Denn triggers the [[ghosts-eat]] side-quest, which upon completion may draw the attention of Dauriel Aldarion. He will then present them with invitations, which would trigger the default hook. Staying at the inn may also present hints of Amalchi, which could lead in a roundabout way to Dauriel Aldarion.

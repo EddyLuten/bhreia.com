@@ -9,7 +9,7 @@ categories:
 ---
 # Aldarion Unlimited
 
-Adventuring company founded by [Dauriel Aldarion](../npcs/dauriel-aldarion.md).
+Adventuring company founded by [[dauriel]].
 
 *Excerpted from a speech given by Fergand Tos, mayor of Donitar, while handing the keys to the city to Kvint Bernon, president of Aldarion Unlimited on Nerrulox 14, 3076.*
 
@@ -37,12 +37,12 @@ Aldarion Unlimited is a multinational adventuring company headquartered in Donit
 
 After Dauriel Aldarion's retirement, the day to day leadership was passed on to his second in command, Kvint Bernon, who has grown the company significantly. The depth and breadth of services offered under his leadership has caused a massive growth in both profitability as well as locations. There are franchises in most civilized countries and outposts in places as far away as Onoctux.
 
-While the company was founded on the premise of adventure and services for hire, more and more it focuses on resource trading and securing territory. Some have criticized what they see as colonizing tendencies, most notably the widely read "Aldarion Unlimited: Adventurers or Colonizers?" published anonymously by Agadou Press. It mentions specifically the outpost in [Marram](../../../geography/countries/marram.md) where Tabaxi are being hunted to extinction by Aldarion Unlimited's hired guns. The company has yet to respond to any allegations of misconduct and continues its operations around the world.
+While the company was founded on the premise of adventure and services for hire, more and more it focuses on resource trading and securing territory. Some have criticized what they see as colonizing tendencies, most notably the widely read "Aldarion Unlimited: Adventurers or Colonizers?" published anonymously by Agadou Press. It mentions specifically the outpost in [[marram]] where Tabaxi are being hunted to extinction by Aldarion Unlimited's hired guns. The company has yet to respond to any allegations of misconduct and continues its operations around the world.
 
 ??? danger "DM: Supplemental Facts"
     * Dauriel isn't happy with how Kvint run the company.
 
 ## See Also
 
-* [Dauriel Aldarion](../npcs/dauriel-aldarion.md)
-* [Kvint Bernon](../npcs/kvint-bernon.md)
+* [[dauriel]]
+* [[kvint]]

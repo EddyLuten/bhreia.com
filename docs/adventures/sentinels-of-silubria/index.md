@@ -6,6 +6,9 @@ categories:
 ---
 # The Sentinels of Silubria
 
+!!! info
+    This page is a high-level overview specifically for players.
+
 !!! warning
     Subject to change, art is a placeholder.
 

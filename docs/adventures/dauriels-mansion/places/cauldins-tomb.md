@@ -1,4 +1,5 @@
 ---
+alias: cauldins-tomb
 categories:
     - DM Only
     - Dauriel's Mansion
@@ -18,9 +19,9 @@ categories:
   </figcaption>
 </figure>
 
-The quest that leads here is [Tomb Raiders](../sidequests/tomb-raiders.md).
+The quest that leads here is [[tomb-raiders]].
 
-Cauldin's Tomb has been repurposed by the [Cult of Amalchi](../organizations/cult-of-amalchi.md) as a sacrificial site. They perform blood sacrifices here to Amalchi and transport the blood down the holes in the floor to the subterranean complex below where the blood is stored in massive barrels. The presence of a powerful spirit is useful to them as it focuses the life force present in the blood.
+Cauldin's Tomb has been repurposed by the [[amalchi-cult]] as a sacrificial site. They perform blood sacrifices here to Amalchi and transport the blood down the holes in the floor to the subterranean complex below where the blood is stored in massive barrels. The presence of a powerful spirit is useful to them as it focuses the life force present in the blood.
 
 Someone who knows the password (by definition a descendent of Cauldin) has provided it to these cultists. While Cauldin's tomb itself has not been disturbed, his spirit is unhappy with these interlopers.
 
@@ -30,7 +31,7 @@ Someone who knows the password (by definition a descendent of Cauldin) has provi
   * Inscribed in an older form of common: "Here lies Cauldin of Leikon, brother of all men"
   * Within:
     * The corpse of Cauldin of Leikon, a dusty skeleton
-    * [Cauldin's Sword](../../../items/cauldins-sword.md), a cursed magical sword containing the soul of the man. It is not cursed to descendents of Cauldin.
+    * [[cauldins-sword]], a cursed magical sword containing the soul of the man. It is not cursed to descendents of Cauldin.
 * Two chests along the northern wall
   * Left one - looks more recent
     * Five light blue robes
@@ -40,8 +41,8 @@ Someone who knows the password (by definition a descendent of Cauldin) has provi
       * 30 gold pieces inscribed with the visage of Korban.
       * 100 silver pieces inscribed with the visage of Cauldin of Leikon himself.
       * 500 copper pieces inscribed with the visage of Donitar of Leikon.
-    * A binder of parchment containing rough sketches of people and locations. There's no name or signature on them, but it's implied that they're [Cauldin's Sketches](../../../items/cauldins-sketches.md).
-    * [Cauldin's Journal](../../../items/cauldins-journal.md), bound in a leather cover and wrapped in straps connected by a a brass seal. This was meant to die with him, not read. However, it can be opened and translated into modern the modern common language a the rate of one page per day.
+    * A binder of parchment containing rough sketches of people and locations. There's no name or signature on them, but it's implied that they're [[cauldins-sketches]].
+    * [[cauldins-journal]], bound in a leather cover and wrapped in straps connected by a a brass seal. This was meant to die with him, not read. However, it can be opened and translated into modern the modern common language a the rate of one page per day.
 * Five holes in the floor, caked with blood, quite fresh
   * It looks like the blood is less than a week old
   * There are layers of old caked-on blood going back a long time

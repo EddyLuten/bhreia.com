@@ -1,4 +1,5 @@
 ---
+alias: marram-map-partial
 categories:
     - Braving Bhreia
     - Handouts
@@ -16,4 +17,4 @@ categories:
   </figcaption>
 </figure>
 
-A partial map of [Marram](../../geography/countries/marram.md) found in a footlocker in the old [Aldarion Adventurers](../../adventures/dauriels-mansion/organizations/aldarion-adventurers.md) HQ, now occupied by a family of goblins.
+A partial map of [[marram]] found in a footlocker in the old [[aldarion-adventurers]] HQ, now occupied by a family of goblins.

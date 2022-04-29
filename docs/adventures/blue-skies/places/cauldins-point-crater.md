@@ -19,7 +19,7 @@ categories:
   </figcaption>
 </figure>
 
-Where [[cauldins-point]] used to be before the conclusion of [Dauriel's Mansion](../../dauriels-mansion/index.md).
+Where [[cauldins-point]] used to be before the conclusion of [[dauriels-mansion]].
 
 The entire town has disappeared, around a thousand souls are dead or missing.
 

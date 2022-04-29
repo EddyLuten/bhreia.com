@@ -1,4 +1,5 @@
 ---
+alias: lesser-ghost
 categories:
     - Creatures
 ---

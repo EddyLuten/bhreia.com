@@ -16,7 +16,7 @@ categories:
   </figcaption>
 </figure>
 
-A Kenku inhabitant of [Cauldin's Point](../../../geography/settlements/cauldins-point.md) who is responsible for (or at least has started to on his own) *collecting* trash in town.
+A Kenku inhabitant of [[cauldins-point]] who is responsible for (or at least has started to on his own) *collecting* trash in town.
 
 ??? danger "DM: Supplemental Facts"
     ## Lexicon
@@ -45,9 +45,9 @@ A Kenku inhabitant of [Cauldin's Point](../../../geography/settlements/cauldins-
     The pit is located in the ancient forest southwest of town and with some extensive searching, some interesting items can be found there (**Investigation Check** DCs listed below):
 
     * (15) A **Bag of Holding** filled with human bones hidden under a rock mixed in with the trash:
-      * The bones belong to the blood sacrifices made by the [Cult of Amalchi](../organizations/cult-of-amalchi.md)
+      * The bones belong to the blood sacrifices made by the [[amalchi-cult]]
       * The bones are a variety of old and new bones
     * (13) A **Pole of Collapsing** (Witchlight pg. 212)
     * (10) An **Orb of Direction** (Witchlight pg. 212)
-    * (12) A vial of [**Lesser Grungine**](../../../items/grungine.md)
+    * (12) A vial of [[grungine|**Lesser Grungine**]]
     * (7) A **Rusted Shortsword** same stats as a regular shortsword, but must make a DC 15 Dexterity Saving throw after each use to prevent it from disintegrating.

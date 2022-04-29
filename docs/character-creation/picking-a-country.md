@@ -33,7 +33,7 @@ Just because your race is not listed under a country entry, does not mean that y
   - Goblin (*Scourge*)
   - Human (Minority)
   - Satyr (Minority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
 - Basha
   - Dragonborn (Majority)
   - Orc (Minority)
@@ -43,16 +43,16 @@ Just because your race is not listed under a country entry, does not mean that y
   - Lizardfolk (Minority, tribes)
   - Kobold (Minority, tribes)
   - Human (Minority, tribes)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
 - Cuaña
   - Human (Majority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
   - Halfling (Minority)
   - Satyr (Minority)
 - Darvia
   - Elf (Majority), no Drow
   - Bugbear (*Scourge*)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
   - Firbolg (Minority)
   - Lizardfolk (Minority)
 - Dorr
@@ -61,7 +61,7 @@ Just because your race is not listed under a country entry, does not mean that y
   - Kobold (*Scourge*)
 - Finippicay
   - Dragonborn (Majority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
   - Tabaxi (Minority)
   - Human (Minority)
   - Yuan-Ti (Minority)
@@ -70,31 +70,31 @@ Just because your race is not listed under a country entry, does not mean that y
   - *Indiscriminate*, but founded as a haven for those less aligned with the rule of law.
 - Garrenor
   - Gnome (Majority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
   - Human (Minority, *Scourge*)
 - Groff
   - Human (Majority)
   - Orc (Minority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
 - High Maris
   - Human (Majority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
 - Ilminor
   - Aasimar (Majority)
   - Tiefling (Minority, *Scourge*)
-- [Korbantir](../geography/countries/korbantir.md)
+- [[korbantir]]
   - Human (Majority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
   - Elf (Minority)
   - Dwarf (Minority)
   - Aasimar (Minority)
   - Satyr (Minority)
 - Low Maris
   - Human (Majority)
-  - [Cuniko](cuniko.md) (Minority)
-- [Marram](../geography/countries/marram.md)
+  - [[cuniko]] (Minority)
+- [[marram]]
   - Human (Majority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
   - Genasi (Minority)
   - Tabaxi (Minority)
 - Mennitonough
@@ -111,7 +111,7 @@ Just because your race is not listed under a country entry, does not mean that y
 - Netherwood
   - Human (Majority)
   - Elf (Minority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
   - Firbolg (Minority)
   - Satyr (Minority)
 - Northern Untamed Wilderness
@@ -126,13 +126,13 @@ Just because your race is not listed under a country entry, does not mean that y
   - Human (Majority, shared)
   - Elf (Majority, shared)
   - Satyr (Minority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
 - The Passage
   - Genasi (Majority)
   - Lizardfolk (Minority, tribes)
   - Kobold (Minority, tribes)
   - Human (Minority, tribes)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
 - Pirinão
   - Leonin (Majority)
   - Yuan-Ti (Minority)
@@ -140,7 +140,7 @@ Just because your race is not listed under a country entry, does not mean that y
 - [[rivoni]]
   - Human (Majority)
   - Genasi (Minority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
   - Leonin (Minority *Scourges*)
 - The Rotten Tundra
   - Unknown
@@ -149,18 +149,18 @@ Just because your race is not listed under a country entry, does not mean that y
 - [[silubria]]
   - Most races, but mainly:
   - Human and Elves, shared Majority
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
   - Genasi (Minority)
 - Taïni
   - Human (Majority), but only around the Ganaroum-Bak oasis. See Cintiwero Desert and The Passage for more.
   - Lizardfolk (Minority)
   - Kenku (Minority, *Scourge*)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
 - The Untamed Wilds
   - Orcs (Majority)
   - Humans (Minority)
   - Lizardfolk (Minority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
 - Vos'Amin
   - Solely Drow
 - Yersh
@@ -172,7 +172,7 @@ Just because your race is not listed under a country entry, does not mean that y
   - Halfling (Majority)
   - Human (Minority)
   - Orc (Minority)
-  - [Cuniko](cuniko.md) (Minority)
+  - [[cuniko]] (Minority)
   - Bugbear (*Scourge*)
   - Goblin (*Scourge*)
 
@@ -180,7 +180,7 @@ Just because your race is not listed under a country entry, does not mean that y
 
 The following races are part of the Bhreia setting, the country names in parentheses are the countries where this race is a majority race:
 
-- [Cuniko](cuniko.md)
+- [[cuniko]]
 
 The following races are all those found in the Player's Handbook as well as Volo's Guide to Monsters.
 

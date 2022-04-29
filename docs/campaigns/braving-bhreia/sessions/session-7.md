@@ -90,7 +90,7 @@ Borlok and Wolf carry the unconscious Dauriel and lays him on a couch in the dra
       - If he lives, he could recognize Rhea
     - The grungs are all gone too.
     - Oona gave them their sleeping tea
-    - He's not feeling good ([addicted](../../items/grungine.md))
+    - He's not feeling good ([[grungine|addicted]])
 
 ??? danger "DM: Oona and Yanneck"
     Oona and her father can be found getting ready to leave town

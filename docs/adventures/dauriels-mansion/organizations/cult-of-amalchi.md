@@ -9,19 +9,19 @@ categories:
 
 --8<-- "spoiler.html"
 
-A cult that occasionally convenes in [Cauldin's Point](../../../geography/settlements/cauldins-point.md) to perform a ritual sacrifice in order to worship and reincarnate [Amalchi](../../../deities/amalchi.md).
+A cult that occasionally convenes in [[cauldins-point]] to perform a ritual sacrifice in order to worship and reincarnate [[amalchi]].
 
 ## Members
 
 There are five members currently active in or around Cauldin's Point.
 
-**Leader (The Mother):** [Rhea Feldspar](../npcs/rhea-feldspar.md) - cursed, actions are performed without any input of her own. She's a vessel of [Dhoutr](../../../deities/dhoutr.md), creation/son of Amalchi.
+**Leader (The Mother):** [[rhea-feldspar]] - cursed, actions are performed without any input of her own. She's a vessel of [[dhoutr]], creation/son of Amalchi.
 
-**Captain (The Believer):** [Borlok Orsell](../npcs/borlok-orsel.md) - loyal to Dauriel and Moreus, but only because he knows that Moreus is the vessel and wants to keep him safe until Amalchi reappears.
+**Captain (The Believer):** [[borlok]] - loyal to Dauriel and Moreus, but only because he knows that Moreus is the vessel and wants to keep him safe until Amalchi reappears.
 
-**Sage (The Dying):** [Phidippus](../npcs/phidippus.md) - gets pregnant Macoyii to sacrifice and handles any magic that needs to be performed.
+**Sage (The Dying):** [[phidippus]] - gets pregnant Macoyii to sacrifice and handles any magic that needs to be performed.
 
-**Vessel (The Innocent):** [Moreus](../npcs/moreus.md) - occasionally goes into a trance-like state and, under the influence of Amalchi, participates in sacrifices.
+**Vessel (The Innocent):** [[moreus]] - occasionally goes into a trance-like state and, under the influence of Amalchi, participates in sacrifices.
 
 **Sacrifice (The Potential):** one of the adventuring party.
 
@@ -43,7 +43,7 @@ So, the symbol of Amalchi without the pentagram.
 
 ## The Ritual Sacrifice
 
-The ritual performed at [Cauldin's Tomb](../places/cauldins-tomb.md) requires five simultaneous blood sacrifices in order of innocence:
+The ritual performed at [[cauldins-tomb]] requires five simultaneous blood sacrifices in order of innocence:
 
 * **The Potential:** the blood of a miscarriage or aborted fetus. Generally cut from the Mother (see below) or through an induced abortion. Sometimes, if there are no targets, they will use the unborn of animals.
 * **The Innocent:** the blood of a young child. This involves the sacrifice of a child, a soul uncorrupted by the sins of the world.

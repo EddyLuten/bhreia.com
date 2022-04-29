@@ -25,7 +25,7 @@ Primani is the primordial goddess responsible for filling the world with all of 
 
     Hidden Children:
 
-    - [Cauda](cauda.md) with [Dhoutr](dhoutr.md).
+    - [[cauda]] with [[dhoutr]].
 
 ## Etymology (Meta)
 
@@ -33,4 +33,4 @@ From Latin *primus* (before, first), and *animus* (breath, life), meaning first 
 
 ## See Also
 
-- [Timeline](../lore/timeline.md)
+- [[timeline]]

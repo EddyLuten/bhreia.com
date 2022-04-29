@@ -30,7 +30,7 @@ There's a board with the names of those still missing, names scratched off are c
 - [[dauriel]]. Contact: [[weslan]]
 - [[moreus]]. Contact: [[weslan]]
 - ~~Grottle~~
-- [Toddwyn Marshall](../../dauriels-mansion/npcs/maniac.md)
+- [[maniac|Toddwyn Marshall]]
 - Rufus Hardy III. Contact: Anna Hardy
 - ~~Seamus Freeney~~ Contact: Cpt. James Freeney
 - [[borlok]]
@@ -120,7 +120,7 @@ She will recognize [[sah-sauj]] from the day of the disaster, but not the others
 
 If he trusts them and the gang can convince him that [[londrina]]'s misgivings about [[sah-sauj]] are unfounded, he will offer them:
 
-- A job for gold: [Dr. Malchi, I Presume?](../sidequests/dr-malchi-i-presume.md)
+- A job for gold: [[dr-malchi]]
 - A complete map of [[marram]] created by [[au]]
 
 ## Leaving the Camp

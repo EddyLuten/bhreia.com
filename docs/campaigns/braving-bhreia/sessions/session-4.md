@@ -22,9 +22,9 @@ Now, loaded with new information, you set on your way to check out your new prop
 Tiran disguised himself as a Goblin, a tall one, and went to knock on the front door.
 
 ??? danger "DM: Session Plan"
-    Moreus is on his way to town to get stuff for the party, but hugs **Wolf** as he enters. Tells them that Dauriel is in the [**Conservatory**](../../adventures/dauriels-mansion/places/the-mansion.md).
+    Moreus is on his way to town to get stuff for the party, but hugs **Wolf** as he enters. Tells them that Dauriel is in the [[the-mansion|**Conservatory**]].
 
-    Dauriel will tell him about his plans ([see business opportunity hook](../../adventures/dauriels-mansion/acts/act-1/adventure-hooks.md)) to fund their adventures and hand them the keys to [his old place](../../adventures/dauriels-mansion/places/au-original-hq.md) outside of town.
+    Dauriel will tell him about his plans ([[mansion-hooks|see business opportunity hook]]) to fund their adventures and hand them the keys to [[original-hq|his old place]] outside of town.
 
     They have another full day to explore before the party starts.
 
@@ -32,5 +32,5 @@ Tiran disguised himself as a Goblin, a tall one, and went to knock on the front 
     - **Wolf**: Cigars isn't the only reason he was invited, Dauriel needs a trusted and established presence in the group, and also needs someone who knows the area to find the original HQ.
     - **Sah-Sauj**: Phidippus will not be happy with his invitation being stolen. Don't bring it up if you meet him.
     - **Gadot**: Your father (**Phillipe J'Dogeaux**) is working as an infiltrator for Dauriel and has confirmed the atrocities against the Tabaxi people in Marram. He should be heading back within the month and recommended Gadot for the job.
-    - **Tiran**: [Phidippus](../../adventures/dauriels-mansion/npcs/phidippus.md) owns the forge now, sold by the state. He lives nearby the old HQ.
+    - **Tiran**: [[phidippus]] owns the forge now, sold by the state. He lives nearby the old HQ.
     - **Pasha**: Is a witness to an atrocity and personally affected by it. Dauriel needs Pasha as a guide for the eastern lands.
