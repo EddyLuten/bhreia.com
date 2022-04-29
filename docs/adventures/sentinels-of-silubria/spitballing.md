@@ -17,6 +17,8 @@ The king and his two wives will be introduced to them by the king's wizard and a
 
 The wizard is an agent of [[urlac]], and the eye visible in the wand is that of Urlac.
 
+The wizard opens and closes portals to locations where the party is needed to act. Once the deeds are complete, the portal appears again.
+
 ## Story Arc
 
 Act I:

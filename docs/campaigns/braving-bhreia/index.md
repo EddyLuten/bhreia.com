@@ -1,6 +1,7 @@
 ---
 alias: braving-bhreia
 categories:
+    - Campaigns
     - Braving Bhreia
 ---
 # Braving Bhreia

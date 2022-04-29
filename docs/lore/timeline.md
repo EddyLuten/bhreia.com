@@ -98,7 +98,7 @@ Important Dates:
     * 2691: [[au]] is founded
     * 2934: Founding of the [[ironstone-forge]] by the first Hanlar
     * 2987: [[jonahs-denn|Jonah Feldspar Sr.]] is born
-    * 2994: [[grandpa-lennt]] is born
+    * 2994: [[grandpa-lenny]] is born
 
     ## Fourth Age
 
