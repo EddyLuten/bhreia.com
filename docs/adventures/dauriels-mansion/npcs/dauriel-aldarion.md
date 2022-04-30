@@ -1,5 +1,7 @@
 ---
-alias: dauriel
+alias:
+  - dauriel
+  - dauriel-aldarion
 categories:
     - Dauriel's Mansion
     - NPCs
@@ -27,7 +29,7 @@ Born into the lower rungs of Elven society and doomed by birth class to a life o
 
 Though, it was difficult for him to find his place in a mostly human society, which forced him to take odd jobs; those jobs that humans deemed unskilled or too dangerous. By eradicating a pack of goblins here, finding lost objects there, and ridding a town of wolves yonder, Dauriel was able to establish a name for himself as an adventurer and soon found himself the head of a highly paid work-for-hire adventurer’s company.
 
-This company, Aldarion Unlimited, still exists and Dauriel acts as an advisor and board member while other, younger, adventurers perform the hard work.
+This company, [[au]], still exists and Dauriel acts as an advisor and board member while other, younger, adventurers perform the hard work.
 
 ??? danger "DM: TODO List"
     - Dauriel is a descendent of Korban, this is why he was chosen by Bhreia. He has no idea.

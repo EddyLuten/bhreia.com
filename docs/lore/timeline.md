@@ -9,9 +9,9 @@ categories:
 !!! info
     This page is still a work in progress, but the broad strokes are there.
 
-An over-simplification of the commonly known timeline and creation mythology of the world. These stories were verbally passed down through the generations until writing systems were developed. Every race has their own flavor of creation mythology, but this is distilled version of details agreed on by most.
+This timeline is an over-simplification of the commonly accepted timeline and creation mythology of the world. These stories were verbally passed down through the generations until writing systems were developed. Every race has their own flavor of creation mythology, but this is distilled version of details agreed on by most.
 
-The passage of time is measured in intervals of 1000 years named Ages (or Aeons). See **[[calendar]]** for more information about time.
+The passage of time is measured in intervals of 1000 years named Ages (or Aeons). See **[[calendar]]** for more information about time. Most cultures agree that the world is currently in its fourth Age, and thus younger than 4000 years old.
 
 ## The First Age: Primordial Deities
 
@@ -48,7 +48,7 @@ Important Dates:
 
 ## The Third Age: Perpetual Conflict
 
-TODO
+During this Age, the Peoples and Monsters of Bhreia became embroiled in a thousand-year war. Borders are erased, redrawn, and soaked in the blood of the innocent. This incessant lust for violence, control, and power brought forth a new deity who swayed dominion over all of this, [[urlac]].
 
 * War between Monsters and Peoples.
 * Bhreia fractured further under the stress, creating the eastern islands.

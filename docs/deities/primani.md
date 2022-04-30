@@ -3,7 +3,7 @@ alias: primani
 ---
 # Primani
 
-Primordial god of life, specifically living creatures.
+Primani is the primordial god of life and explicitly living creatures.
 
 For living plant life/nature, see [[melora]].
 

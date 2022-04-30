@@ -5,7 +5,7 @@ categories:
 ---
 # Dhoutr
 
-God of death, constructed by [[brother]] from his own body. Ruler of the internal plane of darkness.
+God of death, constructed by [[brother]] from his own body. Ruler of the Internal Plane of Darkness.
 
 **Pronunciation:** dow-ter
 
