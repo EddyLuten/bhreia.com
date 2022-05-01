@@ -54,7 +54,7 @@ Braving Bhreia is an ongoing campaign that started on November 1st, 2021, played
 - 2022-03-22: [Session 15](sessions/session-15.md) - Booting a bot
 - 2022-04-13: [Session 16](sessions/session-16.md) - The Diversion
 - 2022-04-25: [Session 17](sessions/session-17.md) - Fire at the Forge
-- TBD: [Session 18](sessions/session-18.md)
+- 2022-05-03: [Session 18](sessions/session-18.md)
 
 ## Players (a-z)
 
@@ -67,6 +67,10 @@ Braving Bhreia is an ongoing campaign that started on November 1st, 2021, played
 Eddy as the DM.
 
 ## Homebrew
+
+### Stackable Inspiration
+
+There's no maximum for inspiration points. Once awarded, they stack like any other resource.
 
 ### Rounding Down
 

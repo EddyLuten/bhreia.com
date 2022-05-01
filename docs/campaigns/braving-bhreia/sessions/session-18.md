@@ -5,7 +5,7 @@ categories:
 ---
 # Session 18
 
-**Date:** TBD
+**Date:** Tuesday, May 3rd, 2022 @ 9:00 PM CT
 
 **Audio:** None yet.
 
