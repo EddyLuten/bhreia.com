@@ -62,6 +62,7 @@ Braving Bhreia is an ongoing campaign that started on November 1st, 2021, played
 - James as **[[pasha]]**, a Dragonborn Sorcerer
 - Joel as **[[tiran]]**, a Human Artificer
 - Mike as **[[gadot]]**, a Cuniko Rogue
+- Mike "Deuce" as **[[sebastian]]**, a Human Fighter
 - Nate as **[[wolf]]**, a Hill Dwarf Ranger
 
 Eddy as the DM.

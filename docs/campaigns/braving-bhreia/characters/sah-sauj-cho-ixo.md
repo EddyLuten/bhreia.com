@@ -18,7 +18,7 @@ Campaign: [[braving-bhreia]]
 
 Played By: Anjelica
 
-## Player Handout
+## Bio
 
 (Bio written by Anjelica)
 
