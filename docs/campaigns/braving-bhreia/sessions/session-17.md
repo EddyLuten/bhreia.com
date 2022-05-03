@@ -13,7 +13,7 @@ categories:
 
 ## Synopsis
 
-We began with the party splitting up. The first party, consisting of Pasha, Tiran, and Gadot, rode off at high speed to the Ironstone Forge, where something was reportedly going down. When they arrived at Cauldin's Point, a worried Captain Weslan Stillwater approached them on horseback with a few of his men. He pointed towards the horizon where black smoke billowed over the treeline in the direction of the Forge. The gang hauled ass down the road towards the smoke.
+We began with the party splitting up. The first party, consisting of Pasha, Tiran, and Gadot, rode off at high speed to the Ironstone Forge, where something was reportedly going down. When they arrived at Cauldin's Point, a worried Weslan Stillwater approached them on horseback, followed by his men. He pointed towards the horizon where black smoke billowed over the treeline in the direction of the Forge. The gang hauled ass down the road towards the smoke.
 
 Meanwhile, Wolf and Sah-Sauj remained behind to investigate the nearby camp and quietly crawled through the underbrush to get nearer. A single guard sat at a campfire as the rain poured down. Wolf and Sah-Sauj spotted a wagon, some horses, and a handful of tents encircling the campfire. As Wolf closed in, he noticed that the guard was sleeping and recognized him as Freeney, the bandit who had robbed him of his cigars a year ago. Though Freeney was in a drunken slumber, a light shone from a tent near him. He was not alone.
 

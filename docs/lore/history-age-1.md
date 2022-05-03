@@ -8,9 +8,11 @@ categories:
 
 Years 1 through 1000
 
+[[history]] · [[history-age-2|⮕ History of the Second Age.]]
+
 ## Primordial Deities
 
-The primordial deities Bhreia and her twin brother (whose name was lost) were spontaneously born on the first moment of the first day. They were without form, and their spirits drifted through the infinite void that encompassed all creation.
+The primordial deities [[bhreia]] and her [[brother|twin brother]] (whose name was lost) were spontaneously born on the first moment of the first day. They were without form, and their spirits drifted through the infinite void that encompassed all creation.
 
 Even though they felt a deep love for each other, they were empty and unsatisfied. Together, they formed the Earth and the Sky, two halves of a perfect sphere. Bhreia spent her days roaming the Earth while her brother claimed dominion over the sky.
 
@@ -21,7 +23,7 @@ For a long time, things were good. Bhreia bonded with the Earth while her brothe
 
 ## Birth of Melora and Nature
 
-Her brother was reluctant, but his endless love for his counterpart convinced him to help her. Together they created a third deity. An equal to themselves and a companion desperately needed. Melora was born.
+Her brother was reluctant, but his endless love for his counterpart convinced him to help her. Together they created a third deity. An equal to themselves and a companion desperately needed. [[melora]] was born.
 
 !!! info
     Melora is the primordial goddess of nature, the wilderness, and the oceans.
@@ -33,7 +35,7 @@ While she took her first breath, Melora looked about the Earth and grew deeply u
 
 ## Birth of Primani and Life
 
-While her brother was away during the long nights, Bhreia and Melora bonded deeply. They kindled a love between them deeper than Bhreia felt between her and her brother. During the night, Primani was born of the love between Bhreia and Melora. As Bhreia's brother awakened in the morning, the first creatures created by Primani roamed all the lands and populated the vast seas.
+While her brother was away during the long nights, Bhreia and Melora bonded deeply. They kindled a love between them deeper than Bhreia felt between her and her brother. During the night, [[primani]] was born of the love between Bhreia and Melora. As Bhreia's brother awakened in the morning, the first creatures created by Primani roamed all the lands and populated the vast seas.
 
 !!! info
     Primani is the primordial god of life and explicitly living creatures.
@@ -73,7 +75,7 @@ Bhreia's brother accepted, and things returned to normal for a while.
 
 Melora, Primani, and Bhreia set about improving their new world now that Bhreia's brother had restored the balance. The three goddesses birthed new gods to claim dominion over the domains of fire, water, the seasons, time, love, and many more. Soon, the Earth was *truly* alive.
 
-Meanwhile, Bhreia's brother enjoyed his new spirit companions until, after many years, he didn't. As more creatures were born and died, the heavens began to fill with their spirits, and he could no longer keep up with the ever-increasing workload and constant bustle.
+Meanwhile, Bhreia's brother enjoyed his new spirit companions until, after many years, he tired of them. As more creatures were born and died, the heavens filled with their spirits, and he could no longer keep up with the ever-increasing workload and constant bustle.
 
 "She *did* trick me after all," Bhreia's brother said while tearing a spirit to shreds with his bare hands. "That little devil." As he looked at the shredded creature in his hands, he remembered the promise she'd made him, and a wicked smile crept onto his face.
 
@@ -81,11 +83,11 @@ Meanwhile, Bhreia's brother enjoyed his new spirit companions until, after many 
 
 Enraged and filled with a lust to harm, Bhreia's Brother gathered all of the souls in the heavens and tore them apart until nothing remained but a writhing mass of pain and anguish. He reached deep into his chest and broke off a piece of his now-blacked heart and injected it into the amalgam. It formed into a shapeless black cloud and hovered before him in his palace.
 
-"My son, I name you Dhoutr," he said and placed his hand into the darkness before him. "I imbue you with the most significant responsibility of all the gods."
+"My son, I name you [[dhoutr]]," he said and placed his hand into the darkness before him. "I imbue you with the most significant responsibility of all the gods."
 
 "Tell me, father, what is your bidding?" Dhoutr hissed with the innumerable voices of the spirits that composed him.
 
-"I shall create you your plane of existence where you rule over the spirits of the dead. I shall build it within my sister's heart, deep within the Earth itself."
+"I shall create you a plane of existence where you rule over the spirits of the dead. I shall build it within my sister's heart, deep within the Earth itself."
 
 !!! info
     Dhoutr is the god of death and ruler of the Internal Plane of Darkness.
@@ -94,4 +96,4 @@ Enraged and filled with a lust to harm, Bhreia's Brother gathered all of the sou
 
 On the eve of the Second Age, Dhoutr slithered across the Earth and burrowed deep into the most remote depths of Bhreia's creation. Then with Bhreia's brother's help, they expanded until the Earth could take no more.
 
-[[history|⬅︎ Back to The History of Bhreia]]
+[[history]] · [[history-age-2|⮕ History of the Second Age.]]

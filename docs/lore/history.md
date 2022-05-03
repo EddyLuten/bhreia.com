@@ -16,3 +16,6 @@ The Peoples of Bhreia mark the passage of 1000-year periods in intervals named A
 ## History by Age
 
 - [[history-age-1]]
+- [[history-age-2]]
+- [[history-age-3]]
+- [[history-age-4]]
