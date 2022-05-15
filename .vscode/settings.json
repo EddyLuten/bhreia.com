@@ -9,8 +9,8 @@
         "editor.formatOnSave": true,
         "editor.formatOnPaste": true,
     },
-    "grammarly.autoActivate": true,
-    "grammarly.goals": [
-        "tellStory", "describe", "inform"
+    "grammarly.files.include": [
+        "**/*.md",
+        "**/*.txt",
     ]
 }

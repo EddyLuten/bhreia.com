@@ -1,7 +1,7 @@
 ---
 categories:
     - Session Plans
-    - Sentinels of Silubria
+    - Slay, Inc.
     - DM Only
 ---
 
@@ -56,35 +56,3 @@ categories:
 - Once through customs, one of the big crates on the other ship breaks open
   - A [Bulette](https://www.dndbeyond.com/monsters/16818-bulette) comes out, still partially wrapped in chains, and begins attacking everything in sight
   - Initiative
-
-The coach is white and inlaid with silver flowers.
-
-The coach takes them directly to the palace.
-
-- They see on their journey from the window
-  - Several temples of [[urlac]]
-
-When they get out.
-
-!!! quote
-    White stone holds up the massive palace at the heart of this city. Its spires curve upwards and terminate in gleaming silver tips. The palace guards open the massive oak doors and guide you inside.
-
-Here, they go through the main entrance.
-
-!!! quote
-    The floors and walls are marble inlaid with streaks of silver and before you, the throne room becomes visible. On his throne, surrounded by his two wives sits **Gajarta of Sarapum**, 53rd of his name. He smiles as he sees you approach, but the guard takes a left turn and brings you into a small chamber.
-
-    The guard points towards a row of chairs. "Please take a seat."
-
-The guard leaves.
-
-They are taken into a small room where a Human male in a red robe sits behind a desk, looking at paperwork.
-
-His name is "**Yilus Romku**" and is the advisor of the king. Leaning against the desk is his staff that has a sphere with an eye that follows you around on top.
-
-!!! quote
-    Welcome, welcome, **Ahtel**. Before you ask, that means *champion* in Silubrian. I hope your journey was easy enough?
-
-They are called "Ahtel" (from: <https://en.wiktionary.org/wiki/%D8%A7%D8%AA%D9%84#Pashto>), which means champion in Silubrian.
-
-He takes some of their info and questions and takes them to their locker room.

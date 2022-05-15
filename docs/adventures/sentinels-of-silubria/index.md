@@ -26,7 +26,7 @@ You are part of a group of individuals who have answered. Though you will not fi
 
 ## What Your Character Should Know
 
-This campaign takes place in 2867 during the **Second Age**, the **Age of War**.
+This campaign takes place in 2867 during the **Third Age**, the **Age of War**.
 
 <figure class="infobox right">
   <h3>Iron Bangle</h3>

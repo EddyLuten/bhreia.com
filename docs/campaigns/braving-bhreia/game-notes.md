@@ -29,3 +29,4 @@ Order: Sah-Sauj ➡ Wolf ➡ Pasha ➡ Gadot ➡ Tiran
 - Wolf has been kicked out of his clan for bucking traditions, especially during times of war
 - Pasha's dagger is a Karambit
 - When Gadot was a child, he had a river raft that he named the SS Gadot
+- Tiran was a sickly child, Sophia was older when she had him
