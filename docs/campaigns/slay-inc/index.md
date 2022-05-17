@@ -10,10 +10,10 @@ Based on [[sentinels]].
 
 Players:
 
-- James as **Archibald**, a human cleric
-- Mike as **Sir Reginald Featherbottom III**, a Tabaxi monk
-- Nate as **Kheyt**, a partially mutilated human
-- Anjelica as **Spi' Noch**, a seasick Owlet
+- James as **Archibald**, a Human Cleric
+- Mike as **Sir Reginald Featherbottom III**, a Tabaxi Monk
+- Nate as **Kheyt**, a Human Warlord
+- Anjelica as **Spi' Noch**, a Bard Owlet
 
 Eddy as the DM.
 

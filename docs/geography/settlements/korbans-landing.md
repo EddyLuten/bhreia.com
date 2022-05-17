@@ -61,10 +61,17 @@ These are well-known places in the city.
 10. **Lighthouse:** Built on the place where the Leikon brothers were supposed to have first spotted Korban approach. Eventually a signal fire was lit here to aid Darvian sailors, and finally replaced with this lighthouse.
 
 ??? danger "DM Only: Other Places"
-    11. Ejol's Emporium
-    12. Utra's Magical Items (or something, Utra Balonk)
-    13. Nibo's Stables (Nibo Yonk)
-    14. Bannaboona's Den
+    - Ejol's Emporium
+    - Utra's Boutique (Utra Balonk)
+    - Nibo's Stables (Nibo Yonk)
+    - Bannaboona's Den
+    - Madame Mollisher
+
+    Taverns/Inns:
+    
+    - The Salt Lick - Harbor tavern (no inn)
+    - Gigglemug's - Ashwood Heights fancy inn
+    - Jugascuzz - The Haunches terrible inn
 
 ??? danger "DM Only: Blue Streak"
     The blue streak on the map represents the path of destruction that [[amalchi]] caused while flying over the city. The temple and the houses are being rebuilt, but are still mostly in ruins.

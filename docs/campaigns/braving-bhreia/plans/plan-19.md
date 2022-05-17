@@ -10,6 +10,6 @@ categories:
 
 Recap: [Session 18](../sessions/session-18.md)
 
-TBD
+Need a fact from [[sebastian]].
 
 At [[wolfs-house]].

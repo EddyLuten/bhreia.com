@@ -19,7 +19,9 @@ Leca is a 23-year-old female Tiefling. She has long curly black hair and is a hu
 
 Leca is originally from Dorr where she grew up in high society. Wanting a different life, one closer to nature (and fewer Tieflings), she left on the first ship leaving the harbor and ended up in Korbantir three years ago and became a hunter. It's been tough for her to get used to living independently, but after finding Wolf's cabin, things got a bit easier.
 
-However, while she was in Crabpot, she was down on her luck and had to resort to stealing food. While trying to take some crabs for her and Cricket to eat, the fisherman noticed and chased her down> He cornered her in a dead-end alley. She handed him the crab back, apologizing, but now he had his eyes on her. He forced himself onto her, subduing her until Cricket came from behind and bit the man's throat. He stumbled backward and collapsed onto the ground, blood spraying from his neck. Leca ran as fast as she could through a busy fish market, covered in the man's blood. Later, she learned that the man died there, and she's currently wanted for his murder. She isn't safe anywhere.
+However, while she was in Crabpot, she was down on her luck and had to resort to stealing food. While trying to take some crabs for her and Cricket to eat, the fisherman noticed and chased her down. He cornered her in a dead-end alley. She handed him the crab back, apologizing, but now he had his eyes on her.
+
+He forced himself onto her, subduing her until Cricket came from behind and bit the man's throat. He stumbled backward and collapsed onto the ground, blood spraying from his neck. Leca ran as fast as she could through a busy fish market, covered in the man's blood. Later, she learned that the man died there, and she's currently wanted for his murder. She isn't safe anywhere.
 
 ## Coming up on the Cabin
 
@@ -47,9 +49,17 @@ She will offer to leave and take her stuff, but she doesn't want any trouble.
 
 ## Trouble
 
-Unbeknownst to the adventurers, they have been distantly followed by [[au]] guards who are ensuring that they aren't causing any more trouble. They have stealthily followed them to Wolf's house where they now see the Leca, a wanted outlaw, and will attempt to intervene. They will attack if necessary.
+Unbeknownst to the adventurers, they have been distantly followed by [[au]] guards who are ensuring that they aren't causing any more trouble. They have stealthily followed them to Wolf's house where they now see Leca, a wanted outlaw, and will attempt to intervene. They will attack if necessary.
 
-There are three guards (Aldarion Unlimited Company men), and they will dispatch one of them if the situation gets hairy. This final one will head back to the survivors camp in Cauldin's Point and warn [[weslan]]. Depending on how they've interacted with Weslan, he may tell the magistrate, who will put out a warrant for all of them and set **Inquisitor Ryssha** after them with **Kirenka**. See [[assaulted-halfling]].
+**Inquisitor Ryssha** and his companion, **Kirenka** (see [[assaulted-halfling]]) will follow a few hours after the guards have sent word. If Leca and the group stay at the house for the night, Ryssha will turn into his snake form and enter the building.
+
+They may hear a rustling as he slithers in through a crack in the wall or momentarily opens the door.
+
+Someone must beat a **DC 17 Stealth** to see Ryssha in the cabin. If he is caught, he will message Kirenka to appear with two [[au]] guards.
+
+Depending on the scene Ryssha sees, he will confront Wolf via the Message spell.
+
+> Hear me, Wolf. You've narrowly escaped one charge in Cauldin's Point and now I find you cavorting with an outlaw not one day later. You understand what must be done here.
 
 ## Nate's Chat
 

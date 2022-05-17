@@ -5,7 +5,7 @@ categories:
 ---
 # Session 19
 
-**Date:** TBD
+**Date:** Tuesday, May 19th, 2022 @ 9:00 PM CT
 
 **Audio:** None yet.
 
