@@ -9,7 +9,17 @@ categories:
 
 --8<-- "spoiler.html"
 
-- Sleigh
+## Lyle Intro
+
+A small vessel pulls into the harbor at the Arjuna seaport. Its white main sails are torn and one of its masts broken in two. Yet, Captain **Sywex Elkin**, a spry young half-elf easily docks the damaged ship.
+
+Lyle, there's nothing on your mind but last night's storm. The the same one that took the life of your good friend and colleague, Braggish. You turned around for only a moment and he was gone. Chewed up whole by the blackest waves you've ever laid eyes on. No matter how much you yelled out, the sea did not return Braggish to you.
+
+You're bumped out of your day dream by the bumping of the ship against the wooden dock.
+
+"Looks like something went down here," Sywex says and points to the carcass of a Bulette lying on the docks, covered in blood. In beyond it, near a set of metal fences, you see the familiar outlines of your colleagues. They watch you and wave you over as you walk down the gangplank onto the dock.
+
+Lyle, can you describe what they see?
 
 ## At the Palace
 
