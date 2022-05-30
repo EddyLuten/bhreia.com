@@ -1,5 +1,7 @@
 ---
-alias: hatching
+alias:
+    - hatching
+    - hatching-bhreia
 categories:
     - DM Only
     - Sidequests
