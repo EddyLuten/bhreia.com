@@ -10,7 +10,9 @@ Based on [[sentinels]].
 
 Players:
 
+- Deuce as **Kyle**, a Halfling Wizard
 - James as **Archibald**, a Human Cleric
+- Joel as **Braggish**, an Orc
 - Mike as **Sir Reginald Featherbottom III**, a Tabaxi Monk
 - Nate as **Kheyt**, a Human Warlord
 - Anjelica as **Spi' Noch**, a Bard Owlet

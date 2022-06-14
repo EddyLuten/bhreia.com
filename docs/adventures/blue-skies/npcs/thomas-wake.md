@@ -11,4 +11,4 @@ categories:
 
 --8<-- "spoiler.html"
 
-TODO
+Tom is the only lobster fisherman in Crabpot and the previous employer of [[pasha]].

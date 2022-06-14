@@ -64,7 +64,7 @@ The current (3079) royal family:
 - Queen Bexatria, age 73
   - Crown Prince Kaylan, age 52
   - Prince Callum, age 43
-  - Princess Maru-Anye, age 34
+  - Princess Maruka, age 34
   - Princess Anjanna, age 28
 
 Keeping with tradition, all kings have been named Kaylan and all marriages have resulted in Half-Elven offspring.

@@ -105,5 +105,4 @@ Nine days of travel, arrival on the tenth day at night:
   - Rivoni Springs
   - Taïni
 - Wiki pages for:
-  - Captain Thomas Wake, who will give them a ride to Rivoni
   - Taïni
