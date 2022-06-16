@@ -16,9 +16,9 @@ Sah-Sauj doesn't drink alcohol.
 
 ## Character Facts
 
-Before every session.
+Before every session, ask a player for a fun/cool/whatever fact.
 
-Order: Sah-Sauj ➡ Wolf ➡ Pasha ➡ Gadot ➡ Tiran
+**Order:** Sah-Sauj ➡ Wolf ➡ Pasha ➡ Gadot ➡ Tiran ➡ Sebastian
 
 - Sah-Sauj pranked people with fake poop in her cloister
 - Wolf's real name is not "Wolf"
@@ -30,3 +30,33 @@ Order: Sah-Sauj ➡ Wolf ➡ Pasha ➡ Gadot ➡ Tiran
 - Pasha's dagger is a Karambit
 - When Gadot was a child, he had a river raft that he named the SS Gadot
 - Tiran was a sickly child, Sophia was older when she had him
+
+## Character Interviews
+
+New format: interview the characters, and ask a few poignant questions.
+
+### Sah-Sauj
+
+TODO
+
+### Wolf
+
+TODO
+
+### Pasha
+
+TODO
+
+### Gadot
+
+TODO
+
+- Father was a master thief; you are a thief. Why? Following in his footsteps?
+
+### Tiran
+
+TODO
+
+### Sebastian
+
+TODO
