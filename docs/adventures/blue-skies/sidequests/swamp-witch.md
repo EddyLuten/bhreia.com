@@ -38,7 +38,7 @@ Jikan will explain that he finds these stone animals all over town and in the co
 
 ### The Inn
 
-The **Radenia** inn offers overpriced lodging in a few tiny shared rooms. The owner takes advantage of the fact that it's the only safe place to stay out here in the boonies. On a large and prominent plaque behind the bar is an engraving with the words:
+The **Radenia** (Meta: an anagram for *Ariadne*) inn offers overpriced lodging in a few tiny shared rooms. The owner takes advantage of the fact that it's the only safe place to stay out here in the boonies. On a large and prominent plaque behind the bar is an engraving with the words:
 
 > Nothing is free but the sunrise.
 

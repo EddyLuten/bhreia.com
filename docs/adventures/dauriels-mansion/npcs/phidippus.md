@@ -61,6 +61,12 @@ He's getting *real* close to Sophia now that everyone else close to her is gone 
 
 He's pretty much Aristotle, though less wise, and will argue everything. He's also very petty and takes everything personally.
 
+Aliases:
+
+- Agorius, in [[cauldins-point]] after its destruction
+- Colonus, in [[korbans-landing]]
+- Sassacus, overseas
+
 ## Tower
 
 - Total height: 120 ft.
