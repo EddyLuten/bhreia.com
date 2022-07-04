@@ -4,9 +4,7 @@ categories:
     - Handouts
     - Items
 ---
-# 🔐 Parasol of Opacity
-
---8<-- "spoiler.html"
+# Parasol of Opacity
 
 The parasol of opacity can be put down anywhere and creates beneath it a pitch-black magical darkness. Non-magical light sources can't illuminate beneath it, and darkvision won't penetrate it. Those outside of the darkness can't see within.
 

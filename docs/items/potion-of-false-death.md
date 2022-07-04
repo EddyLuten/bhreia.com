@@ -6,9 +6,7 @@ categories:
     - Handouts
     - Items
 ---
-# 🔐 Potion of False Death
-
---8<-- "spoiler.html"
+# Potion of False Death
 
 A thick dark blue, almost black liquid that tastes like burnt almonds allows its consumer to appear dead for 24 hours.
 
