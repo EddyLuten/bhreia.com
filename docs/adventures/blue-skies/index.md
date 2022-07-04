@@ -18,11 +18,13 @@ categories:
   </figcaption>
 </figure>
 
-This adventure is a direct follow up to [[dauriels-mansion]]. The adventure starts at [[crater]], then shifts to [[rivoni]], crosses Taïni, and concludes in [[marram]].
+This adventure is a direct follow-up to [[dauriels-mansion]]. The adventure starts at [[crater]], then shifts to [[rivoni]], crosses Taïni, and concludes in [[marram]].
+
+See [[motivations]].
 
 ## Acts
 
-As per usual, the story breaks down into three distinct acts, with the second one taking the majority of the adventurers' time.
+As usual, the story breaks down into three distinct acts, with the second one taking the majority of the adventurers' time.
 
 ### Act I
 
@@ -80,11 +82,14 @@ Nine days of travel, arrival on the tenth day at night:
 2. 🏕 [[liquid-life]] adaptation
 3. [[hatching]] and [[pashas-path]]
 4. [[random-encounters]]
+   1. Day turns to night for a while
+   2. Then back to day, but it's now perpetual dawn
+   3. Half-light
 5. [[swamp-witch]]
 6. [[random-encounters]]
 7. 🏕 Near Korban's Memorial [[pastorale]]
 8. [[random-encounters]]
-9. [[random-encounters]]
+9.  [[random-encounters]]
 10. Arrival in [[korbans-landing]]
 
 ## TODO List
