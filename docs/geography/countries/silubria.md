@@ -32,7 +32,7 @@ The royal family and its counsels are responsible for both the creation and enfo
 
 Magic use in public settings is restricted to those with a government-issues permit. These permits are colloqioally named **Blue Shields** due to the shield-shaped metal pin that must be worn by the magic-user on their clothing at all times.
 
-Magic use by non-permitted individuals, or individuals not displaying their Blue Shield, is severly punished.
+Magic use by non-permitted individuals, or individuals not displaying their Blue Shield, is severely punished.
 
 ### Freedom of Movement for Non-Residents
 
