@@ -16,5 +16,8 @@
     "grammarly.files.include": [
         "**/*.md",
         "**/*.txt",
-    ]
+    ],
+    "grammarly.config.documentDialect": "american",
+    "grammarly.config.documentDomain": "general",
+    "grammarly.config.suggestions.PassiveVoice": true
 }
