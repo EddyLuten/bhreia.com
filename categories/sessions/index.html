@@ -1,0 +1,4366 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.3.9">
+    
+    
+      
+        <title>Sessions - Bhreia</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.1d29e8d0.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#2094f3">
+        
+      
+      
+  
+  
+    
+    
+  
+  
+  <style>:root{--md-admonition-icon--info:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13zM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm6.5-.25A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75zM8 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/></svg>');}</style>
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/bhreia.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+
+  <script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-4Y6GVT3ZWF"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&gtag("event","search",{search_term:this.value})}),"undefined"!=typeof location$&&location$.subscribe(function(e){gtag("config","G-4Y6GVT3ZWF",{page_path:e.pathname})})})</script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-4Y6GVT3ZWF"></script>
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="blue" data-md-color-accent="orange">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#sessions" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Bhreia" class="md-header__button md-logo" aria-label="Bhreia" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m20.47 6.62-7.9-4.44C12.41 2.06 12.21 2 12 2s-.41.06-.57.18l-7.9 4.44c-.32.17-.53.5-.53.88v9c0 .38.21.71.53.88l7.9 4.44c.16.12.36.18.57.18s.41-.06.57-.18l7.9-4.44c.32-.17.53-.5.53-.88v-9c0-.38-.21-.71-.53-.88m-9.02 9.34-5.14-.03v-1.02s3.43-3.33 3.44-4.34c0-1.24-1.02-1.11-1.02-1.11s-.98.04-1.09 1.25l-1.5.05s.04-2.5 2.69-2.5c2.37 0 2.4 1.78 2.4 2.24 0 1.68-3.08 4.27-3.08 4.27l3.3-.01v1.2m6.05-2.46c0 1.4-1.15 2.55-2.57 2.55-1.43 0-2.57-1.15-2.57-2.55v-2.66c0-1.42 1.14-2.57 2.57-2.57s2.57 1.15 2.57 2.57v2.66M16 10.77v2.76c0 .59-.5 1.07-1.08 1.07-.58 0-1.06-.48-1.06-1.07v-2.76c0-.59.48-1.06 1.06-1.06.58 0 1.08.47 1.08 1.06Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Bhreia
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Sessions
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/EddyLuten/bhreia.com" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    EddyLuten/bhreia.com
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Bhreia" class="md-nav__button md-logo" aria-label="Bhreia" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m20.47 6.62-7.9-4.44C12.41 2.06 12.21 2 12 2s-.41.06-.57.18l-7.9 4.44c-.32.17-.53.5-.53.88v9c0 .38.21.71.53.88l7.9 4.44c.16.12.36.18.57.18s.41-.06.57-.18l7.9-4.44c.32-.17.53-.5.53-.88v-9c0-.38-.21-.71-.53-.88m-9.02 9.34-5.14-.03v-1.02s3.43-3.33 3.44-4.34c0-1.24-1.02-1.11-1.02-1.11s-.98.04-1.09 1.25l-1.5.05s.04-2.5 2.69-2.5c2.37 0 2.4 1.78 2.4 2.24 0 1.68-3.08 4.27-3.08 4.27l3.3-.01v1.2m6.05-2.46c0 1.4-1.15 2.55-2.57 2.55-1.43 0-2.57-1.15-2.57-2.55v-2.66c0-1.42 1.14-2.57 2.57-2.57s2.57 1.15 2.57 2.57v2.66M16 10.77v2.76c0 .59-.5 1.07-1.08 1.07-.58 0-1.06-.48-1.06-1.07v-2.76c0-.59.48-1.06 1.06-1.06.58 0 1.08.47 1.08 1.06Z"/></svg>
+
+    </a>
+    Bhreia
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/EddyLuten/bhreia.com" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    EddyLuten/bhreia.com
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Welcome to Bhreia
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../setting-overview/" class="md-nav__link">
+        Setting Overview
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Character Creation
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Character Creation" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Character Creation
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../character-creation/character-options/" class="md-nav__link">
+        Character Options
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../character-creation/cuniko/" class="md-nav__link">
+        Cuniko
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../character-creation/picking-a-country/" class="md-nav__link">
+        Picking a Country
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Creatures
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Creatures" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Creatures
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../creatures/dark-grung/" class="md-nav__link">
+        Dark Grung
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../creatures/dragons/" class="md-nav__link">
+        Dragons
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../creatures/juvenile-Amalchian-dragon/" class="md-nav__link">
+        🔐 Juvenile Amalchian Dragon
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../creatures/lesser-ghost/" class="md-nav__link">
+        🔐 Lesser Ghost
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../creatures/macoyii/" class="md-nav__link">
+        Macoyii
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../creatures/skitterbug/" class="md-nav__link">
+        Skitterbug
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Deities
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Deities" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Deities
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/pantheon/" class="md-nav__link">
+        Pantheon of Bhreia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/amalchi/" class="md-nav__link">
+        🔐 Amalchi
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/angwae/" class="md-nav__link">
+        Angwae
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/bhreia/" class="md-nav__link">
+        Bhreia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/bhreias-brother/" class="md-nav__link">
+        Bhreia's Brother
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/cauda/" class="md-nav__link">
+        Cauda
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/dhoutr/" class="md-nav__link">
+        Dhoutr
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/melora/" class="md-nav__link">
+        Melora
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/pescar/" class="md-nav__link">
+        Pescar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/primani/" class="md-nav__link">
+        Primani
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/the-fates/" class="md-nav__link">
+        The Fates
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/urlac/" class="md-nav__link">
+        Urlac
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../deities/zoanovin/" class="md-nav__link">
+        Zoanovin
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Etcetera
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Etcetera" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Etcetera
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/adventure-ideas/" class="md-nav__link">
+        Adventure Ideas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/calendar/" class="md-nav__link">
+        Calendar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/draconic/" class="md-nav__link">
+        Draconic
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/etherial-transmissions/" class="md-nav__link">
+        🔐 Ethereal Transmissions
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/ghukliak/" class="md-nav__link">
+        Ghukliak
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/old-common/" class="md-nav__link">
+        Old Common
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/psa/" class="md-nav__link">
+        🔐 PSA
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/random-books/" class="md-nav__link">
+        Random Books
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/random-encounters/" class="md-nav__link">
+        🔐 Random Encounters
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/random-names/" class="md-nav__link">
+        Random Names
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/random-places/" class="md-nav__link">
+        Random Places
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/random-vendors/" class="md-nav__link">
+        Random Vendors
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../etcetera/the-wasting/" class="md-nav__link">
+        The Wasting
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7">
+          Geography
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Geography" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Geography
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../geography/bodies-of-water/" class="md-nav__link">
+        Bodies of Water
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../geography/countries/" class="md-nav__link">
+        Countries
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../geography/regions/" class="md-nav__link">
+        Regions
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_4" type="checkbox" id="__nav_7_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_4">
+          Countries
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Countries" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_4">
+          <span class="md-nav__icon md-icon"></span>
+          Countries
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../geography/countries/freeport/" class="md-nav__link">
+        Freeport
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../geography/countries/korbantir/" class="md-nav__link">
+        Korbantir
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../geography/countries/marram/" class="md-nav__link">
+        Marram
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../geography/countries/rivoni/" class="md-nav__link">
+        Rivoni
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../geography/countries/silubria/" class="md-nav__link">
+        Silubria
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_5" type="checkbox" id="__nav_7_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_5">
+          Settlements
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Settlements" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_5">
+          <span class="md-nav__icon md-icon"></span>
+          Settlements
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../geography/settlements/cauldins-point/" class="md-nav__link">
+        Cauldin's Point
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../geography/settlements/korbans-landing/" class="md-nav__link">
+        Korban's Landing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../geography/settlements/rivoni-springs/" class="md-nav__link">
+        Rivoni Springs
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../geography/settlements/sarapum/" class="md-nav__link">
+        Sarapum
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8">
+          Items
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Items" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Items
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../items/cauldins-journal/" class="md-nav__link">
+        🔐 Cauldin's Journal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../items/cauldins-sketches/" class="md-nav__link">
+        🔐 Cauldin's Sketches
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../items/cauldins-sword/" class="md-nav__link">
+        🔐 Cauldin's Sword
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../items/clock-crystal/" class="md-nav__link">
+        🔐 Clock Crystal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../items/dagaz-eye/" class="md-nav__link">
+        🔐 Dagaz' Eye
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../items/grungine/" class="md-nav__link">
+        Grungine
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../items/jonahs-journal/" class="md-nav__link">
+        🔐 Jonah's Journal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../items/parasol/" class="md-nav__link">
+        Parasol of Opacity
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../items/phiddipus-necklace/" class="md-nav__link">
+        🔐 Phidippus' Necklace
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../items/potion-of-false-death/" class="md-nav__link">
+        Potion of False Death
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../items/ring-of-bleeding/" class="md-nav__link">
+        Ring of Bleeding
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../items/weasel-skin-anklet/" class="md-nav__link">
+        Weasel-Skin Anklet
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" type="checkbox" id="__nav_9" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9">
+          Lore
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Lore" data-md-level="1">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Lore
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../lore/history-age-1/" class="md-nav__link">
+        History of The First Age
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../lore/history-age-2/" class="md-nav__link">
+        History of The Second Age
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../lore/history-age-3/" class="md-nav__link">
+        History of The Third Age
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../lore/history-age-4/" class="md-nav__link">
+        History of The Fourth Age
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../lore/history/" class="md-nav__link">
+        History of Bhreia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../lore/timeline/" class="md-nav__link">
+        Timeline
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10" type="checkbox" id="__nav_10" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10">
+          Adventures
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Adventures" data-md-level="1">
+        <label class="md-nav__title" for="__nav_10">
+          <span class="md-nav__icon md-icon"></span>
+          Adventures
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/one-shots/" class="md-nav__link">
+        🔐 One Shots
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_2" type="checkbox" id="__nav_10_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_2">
+          Dauriel's Mansion
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Dauriel's Mansion" data-md-level="2">
+        <label class="md-nav__title" for="__nav_10_2">
+          <span class="md-nav__icon md-icon"></span>
+          Dauriel's Mansion
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/" class="md-nav__link">
+        Overview
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_2_2" type="checkbox" id="__nav_10_2_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_2_2">
+          Acts
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Acts" data-md-level="3">
+        <label class="md-nav__title" for="__nav_10_2_2">
+          <span class="md-nav__icon md-icon"></span>
+          Acts
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_2_2_1" type="checkbox" id="__nav_10_2_2_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_2_2_1">
+          Act 1: Cauldin's Point
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Act 1: Cauldin's Point" data-md-level="4">
+        <label class="md-nav__title" for="__nav_10_2_2_1">
+          <span class="md-nav__icon md-icon"></span>
+          Act 1: Cauldin's Point
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/acts/act-1/" class="md-nav__link">
+        🔐 Overview
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/acts/act-1/connections/" class="md-nav__link">
+        🔐 Connections
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/acts/act-1/dauriel-vs-amalchi/" class="md-nav__link">
+        🔐 Dauriel vs. Amalchi
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/acts/act-1/amalchis-motivations/" class="md-nav__link">
+        🔐 Amalchi's Motivations
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/acts/act-1/amalchis-enemies-allies/" class="md-nav__link">
+        🔐 Amalchi's Enemies and Allies
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/acts/act-1/adventure-hooks/" class="md-nav__link">
+        🔐 Hooks
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_2_2_2" type="checkbox" id="__nav_10_2_2_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_2_2_2">
+          Act 2: The Party
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Act 2: The Party" data-md-level="4">
+        <label class="md-nav__title" for="__nav_10_2_2_2">
+          <span class="md-nav__icon md-icon"></span>
+          Act 2: The Party
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/acts/act-2/" class="md-nav__link">
+        🔐 Overview
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_2_2_3" type="checkbox" id="__nav_10_2_2_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_2_2_3">
+          Act 3
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Act 3" data-md-level="4">
+        <label class="md-nav__title" for="__nav_10_2_2_3">
+          <span class="md-nav__icon md-icon"></span>
+          Act 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/acts/act-3/" class="md-nav__link">
+        Overview
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_2_3" type="checkbox" id="__nav_10_2_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_2_3">
+          Handouts
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Handouts" data-md-level="3">
+        <label class="md-nav__title" for="__nav_10_2_3">
+          <span class="md-nav__icon md-icon"></span>
+          Handouts
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/handouts/bhreias-embrace/" class="md-nav__link">
+        🔐 Bhreia's Embrace
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/handouts/borloks-letter/" class="md-nav__link">
+        🔐 Borlok's Letter
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/handouts/dauriels-invitation/" class="md-nav__link">
+        Dauriel's Invitation
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_2_4" type="checkbox" id="__nav_10_2_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_2_4">
+          NPCs
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="NPCs" data-md-level="3">
+        <label class="md-nav__title" for="__nav_10_2_4">
+          <span class="md-nav__icon md-icon"></span>
+          NPCs
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/borlok-orsel/" class="md-nav__link">
+        🔐 Borlok Orsel
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/captain-freeney/" class="md-nav__link">
+        🔐 Captain Freeney
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/dauriel-aldarion/" class="md-nav__link">
+        Dauriel Aldarion
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/ghost-child/" class="md-nav__link">
+        🔐 Ghost Child
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/ghost-eater/" class="md-nav__link">
+        🔐 Ghost Eater
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/grandpa-lenny/" class="md-nav__link">
+        Grandpa Lenny
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/jonahs-demon/" class="md-nav__link">
+        🔐 Jonah's Demon
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/junior-feldspar/" class="md-nav__link">
+        Junior Feldspar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/kolwyn/" class="md-nav__link">
+        Kolwyn
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/kvint-bernon/" class="md-nav__link">
+        Kvint Bernon
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/maniac/" class="md-nav__link">
+        Maniac
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/mike-truk/" class="md-nav__link">
+        Mike Truk
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/moreus/" class="md-nav__link">
+        Moreus
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/peter-the-goblin/" class="md-nav__link">
+        🔐 Peter the Goblin
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/phidippus/" class="md-nav__link">
+        🔐 Phidippus
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/rhea-feldspar/" class="md-nav__link">
+        Rhea Feldspar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/npcs/trashbeak/" class="md-nav__link">
+        Trashbeak
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_2_5" type="checkbox" id="__nav_10_2_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_2_5">
+          Organizations
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Organizations" data-md-level="3">
+        <label class="md-nav__title" for="__nav_10_2_5">
+          <span class="md-nav__icon md-icon"></span>
+          Organizations
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/organizations/aldarion-adventurers/" class="md-nav__link">
+        Aldarion Adventurers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/organizations/aldarion-unlimited/" class="md-nav__link">
+        Aldarion Unlimited
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/organizations/cult-of-amalchi/" class="md-nav__link">
+        🔐 Cult of Amalchi
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_2_6" type="checkbox" id="__nav_10_2_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_2_6">
+          Places
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Places" data-md-level="3">
+        <label class="md-nav__title" for="__nav_10_2_6">
+          <span class="md-nav__icon md-icon"></span>
+          Places
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/places/au-original-hq/" class="md-nav__link">
+        🔐 AU's Original HQ
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/places/cauldins-tomb/" class="md-nav__link">
+        🔐 Cauldin's Tomb
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/places/jonahs-denn/" class="md-nav__link">
+        Jonah's Denn
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/places/the-mansion/" class="md-nav__link">
+        🔐 The Mansion
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_2_7" type="checkbox" id="__nav_10_2_7" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_2_7">
+          Sidequests
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Sidequests" data-md-level="3">
+        <label class="md-nav__title" for="__nav_10_2_7">
+          <span class="md-nav__icon md-icon"></span>
+          Sidequests
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/sidequests/ghosts-eat-ghosts/" class="md-nav__link">
+        🔐 Ghosts Eat Ghosts
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/sidequests/grandpas-boy/" class="md-nav__link">
+        🔐 Grandpa's Boy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/sidequests/liquid-life/" class="md-nav__link">
+        🔐 Liquid Life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/sidequests/the-cave/" class="md-nav__link">
+        🔐 The Cave
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/sidequests/tomb-raiders/" class="md-nav__link">
+        🔐 Tomb Raiders
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/dauriels-mansion/story-outline/" class="md-nav__link">
+        Story Outline
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_3" type="checkbox" id="__nav_10_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_3">
+          Blue Skies
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Blue Skies" data-md-level="2">
+        <label class="md-nav__title" for="__nav_10_3">
+          <span class="md-nav__icon md-icon"></span>
+          Blue Skies
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/" class="md-nav__link">
+        🔐 Overview
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/motivations/" class="md-nav__link">
+        Motivations
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_3_3" type="checkbox" id="__nav_10_3_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_3_3">
+          Handouts
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Handouts" data-md-level="3">
+        <label class="md-nav__title" for="__nav_10_3_3">
+          <span class="md-nav__icon md-icon"></span>
+          Handouts
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/handouts/dauriels-letters/" class="md-nav__link">
+        🔐 Dauriel's Letters to Hanlar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/handouts/hanlar-phidippus-incident/" class="md-nav__link">
+        🔐 The Hanlar and Phidippus Incident
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/handouts/hanlars-letter/" class="md-nav__link">
+        🔐 Hanlar's Letter to Sophia
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_3_4" type="checkbox" id="__nav_10_3_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_3_4">
+          NPCs
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="NPCs" data-md-level="3">
+        <label class="md-nav__title" for="__nav_10_3_4">
+          <span class="md-nav__icon md-icon"></span>
+          NPCs
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/npcs/anton-malchi/" class="md-nav__link">
+        🔐 Dr. Anton Malchi
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/npcs/chickadee/" class="md-nav__link">
+        🔐 Chickadee of the Two Rivers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/npcs/hanlar-ironstone/" class="md-nav__link">
+        Hanlar Ironstone
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/npcs/leca-zan/" class="md-nav__link">
+        🔐 Leca Zan
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/npcs/londrina/" class="md-nav__link">
+        🔐 Londrina
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/npcs/malachi-medeid/" class="md-nav__link">
+        🔐 Malachi Medeid
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/npcs/phillipe-jdogeaux/" class="md-nav__link">
+        🔐 Phillipe J'Dogeaux
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/npcs/prince-callum/" class="md-nav__link">
+        🔐 Prince Callum
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/npcs/sophia-medeid/" class="md-nav__link">
+        🔐 Sophia Medeid
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/npcs/thomas-wake/" class="md-nav__link">
+        🔐 Thomas Wake
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/npcs/weslan-stillwater/" class="md-nav__link">
+        🔐 Weslan Stillwater
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_3_5" type="checkbox" id="__nav_10_3_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_3_5">
+          Places
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Places" data-md-level="3">
+        <label class="md-nav__title" for="__nav_10_3_5">
+          <span class="md-nav__icon md-icon"></span>
+          Places
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/places/cauldins-point-crater/" class="md-nav__link">
+        🔐 Cauldin's Point Crater
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/places/ejols-emporium/" class="md-nav__link">
+        🔐 Ejol's Emporium
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/places/ironstone-forge/" class="md-nav__link">
+        🔐 Ironstone Forge
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/places/survivors-camp/" class="md-nav__link">
+        🔐 Survivors' Camp at Cauldin's Point
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_3_6" type="checkbox" id="__nav_10_3_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_3_6">
+          Sidequests
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Sidequests" data-md-level="3">
+        <label class="md-nav__title" for="__nav_10_3_6">
+          <span class="md-nav__icon md-icon"></span>
+          Sidequests
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/sidequests/assaulted-halfling/" class="md-nav__link">
+        🔐 The Assaulted Halfling
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/sidequests/clue/" class="md-nav__link">
+        🔐 Clue
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/sidequests/dr-malchi-i-presume/" class="md-nav__link">
+        🔐 Dr. Malchi, I Presume?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/sidequests/forlorn-freeney/" class="md-nav__link">
+        🔐 Forlorn Freeney
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/sidequests/hatching-bhreia/" class="md-nav__link">
+        🔐 Hatching Bhreia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/sidequests/pashas-path/" class="md-nav__link">
+        🔐 Pasha's Path
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/sidequests/pastorale/" class="md-nav__link">
+        🔐 Pastorale
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/sidequests/swamp-witch/" class="md-nav__link">
+        🔐 The Swamp Witch
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/blue-skies/sidequests/wolfs-house/" class="md-nav__link">
+        🔐 Wolf's House
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10_4" type="checkbox" id="__nav_10_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10_4">
+          The Sentinels of Silubria
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="The Sentinels of Silubria" data-md-level="2">
+        <label class="md-nav__title" for="__nav_10_4">
+          <span class="md-nav__icon md-icon"></span>
+          The Sentinels of Silubria
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/sentinels-of-silubria/" class="md-nav__link">
+        The Sentinels of Silubria
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adventures/sentinels-of-silubria/spitballing/" class="md-nav__link">
+        🔐 Spitballing
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11" type="checkbox" id="__nav_11" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11">
+          Campaigns
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Campaigns" data-md-level="1">
+        <label class="md-nav__title" for="__nav_11">
+          <span class="md-nav__icon md-icon"></span>
+          Campaigns
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11_1" type="checkbox" id="__nav_11_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11_1">
+          Braving Bhreia
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Braving Bhreia" data-md-level="2">
+        <label class="md-nav__title" for="__nav_11_1">
+          <span class="md-nav__icon md-icon"></span>
+          Braving Bhreia
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/" class="md-nav__link">
+        Braving Bhreia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11_1_2" type="checkbox" id="__nav_11_1_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11_1_2">
+          Characters
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Characters" data-md-level="3">
+        <label class="md-nav__title" for="__nav_11_1_2">
+          <span class="md-nav__icon md-icon"></span>
+          Characters
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/characters/gadot-jdogeaux/" class="md-nav__link">
+        Gadot J'Dogeaux
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/characters/pasha/" class="md-nav__link">
+        Paxalon "Pasha" Yaraxil
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/characters/sah-sauj-cho-ixo/" class="md-nav__link">
+        Sah-Sauj Cho'Ixo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/characters/sebastian-standhaft/" class="md-nav__link">
+        Sebastian Standhaft
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/characters/tiran-medeid/" class="md-nav__link">
+        Tiran Medeid
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/characters/wolf/" class="md-nav__link">
+        Wolf
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11_1_3" type="checkbox" id="__nav_11_1_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11_1_3">
+          Handouts
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Handouts" data-md-level="3">
+        <label class="md-nav__title" for="__nav_11_1_3">
+          <span class="md-nav__icon md-icon"></span>
+          Handouts
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/handouts/branch-with-10-leaves/" class="md-nav__link">
+        Branch With 10 Leaves
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/handouts/cauldins-sword/" class="md-nav__link">
+        Cauldin's Sword
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/handouts/dagaz-eye/" class="md-nav__link">
+        🔐 Dagaz' Eye
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/handouts/golden-signet-ring/" class="md-nav__link">
+        Golden Signet Ring
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/handouts/ironstone-forge-greataxe/" class="md-nav__link">
+        Ironstone Forge Greataxe
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/handouts/lyrics-to-song/" class="md-nav__link">
+        Lyrics to the Song
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/handouts/marram-map/" class="md-nav__link">
+        Marram Map
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/handouts/mlsd-mk-v/" class="md-nav__link">
+        🔐 MLSD Mk. V
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/handouts/pasha-affected/" class="md-nav__link">
+        🔐 Pasha "Affected" Note
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/handouts/what-the-goblins-say/" class="md-nav__link">
+        🔐 What the Goblins Say
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11_1_4" type="checkbox" id="__nav_11_1_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11_1_4">
+          Session Plans
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Session Plans" data-md-level="3">
+        <label class="md-nav__title" for="__nav_11_1_4">
+          <span class="md-nav__icon md-icon"></span>
+          Session Plans
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/plans/plan-12/" class="md-nav__link">
+        🔐 Plan: Session 12
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/plans/plan-13/" class="md-nav__link">
+        🔐 Plan: Session 13
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/plans/plan-14/" class="md-nav__link">
+        🔐 Plan: Session 14
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/plans/plan-15/" class="md-nav__link">
+        🔐 Plan: Session 15
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/plans/plan-16/" class="md-nav__link">
+        🔐 Plan: Session 16
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/plans/plan-17/" class="md-nav__link">
+        🔐 Plan: Session 17
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/plans/plan-18/" class="md-nav__link">
+        🔐 Plan: Session 18
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/plans/plan-19/" class="md-nav__link">
+        🔐 Plan: Session 19
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/plans/plan-20/" class="md-nav__link">
+        🔐 Plan: Session 20
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11_1_5" type="checkbox" id="__nav_11_1_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11_1_5">
+          Sessions
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Sessions" data-md-level="3">
+        <label class="md-nav__title" for="__nav_11_1_5">
+          <span class="md-nav__icon md-icon"></span>
+          Sessions
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-0/" class="md-nav__link">
+        Session 0: Howdy Doodle
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-1/" class="md-nav__link">
+        Session 1: Arrival
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-2/" class="md-nav__link">
+        Session 2: Found a Tomb
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-3/" class="md-nav__link">
+        Session 3: First Blood
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-4/" class="md-nav__link">
+        Session 4: Meeting Dauriel
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-5/" class="md-nav__link">
+        Session 5: The Goblins
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-6/" class="md-nav__link">
+        Session 6: Cave Kids
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-7/" class="md-nav__link">
+        Session 7: The Party
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-8/" class="md-nav__link">
+        Session 8: A Giant Puzzle
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-9/" class="md-nav__link">
+        Session 9: Where's Borlok?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-10/" class="md-nav__link">
+        Session 10: Amalchi Rising
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-10.5/" class="md-nav__link">
+        Session 10½: Chapter 1 Postmortem
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-11/" class="md-nav__link">
+        Session 11: Tiran's Mom
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-12/" class="md-nav__link">
+        Session 12: You Got Served!
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-13/" class="md-nav__link">
+        Session 13: A Dragon Appears
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-14/" class="md-nav__link">
+        Session 14: Forge Goat's Sake
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-15/" class="md-nav__link">
+        Session 15: Booting a Bot
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-16/" class="md-nav__link">
+        Session 16: The Diversion
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-17/" class="md-nav__link">
+        Session 17: Fire at the Forge
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-18/" class="md-nav__link">
+        Session 18: Eastbound
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-19/" class="md-nav__link">
+        Session 19
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/sessions/session-20/" class="md-nav__link">
+        Session 20
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/game-notes/" class="md-nav__link">
+        🔐 Game Notes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/braving-bhreia/unresolved/" class="md-nav__link">
+        🔐 Unresolved Storylines
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11_2" type="checkbox" id="__nav_11_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11_2">
+          Slay, Inc.
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Slay, Inc." data-md-level="2">
+        <label class="md-nav__title" for="__nav_11_2">
+          <span class="md-nav__icon md-icon"></span>
+          Slay, Inc.
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/slay-inc/" class="md-nav__link">
+        Slay, Inc.
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11_2_2" type="checkbox" id="__nav_11_2_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11_2_2">
+          Plans
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Plans" data-md-level="3">
+        <label class="md-nav__title" for="__nav_11_2_2">
+          <span class="md-nav__icon md-icon"></span>
+          Plans
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/slay-inc/plans/plan-1/" class="md-nav__link">
+        🔐 Plan: Session 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/slay-inc/plans/plan-2/" class="md-nav__link">
+        🔐 Plan: Session 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/slay-inc/plans/plan-3/" class="md-nav__link">
+        🔐 Plan: Session 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/slay-inc/plans/plan-4/" class="md-nav__link">
+        🔐 Plan: Session 4
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11_2_3" type="checkbox" id="__nav_11_2_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11_2_3">
+          Sessions
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Sessions" data-md-level="3">
+        <label class="md-nav__title" for="__nav_11_2_3">
+          <span class="md-nav__icon md-icon"></span>
+          Sessions
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/slay-inc/sessions/session-1/" class="md-nav__link">
+        Session 1: Number One with a Bulette
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/slay-inc/sessions/session-2/" class="md-nav__link">
+        Session 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/slay-inc/sessions/session-3/" class="md-nav__link">
+        Session 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../campaigns/slay-inc/sessions/session-4/" class="md-nav__link">
+        Session 4
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+  <a href="https://github.com/EddyLuten/bhreia.com/edit/master/docs/categories/sessions.md" title="Edit this page" class="md-content__button md-icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"/></svg>
+  </a>
+
+
+
+<h1 id="sessions">Sessions<a class="headerlink" href="#sessions" title="Permanent link">&para;</a></h1>
+<p><a href="../">All Categories</a></p>
+<p>This category contains 26 page(s):</p>
+<ul>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-0/">Session 0: Howdy Doodle</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-10/">Session 10: Amalchi Rising</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-10.5/">Session 10½: Chapter 1 Postmortem</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-11/">Session 11: Tiran's Mom</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-12/">Session 12: You Got Served</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-13/">Session 13: A Dragon Appears</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-14/">Session 14: Forge Goat's Sake</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-15/">Session 15: Booting a Bot</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-16/">Session 16: The Diversion</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-17/">Session 17: Fire at the Forge</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-18/">Session 18: Eastbound</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-19/">Session 19</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-1/">Session 1: Arrival</a></li>
+<li><a href="../../campaigns/slay-inc/sessions/session-1/">Session 1: Number One with a Bulette</a></li>
+<li><a href="../../campaigns/slay-inc/sessions/session-2/">Session 2</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-20/">Session 20</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-2/">Session 2: Found a Tomb</a></li>
+<li><a href="../../campaigns/slay-inc/sessions/session-3/">Session 3</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-3/">Session 3: First Blood</a></li>
+<li><a href="../../campaigns/slay-inc/sessions/session-4/">Session 4</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-4/">Session 4: Meeting Dauriel</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-5/">Session 5: The Goblins</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-6/">Session 6: Cave Kids</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-7/">Session 7: The Party</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-8/">Session 8: A Giant Puzzle</a></li>
+<li><a href="../../campaigns/braving-bhreia/sessions/session-9/">Session 9: Where's Borlok?</a></li>
+</ul>
+
+              
+            </article>
+            
+          </div>
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Footer" >
+      
+        
+        <a href="../session-plans/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Session Plans" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Session Plans
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../slay-inc/" class="md-footer__link md-footer__link--next" aria-label="Next: Slay, Inc." rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Slay, Inc.
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2021 - 2022 Eddy Luten
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.sections", "navigation.top", "search.suggest"], "search": "../../assets/javascripts/workers/search.b97dbffb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.6c7ad80a.min.js"></script>
+      
+        <script src="../../assets/js/helpers.js"></script>
+      
+        <script src="../../assets/js/bhreia.js"></script>
+      
+        <script src="../../assets/js/infobox.js"></script>
+      
+        <script src="../../assets/js/name-gen.js"></script>
+      
+    
+  </body>
+</html>
