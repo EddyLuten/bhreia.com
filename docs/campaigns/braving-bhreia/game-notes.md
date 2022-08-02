@@ -30,6 +30,7 @@ Before every session, ask a player for a fun/cool/whatever fact.
 - Pasha's dagger is a Karambit
 - When Gadot was a child, he had a river raft that he named the SS Gadot
 - Tiran was a sickly child, Sophia was older when she had him
+- Sebastian got hooked on adventure stories as a kid and believed all of them, whether they were true or not
 
 ## Character Interviews
 
@@ -37,11 +38,11 @@ New format: interview the characters, and ask a few poignant questions.
 
 ### Sah-Sauj
 
-TODO
+- Why don't you like rabbits? You mentioned they were toxic.
 
 ### Wolf
 
-TODO
+- Ask about resorting to violence (the assault, and at the cabin)
 
 ### Pasha
 

@@ -30,7 +30,7 @@ While initially hosting a native majority Leonin population, Humans landed on th
 
 ### Ongoing Leonin Terrorism
 
-Due to the historical Leonin genocide and their status within the country as a *Scourge*, the remaining Leonin have made their homes in the jungle of "The Rest" (see Geography). Desiring control of their original homeland, Leonin splinter groups occasionally cause bloodshed, destruction, and chaos in the name of this cause in [[rivoni-springs]]. These attacks are generally aimed at disrupting the spring water-based economy, such as attacks on harbored ships and traveling trades people.
+Due to the historical Leonin genocide and their status within the country as a *Scourge*, the remaining Leonin have made their homes in the jungle of "The Rest" (see Geography). Desiring control of their original homeland, Leonin splinter groups occasionally cause bloodshed, destruction, and chaos in the name of this cause in [[rivoni-springs]]. These attacks are generally aimed at disrupting the spring-water-based economy, such as attacks on harbored ships and traveling trades people.
 
 These attacks have been more frequent and more violent as of late. The royal government has stated that they believe the various Leonin tribes have banded together under a unified banner.
 

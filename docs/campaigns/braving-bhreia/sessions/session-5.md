@@ -19,7 +19,7 @@ Sah-Sauj searched a trash-filled room and found a partial map of Marram, and the
 
 When entering a clearing between the trees, two Macoyii appeared, mimicking goblin voices, and began their attack. Wolf and Gadot high-tailed it back to the cabin, where they warned the others. After a difficult battle during which Gadot and Grintani's husband both were knocked out, the Macoyii were finally killed.
 
-With the treat eliminated, the goblins were asked about the Macoyii. They mentioned that they were forced to catch them by a magic user named Phidippus, who lived nearby. What he wanted with the Macoyii is unknown. Wolf decided to take one of the Macoyii corpses with him, and Sah-Sauj took a bit of the potion that the goblins used to catch the animals.
+With the threat eliminated, the goblins were asked about the Macoyii. They mentioned that they were forced to catch them by a magic user named Phidippus, who lived nearby. What he wanted with the Macoyii is unknown. Wolf decided to take one of the Macoyii corpses with him, and Sah-Sauj took a bit of the potion that the goblins used to catch the animals.
 
 Having taken some damage and in need of rest, you get back onto the road west, and head back to town.
 
