@@ -38,7 +38,10 @@ New format: interview the characters, and ask a few poignant questions.
 
 ### Sah-Sauj
 
+- Why did you leave your home country?
+- Do you consider yourself an adventurer or a wanderer?
 - Why don't you like rabbits? You mentioned they were toxic.
+- Why did you join up with this group?
 
 ### Wolf
 

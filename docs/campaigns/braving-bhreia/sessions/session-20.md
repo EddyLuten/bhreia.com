@@ -5,7 +5,7 @@ categories:
 ---
 # Session 20
 
-**Date:** TBD
+**Date:** Tuesday, August 2, 2022 @ 9:00 PM CT
 
 **Audio:** None yet.
 

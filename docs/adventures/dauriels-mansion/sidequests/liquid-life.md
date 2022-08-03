@@ -27,19 +27,17 @@ When hearing that the adventurers are looking for work, **Tino Block** (they/the
 
 **Why:** Tino is not yet ready to die. They have not seen anything of the world outside of Cauldin's Point and Tino is desperate to make something of the time that they have left. With enough potions, they will leave Cauldin's Point and set out for a trip to [[korbans-landing]] where they will board a ship to Rivoni Springs and hope for a chance to enter the famous healing springs.
 
-**Where:** A shipment of Potions of Healing is coming from [[korbans-landing]] and is headed to [[au]] headquarters in Donitar. As per usual, the wagon transporting the goods is protected by two guards on horseback and a single driver. The group will stop at [[jonahs-denn]] and rotate their watch over the cargo as each of the group rests for the night.
+**Where:** A shipment of Potions of Healing is coming from [[korbans-landing]] and is headed to [[au]] headquarters in Donitar. As per usual, the wagon transporting the goods is protected by two guards on horseback and a single driver. The group will stop at [[jonahs-denn]] and rotate their watch over the cargo as each group member rests for the night.
 
 **When:** The wagon will roll into the town tonight. Tino is desperate for this final chance at a stab at life; it has to happen now.
 
-**How:** Up to the players, but Tino prefers no bloodshed.
+**How:** Up to the players, but Tino prefers no bloodshed. They offer to pay 23 gp (all the money they own) to get the crates. If that's not enough for the group, they may offer them a [[pelang-box]] that they stole/found. If they refuse, they will do it themselves and get caught and executed.
 
 ## The Wagon
 
 There are 3 Guards (MM pg. 347) protecting the wagon.
 
-Cargo:
-
-- 2 crates of 10 potions of healing
+Cargo: 2 crates of 10 potions of healing
 
 ??? danger "DM: Tino's Stats as VTT JSON"
     [Download](/assets/json/tino-block.json)
