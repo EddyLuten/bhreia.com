@@ -80,11 +80,11 @@ Nine days of travel, arrival on the tenth day at night:
 
 1. Wolf's House [[wolfs-house]]
 2. 🏕 [[liquid-life]] adaptation
-3. [[hatching]] and [[pashas-path]]
-4. [[random-encounters]]
+3. Battle with Dagaz - Level 5 afterward
    1. Day turns to night for a while
    2. Then back to day, but it's now perpetual dawn
    3. Half-light
+4. [[hatching]] and [[pashas-path]]
 5. [[swamp-witch]]
 6. [[random-encounters]]
 7. 🏕 Near Korban's Memorial [[pastorale]]
