@@ -45,7 +45,10 @@ New format: interview the characters, and ask a few poignant questions.
 
 ### Wolf
 
-- Ask about resorting to violence (the assault, and at the cabin)
+- How difficult is it to live in a culture with fewer Dwarves?
+- Where did you get a giant goat?
+- Why do you use an alias rather than your real name?
+- Why do you resort to violence rather than diplomacy? (Assault/cabin)
 
 ### Pasha
 
