@@ -5,7 +5,7 @@ categories:
     - DM Only
 ---
 
-# 🔐 Plan: Session 4
+# 🔐 Slay, Inc. Plan: Session 4
 
 --8<-- "spoiler.html"
 
@@ -161,29 +161,3 @@ Interior:
     While they might survive or even win the games, they will go back into the games next season. Only one team survived for 4 seasons, the *Pale Shadows,* a team from 80 years ago.
 
     **Her quest:** Help her find a way to dismantle the games from the inside and bring an end to the Age of War. Play along, survive, but find a way to bring the whole thing down.
-
-## Intrusion
-
-A knock on the door. Tomund prompts the riddle, but looks back, and shakes his head at Gana while brandishing his weapon and donning his armor.
-
-Gana asked if they were followed. Did they bring palace guards?
-
-She's hidden this place for 100 years, she's angry and sad.
-
-Loud banging on the door: they're breaking it down.
-
-She gives them a way to escape via the hidden exit behind the bookcase.
-
-Gana leads the way and burns her journals behind her.
-
-Tomund stays behind.
-
-## Fresh Air
-
-Moment later, the clashing of blades rings from behind them. Screams. And not much later, it's quiet.
-
-Smoke fills the tunnel and they must escape quickly or suffocate.
-
-As they exit the tunnel, pushing aside an old tombstone, a portal appears the moment they surface.
-
-Gana tells them to keep playing the games. She will find a way to communicate with them in the palace.

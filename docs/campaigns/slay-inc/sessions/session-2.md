@@ -4,7 +4,7 @@ categories:
     - Sessions
 ---
 
-# Session 2
+# Slay, Inc. Session 2
 
 **Date:** May 19th, 2022 @ 21:00 CT
 

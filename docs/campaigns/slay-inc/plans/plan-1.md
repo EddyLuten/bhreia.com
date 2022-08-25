@@ -5,7 +5,7 @@ categories:
     - DM Only
 ---
 
-# 🔐 Plan: Session 1
+# 🔐 Slay, Inc. Plan: Session 1
 
 --8<-- "spoiler.html"
 

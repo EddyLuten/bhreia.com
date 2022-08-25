@@ -12,6 +12,14 @@ Public Service Announcements contain common knowledge for the safety of all PCs.
 
 The more you know.
 
+## The Silver Spider
+
+All kings and queens of Silubria are named *Gajarta*, which is both a title and a name inherited by the heir to the throne. However, the very first ruler of Silubria was simply *Gajarta of Sarapum*, born and raised in the mountains of the silver island. Though, he did have a nickname: *The Silver Spider*.
+
+The truth of why he was called that is lost in the sands of time, though some theories exist. Some claim he was adept at climbing vertical surfaces like a spider. Others believe that though Silubria is home to primarily Humans and Elves, Gajarta the 1st was something else entirely and could be found crawling on the palace ceilings at night. However, most believe he was named The Silver Spider because he had spindly legs and white hair.
+
+Whatever the truth is, Silubria owes its existence to its fabled progenitor, Gajarta of Sarapum.
+
 ## Stylites
 
 Main article: [[dhoutr]].

@@ -4,7 +4,7 @@ categories:
     - Sessions
 ---
 
-# Session 1: Number One with a Bulette
+# Slay, Inc. Session 1: Number One with a Bulette
 
 **Date:** May 10th, 2022 @ 21:00 CT
 

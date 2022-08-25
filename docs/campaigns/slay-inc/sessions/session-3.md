@@ -4,7 +4,7 @@ categories:
     - Sessions
 ---
 
-# Session 3
+# Slay, Inc. Session 3
 
 **Date:** June 15th, 2022 @ 21:00 CT
 

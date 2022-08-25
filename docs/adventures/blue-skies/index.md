@@ -78,19 +78,19 @@ The adventurers arrive in Marram and set off to find Philippe and/or Amalchi.
 
 Nine days of travel, arrival on the tenth day at night:
 
-1. Wolf's House [[wolfs-house]]
-2. 🏕 [[liquid-life]] adaptation
-3. Battle with Dagaz - Level 5 afterward
+1. [x] Wolf's House [[wolfs-house]]
+2. [x] 🏕 [[liquid-life]] adaptation
+3. [ ] Battle with Dagaz - Level 5 afterward
    1. Day turns to night for a while
    2. Then back to day, but it's now perpetual dawn
    3. Half-light
-4. [[hatching]] and [[pashas-path]]
-5. [[swamp-witch]]
-6. [[random-encounters]]
-7. 🏕 Near Korban's Memorial [[pastorale]]
-8. [[random-encounters]]
-9.  [[random-encounters]]
-10. Arrival in [[korbans-landing]]
+4. [ ] [[hatching]] and [[pashas-path]]
+5. [ ] [[swamp-witch]]
+6. [ ] [[random-encounters]]
+7. [ ] 🏕 Near Korban's Memorial [[pastorale]]
+8. [ ] [[random-encounters]]
+9. [ ] [[random-encounters]]
+10. [ ] Arrival in [[korbans-landing]]
 
 ## TODO List
 
