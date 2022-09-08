@@ -25,9 +25,10 @@ New format: interview the characters, and ask a few poignant questions.
 
 ## Gadot
 
-TODO
-
 - Father was a master thief; you are a thief. Why? Following in his footsteps?
+- You mentioned in passing that you don't want to mess with magic. Why?
+- How do you feel about having found Junior and having him so close to danger?
+- You had a dream where your father jumped off a cliff, seemingly to his death. How do you feel about that?
 
 ## Tiran
 

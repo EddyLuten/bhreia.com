@@ -54,7 +54,7 @@ The kitchen is open from 7 AM to 7 PM, and the bar is open from 12:00 PM to 12:0
 
 Garacan will warn them to stay away from the swamp when they check-in. He says that the animals have been more aggressive lately. Some alligator farmers are missing from town, though they were regulars at the bar. Garacan is afraid to go near.
 
-While the adventurers stay at the inn, they can overhear a conversation between two travelers about hearing singing voices from the swamps. The second says that he saw strange-looking chickens in the swamp.
+While the adventurers stay at the inn, they can overhear a conversation between two scuffed-up travelers about hearing singing voices from the swamps. The second says that he ran away from some strange-looking chickens in the swamp.
 
 ### The Hook
 
@@ -82,3 +82,21 @@ They'll see a mess of broken furniture inside and a rotting female skeleton mang
 A **DC 15 Investigation** check reveals many scratches on the wooden ladder leading into the loft. A **Carrion Crawler** (MM pg. 37) made its home up there, and its many legs have scratched the wood bare.
 
 Inside a small nightstand in the loft is a diary, the only valuable thing in this cabin.
+
+#### The Diary
+
+It belonged to a girl named Arya.
+
+!!! quote "The Diary: Distilled"
+    Being young and wanting to break out on her own, Arya grew tired of being an alligator farmer. One day, she packed her belongings and ran away to find her fortune. Though she knew the swamp well, on her way to Midway, she got lost. It was as though something had knocked her internal compass off balance.
+
+    She wandered for hours until she heard a wailing noise from a cave underneath a dead oak tree. She entered it and in the darkness, found herself peering into a single enormous glowing eye. Yet, for some unknowable reason, she was not afraid. She sensed a fragility in the eye, a tenderness, even. Though the two couldn't speak, and Arya couldn't see the creature in the darkness of the cave, she knew it was hurt and that she had to nurse it to health.
+
+    The sense of being lost disappeared, she recognized the area and knew it was about two hours south of her home. And home she ran, where she slaughtered a few of her parents' chickens and brought them back to the creature, who ate them immediately. Arya kept this up for weeks, bringing larger meals such as stray dogs and alligator meat, sensing that it needed more as time passed. Now, when she peered into that single eye, she felt something growing inside of her. A power she never had before. The more she fed it, the more her power grew. Those she came in contact with seemed to change as well, including the chickens, who when fed to the alligators, turned them into stone and walked away unscathed.
+
+    The final entry, dated only two days ago, describes seeing multiple smaller eyes and a cacophony of screeches. It mentions her plans to go back to the cave, but not before bringing better food in hope of more power granted by the glowing eye. This time, she's taking her parents along for dinner.
+
+### To The Cave
+
+- They find the footsteps of Arya and her parents, days old
+- Littered with stone creatures

@@ -3,7 +3,7 @@ categories:
     - Braving Bhreia
     - Sessions
 ---
-# Session 20
+# Session 21
 
 **Date:** Tuesday, August 17, 2022 @ 9:00 PM CT
 
