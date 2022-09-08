@@ -9,8 +9,8 @@ categories:
 
 <figure class="infobox right">
   <h3>Korbantir</h3>
-  <a href="/assets/images/korbantir-map-full-2022.png">
-    <img src="/assets/images/korbantir-map-tiny-2022.png" />
+  <a href="/assets/images/korbantir-map-2022-09-08-full.png">
+    <img src="/assets/images/korbantir-map-2022-09-08-tiny.png" />
   </a>
   <figcaption>
     The map of Korbantir, updated for Chapter 2. Click the image to download the full sized version.
@@ -106,6 +106,7 @@ Notable settlements only; there are numerous smaller villages not listed.
 - Leikon, a lake town that's supposedly one of the first Human settlements.
 - Salwen, build atop a high cliff face and producer of salt.
 - Dimeola, the sole town on an island in the Sea of Korban.
+- Midway, a village halfway between [[cauldins-point]] and [[korbans-landing]]
 
 ### Public Places
 
@@ -116,6 +117,16 @@ Notable settlements only; there are numerous smaller villages not listed.
 - Dual Sound Bluff: A natural rock formation that when struck by strong winds seems to emit the sound of two eerie singing voices.
 
 ### Other
+
+<figure class="infobox right">
+  <h3>Korbantir</h3>
+  <a href="/assets/images/korbantir-map-full-2022.png">
+    <img src="/assets/images/korbantir-map-tiny-2022.png" />
+  </a>
+  <figcaption>
+    The map of Korbantir, updated for Chapter 2. Replaced with an updated version during the campaign.
+  </figcaption>
+</figure>
 
 <figure class="infobox">
   <h3>Korbantir</h3>
