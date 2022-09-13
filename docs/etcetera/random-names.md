@@ -48,6 +48,7 @@ The random name generator is generally pretty bad, but you can get some gems by 
 - Elborn
 - Fayne
 - ~~Garacan~~
+- Groia
 - Hida
 - Homi
 - Hudu
