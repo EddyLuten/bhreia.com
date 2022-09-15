@@ -1,3 +1,6 @@
+---
+alias: interviews
+---
 # Character Interviews
 
 New format: interview the characters, and ask a few poignant questions.
@@ -32,7 +35,10 @@ New format: interview the characters, and ask a few poignant questions.
 
 ## Tiran
 
-TODO
+- The Ironstone Forge, your ancestral home, was burned down by the halfling that Wolf assaulted. How did this change how you see Wolf?
+- How do you feel about the fact that after your father left to find Gadot's father, your mother shacked up with Phidippus?
+- How do you feel about these clocks distributed around the world bearing the Ironstone name? Knowing that they were modified for god knows what reason by Phidippus?
+- As a young man, how do you cope with all of these things that have happened to you lately? Do you feel like it's affecting your worldview? Do you still have the same aspirations to become a blacksmith?
 
 ## Sebastian
 

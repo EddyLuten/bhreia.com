@@ -66,6 +66,7 @@ The current (3079) royal family:
   - Prince Callum, age 43
   - Princess Maruka, age 34
   - Princess Anjanna, age 28
+  - Princess Kassina, age 11
 
 Keeping with tradition, all kings have been named Kaylan and all marriages have resulted in Half-Elven offspring.
 
