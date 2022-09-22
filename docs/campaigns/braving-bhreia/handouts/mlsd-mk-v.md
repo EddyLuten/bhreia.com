@@ -22,4 +22,4 @@ categories:
 
 The MLSD (**M**echatronic **L**iaison, **S**entinel, and **D**efender) Mark V, is a device created in an alternate 1996 by the corporation GD Systems (Global Defense Systems).
 
-This particular device was transported during the disaster at Cauldin's Point, which pierced two dimensions. See also [[dr-malchi]].
+The prototype for this particular device was transported during the disaster at Cauldin's Point in 1994, which pierced two dimensions. See also [[dr-malchi]].

@@ -10,7 +10,15 @@ categories:
 
 - [Recap](../sessions/session-23.md)
 - [[interviews]]: Tiran
+- Wolf follows the flock of chickens to town
+- Tiran finds a new OS disk inside of Clank
 - Chickens attack Midway ([[swamp-witch]])
+
+## Clank OS
+
+As Tiran's repairing Clank, taped to the side of Clank's internals is a CD-ROM containing a prototype operating system. This was the dangerous OS that went haywire in the other universe but will give Clank more autonomy and interactivity.
+
+However, the CD itself is slightly damaged, so crucial parts of the program will not copy over, making the MLSD a bit unpredictable.
 
 ## After the Battle
 
