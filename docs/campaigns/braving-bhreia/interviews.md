@@ -42,4 +42,7 @@ New format: interview the characters, and ask a few poignant questions.
 
 ## Sebastian
 
-TODO
+- You wanted to become an adventurer, like your father and so many others in your family. Now that you're out in the world, is it what you expected?
+- Going from zero to killing seemed to go fast when you joined. One day you're traveling across the country, the next you're killing bandits and guards. Has every kill felt justified to you so far? Are you just going along with the group's decisions?
+- Now that you've met up with your cousin Tiran, do you feel like you're striking up a bond? Does it feel like family?
+- As the newest member of the group, do you feel like an outsider?

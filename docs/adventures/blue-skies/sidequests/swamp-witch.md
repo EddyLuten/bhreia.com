@@ -73,11 +73,14 @@ BATTLE
 
 When the adventurers come upon the alligator farm, a terrible stench overwhelms them. The captive alligators died from starvation and lay rotting in their pens.
 
-There's a chicken coop near the farmhouse, forced open *from the inside*. Inside, there are only rotten eggs and old blood on the straw floor.
+!!! quote "Flavor Text"
+    Standing at the gate of the alligator farm, you can see a cloud of black flies swarming around the six pens lining the walkway leading up to a log cabin. Its front door swings slowly in the breeze.
 
 The farmhouse is a log cabin three feet elevated on damp yet sturdy cypress poles pressed into hard clay. The structure is modest: three rooms and a loft above the main room, covering half its interior.
 
-They'll see a mess of broken furniture inside and a rotting female skeleton mangled on the dining room floor as they enter. Old blood covers everything.
+There's a chicken coop near the farmhouse, forced open *from the inside*. Inside, there are only rotten eggs and old blood on the straw floor.
+
+They'll see a mess of broken furniture inside and blood covers everything. There's a used butcher's knife on the table, entirely covered in blood.
 
 A **DC 15 Investigation** check reveals many scratches on the wooden ladder leading into the loft. A **Carrion Crawler** (MM pg. 37) made its home up there, and its many legs have scratched the wood bare.
 
@@ -85,16 +88,22 @@ Inside a small nightstand in the loft is a diary, the only valuable thing in thi
 
 #### The Diary
 
-It belonged to a girl named Arya.
+Leatherbound, the title page says "Arya" in bubbly cursive.
 
 !!! quote "The Diary: Distilled"
-    Being young and wanting to break out on her own, Arya grew tired of being an alligator farmer. One day, she packed her belongings and ran away to find her fortune. Though she knew the swamp well, on her way to Midway, she got lost. It was as though something had knocked her internal compass off balance.
+    Arya's diary portrays the thoughts of a bored teenage girl, stuck with her parents far from anything interesting.
 
-    She wandered for hours until she heard a wailing noise from a cave underneath a dead oak tree. She entered it and in the darkness, found herself peering into a single enormous glowing eye. Yet, for some unknowable reason, she was not afraid. She sensed a fragility in the eye, a tenderness, even. Though the two couldn't speak, and Arya couldn't see the creature in the darkness of the cave, she knew it was hurt and that she had to nurse it to health.
+    One day, weeks ago, she packed her belongings and ran away to search for a better future. Though she knew the swamp well, on her way to Midway, she became lost. It was as though something had knocked her internal compass off balance.
 
-    The sense of being lost disappeared, she recognized the area and knew it was about two hours south of her home. And home she ran, where she slaughtered a few of her parents' chickens and brought them back to the creature, who ate them immediately. Arya kept this up for weeks, bringing larger meals such as stray dogs and alligator meat, sensing that it needed more as time passed. Now, when she peered into that single eye, she felt something growing inside of her. A power she never had before. The more she fed it, the more her power grew. Those she came in contact with seemed to change as well, including the chickens, who when fed to the alligators, turned them into stone and walked away unscathed.
+    She wandered for hours until she heard a wailing noise from a cave underneath a dead oak tree. She entered it and in the darkness, found herself peering into a single glowing eye. Yet, somehow, she was not afraid. There was a sensibility in its gaze, a tenderness, even. Though the two couldn't speak, and Arya couldn't see the creature in the darkness of the cave, she knew it was hurt and that she had to nurse it to health.
 
-    The final entry, dated only two days ago, describes seeing multiple smaller eyes and a cacophony of screeches. It mentions her plans to go back to the cave, but not before bringing better food in hope of more power granted by the glowing eye. This time, she's taking her parents along for dinner.
+    The sense of being lost disappeared, she recognized the area and knew it was about two hours south of her home. And home she ran, where she slaughtered a few of her parents' chickens and brought them back to the creature, who ate them greedily. Arya kept this up for weeks, bringing larger meals such as stray dogs and alligator meat, sensing that it needed more as time passed.
+
+    Now, when she peered into that single eye, she felt something growing inside of her. A power she never had before, something changing her. She picked up a toad in the swamp, which looked at her and turned to stone.
+
+    The more she fed the one-eyed creature, the more her abilities grew. A gift from the cave dweller. Now she was able to transfer some of her abilities to others. She started with her chickens.
+
+    The final entry, dated only two days ago, describes seeing multiple smaller eyes in the cave and a cacophony of screeches. It mentions her plans to go back to the cave, to stay there, but not before bringing better food in hope of more power granted by the glowing eye. This time, she's taking her parents along for dinner.
 
 ### To The Cave
 
