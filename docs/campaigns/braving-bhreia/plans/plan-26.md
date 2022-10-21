@@ -4,7 +4,7 @@ categories:
     - DM Only
 ---
 
-# 🔐 Plan: Session 25
+# 🔐 Plan: Session 26
 
 --8<-- "spoiler.html"
 
@@ -44,11 +44,13 @@ Arya will beg for her life, Ix will debate the group if they try to intervene. H
 
 If they search Ix, they will find a piece of paper with an address on it in Korban's Landing. This is his weapons stash.
 
-> 3810 Galler Way  
+> 3810 Geller Way  
 > Compartment 72B  
 > The Old City  
 > Korban's Landing  
 > Password: ma's favorite song
+
+They could get the song name from Ix with some convincing or intimidation. The song's name is **The Fire's Grown Cold**.
 
 ## Midway
 
@@ -62,8 +64,17 @@ A **DC 10 Nature** check by Pasha will reveal that the smell coming from the car
 
 If they help Theo, they may see that this is only a small piece of squid tentacle -- a giant squid. It takes up the entire cart and is stapped down with thick ropes to prevent it from shifting.
 
+Reward: He will give them a brass token, resembling a **Square Knot**. He tells them that they can use this at **The Salt Lick** (a tavern for sailors) for a free round of drinks. "Tell 'em Theo sent ye."
+
 Theo is taking the squid arm to Leecham where there's a professor who might be able to tell more about the arm. The professor's name is Kenkar (an anagram for Kraken).
 
-Strange creatures have been seen in the seas as of late, this arm was cut off by a crew trying to prevent whatever owned the arm from capsizing their ship.
+This arm was cut off by a crew trying to prevent whatever owned the arm from capsizing their ship.
 
-Theo hasn't had any encounters himself, but there are plenty of stories being told.
+Strange creatures have been seen in the seas as of late, tales of:
+
+- Strange pale people walking into the ocean as if taking a stroll, wearing nothing but white nightgowns
+- Distant songs echoing across the waves, their lyrics incomprehensible, yet beautiful and enticing, drawing you onto the open sea
+- Fins the size of ships breaching the surface, clipping the sides of ships
+- And worst of all: the corpses of sailors long since drowned washing up on shore. Theo found his best friend on the beach, his body perfectly preserved. He drowned more than a decade ago.
+
+He says that there are plenty more stories being told. All these things have been happening since the dragon attack last year. Things have been getting bananas.
