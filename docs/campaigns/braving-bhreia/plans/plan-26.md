@@ -34,15 +34,21 @@ Four rounds into the battle, Ix will show up.
 
 ## Aftermath
 
-Arya is hiding in the cave, Ix will find her if nobody else does. She's tired, hungry, and scared. She claims that she was under some sort of influence until about two days ago when she suddenly lost her powers.
+**Arya** is hiding in the cave, **Ix** will find her if nobody else does. She's tired, hungry, and scared. She claims that she was under some sort of influence until about two days ago when she suddenly lost her powers.
 
-A DC 15 Insight check will reveal that she's lying about being under an influence. She was doing this for the power that the dragon gave her.
+A **DC 15 Insight** check will reveal that she's lying about being under an influence. She was doing this for the power that the dragon gave her.
 
-Ix carries with him a piece of stone horn -- he broke it off Garacan's head. He knows that to undo the petrification curse, he must kill the source. He figured out it is Arya and will attempt to kill her.
+Ix carries with him a piece of stone horn -- he broke it off Garacan's head. He knows that to undo the petrification curse, he **must kill the source**. He figured out it is Arya and will attempt to kill her.
 
 Arya will beg for her life, Ix will debate the group if they try to intervene. He can be driven to fight.
 
 If they search Ix, they will find a piece of paper with an address on it in Korban's Landing. This is his weapons stash.
+
+> 3810 Galler Way  
+> Compartment 72B  
+> The Old City  
+> Korban's Landing  
+> Password: ma's favorite song
 
 ## Midway
 
@@ -50,4 +56,14 @@ Back in town, depending on what happened in the cave, Garacan will be unpetrifie
 
 ## On The Road
 
-Skip the rest of the travel and go to Korban's Landing.
+They encounter a man named Theophilus (Theo) Picot, a fisherman from Korban's Landing whose cart has fallen over.
+
+A **DC 10 Nature** check by Pasha will reveal that the smell coming from the cart is squid.
+
+If they help Theo, they may see that this is only a small piece of squid tentacle -- a giant squid. It takes up the entire cart and is stapped down with thick ropes to prevent it from shifting.
+
+Theo is taking the squid arm to Leecham where there's a professor who might be able to tell more about the arm. The professor's name is Kenkar (an anagram for Kraken).
+
+Strange creatures have been seen in the seas as of late, this arm was cut off by a crew trying to prevent whatever owned the arm from capsizing their ship.
+
+Theo hasn't had any encounters himself, but there are plenty of stories being told.

@@ -80,13 +80,13 @@ Nine days of travel, arrival on the tenth day at night:
 
 1. [x] Wolf's House [[wolfs-house]]
 2. [x] 🏕 [[liquid-life]] adaptation
-3. [ ] Battle with Dagaz - Level 5 afterward
+3. [x] Battle with Dagaz - Level 5 afterward
    1. Day turns to night for a while
    2. Then back to day, but it's now perpetual dawn
    3. Half-light
-4. [ ] [[hatching]] and [[pashas-path]]
+4. [x] [[hatching]] and [[pashas-path]]
 5. [ ] [[swamp-witch]]
-6. [ ] [[random-encounters]]
+6. [ ] Theophilus and his giant squid arm
 7. [ ] 🏕 Near Korban's Memorial [[pastorale]]
 8. [ ] [[random-encounters]]
 9. [ ] [[random-encounters]]

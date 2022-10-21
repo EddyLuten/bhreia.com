@@ -22,6 +22,8 @@ Cost of entry: A promise.
 
 TODO.
 
+A puppet show with the following words between the actors:
+
 !!! cite "Amalchi and Bhreia"
     **Amalchi**  
     I burn in heavens blue, my blaze,  
