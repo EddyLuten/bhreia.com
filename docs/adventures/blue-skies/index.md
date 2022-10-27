@@ -87,9 +87,9 @@ Nine days of travel, arrival on the tenth day at night:
 4. [x] [[hatching]] and [[pashas-path]]
 5. [ ] [[swamp-witch]]
 6. [ ] Theophilus and his giant squid arm
-7. [ ] 🏕 Near Korban's Memorial [[pastorale]]
-8. [ ] [[random-encounters]]
-9. [ ] [[random-encounters]]
+7. [ ] 🏕 Near Korban's Memorial: catch up with Tino Block
+8. [ ] [[random-encounters]]: Baby up a tree
+9. [ ] [[random-encounters]]: The Runaway Prisoner
 10. [ ] Arrival in [[korbans-landing]]
 
 ## TODO List

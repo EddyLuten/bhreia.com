@@ -8,7 +8,7 @@ categories:
 
 **Date:** Thursday, September 29, 2022 @ 9:00 PM CT
 
-**Audio:** [MP3](https://drive.google.com/file/d/15sMrFoCqyQZVThPEdMimJguntZN83nWc/view?usp=drivesdk) (2h 36m, 150MB)
+**Audio:** [MP3](https://drive.google.com/file/d/1hWXlN_eNTcCAb3qlgQj4Z8n4Mx_diIGr/view?usp=drivesdk) (2h 20m, 134 MB)
 
 On his way out of town to meet up with the group, Tiran met up with Ix, the elderly Tiefling at the inn. He told him that he'll likely become the owner of the place as a trade for undoing the petrification of Garacan. He also said that once he retires from adventuring, he'll have some interesting items to sell Tiran both here in Midway as well as in Korban's Landing.
 
