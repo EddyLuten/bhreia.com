@@ -11,17 +11,29 @@ categories:
 - [Recap](../sessions/session-27.md)
 - New interview format: Pasha
 
-TODO
-
-- What's up with Clank getting a signal?
-
 ## Clank's Signal
 
-TODO
+DC 15 Perception will reveal a fast-moving star across the sky. When it passes, the antenna will retract and it will face Tiran.
+
+Clank will say that he made brief contact with a global positioning system satellite and received new telemetry.
+
+> Tiran, I have received new telemetry. Do you wish to wish to hear a summary?
+>
+> The satellite confirms that we are no longer on Earth. Our current location is UNKNOWN. Tiran, I have instructed the satellite to scan for radio signals and began broadcasting an emergency radio signal containing our position relative to the planet's magnetic poles on the planet's surface. The satellite will return with an update in approximately 23 hours and 55 minutes. End of summary.
 
 ## Tiran's Wound
 
-TODO Not healing right. His arm.
+After being badly damaged while being petrified, Tiran's left arm is not healing right. The wound doesn't close entirely, even with magical help. It leaves a deep fleshy scar that oozes a pale yellow pus when it rains.
+
+## Pig Fed
+
+In the morning, it's raining. Tiran's wound will hurt.
+
+Garacan serves breakfast to everyone and says that he has taken care of the girl's corpse. He will say that he buried it in the family's plot.
+
+A **DC 15 Insight** will reveal that this is a lie.
+
+On the way to the stables, the pigs can be seen chewing on a piece of fabric. A **DC 13 intelligence** check will reveal that this is the same fabric as the girl's dress.
 
 ## Road Squid
 

@@ -37,7 +37,11 @@ For over fifty years Wolf has persued his passion finding a love for good cigars
 Recently Wolf received an invitation to attend a birthday celebration for Dauriel in Cauldin's Point for which he has no intention on missing.
 
 ??? danger "DM: Observations"
-    Owns a giant goat named Ramona.
+    Is 127 years old.
+
+    Was named Wolf by [[dauriel]].
+
+    Owns a giant goat named Ramona -- named after an old friend.
 
     Has a desire to vist the Feywild.
 
