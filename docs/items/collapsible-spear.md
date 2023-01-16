@@ -1,5 +1,5 @@
 ---
-alias: swykr-oil
+alias: collapsible-spear
 categories:
     - Handouts
     - Items

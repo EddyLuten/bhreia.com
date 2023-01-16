@@ -1,4 +1,5 @@
 ---
+alias: cauldins-sword
 categories:
     - Braving Bhreia
     - Handouts
