@@ -9,7 +9,7 @@ categories:
 
 # Pelang Box
 
-The Pelang Box is a small 6x6x6 inch box constructed from stonewood native to Yungxi's easternmost islands.
+The Pelang Box is a small 6x6x6 inch box constructed from Stonewood native to Yungxi's easternmost islands.
 
 The box opens by speaking the Yungxi symbols on it aloud:
 
@@ -30,4 +30,6 @@ On the inside of the box is a carving of an island and Yungxi words:
 
 - Sunrise - Loh-gua
 - Two - Te
-- Days - Lom
+- Day - Lom
+
+If the dragonfly is flown in the direction of the sunrise for two days straight, the riders will arrive at [[loh-gua]] island from wherever they are. If the intent is to reach Loh-Gua and the dragonfly flies in its direction, it will not require a recharge until it has reached the island.

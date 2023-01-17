@@ -51,6 +51,8 @@ Triggering these traps will cause the sconce to ignite and explode the methane b
 
 ## Korban's Prison
 
+[[korban]], the historical figure long thought to be dead, and memorialized through this monument, is still alive as a prisoner in a glass sphere.
+
 !!! Quote "On opening the door."
     You push on the door, which breaks into rotten chunks in your hands. An odor of wet mold briefly fills the air as the door's remains crumble to the ground. When you peer into the next room, you first notice a large framed image portraying a moving landscape. You realize you're looking at a cultivated wheat field gently rippling in the breeze under a bright midday sun. Stretching out into the distance is a dark road that contrasts against the reddish soil and dried grasses surrounding it. The blue midday sky switches for a pitch-black canvas embroidered with bright stars. A voice calls out as you try to figure out what's happening.
 
@@ -61,13 +63,19 @@ Those who understand Elvish:
 !!! Quote "Korban"
     Laying on a bed of his grown-out white hair inside a glass sphere, you see an ancient Elvish figure slowly moving to face your direction. "I hear you," he calls out. His blind eyes aimlessly search for something to see. Slowly, he lifts himself with his spindly limbs and rests his naked body against the sphere's surface. His skin is thin as rice paper, translucent, showing his squirming insides below its surface. On his chest is a large scar, healed long ago but still red and wet with inflammation. "Who visits me today?"
 
-Korban was trapped in this sphere 872 years ago. He only speaks Elvish.
+## Q&A
 
-**Why is he there?** After having slain Amalchi in human form, Donitar, one of the Leikon brothers, trapped him down here. The sphere has magical properties that keep him alive indefinitely but don't stop his aging.
+Korban was trapped in this sphere 872 years ago, in 2208. He only speaks Elvish and Old Common.
 
-**Why did Donitar do this?** He was a secret follower of Amalchi taking revenge. Over the years, other followers of Amalchi have visited Korban to gloat over his condition.
+**Why is he there?** After having slain Amalchi in human form, a group of Amalchi worshippers killed Korban on his way back to Darvia as revenge for killing their incarnated deity. A group of humans named the [[human-trinity]] claimed responsibility for the killing to drive a divide between the growing alliance between Elves and Humans.
 
-**Any lately?** Yes, though he doesn't know precisely how long ago. A man visited him, but Korban was blind by then, so he couldn't see him. He also doesn't quite know how much time has passed.
+**Has anyone visited lately?** Yes, though he doesn't know precisely how long ago. A man visited him, but Korban was blind by then, so he couldn't see him. He also doesn't know how much time has passed since his imprisonment. He guesses two-hundred years but is shocked to find out it is 872 instead.
+
+**On Korbantir.** Korban doesn't know that the country is named after him, making him quite emotional. The kingdom was named after a brief war during the Third Age when the Western and Eastern regions combined.
+
+**What does he want?** He wants to be allowed to die. Breaking the sphere will end the spell that keeps him alive. Learning about the influence of his legacy on this kingdom makes him even more inclined to die to prevent influencing policy or opinion. His opinion is that meeting your heroes leads to heartache.
+
+**Cauldin's Cursed Sword.** Korban gave this sword to Cauldin to commemorate the forming of the friendship between humans and elves. Its curse is an effect to punish anyone but Cauldin from wielding it. He is happy to lift the curse by speaking the right words if they can get him out. See [[cauldins-sword]].
 
 **What is the painting?** It's a portal to predetermined destinations:
 
@@ -79,3 +87,39 @@ Korban was trapped in this sphere 872 years ago. He only speaks Elvish.
   > The survivors' camp at Cauldin's Point. People are standing in line, waiting for food.
 - Mt. Amarantos
   > You look down the mouth of a volcano into the hot bubbling mass below. It's hard to tell, but it looks like a large creature swims through it.
+
+Korban says you must press the white orb attached to the platform in front of the portal to activate it. It locks in the target currently displayed and opens the portal. However, it seems that the platform was removed while Korban was blind. Perhaps by the latest visitor?
+
+### Korban's Info
+
+Korban has some information about each destination that the portal can reach. However, Korban's data is almost 900 years outdated.
+
+#### Earth
+
+Earth is a savage place without magic and solely inhabited by humans. They are technologically regressed compared to the people of these lands (meaning Korbantir before it was named so).
+
+#### Lunar Colony
+
+The Lunar Colony, [[reenashi]], is a recent development spearheaded and named after Korban's sister, Reenash. There are two ways of getting there: by portal or by [[asterskif]]. The only other portal that Korban knows of is in Darvia.
+
+Korban is surprised that they haven't heard of the lunar colony.
+
+#### Cauldin's Point
+
+Cauldin's Point camp is an encampment led by his dear friend Cauldin of Leikon, who fell in love with the area while traveling through it. It is an excellent place to build a town, centrally located with plenty of fresh water and fertile soil.
+
+#### Mt. Aramantos
+
+Korban declines to tell more about this location.
+
+If persuaded, he will say that the place is named Mt. Aramantos, a prison of an evil greater than Amalchi. He tells them not to go there and leave it be.
+
+## Breaking the Sphere
+
+It is possible to break the sphere. However, a powerful **6th-level** abjuration spell protects it. The sphere is indestructible until the spell is removed.
+
+All damage deflects back to the dealer while the spell is still active.
+
+If the spell is dispelled, but the sphere isn't broken, Korban will slowly suffocate to death.
+
+If the sphere breaks after the spell ends, the falling shards of glass impale him, ending his life.

@@ -6,7 +6,7 @@
 
 #### Assassination of Korban
 
-Play from the perspective of Korban's assassins or perhaps Korban himself. Leading up to his assassination in the forest now known as Korban's Ruin.
+Play from the perspective of Korban's assassins or perhaps [[korban]] himself. Leading up to his assassination in the forest now known as Korban's Ruin.
 
 Figures involved:
 

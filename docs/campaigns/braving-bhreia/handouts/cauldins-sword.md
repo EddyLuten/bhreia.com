@@ -34,3 +34,5 @@ Upon handling this sword, you notice it seems to have been made for you. It woul
     - It can be the player's blood
     - Player will take damage if the sword isn't fed
     - Ancestors of Cauldin will not be affected by the curse
+    - The curse may be broken by speaking the phrase:
+      > Solvex animati, solvex manutia.
