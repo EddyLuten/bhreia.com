@@ -4,7 +4,7 @@ categories:
     - Handouts
     - Items
 ---
-# 🔐 Dagaz' Eye
+# Dagaz' Eye
 
 <figure class="infobox right">
   <h3>Dagaz</h3>
@@ -15,8 +15,6 @@ categories:
     Dagaz, a sketch.
   </figcaption>
 </figure>
-
---8<-- "spoiler.html"
 
 Upon his death, Dagaz will leave behind his single blazing eye.
 
