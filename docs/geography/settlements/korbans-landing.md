@@ -43,6 +43,17 @@ While none of these neighborhoods are explicitly named, they are known to the pe
 
 The road entering the city from the west and terminating at its center is named **Korban's Way**. The closest town west along this route is [[cauldins-point]], several days away.
 
+??? Danger "DM: Western Approach"
+    You crest one final hill and, for a moment, stop at its apex to take in the sprawling city a few miles ahead. Situated on Korbantir's eastern coast is Korban's Landing, the country's second-largest port city and economic powerhouse. Judging by the massive harbor complex running the entire city's length, you don't doubt this fact for a moment. Fishing vessels, haulers, and ocean transports of all origins and sizes swarm the city's bay like water bugs while an endless trail of cargo wagons circulates its roads.
+
+    The city's original center, now a neighborhood named *The Old City*, hugs the main port where dozens of massive ocean-faring vessels lay moored. Even from this distance, you can see the harbor bustling with innumerable longshoremen and sailors hauling cargo. This is where the Eastern half of Korbantir handles its imports and exports with the rest of the world. The shops and stores of The Old City, encircled by the ruins of the limestone city wall, are where you get the best deals in the country.
+
+    South of The Old City is the neighborhood known as *The Haunches*, home to dry docks, shipyards, factories, warehouses, landfills, and most of their workforce. While The Old City is its literal center, The Haunches contains the city's heart and soul -- for better or worse.
+
+    You continue down the hill and approach the western part of the city, a neighborhood named *Ashwood Heights.* This is the city's most affluent neighborhood, where most villas are protected by private security and spike-topped walls, keeping the riff-raff out. It's named after the ashwood forest surrounding it, forming a natural barrier against the odors of the fishing industry. Ashwood Heights houses the homes and second homes of many a royal, religious leader, and other important figures.
+
+    Welcome to Korban's Landing.
+
 The road that bisects the city and runs from north to south is named the **Marisian Trail**.
 
 ### Points of Interest
@@ -61,11 +72,11 @@ These are well-known places in the city.
 10. **Lighthouse:** Built on the place where the Leikon brothers were supposed to have first spotted Korban approach. Eventually a signal fire was lit here to aid Darvian sailors, and finally replaced with this lighthouse.
 
 ??? danger "DM Only: Other Places"
-    - Ejol's Emporium
+    - [[ejols]]
     - Utra's Boutique (Utra Balonk)
     - Nibo's Stables (Nibo Yonk)
     - Bannaboona's Den
-    - Madame Mollisher
+    - [[madame-mollishers]]
 
     Taverns/Inns:
     

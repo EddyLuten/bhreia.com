@@ -16,7 +16,7 @@ In the morning, Pasiphae tried to help Tiran with his wounded shoulder, but she 
 
 An Aldarion Unlimited rider showed up while you ate breakfast and handed a wanted poster to Pasiphae behind the bar. He had a quick drink and left without noticing you sitting there. The print only mentioned Tiran and Wolf by name and crude portraits, but nobody else explicitly. A reward is out for your capture, either dead or alive. The charges are murder. The rider posted another poster on a pole in town, which Wolf quickly took down after he rode Eastward out of town.
 
-Pasiphae told you to leave quickly and informed you that you might have some luck staying at Madame Mollisher's in Korban's Landing. That is, as long as you tell them that *Passi* sent you. You quickly say your goodbyes and leave Midway behind.
+Pasiphae told you to leave quickly and informed you that you might have some luck staying at [[madame-mollishers]] in Korban's Landing. That is, as long as you tell them that *Passi* sent you. You quickly say your goodbyes and leave Midway behind.
 
 After a day of travel, you arrived at Korban's Memorial, where you set up camp for the night. The field surrounding the central statue was empty, and you had the place to yourselves. As night fell, Sah-Sauj took the first watch and soon heard someone approaching. It turned out to be the sick hobo who tried to hire you to steal health potions from an Aldarion Unlimited wagon. A scheme that failed and almost got you all into trouble because *someone* attempted to take this person's wooden box.
 

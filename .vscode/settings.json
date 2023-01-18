@@ -18,6 +18,6 @@
         "**/*.txt",
     ],
     "grammarly.config.documentDialect": "american",
-    "grammarly.config.documentDomain": "general",
+    "grammarly.config.documentDomain": "creative",
     "grammarly.config.suggestions.PassiveVoice": true
 }

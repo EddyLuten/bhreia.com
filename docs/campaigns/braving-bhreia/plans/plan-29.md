@@ -10,16 +10,18 @@ categories:
 
 - [Recap](../sessions/session-28.md)
 - New interview format: Tiran
+- Retcon: Korban's statue is about 800 years old, not 2000
+- Note: they killed 6 [[au]] employees, including the inquisitor
 - Sah-Sauj dream of Fred/Brother/Amalchi
-- Retcon: statue is about 800 years old, not 2000
-- Next watch: 1d20 > 15 chance of a large [[macoyii]] attack
 - Clank receives an update from the satellite
   - Turn on the boombox at a specific frequency
   - Receive a transmission from someone
-- Sebastian stops feeling the presence of his hawk
-  - able to recall it
-- Dealing with the corpse
-- Finding the room under [[korbans-memorial]]
+- Next watch: 1d20 > 15 chance of a large [[macoyii]] attack
+- Morning:
+  - Sebastian stops feeling the presence of his hawk
+    - able to recall it
+  - Dealing with the corpse
+  - Finding the room under [[korbans-memorial]]
 
 ## Quick Sah-Sauj Note
 
