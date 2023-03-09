@@ -14,12 +14,12 @@ categories:
     <img src="/assets/images/korbans-landing-no-poi-tiny.png" />
   </a>
   <figcaption>
-    The map of Korban's Landing. See the map labels section below for information on points of interest. Click the image to download the full sized version.
+    The map of Korban's Landing. See the map labels section below for information on points of interest. Click the image to download the full-sized version.
   </figcaption>
 </figure>
 
 !!! info
-    This page may still change a bit, but is mostly complete and accurate.
+    This page may still change, but is mostly complete and accurate.
 
 Korban's Landing is a port city located on the eastern coast of [[korbantir]], bordering the Sea of Korban. It is also historically significant in that it was the first meeting place between elves and humans. Its namesake Korban sailed from Darvia and landed here, meeting the brothers Cauldin of Leikon and Donitar of Leikon. See the [[korbantir]] page for details on this event.
 
@@ -50,7 +50,7 @@ The road entering the city from the west and terminating at its center is named 
 
     South of The Old City is the neighborhood known as *The Haunches*, home to dry docks, shipyards, factories, warehouses, landfills, and most of their workforce. While The Old City is its literal center, The Haunches contains the city's heart and soul -- for better or worse.
 
-    You continue down the hill and approach the western part of the city, a neighborhood named *Ashwood Heights.* This is the city's most affluent neighborhood, where most villas are protected by private security and spike-topped walls, keeping the riff-raff out. It's named after the ashwood forest surrounding it, forming a natural barrier against the odors of the fishing industry. Ashwood Heights houses the homes and second homes of many a royal, religious leader, and other important figures.
+    You continue down the hill and approach the western part of the city, a neighborhood named *Ashwood Heights.* This is the city's most affluent neighborhood, where most villas are protected by private security and spike-topped walls, keeping the riff-raff out. It's named after the [[ashwood]] forest surrounding it, forming a natural barrier against the odors of the fishing industry. Ashwood Heights houses the homes and second homes of many a royal, religious leader, and other important figures.
 
     Welcome to Korban's Landing.
 
@@ -73,14 +73,15 @@ These are well-known places in the city.
 
 ??? danger "DM Only: Other Places"
     - [[ejols]]
-    - Utra's Boutique (Utra Balonk)
-    - Nibo's Stables (Nibo Yonk)
+    - Uhtra's Boutique (Uhtra Balonk)
+    - Fibo's Fillies (Fibo Illianosca)
     - Bannaboona's Den
     - [[madame-mollishers]]
 
     Taverns/Inns:
     
     - The Salt Lick - Harbor tavern (no inn)
+    - The Breezy Merman - A same-sex bar in the harbor near the Salt Lick.
     - Gigglemug's - Ashwood Heights fancy inn
     - Jugascuzz - The Haunches terrible inn
 

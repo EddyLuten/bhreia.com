@@ -26,7 +26,7 @@ Created in a fit of jealous anger by Bhreia's nameless brother (see [[timeline]]
 
 ## Worship
 
-Dhoutr has many followers across Bhreia who congregate in temples commonly found in large population centers. There are two main distinguishing features of these temples: first, they are constructed from oily black stone, simply enough named *Black Stone*, and secondly, they host at least two tall pillars per temple on the temple grounds.
+Dhoutr has many followers across Bhreia who congregate in temples commonly found in large population centers. There are two main distinguishing features of these temples: first, they are constructed from oily black stone, simply enough named *[[black-stone]]*, and secondly, they host at least two tall pillars per temple on the temple grounds.
 
 These fifty-foot pillars are the final destinations for the most devout followers of Dhoutr, the *Santekka*, or *Stylites* in the common tongue. The Stylites ascend these pillars and remain seated atop them until they die from starvation.
 

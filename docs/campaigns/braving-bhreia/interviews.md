@@ -5,6 +5,8 @@ alias: interviews
 
 New format: interview the characters, and ask a few poignant questions.
 
+Sah-Sauj -> Wolf -> Pasha -> Gadot -> Tiran -> Sebastian
+
 ## Sah-Sauj
 
 - Why did you leave your home country?

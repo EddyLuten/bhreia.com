@@ -21,6 +21,8 @@ Though uncommon, lodging is available upon request but at a steep surcharge.
 
 Morgan Mollisher is originally from [[rivoni-springs]], part of the infamous Mollisher family in charge of operating the gondolas there. She fled to Korban's Landing after she learned that a price was put on her head there by a rival family.
 
+She's very proud of the business she has built here (though with significant starting capital) and her clientele, which includes some notable local figures.
+
 ### Employees
 
 **Robin Sola:** A middle-aged female prostitute of Human descent who occasionally runs the brothel in Morgan's stead.
