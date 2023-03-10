@@ -72,18 +72,29 @@ These are well-known places in the city.
 10. **Lighthouse:** Built on the place where the Leikon brothers were supposed to have first spotted Korban approach. Eventually a signal fire was lit here to aid Darvian sailors, and finally replaced with this lighthouse.
 
 ??? danger "DM Only: Other Places"
-    - [[ejols]]
-    - Uhtra's Boutique (Uhtra Balonk)
-    - Fibo's Fillies (Fibo Illianosca)
-    - Bannaboona's Den
-    - [[madame-mollishers]]
+    Stores:
+
+    - [[ejols]] - magical items (chain store)
+    - Utra's Boutique (Utra Balonk) - clothing
+    - Fibo's Fillies (Fibo Illianosca) - stables
+    - Bannaboona's Den - Boona gang hideout
+    - [[madame-mollishers]] - brothel
+    - Lexander Alchemical - potions
+    - Blacksmith Braggish (Braggish of the Prod'ash clan) - armor and weapons
+    - Rayna's Castle (Rayna Drenthe) - fish burgers
+    - Arcane Attic (Ellegrin Snunders) - used magical items
+    - Killiam's Kit - adventuring gear and general store
+    - Ashwood University - serving those who can afford
+    - Gemma Jean (Gemma Jean Cooke) - gemstones
 
     Taverns/Inns:
-    
+
     - The Salt Lick - Harbor tavern (no inn)
     - The Breezy Merman - A same-sex bar in the harbor near the Salt Lick.
     - Gigglemug's - Ashwood Heights fancy inn
     - Jugascuzz - The Haunches terrible inn
+    - Caravan Inn - A chain inn, a safe, but boring choice
+    - Palinotra Pig - a very fancy restaurant
 
 ??? danger "DM Only: Blue Streak"
     The blue streak on the map represents the path of destruction that [[amalchi]] caused while flying over the city. The temple and the houses are being rebuilt, but are still mostly in ruins.
