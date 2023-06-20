@@ -2,7 +2,7 @@
 alias: ring-of-bleeding
 categories:
     - Handouts
-    - Items
+    - Items|Rings
 ---
 # Ring of Bleeding
 
