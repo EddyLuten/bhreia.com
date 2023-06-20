@@ -1,7 +1,6 @@
 ---
 categories:
-    - Session Plans
-    - DM Only
+    - DM Only|Plans|Session Plans
 ---
 
 # 🔐 Plan: Session 12
@@ -44,4 +43,3 @@ It will notice Pasha.
     You see through its gaping maw something beginning to glow in its throat, as it begins to fly directly toward you.
 
     Roll for initiative.
-

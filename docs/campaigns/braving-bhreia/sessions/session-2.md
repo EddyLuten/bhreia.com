@@ -1,7 +1,6 @@
 ---
 categories:
-    - Braving Bhreia
-    - Sessions
+    - Braving Bhreia|Sessions
 ---
 # Session 2: Found a Tomb
 

@@ -1,7 +1,6 @@
 ---
 categories:
-    - Braving Bhreia
-    - Sessions
+    - Braving Bhreia|Sessions
 ---
 # Session 8: A Giant Puzzle
 

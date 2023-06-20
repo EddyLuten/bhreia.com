@@ -2,8 +2,7 @@
 alias: the-end
 categories:
     - Braving Bhreia
-    - DM Only
-    - Session Plans
+    - DM Only|Plans
 ---
 # 🔐 The End
 

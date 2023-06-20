@@ -1,7 +1,6 @@
 ---
 categories:
-    - Braving Bhreia
-    - Sessions
+    - Braving Bhreia|Sessions
 ---
 # Session 4: Meeting Dauriel
 
