@@ -4,6 +4,7 @@ repo_url: https://github.com/EddyLuten/bhreia.com
 repo_name: EddyLuten/bhreia.com
 plugins:
   - alias
+  - live-edit
   - awesome-pages
   - categories:
       no_nav: true
