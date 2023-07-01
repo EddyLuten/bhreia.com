@@ -1,5 +1,8 @@
 ---
-alias: history-age-4
+alias:
+    - history-age-4
+    - age-4
+    - fourth-age
 categories:
     - Lore
     - Meta
@@ -12,6 +15,8 @@ Years 3001 through the present.
 
 !!! warning
     This page is still under construction.
+
+[[minduran-ii]] prophecized that this Age would be the last.
 
 - A fragile peace solidifies as each creature retreats into their own domain.
 - Mixing of Peoples and Monsters

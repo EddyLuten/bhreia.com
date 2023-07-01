@@ -8,6 +8,10 @@ categories:
 !!! warning
     This page is a work in progress.
 
+[cards cols=2(docs/deities/deities.yaml)]
+
+## Family Tree
+
 Empty nodes represent joinings.
 
 ```mermaid

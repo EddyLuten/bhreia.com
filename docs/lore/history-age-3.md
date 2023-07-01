@@ -1,5 +1,8 @@
 ---
-alias: history-age-3
+alias:
+    - history-age-3
+    - age-3
+    - third-age
 categories:
     - Lore
     - Meta

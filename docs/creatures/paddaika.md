@@ -6,7 +6,7 @@ categories:
 
 # Paddaika
 
-Paddaikas are toad-like creatures native to the eastern islands of Bhreia. They can reproduce asexually by essentially producing clones of themselves. A Paddaika lives through the following stages of life:
+Paddaika are toad-like creatures native to the eastern islands of Bhreia. They can reproduce asexually by essentially producing clones of themselves. A Paddaika lives through the following stages of life:
 
 - Egg (2 weeks, submerged)
 - Tadpole (5 weeks, submerged)

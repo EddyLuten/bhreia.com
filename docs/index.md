@@ -21,16 +21,13 @@ This wiki also keeps track of the [[braving-bhreia]] campaign run by its author.
 
 Almost everything presented here is **common knowledge** to anyone living in this setting.
 
-## Getting Started
-
-* [[setting-overview]]
-* [[picking-country|Picking a country for your race]].
-* [[calendar|How the calendar works in this world]].
-* [[timeline|Important historical events]].
-
 ## World Map
 
-To get a copy of the complete world map, [**click here**](assets/images/world-map-full.png). This map is a continual work in progress and will change over time. For maps of individual regions or countries, see their respective pages.
+To get a copy of the complete world map, [**click here**](assets/images/world-map-full.png). This map is a continual work in progress and will change over time. For maps of individual [[regions]] or [[countries]], see their respective pages.
+
+## Getting Started
+
+[cards cols=2(docs/getting-started.yaml)]
 
 ## DM Specific Content
 

@@ -14,6 +14,14 @@ extra:
   analytics:
     provider: google
     property: G-4Y6GVT3ZWF
+  social:
+    - icon: fontawesome/solid/earth-americas
+      link: https://luten.dev/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/EddyLuten
+    - icon: fontawesome/brands/github
+      link: https://github.com/EddyLuten
+
 markdown_extensions:
   - pymdownx.emoji
   - attr_list
@@ -21,6 +29,8 @@ markdown_extensions:
   - mdx_truly_sane_lists
   - pymdownx.details
   - pymdownx.tilde
+  - neoteroi.timeline
+  - neoteroi.cards
   - toc:
       permalink: true
   - pymdownx.tasklist:
@@ -35,6 +45,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 extra_css:
   - assets/stylesheets/bhreia.css
+  - assets/stylesheets/neoteroi-mkdocs.css
 extra_javascript:
   - assets/js/helpers.js
   - assets/js/bhreia.js
@@ -44,7 +55,7 @@ theme:
   name: material
   icon:
     repo: fontawesome/brands/github
-    logo: material/dice-d20
+    logo: fontawesome/solid/dice-d20
     admonition:
       info: octicons/info-16
   palette:
@@ -52,7 +63,7 @@ theme:
     primary: blue
     accent: orange
   features:
-    # - navigation.expand
+    - navigation.expand
     - navigation.sections
     # - navigation.indexes
     - navigation.top
