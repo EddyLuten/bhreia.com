@@ -65,4 +65,14 @@ The next morning, Sah-Sauj found that his staff given to him by Bhreia had withe
 
 While cleaning blood off a statue in the center of the field, you found a tunnel leading down into a chamber that held the imprisoned Korban, namesake of the country you now inhabited. He'd been down there for the better part of a millennium, magically kept alive by his unbreakable prison. In this room, you also found what seemed to be a portal rotating through several destinations, all of which looked unfamiliar except for Cauldin's Point. Though you tried, you could not break Korban free from his prison and were forced to leave him behind, setting back out onto the road.
 
-A few days later, you arrived in Korban's Landing, a port city and gateway to your next destination. On your way in, you saw that the large temple of Primani on the edge of town was being rebuilt.
+A few days later, you arrived in Korban's Landing, a port city and gateway to your next destination, which brings us to the previous session.
+
+Anxious about the bounty on his head, Tiran disguised himself as a woman named Tonya and the rest of you moved through the town towards its center where the wanted posters hung on a board. When you arrived, you found your poster amongst a sea of other wanted posters. Pasha tore the poster from the board and walked off without anyone seeming to care.
+
+Tiran remembered that the Minotaur's wife back in Midway had told him about a place where they could stay: Madame Mollisher's. She'd mentioned to tell them that "Passi" sent you.
+
+Pasha led you to the docks where you entered a tavern named "The Salt Lick," a place frequented by sailors. Though there were a few barflies early in the morning, there weren't any that Pasha recognized. Meanwhile, Sah-Sauj tried to hook Tiran, still disguised at Tonya, up with the half-orc bar maid Ana. They both were very uncomfortable.
+
+While having some drinks at the bar, you made plans to do some shopping, investigate Ix's locker, and what to do with your mounts and wagon once you secured passage on a ship.
+
+And that's where we left off.
