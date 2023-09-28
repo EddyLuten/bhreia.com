@@ -12,8 +12,6 @@ This outlines how to resolve the story in a timeline manner.
 
 - Shopping in Korban's Landing
 - Gain access to Ix's storage locker
-  - TODO: how?
-  - TODO: what's in there?
 - Meeting Tom Wake, Chickadee, and Prince Callum at the Salt Lick
 - **Cliffhanger:** Finding Callum dead in the morning
 

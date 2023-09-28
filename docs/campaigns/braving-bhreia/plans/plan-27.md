@@ -52,7 +52,7 @@ If they search Ix, they will find a piece of paper with an address on it in Korb
 > Korban's Landing  
 > Password: ma's favorite song
 
-They could get the song name from Ix with some convincing or intimidation. The song's name is **The Fire's Grown Cold**.
+They could get the song name from Ix with some convincing or intimidation. The song's name is **From the Depths, Across the Plains**.
 
 ## Midway
 

@@ -10,11 +10,6 @@ categories:
 - Finished the fight, killed the dogs, all of which turned into smoke.
 - Pasha let the one mortally wounded [[au]] guard bleed out.
 
-## TODO
-
-- Need to figure out Ix's storage locker
-- Ix's mom in The Haunches
-
 ## Recap
 
 A bit over a year ago in the town of Cauldin's Point, you joined to attend Dauriel Aldarion's 462nd birthday party. While staying in an inn paid for by Dauriel, things began to seem a bit off. A young girl's ghostly apparition led you down to the inn's basement where you found a tunnel leading to a tomb. Here, you uncovered blue cloaks and golden daggers and signs of a cult following an unknown deity named Amalchi operating in the bowels of the town.

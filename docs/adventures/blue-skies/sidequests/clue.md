@@ -12,6 +12,14 @@ categories:
 
 [[callum]] is dead, floating face-down in the water between the dock and [[tom-wake]]'s ship in the harbor of [[korbans-landing]]. Whodunnit?
 
+## Outline
+
+Chickadee and Callum go to "Colonus"/Phidippus for help who sells them a potion of false death as requested. Before the lovers leave his hut, he hands Callum a note to meet at *The Beacon* at night, alone. First, he has a hatchling dragon shipped to the Beacon under their names. When the dragon escapes at a certain time of night, it kills Callum and bit off his jaw to prevent speaking with the dead.
+
+- framing chickadee because of Marram/Tabaxi descent
+- causing chaos in the royal family
+- increase distrust in Tabaxi
+
 ## Who?
 
 The primary actors in this tragedy are:
@@ -40,9 +48,9 @@ They tell the gang that Tom Wake's ship will take them across the pond to Rivoni
 !!! danger "Important Clue"
     Sometime during the evening, a crewman will enter and ask Callum or Chickadee if they want their chest in their quarters or storage.
 
-    Neither of them knows what he's talking about, so the crewman tells them it must be someone else's, that he'll put it in storage, and leaves.
+    Neither of them knows what he's talking about, so the crewman tells them it must be someone else's, that he'll put it below the deck, and leaves.
 
-During their conversation, Tom tells Pasha that he wants him to rejoin his crew. He's lost a good fisherman and sailor and regrets letting Pasha go. His catch hasn't been the same, and he's losing money, which is why he's taking on passengers on his vessel.
+During their conversation, Tom tells Pasha that he wants him to rejoin his crew. He's lost a good fisherman and sailor and regrets letting Pasha go. His catch hasn't been the same, and he's losing money, which is why he's taking on passengers on his vessel. He'll tell him that he'll make Pasha half owner of the ship if he'll just come along again and help out.
 
 Tom tells them to meet at his ship, *The Beacon,* in the morning.
 
@@ -148,20 +156,3 @@ TODO
 ## The Solution
 
 TODO
-
-## Outline
-
-Chickadee and Callum go to "Colonus"/Phidippus for help who sells them a potion of false death as requested. Before the lovers leave his hut, he hands Callum a note to meet at *The Beacon* at night, alone. First, he has a hatchling dragon shipped to the Beacon under their names. When the dragon escapes at a certain time of night, it kills Callum and bit off his jaw to prevent speaking with the dead.
-
-- framing chickadee because of marram descent
-- causing chaos in the royal family
-- increase 
-
-## OLD
-
-??? info "The Solution"
-    Chickadee is dead, but she wasn't supposed to die. Callum and Chickadee came up with the idea to draw attention to the plight of the people in Marram by staging a hate crime. The idea here was to fake her death to influence Callum's family, the Royal Family, to do something to help.
-
-    They enlisted the help of a powerful magic user, who happened to be Phidippus disguised as Agorius, on his way through the city.
-
-    Phidippus recognized Chickadee, and instead of using his magic to make her appear dead, he killed her outright.
