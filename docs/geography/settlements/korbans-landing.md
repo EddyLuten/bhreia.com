@@ -75,7 +75,7 @@ These are well-known places in the city.
     Commerce:
 
     - [[ejols]] - magical items (chain store)
-    - Arcane Attic (Ellegrin Snunders) - used magical items
+    - Arcane Attic (Ellegrin Snunders, old gnome male) - used magical items
     - Blacksmith Braggish (Braggish of the Prod'ash clan) - armor and weapons
     - Gemma Jean (Gemma Jean Cooke) - gemstones
     - Killiam's Kit - adventuring gear and general store

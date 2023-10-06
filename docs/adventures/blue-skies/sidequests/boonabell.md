@@ -10,7 +10,7 @@ categories:
 
 --8<-- "spoiler.html"
 
-Bannaboona, leader of the Boona gang, also happens to be a great inventor. He uses his ill-gotten gains to explore the ocean through his invention, the Boonabell. Problem is, a rival gang leader stole Bannaboona's Boonabell. Go get it back so you can dive into the deepest depths of the ocean.
+Bannaboona, a large obese Bullywug leader of the Boona gang, also happens to be a great inventor. He uses his ill-gotten gains to explore the ocean through his invention, the Boonabell. Problem is, a rival gang leader stole Bannaboona's Boonabell. Go get it back so you can dive into the deepest depths of the ocean.
 
 ## Boonabell
 
