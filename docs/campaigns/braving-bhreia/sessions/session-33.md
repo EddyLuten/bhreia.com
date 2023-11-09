@@ -26,3 +26,5 @@ categories:
 - Madame Mollisher's
   - The rest of you arrived at Madame Mollisher's
   - greeted by the madame and presented with the brothel's selection
+
+timestamp: 1:10:12
