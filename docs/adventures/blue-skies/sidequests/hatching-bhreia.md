@@ -32,7 +32,7 @@ If accepted, she will tell them that she needs to become corporeal, like Amalchi
 
 She will become a dragon egg that needs to be kept in the material plane at all times. It cannot be placed into a pocket dimension or travel in any other way but through the material plane.
 
-If the egg is subjected to any other kind of dimension or plane of existence, it will break and return to the soil. The adventurers will have to face Amalchi on their own without her help.
+If the egg is subjected to any other kind of dimension or plane of existence, it will break and return to the soil. The adventurers will have to face Amalchi on their own without her help. See [[breaking]].
 
 ## Hatching the Egg
 
