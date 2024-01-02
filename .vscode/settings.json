@@ -19,5 +19,11 @@
     ],
     "grammarly.config.documentDialect": "american",
     "grammarly.config.documentDomain": "creative",
-    "grammarly.config.suggestions.PassiveVoice": true
+    "grammarly.config.suggestions.PassiveVoice": true,
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "untitled"
+        }
+    ]
 }

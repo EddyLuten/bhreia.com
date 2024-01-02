@@ -3,6 +3,5 @@
         "davidanson.vscode-markdownlint",
         "ms-vscode.wordcount",
         "pascalsenn.keyboard-quickfix",
-        "znck.grammarly"
     ]
 }

@@ -1,7 +1,6 @@
 ---
 categories:
-    - Braving Bhreia
-    - Sessions
+    - Braving Bhreia|Sessions
 ---
 # Session 14: Forge Goat's Sake
 

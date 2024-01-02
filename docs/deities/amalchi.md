@@ -117,6 +117,8 @@ Personification of **Air** and the East. The dawn, a new start, rejects their fa
 
 From Latin malus, meaning *bad*, evil, wicked, etc.
 
+Also, see: [Ephesians 2:2](https://www.biblegateway.com/verse/en/Ephesians%202%3A2).
+
 ## Children
 
 - [[melora]] with Bhreia.

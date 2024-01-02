@@ -1,7 +1,6 @@
 ---
 categories:
-    - Session Plans
-    - DM Only
+    - DM Only|Plans|Session Plans
 ---
 
 # 🔐 Plan: Session 17

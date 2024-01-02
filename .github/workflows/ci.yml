@@ -13,10 +13,10 @@ jobs:
       - name: "Setup a Python Environment"
         uses: actions/setup-python@v2
         with:
-          python-version: '3.9'
+          python-version: '3.10'
       - name: "Install Dependencies"
         run: |
-          pip install mkdocs-material mkdocs-alias-plugin mkdocs-categories-plugin mkdocs-awesome-pages-plugin mdx_truly_sane_lists markdown-word-count
+          pip install mkdocs-material mkdocs-live-edit-plugin mkdocs-alias-plugin mkdocs-categories-plugin mkdocs-awesome-pages-plugin mdx_truly_sane_lists markdown-word-count neoteroi-mkdocs
       - name: "Calculate Word Count"
         run: |
           COUNT=$(shopt -s globstar; ls -d -- docs/**/*.md | xargs -L1 mwc | paste -sd+ - | bc);

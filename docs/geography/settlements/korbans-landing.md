@@ -14,12 +14,12 @@ categories:
     <img src="/assets/images/korbans-landing-no-poi-tiny.png" />
   </a>
   <figcaption>
-    The map of Korban's Landing. See the map labels section below for information on points of interest. Click the image to download the full sized version.
+    The map of Korban's Landing. See the map labels section below for information on points of interest. Click the image to download the full-sized version.
   </figcaption>
 </figure>
 
 !!! info
-    This page may still change a bit, but is mostly complete and accurate.
+    This page may still change, but is mostly complete and accurate.
 
 Korban's Landing is a port city located on the eastern coast of [[korbantir]], bordering the Sea of Korban. It is also historically significant in that it was the first meeting place between elves and humans. Its namesake Korban sailed from Darvia and landed here, meeting the brothers Cauldin of Leikon and Donitar of Leikon. See the [[korbantir]] page for details on this event.
 
@@ -50,7 +50,7 @@ The road entering the city from the west and terminating at its center is named 
 
     South of The Old City is the neighborhood known as *The Haunches*, home to dry docks, shipyards, factories, warehouses, landfills, and most of their workforce. While The Old City is its literal center, The Haunches contains the city's heart and soul -- for better or worse.
 
-    You continue down the hill and approach the western part of the city, a neighborhood named *Ashwood Heights.* This is the city's most affluent neighborhood, where most villas are protected by private security and spike-topped walls, keeping the riff-raff out. It's named after the ashwood forest surrounding it, forming a natural barrier against the odors of the fishing industry. Ashwood Heights houses the homes and second homes of many a royal, religious leader, and other important figures.
+    You continue down the hill and approach the western part of the city, a neighborhood named *Ashwood Heights.* This is the city's most affluent neighborhood, where most villas are protected by private security and spike-topped walls, keeping the riff-raff out. It's named after the [[ashwood]] forest surrounding it, forming a natural barrier against the odors of the fishing industry. Ashwood Heights houses the homes and second homes of many a royal, religious leader, and other important figures.
 
     Welcome to Korban's Landing.
 
@@ -72,17 +72,39 @@ These are well-known places in the city.
 10. **Lighthouse:** Built on the place where the Leikon brothers were supposed to have first spotted Korban approach. Eventually a signal fire was lit here to aid Darvian sailors, and finally replaced with this lighthouse.
 
 ??? danger "DM Only: Other Places"
-    - [[ejols]]
-    - Utra's Boutique (Utra Balonk)
-    - Nibo's Stables (Nibo Yonk)
-    - Bannaboona's Den
-    - [[madame-mollishers]]
+    Commerce:
 
-    Taverns/Inns:
-    
+    - [[ejols]] - magical items (chain store)
+    - Arcane Attic (Ellegrin Snunders, old gnome male) - used magical items
+    - Blacksmith Braggish (Braggish of the Prod'ash clan) - armor and weapons
+    - Gemma Jean (Gemma Jean Cooke) - gemstones
+    - Killiam's Kit - adventuring gear and general store
+    - Lexander Alchemical - potions
+    - Utra's Boutique (Utra Balonk) - clothing
+
+    Taverns and Inns:
+
     - The Salt Lick - Harbor tavern (no inn)
+    - The Breezy Merman - A same-sex bar in the harbor near the Salt Lick.
     - Gigglemug's - Ashwood Heights fancy inn
     - Jugascuzz - The Haunches terrible inn
+    - Caravan Inn - A chain inn, a safe, but boring choice
+
+    Food:
+
+    - Palinotra Pig - a very fancy restaurant
+    - Rayna's Castle (Rayna Drenthe) - fish burgers
+
+    Services:
+
+    - Ashwood University - serving those who can afford
+    - [[madame-mollishers]] - brothel
+    - Fibo's Fillies (Fibo Illianosca) - stables
+
+    Entertainment:
+
+    - Bannaboona's Den - Boona gang hideout + gambling
+    - Mr. Mota's Shadow Theater - shadow puppet theater
 
 ??? danger "DM Only: Blue Streak"
     The blue streak on the map represents the path of destruction that [[amalchi]] caused while flying over the city. The temple and the houses are being rebuilt, but are still mostly in ruins.

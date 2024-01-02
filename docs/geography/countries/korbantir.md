@@ -18,9 +18,9 @@ categories:
 </figure>
 
 !!! info
-    This page may still change a bit, but is mostly complete and accurate.
+    This page may still change a bit but is mostly complete and accurate.
 
-Korbantir (core-ban-tier) is a sovereign country at the north-most tip of the peninsula between the five central seas of Bhreia. It is bordered by both Parlina and High Maris.
+Korbantir (core-ban-tier) is a sovereign country at the north-most tip of the [[dracsis-peninsula]] between the five central seas of Bhreia. It is bordered by both Parlina and High Maris.
 
 ## Etymology
 

@@ -42,9 +42,12 @@ The adventurers return from their pocket dimension/inside the orb on the [[timel
 - They find out that the clocks that [[sophia]] has been building with [[phidippus]] aren't what she thinks they are.
 - Travel to [[korbans-landing]]
   - Meeting with [[bhreia]] again, see [[hatching]].
+  - 🐉 Second confrontation with Dagaz, this time he is stronger and fights more intensely.
+  - Finding Korban imprisoned under [[korbans-memorial]]
 - Arrival in [[korbans-landing]] + adventures there
-  - 🐉 Second confrontation with Dagaz in the city, this time he is stronger and the fight is more intense.
-- Meet Captain Thomas Wake, old employer of [[pasha]], he will offer them a ride for free labor
+  - Meet Captain Thomas Wake, old employer of [[pasha]], he will offer them a ride for free labor. This will trigger [[clue]].
+  - Staying at [[madame-mollishers]]
+  - What are the followers of [[dhoutr]] up to?
 
 ### Act II
 

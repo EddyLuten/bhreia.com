@@ -1,5 +1,8 @@
 ---
-alias: history-age-2
+alias:
+    - history-age-2
+    - age-2
+    - second-age
 categories:
     - Lore
     - Meta
