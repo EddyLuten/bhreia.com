@@ -11,7 +11,17 @@ categories:
 
 --8<-- "spoiler.html"
 
-Madame Mollisher's is a brothel in [[korbans-landing]]'s Old City neighborhood. The brothel's owner is the eponymous Madame Morgan Mollisher, a Half-Orc who established the business in 2069.
+<figure class="infobox right">
+  <h3>Madame Mollisher</h3>
+  <a href="/assets/images/madame-mollisher-full.png">
+    <img src="/assets/images/madame-mollisher-tiny.png" />
+  </a>
+  <figcaption>
+    A portrait of the madame herself.
+  </figcaption>
+</figure>
+
+Madame Mollisher's is a brothel in [[korbans-landing]]'s Old City neighborhood. The brothel's owner is the eponymous Madame Morgan Mollisher, who established the business in 2069.
 
 Though uncommon, lodging is available upon request but at a steep surcharge.
 
@@ -19,7 +29,7 @@ Though uncommon, lodging is available upon request but at a steep surcharge.
 
 ### The Madame
 
-Morgan Mollisher is originally from [[rivoni-springs]], part of the infamous Mollisher family in charge of operating the gondolas there. She fled to Korban's Landing after she learned that a price was put on her head there by a rival family.
+Morgan Mollisher is originally from [[rivoni-springs]], part of the infamous Mollisher family in charge of operating the gondolas there. She fled to Korban's Landing after she learned that a price was put on her head there by a rival family after some scandalous events.
 
 ### Employees
 
