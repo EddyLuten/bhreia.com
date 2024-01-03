@@ -18,7 +18,7 @@ categories:
   </figcaption>
 </figure>
 
-Father of [[gadot]], currently in [[marram]].
+Father of [[gadot]], currently in [[marram]]. He is a French musketeer-type figure.
 
 ## Personal Connections
 
