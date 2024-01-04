@@ -3,7 +3,7 @@ categories:
     - DM Only|Plans|Session Plans
 ---
 
-# 🔐 Plan: Session 34
+# 🔐 Plan: Session 35
 
 --8<-- "spoiler.html"
 
