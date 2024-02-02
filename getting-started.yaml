@@ -1,0 +1,15 @@
+- title: Setting Overview
+  content: A little background info and some links to get you started.
+  url: ./setting-overview.md
+
+- title: Picking a Country
+  content: Not all heritages are evenly spread throughout the world of Bhreia. This page lists who hails from where.
+  url: ./character-creation/picking-a-country.md
+
+- title: Timeline
+  content: A condensed list of historical facts with links to detailed records.
+  url: ./lore/timeline.md
+
+- title: Character Options
+  content: Additional character options for Fifth Edition valid in this setting.
+  url: ./character-creation/character-options.md
