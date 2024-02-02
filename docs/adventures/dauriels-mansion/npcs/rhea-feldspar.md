@@ -40,6 +40,3 @@ She's a dedicated hostess who always puts her patrons' needs before her own.
     **Denial Ad Absurdum.** Regardless of any checks or persuasions made to try to get her to admit to being a cultist or any kind of cult activities, she will deny. She is possessed and [[dhoutr]] speaks through her.
 
     **Lifting the Curse.** Rhea was not aware of her bloodline and if her curse is somehow lifted, will be beyond grateful, though she may not be able to live with the memories of the sacrifices. She does not want this curse and does not want Amalchi to return.
-
-??? danger "DM: Stats as VTT JSON"
-    [Download](/assets/json/rhea-feldspar.json)

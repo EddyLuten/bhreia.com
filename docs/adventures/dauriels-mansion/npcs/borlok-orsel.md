@@ -28,6 +28,3 @@ Borlok is Dauriel's butler, father of Hurq, and one of the five cult members of 
   - A note: "Pasha Yaraxil. Dragonborn. Affected."
     - Affected by the event in [[pasha|Finippicay]]
     - His sacrifice would have had special significance
-
-??? danger "DM: Stats as VTT JSON"
-    [Download](/assets/json/borlok-orsel.json)

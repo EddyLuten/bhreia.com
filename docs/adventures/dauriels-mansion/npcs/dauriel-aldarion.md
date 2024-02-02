@@ -11,8 +11,8 @@ categories:
 
 <figure class="infobox right">
   <h3>Dauriel Aldarion</h3>
-  <a href="/assets/images/dauriel-aldarion-full.png">
-    <img src="/assets/images/dauriel-aldarion-tiny.png" />
+  <a href="../../../../assets/images/dauriel-aldarion-full.png">
+    <img src="../../../../assets/images/dauriel-aldarion-tiny.png" alt="Dauriel Aldarion" />
   </a>
   <figcaption>
     Portrait of Dauriel Aldarion.
@@ -32,8 +32,5 @@ Though, it was difficult for him to find his place in a mostly human society, wh
 This company, [[au]], still exists and Dauriel acts as an advisor and board member while other, younger, adventurers perform the hard work.
 
 ??? danger "DM: TODO List"
-    - Dauriel is a descendent of Korban, this is why he was chosen by Bhreia. He has no idea.
+    - Dauriel is a descendant of Korban, this is why he was chosen by Bhreia. He has no idea.
     - He wrote "Aldarion Unlimited: Adventurers or Colonizers?" as a way to voice his dissatisfaction with how his company is run. In his advisory role, he has lost his power to do anything about it.
-
-??? danger "DM: Stats as VTT JSON"
-    [Download](/assets/json/dauriel-aldarion.json)

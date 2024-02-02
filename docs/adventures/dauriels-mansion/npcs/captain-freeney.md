@@ -26,9 +26,6 @@ Inventory:
 - Bottle of Port
 - Reading glasses
 
-??? danger "DM: Stats as VTT JSON"
-    [Download](/assets/json/captain-freeney.json)
-
 ## Seamus Freeney
 
 Name: Seamus Freeney
@@ -44,6 +41,3 @@ Motivation: Keep his dad happy, but he really doesn't want to be a robber anymor
 Inventory:
 
 - 20 gp
-
-??? danger "DM: Stats as VTT JSON"
-    [Download](/assets/json/seamus-freeney.json)

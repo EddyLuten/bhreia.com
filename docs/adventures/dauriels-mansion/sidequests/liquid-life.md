@@ -11,8 +11,8 @@ categories:
 
 <figure class="infobox right">
   <h3>Tino Block</h3>
-  <a href="/assets/images/tino-block-full.png">
-    <img src="/assets/images/tino-block-tiny.png" />
+  <a href="../../../../assets/images/tino-block-full.png">
+    <img src="../../../../assets/images/tino-block-tiny.png" />
   </a>
   <figcaption>
     Portrait of Tino Block.
@@ -38,6 +38,3 @@ When hearing that the adventurers are looking for work, **Tino Block** (they/the
 There are 3 Guards (MM pg. 347) protecting the wagon.
 
 Cargo: 2 crates of 10 potions of healing
-
-??? danger "DM: Tino's Stats as VTT JSON"
-    [Download](/assets/json/tino-block.json)

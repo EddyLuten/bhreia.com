@@ -11,8 +11,8 @@ categories:
 
 <figure class="infobox right">
   <h3>Phidippus</h3>
-  <a href="/assets/images/phidippus-full.png">
-    <img src="/assets/images/phidippus-tiny.png" />
+  <a href="../../../../assets/images/phidippus-full.png">
+    <img src="../../../../assets/images/phidippus-tiny.png" alt="Phidippus" />
   </a>
   <figcaption>
     Portrait of Phidippus summoning Amalchi.
@@ -87,6 +87,3 @@ Aliases:
 - Second Floor
   - Copper roof dome with some glass openings
   - Light grows indoor herbs used for spells
-
-??? danger "DM: Stats as VTT JSON"
-    [Download](/assets/json/phidippus.json)
